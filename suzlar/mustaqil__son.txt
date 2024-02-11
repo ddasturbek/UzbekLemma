@@ -1,0 +1,72 @@
+besh\
+beshinchi\
+bir\
+bir-bir \
+birgina\
+birinchi\
+birov\
+bitta\
+bitta-bittadan \
+bitta-ikkita \
+bittadan\
+butun\
+båsh\
+båshinchi\
+båshta \
+chorak\
+ellik\
+ellikinchi\
+ikkala\
+ikki\
+ikkinchi\
+kvadrilion\
+kvintillion\
+milliard\
+million\
+millioninchi\
+ming\
+ming-ming\
+minginchi\
+mln\
+mlrd\
+nim chorak\
+o'n\
+o'n-o'n besh\
+o'ttiz\
+o'ttiz \
+o'ttizinchi\
+olti\
+oltinchi\
+oltmish\
+oltmishinchi\
+oltov\
+oltovlon\
+on'inchi\
+qirq\
+qirqinchi\
+sakkiz\
+sakkizinchi\
+sakson\
+saksoninchi\
+sekstillion\
+septillion\
+to'qqiz\
+to'qqizinchi\
+to'qson\
+to'qsoninchi\
+to'rt\
+to'rtinchi\
+trillion\
+uch\
+uchinchi\
+yarim\
+yarmi\
+yetmish\
+yetmishinchi\
+yetti\
+yettinchi\
+yettovi\
+yigirma\
+yigirmanchi\
+yuz\
+yuzinchi\
