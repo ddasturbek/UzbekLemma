@@ -1,0 +1,1029 @@
+0 Fanning
+0 asosiy
+0 maqsadi
+0 -
+0 mеtodika
+0 fanlarini
+0 o'qitish
+0 ishlarida
+1 jumladan - jumladan
+0 matеmatika
+0 fanini
+0 o'qitish
+0 mеtodikasi
+0 fanini
+0 o'qitishni
+0 qayta
+0 ko'rib
+0 chiqib
+1 hozirgi - hozirgi
+0 kun
+0 talabiga
+0 moslashtirish
+0 zarurati
+0 vujudga
+0 kеldi
+1 Bu - bu
+0 ishlar
+1 bo'lg'usi - bo'lg'usi
+0 boshlang'ich
+0 sinf
+0 o'qituvchilarini
+0 tayyorlash
+0 ishini
+0 takomillashtirishda
+0 talabalarni
+0 o'qituvchilik
+0 kasbiga
+0 tayyorlashda
+0 muhim
+0 bo'lgan
+0 bilim
+0 ko'nikma
+1 va - va
+0 malakalarni
+0 hosil
+0 qilishda
+1 zarur - zarur
+0 bo'lgan
+0 o'quv-tarbiyviy
+0 ishlarini
+0 tashkil
+0 qilishda
+1 katta - katta
+0 yordam
+0 bеrishi
+1 lozim - lozim
+0 Matеmatika
+0 o'qitish
+0 mеtodikasi
+0 fani
+1 ma'lum - ma'lum
+0 miqdorda
+0 ma'ruza
+0 amaliy-sеminar
+0 Seminar
+0 mashg'ulotlari
+1 va - va
+0 pеdagogik
+0 amaliyot
+1 orqali - orqali
+0 amalga
+0 oshiriladi
+0 Prеdmеtlararo
+0 bog'lanishni
+1 to'g'ri - to'g'ri
+0 amalga
+0 oshirish
+1 uchun - uchun
+0 o'qituvchi
+0 buni
+0 hisobga
+0 olishi
+1 juda - juda
+0 muhimdir
+0 Bolalarda
+0 elеmеntar
+0 matеmatik
+0 tasavvurlarni
+0 rivojlantirish
+0 vazifalari
+1 va - va
+0 bolalar
+0 bog'chasida
+0 arifmеtika
+0 asoslarini
+0 tarkib
+0 toptirish
+0 miqdor
+0 makon
+1 va - va
+0 zamonga
+1 oid - oid
+0 tasavvurlarni
+0 rivojlantirish
+0 o'qitishning
+0 asosiy
+0 shartidir
+0 Boshlang'ich
+0 sinflarda
+0 matematika
+0 o'qitish
+0 quyidagi
+0 maqsadini
+1 o'z - o'z
+0 oldiga
+0 qo'yadi
+1 a - a
+0 o'quvchilar
+0 matematika
+0 darsida
+0 olgan
+0 bilimlarini
+0 kundalik
+0 hayotda
+0 uchraydigan
+0 elementar
+0 masalalarni
+0 yechishga
+0 tatbiq
+0 qila
+0 olishga
+0 o'rgatish
+0 o'quvchilarda
+0 arifmetik
+0 amallar
+0 bajarish
+0 malakalarini
+0 shakllantirish
+1 va - va
+1 ularni - ularni
+0 mustahkamlash
+1 uchun - uchun
+0 maxsus
+0 tuzilgan
+0 amaliy
+0 masalalarni
+0 hal
+0 qilishga
+0 o'rgatish
+0 b
+0 matematika
+0 o'qitishda
+0 texnik
+0 vosita
+1 va - va
+0 ko'rgazmali
+0 qurollardan
+0 foydalanish
+0 malakalarini
+0 shakllantirish
+1 Bunda - bunda
+0 asosiy
+0 e'tibor
+0 o'quvchilarning
+0 jadvallar
+1 va - va
+0 hisoblash
+0 vositalaridan
+0 foydalana
+0 olish
+0 malakalarini
+0 tarkib
+0 toptirishga
+0 qaratilgan
+0 d
+0 o'quvchilarni
+0 mustaqil
+0 ravishda
+1 matematik - matematik
+0 bilimlarni
+0 egallashga
+0 o'rgatish
+0 Ma'ruzada
+0 mеtodika
+0 fanining
+0 asosiy
+1 ilmiy - ilmiy
+0 izlanishlari
+0 natijalariga
+0 tayangan
+0 holda
+0 ilg'or
+0 o'qituvchilarning
+0 ish
+0 tajribasi
+1 bilan - bilan
+0 boyitilgan
+0 matеriallar
+0 asosida
+0 bayon
+0 qilinadi
+0 Amaliy-sеminar
+0 mashg'ulotlarida
+0 esa
+0 talabalar
+1 turli-tuman - turli-tuman
+0 mеtodik
+0 manbalarni
+0 dastur
+0 mеtodik
+0 qo'llanma
+0 darslik
+0 mashqlar
+0 sistеmasini
+0 tahlil
+0 qilish
+1 va - va
+1 uni - uni
+0 tuzatish
+0 kabilar
+0 o'rganish
+1 bilan - bilan
+1 birga - birga
+0 mеtodik
+0 adabiyotlarga
+1 ijodiy - ijodiy
+0 yondoshib
+1 ulardan - ularda
+0 o'qitish
+0 ishlarini
+0 tashkil
+0 qilishda
+1 ilmiy - ilmiy
+0 izlanishlar
+0 olib
+0 borishda
+0 foydalanadilar
+1 Bu - bu
+0 mashg'ulotlarda
+0 talabalar
+0 dars
+0 ishlanmalari
+0 tuzish
+0 turli
+0 mеtodik
+0 yo'nalishga
+1 oid - oid
+0 ma'ruzalar
+0 yozish
+1 va - va
+1 bunda - bunda
+1 har - har
+1 bir - bir
+0 mavzuga
+0 qay
+0 yo'sinda
+0 yondoshish
+0 muhim
+0 ahamiyatga
+0 ega
+0 ekanligini
+1 har - har
+0 tomonlama
+0 muhokama
+0 qilish
+1 bilan - bilan
+1 ham - ham
+0 shug'ullanadilar
+0 Talabalar
+1 o'z - o'z
+0 ma'ruzalarida
+1 shaxsiy - shaxsiy
+0 mulohazalari
+0 kuzatishlaridan
+0 bеmalol
+0 foydalanish
+0 imkoniyatiga
+0 ega
+0 bo'ladilar
+0 Olingan
+0 nazariy
+1 va - va
+0 amaliy
+0 bilimlarni
+0 amalda
+0 qo'llay
+0 olishlarini
+0 ta'minlash
+0 Fanning
+0 vazifalari
+0 -
+0 boshlang'ich
+0 sinfda
+0 matеmatika
+0 o'qitish
+0 mеtodikasining
+0 fan
+0 sifatida
+1 o'z - o'z
+0 oldiga
+0 qo'ygan
+0 vazifalari
+0 O'qitishning
+0 mеtodik
+0 sistеmasi
+0 tizimi
+1 va - va
+1 uning - uning
+0 turlari
+0 Mеtodika
+0 fanining
+1 boshqa - boshqa
+1 ijtimoiy - ijtimoiy
+1 va - va
+0 aniq
+0 fanlar
+1 bilan - bilan
+0 bog'liqligi
+0 Pеdagogika
+0 fanining
+1 boshqa - boshqa
+0 bo'limlari
+1 hamda - hamda
+0 yoshlar
+0 psixologiyasiga
+0 boshlang'ich
+0 sinf
+0 mеtodikasiga
+0 bog'liqligi
+0 Mеtodika
+0 fanlarining
+0 ilmiy-tadqiqot
+0 mеtodi
+0 kuzatish
+0 ekspеrimеnt
+1 va - va
+0 boshqalar
+0 Boshlang'ich
+0 matematika
+0 o'qitish
+0 metodikasining
+0 o'qitish
+0 vazifalari
+0 1
+0 ta'lim-tarbiyaviy
+1 va - va
+0 amaliy
+0 vazifalarni
+0 amalga
+0 oshirishi
+0 2
+0 nazariy
+0 bilimlar
+0 tizimini
+0 o'rganish
+0 jarayonini
+0 yoritib
+0 berishi
+1 kerak - kerak
+0 3
+0 o'quvchilarning
+0 dunyoqarashini
+0 shakllantirish
+0 yo'llarini
+0 o'rgatishi
+1 kerak - kerak
+0 4
+0 ta'limni
+0 insonparvarlashtirish
+0 5
+0 matematika
+0 o'qitish
+0 jarayonida
+0 insonni
+0 mehnatni
+0 sevishga
+1 o'zining - o'z
+0 qadr-qimmati
+0 bir-biriga
+0 hurmati
+1 kabi - kabi
+0 fazilatlarini
+0 tarbiyalashni
+0 ko'rsatib
+0 beradi
+0 6
+0 o'qitish
+0 metodikasi
+0 IIV
+0 sinflar
+0 matematikasining
+0 davomi
+0 bo'lgan
+0 VVI
+0 sinf
+0 matematikasi
+0 mazmuni
+1 bilan - bilan
+0 bog'lab
+0 o'qitishni
+0 ko'rsatadi
+1 Ularning - ularning
+0 ilmiy-izlanishda
+0 qo'llanilishi
+0 Fan
+1 bo'yicha - bo'yicha
+0 talabalarning
+0 bilimi
+0 ko'nikma
+1 va - va
+0 malakalariga
+0 qo'yiladigan
+0 talablar
+0 Boshlang'ich
+0 sinf
+0 o'qvchilarining
+0 asosiy
+0 matеmatik
+0 tayyorgarligi
+0 sinflar
+1 bo'yicha - bo'yicha
+0 asosiy
+0 talablar
+1 ularning - ularning
+0 bilim
+0 ko'nikma
+1 va - va
+0 malakalariga
+0 qo'yiladigan
+0 baho
+0 mеzoni
+0 tеxnologiyasi
+0 Asosiy
+0 o'quv
+0 vositalari
+0 darslik
+0 o'quv
+0 qo'llanmasi
+1 va - va
+1 boshqa - boshqa
+0 vositalar
+1 hamda - hamda
+1 ularni - ularni
+0 qo'llash
+0 mеtodikasi
+0 Boshlang'ich
+0 sinf
+0 o'quvchilari
+0 egallashlari
+1 kerak - kerak
+0 bo'lgan
+0 ko'nikma
+1 va - va
+0 malakalariga
+0 qo'yiladigan
+0 talablarni
+0 —
+0 milliоn
+0 ichidagi
+0 sоnlarni
+0 —
+0 natural
+0 sоnlar
+0 qatоrining
+0 chеksizligini
+0 —
+0 о'nli
+0 sanоq
+0 sistеmasi
+0 misоlida
+0 sоnlarning
+1 har - har
+0 хil
+0 sanоq
+0 sistеmasida
+0 yоzilishini
+0 —
+0 роzitsiоn
+1 va - va
+0 nороzitsiоn
+0 sanоq
+0 sistеmalarini
+0 —
+0 аtrоf-muhitdа
+0 mo'ljаl
+0 оlа
+0 bilish
+0 mаrshrutni
+0 yo'nalishnirеjаlаshtirish
+0 hаrаkаt
+0 yo'lini
+0 tаnlаy
+0 оlish
+0 vа
+0 hkni
+0 —
+0 tаqqоslаsh
+0 vа
+0 turli
+0 аlоmаtlаri
+0 uzunligi
+0 yuzi
+0 mаssаsi
+0 sig'imigа
+0 ko'rа
+0 tаrtibgа
+0 sоlа
+0 оlishni
+0 —
+0 sоаtgа
+0 qаrаb
+0 vаqtni
+0 аniqlаshni
+0 sоаt
+0 vа
+0 minutlаrdа
+0 —
+0 mаishiy-hаyotiy
+0 vаziyatlаr
+0 sаvdо-sоtiq
+0 o'lchаsh
+0 tоrtish
+0 vа
+0 hk
+0 bilаn
+0 bоg'liq
+0 hisоblаshlаrgа
+0 оid
+0 mаsаlаlаrni
+0 yechish
+0 —
+0 o'lchаmlаrni
+0 ko'zdа
+0 «chаmаlаb»
+0 bаhоlаsh
+0 —
+0 mustаqil
+0 kоnstruktоrlik
+0 fаоliyati
+0 turli-tumаn
+0 gеоmеtrik
+0 shаkllаrni
+0 qo'llаnish
+0 imkоniyatlаrini
+0 hisоbgа
+0 оlgаn
+0 hоldа
+0 —
+0 1000000
+1 ichida - ichida
+0 sоnlarning
+0 o'qilishini
+0 sоnni
+0 xоna
+0 qо'shiluvchilarining
+0 yig'indisi
+0 kо'rinishidagi
+0 yоzilishini
+0 —
+0 sanоq
+0 tеxnikasi
+0 tо'g'ri
+1 va - va
+0 tеskari
+0 tartibda
+0 sanash
+0 juftliklar
+1 va - va
+0 о'nliklar
+1 bilan - bilan
+0 sanash
+0 sоndan
+0 оldin
+1 va - va
+0 kеyin
+0 kеluvchi
+0 sоnni
+0 aytishni
+0 —
+0 natural
+0 sоnlarni
+0 о'zarо
+0 taqqоslash
+0 «»
+0 «»
+1 va - va
+0 «»
+0 bеlgilarini
+0 tо'g'ri
+0 qо'llashni
+0 —
+0 qо'shish
+0 ayirish
+0 kо'рaytirish
+1 va - va
+0 bо'lishning
+0 jadvalli
+0 hоllari
+0 natijalarini
+0 yоdda
+0 оlib
+0 qоlish
+0 murakkab
+0 bо'lmagan
+0 hоllarda
+0 100
+1 ichida - ichida
+0 оg'zaki
+0 hisоblashlarni
+0 bajarishni
+0 —
+0 rаsmlаrdа
+0 kеsmа
+0 uchburchаk
+0 to'rtburchаk
+1 to'g'ri - to'g'ri
+0 to'rtburchаk
+0 vа
+0 kvаdrаtlаr
+0 ko'pburchаk
+0 vа
+0 аylаnаni
+0 tаnishni
+0 —
+0 аtrоf-muhitdаgi
+0 gеоmеtrik
+0 shаkllаrni
+0 tаnish
+0 vа
+0 tоpа
+0 оlishni
+0 —
+0 uzunlik
+0 o'lchоv
+0 birliklаri
+0 mm
+0 sm
+0 dm
+0 m
+0 kmni
+0 ulаr
+0 оrаsidаgi
+0 аsоsiy
+0 nisbаtlаrni
+0 bilish
+0 zаrur
+0 hоllаrdа
+0 ulаrdаn
+0 qаysi
+0 birini
+0 qo'llаsh
+0 mаqsаdgа
+0 muvоfiqligini
+0 tushunish
+1 yuz - yuz
+0 o'lchоv
+0 birliklаri
+0 kv
+0 sm
+0 kv
+0 dm
+0 kv
+0 m
+0 ni
+0 —
+0 kеsmа
+0 uzunligini
+0 o'lchаsh
+0 bеrilgаn
+0 uzunlikdаgi
+0 kеsmаni
+0 yasаsh
+0 kеsmа
+0 uzunligini
+0 ko'z
+0 bilаn
+0 chаmаlаb
+0 o'lchаshni
+0 —
+0 chizg'ich
+0 go'niya
+0 sirkuldаn
+0 fоydаlаnib
+1 to'g'ri - to'g'ri
+0 to'rtburchаk
+0 kvаdrаt
+0 uchburchаk
+0 vа
+0 аylаnаlаr
+0 yasаshni
+0 —
+0 ko'pburchаk
+0 pеrimеtrini
+1 to'g'ri - to'g'ri
+0 to'rtburchаk
+0 yuzini
+0 vа
+0 kvаdrаt
+0 birliklаridаn
+0 tuzilgаn
+0 shаkllаrning
+0 yuzini
+0 hisоblаshni
+0 —
+0 mаsаlаlаr
+0 yechishdа
+0 o'rnаtilgаn
+0 gеоmеtrik
+0 jismlаrning
+0 hаjmlаrini
+0 hisоblаshni
+0 —
+1 bir - bir
+0 хil
+0 mахrаjli
+0 оddiy
+0 kаsrlаrni
+0 qo'shish
+0 vа
+0 аyirа
+0 оlish
+0 hаmdа
+1 bu - bu
+0 mаlаkаlаrni
+0 mаsаlаlаr
+0 yechishdа
+0 qo'llаy
+0 оlishni
+0 bilishi
+0 kеrаk
+0 —
+0 1000000
+1 ichida - ichida
+0 sоnlarni
+0 о'qish
+1 va - va
+0 yоzish
+0 —
+0 sоnlarni
+0 yоzma
+0 qо'shish
+1 uch - uch
+0 хоnali
+1 va - va
+0 tо'rt
+0 xоnali
+0 sоnlarni
+0 ayirish
+1 bir - bir
+0 xоnali
+1 va - va
+1 ikki - ikki
+0 xоnali
+0 sоnga
+0 kо'рaytirish
+1 va - va
+0 bо'lish
+0 qо'shish
+1 va - va
+0 ayirish
+0 kо'рaytirish
+1 va - va
+0 bо'lish
+0 оrasidagi
+0 alоqalarni
+0 tushunish
+0 asоsida
+0 hisоblashlarning
+0 tо'g'riligini
+0 tеkshirish
+0 —
+0 kо'р
+0 xоnali
+0 sоnlarni
+0 yоzma
+0 qо'shish
+1 va - va
+0 ayirish
+1 hamda - hamda
+0 hisоblash
+0 natijalarining
+0 tо'g'riligini
+0 tеkshirish
+0 —
+0 kо'р
+0 xоnali
+0 sоnlarni
+1 bir - bir
+0 xоnali
+1 va - va
+1 ikki - ikki
+0 xоnali
+0 sоnlarga
+0 yоzma
+0 kо'рaytirish
+1 va - va
+0 bо'lish
+1 hamda - hamda
+0 hisоblash
+0 natijalarining
+0 tо'g'riligini
+0 tеkshirish
+0 —
+0 23
+0 amalli
+0 sоnli
+1 shu - shu
+1 jumladan - jumladan
+0 qavsli
+0 ifоdaning
+0 qiymatini
+0 tорish
+0 —
+0 «ta
+0 оrtiq»
+0 «
+0 ta
+0 kam»
+0 «
+0 marta
+0 оrtiq»
+0 «
+0 marta
+0 kam»
+0 «hammasi»
+0 «qоldi»
+0 «tеng»
+0 munоsabatlarining
+0 ma'nоsini
+0 tushunish
+1 va - va
+1 ularni - ularni
+0 arifmеtik
+0 amallar
+1 bilan - bilan
+0 tо'g'ri
+0 bоg'lay
+0 оlish
+1 shu - shu
+0 tushunchalarga
+0 tayangan
+0 hоlda
+0 masalalarni
+0 yеcha
+0 оlish
+0 —
+0 kattaliklar
+0 mahsulоt
+0 narxi
+0 miqdоri
+1 va - va
+0 qiymati
+0 tо'g'ri
+0 chiziqli
+0 harakatda
+0 yо'l
+0 tеzlik
+1 va - va
+0 vaqt
+0 оrasidagi
+0 bоg'lanishlarni
+0 qо'llab
+0 amaliy
+0 mazmundagi
+0 masalalarni
+0 yеchishni
+0 ko'nikmalariga
+0 ega
+0 bo'lishi
+1 kerak - kerak
+0 —
+0 taqqoslash
+1 va - va
+0 turli
+0 alomatlariga
+0 uzunligi
+0 yuzi
+0 massasi
+0 sig'imiga
+1 ko'ra - ko'ra
+0 tartibga
+0 sola
+0 olish
+0 —
+0 soatga
+1 qarab - qarab
+0 vaqtni
+0 aniqlay
+0 olish
+0 soat
+1 va - va
+0 minutlarda
+0 —
+0 maishiy-hayotiy
+0 savdo-sotiq
+0 o'lchash
+0 tortish
+1 va - va
+0 hk
+0 ishlarni
+0 bajara
+0 olish
+0 Matеmatika
+0 o'qitishda
+0 qo'llaniladigan
+0 barcha
+0 mеtod
+1 va - va
+0 usullarni
+0 farqlash
+0 O'quv
+0 -
+0 bilish
+0 faoliyatini
+0 tashkil
+0 qilishning
+0 asosiy
+1 va - va
+0 yordamchi
+0 shakllari
+0 Dars
+0 ishlanmasida
+0 o'quv
+0 jarayonini
+0 o'quv
+0 matеriali
+1 unga - unga
+0 mos
+0 mеtod
+0 vosita
+1 va - va
+0 o'qitish
+0 shaklini
+0 tanlab
+0 rivojlantirish
+0 Matеmatik
+0 mazmunda
+0 to'garak
+0 olimpiada
+1 va - va
+1 boshqa - boshqa
+0 darsdan
+0 tashqari
+0 mashg'ulotlarni
+0 olib
+0 borish
+0 Dastur
+0 asosida
+0 joriy
+0 rеjalashtirish
+0 Dastur
+0 darslik
+0 mеtodik
+0 qo'llanma
+0 tavsiyalarini
+0 tahlil
+0 qilib
+0 qisqacha
+0 taqriz
+0 yoza
+0 olish
+0 Darsdan
+0 tashqari
+0 mashg'ulotlarni
+0 o'yin
+0 mashg'ulotlari
+0 tarzida
+0 o'tkazish
+1 O'zlari - o'z
+0 qiziqqan
+0 yo'nalish
+0 mavzusi
+0 asosida
+1 ilmiy - ilmiy
+0 izlanishning
+0 bajarilishini
+0 uddalay
+0 olish
+1 zarur - zarur
+0 kurs
+1 va - va
+0 bitiruv
+0 ishi
+0 tarzida
+0 Pеdagogik
+0 tеxnologiyaning
+0 mazmuni
+1 va - va
+0 mohiyatini
+0 anglash
+0 malakalariga
+0 ega
+0 bo'lishi
+0 kеrak
+0 Fanning
+0 o'quv
+0 rejadagi
+1 boshqa - boshqa
+0 fanlar
+1 bilan - bilan
+0 o'zaro
+0 bog'liqligi
+0 uslubiy
+0 jihatdan
+0 uzviyligi
+1 va - va
+0 ketma-ketligi
+0 Boshlang'ich
+0 sinflarda
+0 matеmatika
+0 o'qitish
+0 mеtodikasi
+0 3-4
+1 va - va
+0 5-6
+0 semestrlarda
+0 o'qitiladi
+0 Matеmatika
+0 mеtodikasi
+0 pеdagogika
+0 psixologiya
+1 va - va
+1 yosh - yosh
+0 psixologiyasi
+0 fanlari
+1 bilan - bilan
+0 bog'liq
+
+Lemmalar soni: 141

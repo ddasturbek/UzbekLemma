@@ -1,0 +1,1004 @@
+1 Qariyb - qariyb
+1 uch - uch
+0 yil
+0 davomida
+1 asosan - asosan
+0 koronavirusni
+0 jilovlash
+1 bilan - bilan
+1 band - band
+0 bo'lgan
+0 insoniyat
+1 endi - endi
+1 boshqa - boshqa
+0 epidemiologik
+0 kasalliklar
+1 bilan - bilan
+1 ham - ham
+0 ro'baro'
+0 kelmoqda
+1 Bu - bu
+0 haqda
+0 SSV
+0 matbuot
+0 xizmati
+0 xabar
+0 bermoqda
+0 Qayd
+0 etilishicha
+1 uzoq - uzoq
+0 vaqt
+0 uyquda
+0 bo'lgan
+0 mpox
+0 maymun
+0 chechagi
+0 vabo
+0 Ebola
+0 cho'chqa
+0 grippi
+1 kabi - kabi
+0 qator
+1 xavfli - xavfli
+0 infeksiyalar
+0 so'nggi
+0 oylarda
+0 dunyo
+0 ahli
+0 salomatligiga
+1 yana - yana
+1 jiddiy - jiddiy
+0 xavf
+0 sola
+0 boshladi
+1 Xususan - xususan
+1 hozir - hozir
+0 aksariyat
+0 davlatlarda
+0 gripp
+0 virusi
+0 avj
+0 olgan
+0 mavsum
+0 Ustiga-ustak
+0 ayrim
+0 mintaqalarda
+1 bu - bu
+0 epidemiya
+1 boshqa - boshqa
+0 yuqumli
+0 kasalliklar
+1 bilan - bilan
+1 birga - birga
+0 kechyapti
+1 Xususan - xususan
+0 Rossiya
+0 Iste'molchilar
+0 huquqlarini
+0 himoya
+0 qilish
+0 federal
+0 xizmati
+1 shu - shu
+0 kunlarda
+0 mamlakatda
+0 cho'chqa
+0 grippi
+1 keng - keng
+0 tarqalayotgani
+1 haqida - haqida
+0 xabar
+0 berdi
+1 Hozirgacha - hozirgacha
+1 ushbu - ushbu
+0 virus
+0 davlatning
+0 55
+0 ta
+0 ma'muriy
+0 hududida
+0 ro'yxatga
+0 olingan
+0 Xastalikning
+0 aniqlanayotgan
+0 mutatsiyalari
+1 orasida - orasida
+1 A - a
+0 H1N1
+1 A - a
+0 H3N2
+1 va - va
+0 B
+0 shtammlari
+0 ustuvorlik
+0 qilyapti
+0 Mutaxassislarning
+0 izohlashicha
+1 bu - bu
+0 kasallikni
+1 an'anaviy - an'anaviy
+0 gripp
+0 turlaridan
+0 alomatlari
+1 orqali - orqali
+0 farqlash
+1 qiyin - qiyin
+1 Chunki - chunki
+1 yuqori - yuqori
+0 tana
+0 harorati
+0 tomoq
+1 bosh - bosh
+1 va - va
+0 mushaklardagi
+0 og'riqlar
+0 yo'tal
+0 holsizlik
+0 bezovtalik
+1 kabi - kabi
+0 simptomlar
+1 har - har
+0 ikkisiga
+1 xos - xos
+1 Shu - shu
+0 bois
+0 aniq
+0 tashxis
+0 qo'yish
+1 uchun - uchun
+0 maxsus
+0 PZR
+0 testlari
+0 talab
+0 etiladi
+0 Eslatib
+0 o'tamiz
+0 2009
+0 yilda
+0 jahon
+1 bo'yicha - bo'yicha
+1 ommaviy - ommaviy
+0 cho'chqa
+0 grippi
+0 epidemiyasi
+0 kuzatilgan
+0 edi
+1 O'shanda - o'shanda
+1 bir - bir
+0 yil
+0 davomida
+0 608
+1 million - million
+0 nafarga
+1 yaqin - yaqin
+0 odam
+1 ushbu - ushbu
+0 xastalik
+1 bilan - bilan
+0 kasallangan
+0 Achinarlisi
+0 bemorlardan
+0 124
+1 ming - ming
+0 nafari
+0 infeksiya
+0 oqibatida
+0 hayotdan
+0 ko'z
+0 yumgan
+0 Afg'onistonning
+0 Samangan
+0 viloyatining
+0 Aybak
+0 shahrida
+1 diniy - diniy
+0 maktabda
+1 yuz - yuz
+0 bergan
+0 portlashda
+0 35
+0 kishi
+0 halok
+0 bo'ldi
+1 yana - yana
+0 23
+0 kishi
+0 jarohatlangan
+0 OAV
+0 xabarlariga
+1 ko'ra - ko'ra
+0 portlash
+0 qurbonlarining
+0 aksariyati
+0 maktab
+0 o'quvchilaridir
+0 Halok
+0 bo'lganlarning
+0 jasadlari
+0 binodan
+0 olib
+0 chiqilmoqda
+1 Bundan - bunda
+0 tashqari
+0 jabrlanganlarni
+0 evakuatsiya
+0 qilish
+0 tartibi
+0 davom
+0 etmoqda
+1 Ma'lum - ma'lum
+0 bo'lishicha
+0 voqea
+0 peshin
+0 namozi
+0 vaqtida
+0 sodir
+0 bo'lgan
+0 Portlash
+0 sabablari
+0 hozircha
+0 aniqlanmagan
+0 Tolibon
+1 ichki - ichki
+0 ishlar
+0 vazirligining
+1 rasmiy - rasmiy
+0 vakili
+0 Abdul-Nafi
+0 Thakur
+1 kamida - kamida
+0 10
+0 kishi
+0 halok
+0 bo'lganini
+0 tan
+0 oldi
+1 Shuningdek - shuningdek
+1 u - u
+0 jinoyatchilarni
+0 topish
+1 bo'yicha - bo'yicha
+0 tergov
+0 harakatlari
+0 olib
+0 borilayotganini
+0 aytdi
+0 AQShning
+0 Janubiy
+0 Dakota
+0 shtati
+0 gubernatori
+0 Kristi
+0 Noem
+0 mahalliy
+0 amaldorlarga
+0 TikTok
+1 ijtimoiy - ijtimoiy
+0 tarmog'idan
+0 foydalanishni
+0 taqiqladi
+1 Bu - bu
+0 haqda
+0 Zamonuz
+0 xabar
+0 bermoqda
+0 Gubernatorning
+0 fikricha
+0 tarmoq
+1 orqali - orqali
+0 kuzatuv
+0 amalga
+0 oshirilishi
+1 va - va
+0 ma'lumotlar
+0 XXR
+0 hukumatiga
+0 berilishi
+0 xavfi
+1 bor - bor
+0 Janubiy
+0 Dakota
+1 bizdan - biz
+0 nafratlanadigan
+0 davlatlarga
+0 razvedka
+0 ma'lumotlari
+0 to'plash
+1 bilan - bilan
+0 shug'ullanmaydi
+0 Xitoy
+0 kommunistik
+0 partiyasi
+0 TikTok
+1 orqali - orqali
+0 Amerika
+0 xalqini
+0 manipulyatsiya
+0 qilish
+0 maqsadida
+0 ma'lumot
+0 to'plash
+1 bilan - bilan
+0 shug'ullanadi
+1 va - va
+1 ular - ular
+0 platformaga
+0 ulangan
+0 qurilmalarning
+0 ma'lumotini
+0 to'playdi
+0 degan
+1 u - u
+1 Ushbu - ushbu
+0 qaror
+1 darhol - darhol
+0 kuchga
+0 kiradi
+0 Davlat
+0 xizmatchilarining
+1 ijtimoiy - ijtimoiy
+0 tarmoqni
+0 yuklab
+0 olishi
+0 taqiqlanadi
+1 Shuningdek - shuningdek
+0 shtat
+0 hukumati
+0 taqdim
+0 etgan
+0 qurilmalar
+1 orqali - orqali
+0 TikTok
+0 saytiga
+0 kirish
+1 ham - ham
+0 mumkin
+0 emas
+0 Noem
+1 boshqa - boshqa
+0 shtatlar
+1 ham - ham
+0 Janubiy
+0 Dakota
+0 ortidan
+0 borishiga
+0 umid
+0 bildirgan
+1 Bundan - bunda
+1 avval - avval
+0 Jozef
+0 Bayden
+0 administratsiyasi
+0 TikTok
+1 bilan - bilan
+0 platformaning
+0 Qo'shma
+0 Shtatlar
+0 milliy
+0 xavfsizligiga
+0 daxldor
+0 masalalar
+1 bo'yicha - bo'yicha
+0 faoliyati
+0 yuzasidan
+0 kelishuvni
+0 ishlab
+0 chiqqandi
+0 29-noyabr
+0 kuni
+0 Eron
+1 terma - terma
+0 jamoasi
+0 guruh
+0 bosqichining
+0 3-tur
+0 uchrashuvini
+0 AQShga
+1 qarshi - qarshi
+0 o'tkazadi
+0 Eronlik
+0 futbolchilarning
+0 yaqinlari
+0 o'yin
+0 oldidan
+0 rasmiylar
+0 tomonidan
+0 bosimga
+0 duch
+0 kelishdi
+0 Futbolchilarga
+1 agar - agar
+0 futbolchilar
+0 raqibga
+1 qarshi - qarshi
+0 o'yinda
+1 o'zini - o'z
+0 munosib
+0 tutmasa
+0 yaqinlari
+0 qamalib
+0 qiynoqqa
+0 solinishi
+0 va'da
+0 qilingan
+1 Bu - bu
+0 haqda
+0 manbaga
+0 tayanib
+0 CNN
+0 yozmoqda
+0 21
+0 noyabr
+0 kuni
+0 futbol
+1 bo'yicha - bo'yicha
+0 Eron
+0 milliy
+1 terma - terma
+0 jamoasi
+0 Qatarda
+0 bo'lib
+0 o'tgan
+0 JCh-2022
+0 guruh
+0 bosqichi
+0 1-turi
+0 doirasida
+0 Angliya
+1 terma - terma
+0 jamoasiga
+1 qarshi - qarshi
+0 o'yin
+0 oldidan
+0 davlat
+0 madhiyasini
+0 kuylashdan
+1 bosh - bosh
+0 tortgan
+0 Davlat
+0 madhiyasi
+0 yangrayotgan
+0 paytda
+0 Eron
+1 terma - terma
+0 jamoasi
+0 futbolchilari
+0 sukut
+0 saqlashgan
+0 Dohadagi
+0 Xalifa
+0 stadioni
+0 tribunalaridagi
+0 muxlislar
+0 futbolchilarning
+1 bu - bu
+0 qarorini
+0 olqishlar
+1 bilan - bilan
+0 kutib
+0 olishgan
+0 CNN
+0 telekanali
+0 xabariga
+1 ko'ra - ko'ra
+0 davlat
+0 madhiyasini
+0 kuylashdan
+1 bosh - bosh
+0 tortgach
+0 futbolchilar
+0 Islom
+0 inqilobi
+0 qo'riqchilari
+0 korpusi
+0 KSIR
+0 vakillari
+1 bilan - bilan
+0 uchrashuvga
+0 chaqirilgan
+0 Ta'kidlanishicha
+0 uchrashuvda
+0 futbolchilarga
+1 yana - yana
+0 madhiya
+0 kuylashdan
+1 bosh - bosh
+0 tortsa
+1 yoki - yoki
+0 hozirda
+0 Islom
+0 Respublikasida
+1 faol - faol
+0 bo'lib
+0 o'tayotgan
+0 siyosiy
+0 norozilik
+1 va - va
+0 harakatlarni
+0 qo'llab-quvvatlasa
+1 ularning - ularning
+0 oila
+0 a'zolari
+0 zo'ravonlik
+1 va - va
+0 qiynoqlarga
+0 duchor
+0 bo'lishi
+0 va'da
+0 qilingan
+1 Shundan - shunda
+1 so'ng - so'ng
+0 eronlik
+0 futbolchilar
+0 Uelsga
+1 qarshi - qarshi
+0 navbatdagi
+0 o'yinda
+0 davlat
+0 madhiyasini
+0 kuylashgan
+0 Ramzan
+0 Qodirovning
+0 qizi
+0 Ayshat
+0 Qodirova
+0 Chechenistonning
+0 oliy
+0 davlat
+0 mukofoti
+0 Qodirov
+0 ordeni
+1 bilan - bilan
+0 taqdirlandi
+1 U - u
+0 respublika
+0 madaniyat
+0 vaziri
+0 lavozimidagi
+0 faoliyati
+1 uchun - uchun
+0 shunday
+1 yuqori - yuqori
+0 baholandi
+0 dedi
+0 Checheniston
+0 milliy
+0 siyosat
+1 tashqi - tashqi
+0 aloqalar
+0 matbuot
+1 va - va
+0 axborot
+0 vaziri
+0 Axmed
+0 Dudaev
+1 Uning - uning
+0 so'zlariga
+1 ko'ra - ko'ra
+0 Ayshat
+0 Qodirova
+0 viloyat
+0 madaniyatini
+0 yuksaltirishga
+1 katta - katta
+0 hissa
+0 qo'shgan
+0 Ayshat
+0 Ramzanovna
+0 madaniyat
+0 sohasini
+0 takomillashtirishga
+1 ulkan - ulkan
+0 hissa
+0 qo'shdi
+1 har - har
+1 qanday - qanday
+1 biznesga - biz
+1 ijodiy - ijodiy
+0 yondashish
+0 tashkilotchilik
+0 qobiliyati
+1 va - va
+0 boshqaruv
+0 qobiliyatini
+0 ulug'ladi
+1 U - u
+0 buyuk
+0 bobosining
+0 o'gitlariga
+0 qat'iy
+0 amal
+0 qiladi
+1 va - va
+0 otasining
+0 tayanchidir
+0 deyiladi
+0 Dudaevning
+0 telegram-kanalidagi
+0 xabarida
+0 Eslatib
+0 o'tamiz
+0 Ramzan
+0 Qodirovning
+0 qizi
+0 23
+0 yoshda
+0 2022
+0 yilda
+1 u - u
+0 Respublika
+0 Madaniyat
+0 vaziri
+0 bo'lgan
+1 Yosh - yosh
+0 bo'lishiga
+1 qaramay - qaramay
+1 u - u
+1 allaqachon - allaqachon
+0 Checheniston
+0 Respublikasi
+0 oldidagi
+0 xizmatlari
+1 uchun - uchun
+1 va - va
+0 Inson
+0 huquqlarini
+0 himoya
+0 qilgani
+1 uchun - uchun
+0 medallari
+1 kabi - kabi
+0 mukofotlarga
+0 ega
+1 Shuningdek - shuningdek
+1 u - u
+0 Chexiya
+0 Respublikasida
+0 xizmat
+0 ko'rsatgan
+0 madaniyat
+0 xodimi
+0 unvoni
+1 bilan - bilan
+1 ham - ham
+0 taqdirlangan
+0 Qamoqda
+0 saqlanayotgan
+0 Gruziyaning
+1 sobiq - sobiq
+0 prezidenti
+0 Mixail
+0 Saakashvilining
+0 tibbiy
+0 tekshiruvlari
+1 uning - uning
+0 tanasida
+0 margumush
+0 borligini
+0 ko'rsatdi
+1 Bu - bu
+0 haqda
+0 dushanba
+0 kuni
+0 Saakashvilining
+0 advokati
+0 Shalva
+0 Xachapuridze
+1 ma'lum - ma'lum
+0 qilgan
+1 Biz - biz
+0 hali
+0 tirnoq
+0 sinovlarini
+0 olganimiz
+1 yo'q - yo'q
+1 ular - ular
+1 bugun - bugun
+0 kelishadi
+1 biroq - biroq
+0 telefon
+1 orqali - orqali
+1 ma'lum - ma'lum
+0 bo'lishicha
+0 tadqiqot
+0 natijasida
+1 yana - yana
+1 bir - bir
+1 zaharli - zaharli
+0 modda
+0 margumush
+0 aniqlangan
+0 —
+1 deya - deya
+0 advokatning
+0 so'zlaridan
+0 iqtibos
+0 keltirgan
+0 Mtavari
+0 telekanali
+1 Shuningdek - shuningdek
+0 dushanba
+0 kuni
+0 Saakashvili
+1 uzoq - uzoq
+0 vaqtdan
+1 beri - beri
+1 birinchi - birinchi
+0 marta
+0 chegarani
+0 noqonuniy
+0 kesib
+0 o'tish
+0 ishi
+1 bo'yicha - bo'yicha
+0 sud
+0 majlisida
+0 ishtirok
+0 etishi
+0 kutilmoqda
+0 dedi
+0 advokat
+1 Biz - biz
+0 sud
+0 jarayonining
+0 qoldirilganiga
+0 sababchi
+0 bo'lib
+0 qolmasligimiz
+1 uchun - uchun
+1 u - u
+1 bugun - bugun
+0 sudga
+0 kelishga
+0 qaror
+0 qildi
+0 —
+0 dedi
+0 advokat
+1 Unga - unga
+1 ko'ra - ko'ra
+0 Saakashvilining
+0 ahvoli
+1 og'ir - og'ir
+1 va - va
+1 uni - uni
+0 ko'chirish
+1 uchun - uchun
+0 maxsus
+0 stul
+1 kerak - kerak
+0 bo'ladi
+0 Avvalroq
+0 Saakashvilining
+1 og'ir - og'ir
+0 metallar
+1 jumladan - jumladan
+0 simob
+1 bilan - bilan
+0 zaharlanishi
+0 ehtimoli
+1 haqida - haqida
+0 xabar
+0 berilgan
+0 edi
+0 Ta'kidlanishicha
+0 Empatiya
+1 nodavlat - nodavlat
+0 tashkilotining
+0 hali
+0 e'lon
+0 qilinmagan
+1 va - va
+0 xorijlik
+0 mutaxassislarga
+0 taqdim
+0 etish
+1 uchun - uchun
+0 tayyorlanayotgan
+0 tibbiy
+0 hisoboti
+1 shundan - shunda
+0 dalolat
+0 beradi
+0 Gruziya
+0 hukumati
+1 sobiq - sobiq
+0 prezidentning
+0 zaharlanishi
+0 ehtimoli
+1 haqida - haqida
+1 erta - erta
+0 xulosalar
+0 chiqarishdan
+0 tiyilishga
+0 chaqirmoqda
+0 Saakashvili
+0 2021
+0 yil
+0 oktyabr
+0 oyida
+0 bo'lib
+0 o'tadigan
+0 munitsipal
+0 saylovlardan
+1 bir - bir
+0 kun
+1 oldin - oldin
+0 Gruziyaga
+1 yashirincha - yashirincha
+0 kelgan
+1 Shundan - shunda
+0 olinib
+0 Rustavi
+0 shahridagi
+0 qamoqxonaga
+0 joylashtirilgan
+1 U - u
+1 o'zini - o'z
+0 siyosiy
+0 mahbus
+1 deb - deb
+1 atab - atab
+0 ochlik
+0 e'lon
+0 qilgan
+1 Sobiq - sobiq
+0 prezidentning
+0 ahvoli
+0 yomonlashganidan
+1 keyin - keyin
+1 u - u
+0 qamoqxona
+0 kasalxonasiga
+0 keyinroq
+0 esa
+0 harbiy
+0 gospitalga
+0 o'tkazilgan
+0 Dekabr
+0 oyida
+0 Saakashvili
+0 Rustavi
+0 qamoqxonasida
+0 jazoni
+0 o'tashni
+0 davom
+0 ettirdi
+1 Sobiq - sobiq
+0 prezident
+0 qamoqxonada
+1 og'ir - og'ir
+0 xastalikka
+0 chalinganini
+1 bir - bir
+1 necha - necha
+1 bor - bor
+0 ta'kidlagan
+0 Saakashvilining
+0 advokatlari
+1 va - va
+0 tarafdorlari
+1 uni - uni
+0 davolanish
+1 uchun - uchun
+0 xorijga
+0 yuborishni
+0 talab
+0 qilmoqda
+1 Ijtimoiy - ijtimoiy
+0 tarmoqning
+1 yangi - yangi
+0 egasi
+0 Ilon
+0 Maskning
+0 kompaniya
+0 boshqaruvidagi
+0 betartib
+0 yondashuvi
+1 tufayli - tufayli
+0 dunyoning
+0 aksariyat
+1 yirik - yirik
+0 brendlari
+0 Twitter'dagi
+0 reklamalarini
+0 to'xtatib
+0 qo'ydi
+1 Bu - bu
+0 haqda
+0 Financial
+0 Times
+0 nashri
+0 yozmoqda
+1 deya - deya
+0 xabar
+0 bermoqda
+0 zamonuz
+1 Ma'lum - ma'lum
+0 qilinishicha
+0 100
+0 ta
+0 eng
+1 yaxshi - yaxshi
+0 reklama
+0 beruvchilardan
+0 50
+0 tasi
+0 Mask
+1 ijtimoiy - ijtimoiy
+0 tarmoqni
+0 sotib
+0 olganidan
+1 keyin - keyin
+0 xarajatlarni
+0 to'xtatib
+0 qo'ygan
+1 yoki - yoki
+0 to'xtatish
+0 niyatini
+0 bildirgan
+0 Qayd
+0 etilishicha
+0 kompaniyalar
+0 Kontentni
+0 nazorat
+0 qilishda
+0 Maskning
+0 tanlab
+0 yondashuvi
+1 va - va
+0 reklama
+0 bo'limidagi
+0 xodimlarni
+0 ishdan
+0 bo'shatish
+0 qaroridan
+0 shikoyat
+0 qilgan
+0 Nashr
+0 ma'lumotlariga
+0 ko'raTwitter'dagi
+1 ommaviy - ommaviy
+0 ishdan
+0 bo'shatishlardan
+1 so'ng - so'ng
+0 agentliklar
+0 Mask
+0 kompaniyasi
+1 bilan - bilan
+0 aloqada
+0 bo'lmagan
+0 Boshqalar
+0 esa
+0 reklama
+0 tizimlari
+1 yaxshi - yaxshi
+0 ishlamayotganidan
+0 shikoyat
+0 qilishgan
+0 Sanoat
+0 insayderlarining
+0 xabar
+0 qilishicha
+0 Mask
+0 ba'zi
+0 brend
+0 rahbarlariga
+0 qo'ng'iroq
+0 qilishga
+0 uringan
+1 Natijada - natijada
+0 boshqalar
+0 Mask
+1 bilan - bilan
+0 munosabatlarini
+0 yomonlashtirmaslik
+1 uchun - uchun
+0 xarajatlarini
+0 minimal
+0 darajaga
+0 qisqartirishga
+0 qaror
+0 qilishgan
+
+Lemmalar soni: 226

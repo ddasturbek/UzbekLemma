@@ -1,0 +1,1016 @@
+0 DIN
+0 SOTSIOLOGIYASI
+0 FALSAFASI
+0 PSIXOLOGIYASI
+0 FENOMENOLOGIYASINI
+0 O'RGANISHDAGI
+1 YANGI - yangi
+0 TENDENSIYALAR
+0 Dinshunoslik
+0 tarix
+0 falsafa
+0 psixologiya
+0 sotsiologiya
+1 kabi - kabi
+1 ijtimoiy - ijtimoiy
+0 fanlar
+1 bilan - bilan
+1 mustahkam - mustahkam
+0 bog'liqdir
+1 Bu - bu
+0 bog'liqlik
+0 natijasida
+0 dinshunoslik
+0 tarkibida
+1 bir - bir
+1 qancha - qancha
+0 sohalar
+0 yuzaga
+0 kelgan
+0 Din
+0 sotsiologiyasi
+0 Din
+0 jamiyat
+0 munosabatlari
+1 bu - bu
+0 munosabatlar
+0 ortidan
+0 kelib
+0 chiquvchi
+0 natijalarni
+0 o'rganuvchi
+0 dinshunoslik
+0 sohasi
+1 Bu - bu
+0 ilm
+0 sohasi
+0 dinning
+0 davlat
+0 xalq
+0 oilaga
+1 nisbatan - nisbatan
+0 munosabatini
+0 din
+0 sohasida
+0 yuzaga
+0 keluvchi
+1 ijtimoiy - ijtimoiy
+0 voqeahodisalarni
+0 turli
+1 diniy - diniy
+0 jamoalarning
+0 jamiyat
+1 bilan - bilan
+0 o'zaro
+0 munosabatlarini
+0 tadqiq
+0 qiladi
+0 Din
+0 sotsiologiyasi
+1 bir - bir
+0 tomondan
+0 jamiyatga
+1 boshqa - boshqa
+0 tomondan
+1 diniy - diniy
+0 ilmlarga
+0 tayanadi
+0 Din
+0 sosiologiyasi
+0 kishilarning
+1 diniy - diniy
+0 e'tiqodlari
+1 diniy - diniy
+0 tashkilotlarning
+0 faoliyatini
+0 jamiyat
+0 a'zolaridagi
+1 diniy - diniy
+0 tafakkurni
+0 o'rganadi
+0 Sotsiologiyada
+0 din
+0 hodisasini
+0 o'rganishda
+0 dinni
+1 ijtimoiy - ijtimoiy
+0 hayotda
+0 bajarayotgan
+0 funksiyalariga
+1 albatta - albatta
+0 murojaat
+0 qilishi
+1 lozim - lozim
+0 bo'ladi
+1 Avvalgi - avvalgi
+0 sinflarda
+1 ham - ham
+0 bular
+1 bilan - bilan
+0 qisman
+0 tanishgansiz
+0 Din
+0 psixologiyasi
+0 Insonga
+1 oid - oid
+0 bo'lgan
+1 diniy - diniy
+0 hayotning
+0 turli
+0 jihatlarini
+0 psixologik
+0 jihatdan
+0 o'rganuvchi
+0 dinshunoslik
+0 sohasi
+0 Davlat
+1 va - va
+0 din
+0 munosabatlarining
+0 ildizlari
+1 juda - juda
+0 qadim
+0 davrlarga
+0 borib
+0 taqaladi
+0 Ayni
+0 paytda
+1 ushbu - ushbu
+0 munosabatlar
+0 turli
+1 tarixiy - tarixiy
+0 davrlarda
+0 turlicha
+0 mazmun
+0 kasb
+0 etgan
+1 O'rta - o'rta
+0 asrlarda
+0 din
+0 jamiyatning
+0 barcha
+0 sohalarida
+1 shu - shu
+1 jumladan - jumladan
+0 davlat
+0 hayotida
+0 to'la
+0 hukmronlik
+0 qilgan
+0 davrlar
+1 ham - ham
+0 bo'lgan
+0 Ayrim
+0 davlatlarda
+0 din
+1 butunlay - butunlay
+0 inkor
+0 etilgan
+1 ya'ni - ya'ni
+0 ateizm
+0 ustunlik
+0 qilgan
+0 Davlat
+1 va - va
+0 din
+0 munosabatlarining
+0 huquqiy
+0 asoslari
+1 Hozirgi - hozirgi
+0 davrda
+0 jahondagi
+0 davlatlarning
+0 yarmidan
+0 ko'pi
+0 dinning
+0 davlatdan
+0 ajratilganini
+1 yoki - yoki
+0 davlatning
+1 diniy - diniy
+0 tashkilotga
+1 nisbatan - nisbatan
+0 betarafligini
+0 Konstitutsiya
+1 yoki - yoki
+0 qonun
+0 darajasida
+0 belgilab
+0 qo'ygan
+0 Yuridik
+0 tan
+0 olingani
+1 yoki - yoki
+0 olinmaganidan
+0 qat'i
+0 nazar
+0 barcha
+0 davlatlar
+0 din
+1 va - va
+0 e'tiqod
+0 erkinligiga
+0 hurmat
+1 bilan - bilan
+0 qarashlarini
+0 e'lon
+0 qilganlar
+0 Tarixan
+0 din
+0 davlatning
+0 huquqiy
+0 tizimini
+0 rivojlanishiga
+1 jiddiy - jiddiy
+0 ta'sir
+0 o'tkazib
+0 kelgan
+1 Hozirgi - hozirgi
+0 davrda
+0 davlat
+1 va - va
+0 din
+0 o'rtasidagi
+0 munosabatlar
+1 bir - bir
+0 qator
+0 xususiyatlari
+1 bilan - bilan
+0 ajralib
+0 turishini
+0 ta'kidlash
+1 zarur - zarur
+0 «Sovuq
+0 urush»
+0 davri
+0 tugagandan
+1 keyin - keyin
+0 dinga
+1 qarshi - qarshi
+0 hujumkorlik
+1 hamda - hamda
+1 diniy - diniy
+0 faoliyat
+0 ustidan
+0 nazorat
+0 qilish
+0 siyosati
+0 yengillashdi
+0 Buning
+0 natijasida
+1 diniy - diniy
+0 sektalarning
+0 ko'payishi
+0 yangilarining
+0 paydo
+0 bo'lishiga
+0 olib
+0 keldi
+0 O'zbekistonda
+0 tarkib
+0 topgan
+0 davlat
+1 va - va
+0 din
+0 o'rtasidagi
+0 munosabat
+1 o'z - o'z
+0 mohiyati
+0 mazmuni
+1 va - va
+0 huquqiy
+0 asoslariga
+1 ko'ra - ko'ra
+0 din
+0 davlatdan
+0 ajratilganligiga
+1 hamda - hamda
+0 vijdon
+0 erkinligi
+0 konfessional
+0 bag'rikenglik
+0 tamoyiliga
+0 asoslanadi
+0 Mamlakatimiz
+0 Konstitusiyasida
+1 diniy - diniy
+0 tashkilotlar
+1 va - va
+0 birlashmalar
+0 davlatdan
+0 ajratilganligi
+1 hamda - hamda
+0 qonun
+0 oldida
+0 tengligi
+0 qayd
+0 etiladi
+1 Shu - shu
+1 bilan - bilan
+1 birga - birga
+0 davlatning
+1 diniy - diniy
+0 birlashmalarning
+0 faoliyatiga
+0 aralashmasligi
+0 belgilab
+0 berilgan
+0 Mazkur
+0 masala
+0 «Vijdon
+0 erkinligi
+1 va - va
+1 diniy - diniy
+0 tashkilotlar
+0 to'g'risida»gi
+0 Qonunning
+0 mazmunini
+0 tashkil
+0 etadi
+1 Bu - bu
+0 esa
+0 mamlakatimizda
+0 davlatning
+1 diniy - diniy
+0 ishlarga
+0 dinning
+0 esa
+0 davlat
+0 ishlariga
+0 qonun
+0 hujjatlarida
+0 ko'rsatilgan
+0 holatlar
+1 bundan - bunda
+0 mustasno
+1 albatta - albatta
+0 aralashmasligini
+0 anglatadi
+0 Insoniyat
+0 tarixidan
+1 yaxshi - yaxshi
+0 bilamizki
+0 dunyoning
+1 hech - hech
+1 bir - bir
+0 mintaqasi
+0 xalqi
+1 ma'lum - ma'lum
+1 bir - bir
+0 din
+1 va - va
+0 e'tiqodlar
+0 tizimisiz
+1 o'z - o'z
+1 shaxsiy - shaxsiy
+1 va - va
+1 ijtimoiy - ijtimoiy
+0 hayotini
+0 tasavvur
+0 qila
+0 olmagan
+1 Tarixiy - tarixiy
+0 davrning
+0 barcha
+0 bosqichlarida
+0 jamiyatning
+0 asosiy
+0 bo'g'inlari
+1 o'z - o'z
+0 faoliyatlarini
+0 yurgazish
+1 uchun - uchun
+1 u - u
+1 yoki - yoki
+1 bu - bu
+1 diniy - diniy
+0 e'tiqod
+0 tamoyillariga
+0 tayanganlar
+0 Maz
+0 kur
+0 holat
+0 barcha
+0 xalq
+1 va - va
+0 millatlarga
+0 xosdir
+1 Albatta - albatta
+1 ijtimoiy - ijtimoiy
+0 hayotning
+0 shakl
+1 va - va
+0 mazmunining
+1 o'zgarishi - o'z
+0 jamiyat
+0 a'zolarining
+0 dinga
+0 bo'lgan
+0 munosabatlarini
+1 ham - ham
+1 tobora - tobora
+1 o'zgarib - o'z
+0 borishiga
+1 o'z - o'z
+0 ta'sirini
+0 ko'rsatdi
+0 Din
+1 va - va
+1 uning - uning
+0 arkonlari
+1 avvalambor - avvalambor
+0 mazlum
+0 ko'ngli
+0 shikasta
+1 va - va
+1 ijtimoiy - ijtimoiy
+0 ko'makka
+1 muhtoj - muhtoj
+0 kishilarni
+0 himoya
+0 qilishga
+0 xizmat
+0 qilgani
+1 tufayli - tufayli
+0 jamiyatning
+0 kiborlar
+0 tabaqasi
+1 uni - uni
+1 darhol - darhol
+0 qabul
+0 qilmaganlarini
+0 tarixdan
+0 bilishimiz
+0 mumkin
+0 Imom
+0 Qaffol
+0 Shoshiy
+0 nomlari
+1 bilan - bilan
+0 shuhrat
+0 qozongan
+0 Hastimom
+0 mahallasi
+1 o'z - o'z
+0 zamonasida
+0 Toshkentning
+1 diniy - diniy
+1 ilmiy - ilmiy
+0 ma'naviy
+1 va - va
+0 ma'rifiy
+0 markazi
+0 sifatida
+0 dong
+0 chiqargan
+0 Afsuski
+0 sho'rolarning
+0 ajdodlarimiz
+0 qadamjo
+1 va - va
+0 ziyoratgohlariga
+1 nisbatan - nisbatan
+0 ateistik
+0 munosabatlari
+0 natijasida
+0 bunday
+0 maskanlar
+0 e'tibordan
+0 chetda
+0 qoldi
+0 Mustaqillik
+0 yillarida
+0 ilmiy-ma'naviy
+0 diniy-ma'rifiy
+0 adabiyotlarning
+0 chop
+0 etilishiga
+1 keng - keng
+0 imkoniyatlar
+0 yaratildi
+1 Aynan - aynan
+0 Toshkentda
+0 Qur'oni
+0 karim
+1 va - va
+0 hadisi
+0 shariflar
+1 shuningdek - shuningdek
+0 islom
+0 ma'naviy
+0 merosiga
+1 ulkan - ulkan
+0 hissa
+0 qo'shgan
+0 allomalar
+0 asarlarining
+0 o'zbek
+0 tilidagi
+0 nashrlari
+0 amalga
+0 oshirildi
+1 Hozirgi - hozirgi
+1 kunda - kunda
+0 poytaxtimizning
+0 eng
+1 ko'hna - ko'hna
+0 go'shasida
+0 O'zbekiston
+0 musulmonlari
+0 idorasi
+1 yonida - yonida
+0 joylashgan
+0 Qaffol
+0 Shoshiy
+0 nomi
+1 bilan - bilan
+0 bog'liq
+0 Hazrati
+0 Imom
+0 Hastimom
+0 majmuasi
+0 yildan-yilga
+1 obod - obod
+0 bo'lib
+1 Eski - eski
+0 shaharning
+0 fayziga
+0 fayz
+0 qo'shayotgan
+1 tarixiy - tarixiy
+0 maskanlardan
+0 biri
+0 bo'lib
+0 qoldi
+0 Yuqorida
+0 zikr
+0 etilgan
+0 islom
+0 dini
+1 va - va
+0 madaniyatining
+0 turli
+0 qirralariga
+1 bevosita - bevosita
+0 bog'liq
+0 bo'lgan
+1 bu - bu
+1 ulug'vor - ulug'vor
+0 ishlar
+1 ulkan - ulkan
+0 salohiyat
+1 va - va
+0 donishmandlik
+1 bilan - bilan
+0 olib
+0 borayotgan
+1 dono - dono
+1 va - va
+1 xalqchil - xalqchil
+0 siyosatining
+0 samarasidir
+0 Mamlakatimiz
+0 poytaxti
+0 Toshkent
+0 shahrining
+0 Islom
+0 madaniyati
+0 poytaxti
+1 deb - deb
+0 e'lon
+0 qilinishi
+0 islom
+0 madaniyati
+1 va - va
+0 qadriyatlarini
+0 tiklash
+1 hamda - hamda
+0 rivojlantirishda
+0 Prezidentimiz
+0 Shavkat
+0 Mirziyoyev
+0 rahbarligida
+0 amalga
+0 oshirilayotgan
+0 ishlarning
+1 jahonshumul - jahonshumul
+0 ahamiyat
+0 kasb
+0 etishining
+0 e'tirofidir
+1 Har - har
+1 bir - bir
+0 xalqning
+1 o'ziga - o'z
+1 xos - xos
+0 urf-odat
+0 an'ana
+1 va - va
+0 marosimlari
+1 bor - bor
+1 Ularning - ularning
+1 har - har
+0 biri
+0 boshqasidan
+1 tubdan - tubdan
+0 farq
+0 qiladi
+0 Biri
+1 foydali - foydali
+0 biri
+1 mutlaqo - mutlaqo
+1 zararli - zararli
+0 Urf-odat
+0 kishilarning
+0 turmushiga
+0 singib
+0 ketgan
+1 ma'lum - ma'lum
+0 muddatda
+0 takrorlanib
+0 turuvchi
+0 xatti-harakat
+0 ko'pchilik
+0 tomonidan
+0 qabul
+0 qilingan
+0 xulq-atvor
+0 qoidalari
+0 ko'nikmasidir
+0 «Odat»
+0 degan
+0 tushuncha
+1 ma'lum - ma'lum
+0 sharoit
+0 ta'sirida
+0 vujudga
+0 kelib
+0 kishining
+0 fe'l-atvorida
+0 mustahkamlanib
+0 qolgan
+1 va - va
+1 keyinchalik - keyinchalik
+1 o'z-o'zidan - o'z-o'zidan
+1 beixtiyor - beixtiyor
+0 bajariladigan
+0 harakat
+0 ma'nosini
+0 bildiradi
+0 Odamlar
+1 kimningdir - kim
+0 g'ami
+1 yoki - yoki
+0 quvonchiga
+0 sherik
+0 bo'lishadi
+1 kelajak - kelajak
+1 uchun - uchun
+1 yaxshi - yaxshi
+0 niyatlar
+0 qilishadi
+1 Har - har
+1 bir - bir
+0 marosimning
+1 o'ziga - o'z
+1 xos - xos
+0 umum
+0 qabul
+0 qilingan
+0 tuzilishi
+0 boshlanishi
+0 o'rtasi
+1 oxiri - oxiri
+0 bo'ladi
+0 Inson
+0 hayotida
+0 bo'lib
+0 o'tayotgan
+0 muhim
+0 voqeani
+0 nishonlash
+0 jarayonida
+0 an'ana
+1 ham - ham
+0 odat
+1 ham - ham
+0 marosim
+1 ham - ham
+0 mujassamlashadi
+0 «An'ana»
+0 «odat»
+0 «marosim»
+0 bir-biri
+1 bilan - bilan
+1 bevosita - bevosita
+0 bog'liq
+0 hodisa
+0 hisoblanadi
+1 Shu - shu
+0 bois
+0 an'analarning
+0 tarkibiy
+0 qismi
+0 odat
+0 odatning
+0 tarkibiy
+0 qismi
+0 esa
+0 marosim
+1 ham - ham
+0 bo'lishi
+0 mumkin
+0 Ba'zi
+0 holatlarda
+0 «an'ana»
+0 «odat»
+1 va - va
+0 «marosim»
+0 tushunchalari
+0 alohida
+0 ishlatilsa
+1 ular - ular
+0 mavhum
+0 ma'noni
+0 anglatishi
+1 ham - ham
+0 mumkin
+0 Bunday
+0 paytda
+1 ularga - ularga
+0 aniqlovchi
+0 so'zlar
+0 qo'shilib
+1 masalan - masalan
+0 «an'anaviy
+0 bayram»
+0 «an'anaviy
+0 festival»
+0 «an'anaviy
+0 kecha»
+1 yoki - yoki
+0 «mukofotlash
+0 marosimi»
+0 «to'y
+0 marosimi»
+0 «pensiyaga
+0 kuzatish
+0 marosimi»
+0 tarzida
+0 qo'llaniladi
+1 Diniy - diniy
+0 marosimlarni
+0 bajarishda
+0 kohinlar
+1 keyinchalik - keyinchalik
+0 ruhoniylar
+0 boshchilik
+0 qilgan
+1 Ular - ular
+1 o'z - o'z
+0 marosimlarini
+1 asta-sekin - asta-sekin
+0 muayyan
+0 dinning
+0 talabi
+0 xususiyati
+0 aqidasi
+1 va - va
+0 ehtiyojiga
+0 moslagan
+0 Xristianlikda
+0 «Yetti
+1 sirli - sirli
+0 marosim»
+0 cho'qintirish
+0 non
+1 va - va
+0 sharob
+0 totish
+0 miro
+0 moyi
+0 surtish
+0 tavba-tazarru
+0 qilish
+0 yeley
+1 muqaddas - muqaddas
+0 zaytun
+0 yog'i
+0 surtish
+0 marosimi
+0 ruhoniy
+0 unvonini
+0 berish
+0 nikoh
+0 marosimlari
+0 mavjud
+0 Rojdestvo
+1 va - va
+0 Pasxa
+0 xristianlikda
+1 keng - keng
+0 nishonlanadigan
+0 eng
+0 asosiy
+0 bayramlari
+0 hisoblanadi
+0 Islom
+0 dinida
+0 aqiqa
+0 amri
+0 ma'ruf
+0 xatna
+0 ro'za
+0 tutish
+1 va - va
+0 ramazon
+0 hayiti
+0 qurbonlik
+0 qilish
+1 va - va
+0 qurbon
+0 hayiti
+0 haj
+0 janoza
+0 nikoh
+0 dafn
+1 va - va
+1 boshqa - boshqa
+0 marosimlar
+1 bor - bor
+0 Yahudiylikda
+0 ibodat
+0 shanba
+0 kunini
+1 muqaddas - muqaddas
+1 deb - deb
+0 bilish
+0 tug'ilish
+0 balog'atga
+0 yetish
+0 nikoh
+1 va - va
+0 dafn
+0 marosimlari
+0 alohida
+0 o'rin
+0 tutadi
+0 O'zbekistonda
+1 diniy - diniy
+0 marosimlarning
+1 erkin - erkin
+0 o'tkazilishi
+0 ta'minlanadi
+1 ammo - ammo
+1 bunda - bunda
+0 qonunlar
+0 jamoat
+0 tartibi
+0 buzilmasligi
+1 va - va
+0 shaxsga
+1 hamda - hamda
+0 fuqarolarning
+0 huquqiga
+0 daxl
+0 qilinmasligi
+1 kerak - kerak
+1 Diniy - diniy
+0 marosimlarda
+0 qatnashish
+0 fuqarolarning
+1 shaxsiy - shaxsiy
+0 ishidir
+1 va - va
+1 hech - hech
+1 qanday - qanday
+0 huquqiy
+0 munosabatlarni
+0 keltirib
+0 chiqarmaydi
+1 Diniy - diniy
+0 marosimlar
+0 masjid
+1 va - va
+0 ibodatxonalarda
+1 diniy - diniy
+0 tashkilot
+0 muassasalarida
+0 ziyoratgohlarda
+0 qabristonlarda
+0 fuqarolarning
+0 xonadonlari
+1 va - va
+0 uylarida
+0 o'tkaziladi
+0 Belgilangan
+0 joydan
+0 tashqarida
+1 diniy - diniy
+0 marosimlar
+1 yoki - yoki
+1 ommaviy - ommaviy
+0 ibodatlar
+0 o'tkaziladigan
+0 holatlarda
+1 bu - bu
+1 haqida - haqida
+0 mahalliy
+0 hokimiyat
+0 ogohlantirib
+0 qo'yilishi
+1 va - va
+0 bunday
+0 tadbirlar
+0 qat'iy
+0 tartibga
+0 rioya
+0 qilingan
+0 holda
+0 tashkil
+0 etilishi
+1 lozim - lozim
+0 «Qadriyat»
+0 atamasi
+1 bizga - biz
+0 arabcha
+0 «qadr»
+0 so'zidan
+0 kirib
+0 kelgan
+0 bo'lib
+1 bugungi - bugungi
+1 kunda - kunda
+1 bu - bu
+0 tushuncha
+0 «borliq
+1 va - va
+0 jamiyatdagi
+0 biror-bir
+0 narsa
+1 va - va
+0 hodisaning
+0 kishilar
+0 o'rtasidagi
+0 o'zaro
+1 ijtimoiy - ijtimoiy
+0 munosabatlardagi
+0 tutgan
+0 muhim
+0 ahamiyatini
+0 ifoda
+0 etishi
+1 uchun - uchun
+0 qo'llanilmoqda
+0 Bayram
+0 turkiycha
+1 katta - katta
+0 yig'in
+0 to'y
+0 ma'nolarini
+0 anglatadi
+0 Istilohda
+0 esa
+1 keng - keng
+0 nishonlanadigan
+1 tantanali - tantanali
+0 kundir
+0 Avloddan-avlodga
+0 meros
+0 tariqasida
+0 o'tib
+0 keladigan
+0 bayram
+1 an'anaviy - an'anaviy
+0 bayram
+0 deyiladi
+1 masalan - masalan
+0 Navro'z
+0 bayrami
+1 Diniy - diniy
+0 bayramda
+0 esa
+1 har - har
+1 bir - bir
+0 dinning
+0 arkonlarida
+0 belgilab
+0 qo'yilgan
+0 marosimlar
+0 nishonlanadi
+0 Qur'oni
+0 karim
+0 oyatlari
+1 va - va
+0 hadisi
+0 shariflarda
+1 diniy - diniy
+0 marosim
+1 va - va
+0 bayramlar
+1 to'g'risida - to'g'risida
+1 ko'plab - ko'plab
+0 ma'lumotlar
+0 berilgan
+
+Lemmalar soni: 249

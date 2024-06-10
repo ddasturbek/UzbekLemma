@@ -1,0 +1,1007 @@
+0 Kinematografiya
+0 agentligi
+1 hamda - hamda
+0 O'zbekiston
+0 milliy
+0 kinematografiyani
+0 rivojlantirish
+0 markazi
+1 va - va
+0 Kinomaniya
+0 kinostudiyasi
+0 hamkorligida
+0 suratga
+0 olingan
+0 rejissyor
+0 Muhammadiso
+0 Abdulxayirovning
+0 Dada
+0 degin
+0 filmini
+0 Kinochilar
+0 uyi
+0 kinoteatrida
+1 yopiq - yopiq
+0 premerasi
+0 o'tkazildi
+1 Bu - bu
+0 haqda
+0 Kinematografiya
+0 agentligi
+0 Axborot
+0 xizmati
+0 xabar
+0 bermoqda
+0 Drama
+0 janrida
+0 suratga
+0 olingan
+0 mazkur
+0 kartinada
+1 uzoq - uzoq
+0 yillardan
+1 buyon - buyon
+0 farzandsizlikdan
+0 qiynalayotgan
+0 oilada
+0 kechgan
+0 voqeliklar
+1 to'g'risida - to'g'risida
+0 hikoya
+0 qilinadi
+1 Bosh - bosh
+1 qahramon - qahramon
+1 Botir - botir
+0 aka
+1 o'zi - o'z
+0 befarzand
+1 ammo - ammo
+0 beshik
+0 yasovchi
+0 usta
+0 obrazida
+0 gavdalanadi
+1 Uning - uning
+0 hayotdan
+1 yagona - yagona
+0 ilinji
+0 farzandli
+0 bo'lish
+1 yohud - yohud
+0 bola
+0 tilidan
+0 chiqqan
+0 dada
+0 kalomini
+0 eshitish
+0 edi
+1 Uning - uning
+0 farzandsizligi
+1 tufayli - tufayli
+0 atrofidagilarning
+1 unga - unga
+1 nisbatan - nisbatan
+1 yomon - yomon
+0 munosabati
+0 filmda
+1 yaqqol - yaqqol
+0 ko'zga
+0 tashlanadi
+1 Botir - botir
+0 akaning
+0 rafiqasi
+0 Gavhar
+0 bolalar
+0 uyida
+0 tarbiyachi
+0 bo'lib
+0 ishlaydi
+1 U - u
+0 ishlaydigan
+0 bolalar
+0 uyida
+0 Sardor
+0 ismli
+0 tarbiyalanuvchiga
+0 er-xotinning
+0 mehri
+0 tushib
+0 qolgan
+1 va - va
+0 oxir
+0 oqibat
+1 ular - ular
+0 bolani
+0 asrab
+0 olishga
+0 qaror
+0 qilishadi
+0 Filmdagi
+0 asosiy
+0 konflikt
+0 bola
+0 asrab
+0 olish
+0 qaroridan
+1 so'ng - so'ng
+0 boshlanadi
+1 Bundan - bunda
+0 tashqari
+0 beshik
+0 yasash
+0 sirlari
+0 beshik
+1 uchun - uchun
+0 foydalaniladigan
+0 turli
+0 anjomlar
+1 va - va
+1 boshqa - boshqa
+1 qiziqarli - qiziqarli
+0 kadrlar
+0 filmdan
+0 joy
+0 olgan
+0 Kinematografiya
+0 agentligi
+0 buyurtmasiga
+1 binoan - binoan
+0 Hujjatli
+1 va - va
+0 xronikal
+0 filmlar
+0 kinostudiyasi
+0 tomonidan
+0 O'zbekiston
+0 Qahramoni
+0 O'zbekiston
+0 xalq
+0 shoiri
+0 mamlakat
+0 madhiyasi
+0 muallifi
+0 Abdulla
+0 Oripov
+1 haqida - haqida
+1 badiiy - badiiy
+0 film
+0 tasvirga
+0 olinmoqda
+1 Bu - bu
+0 haqda
+0 Kinematografiya
+0 agentligi
+0 Axborot
+0 xizmati
+0 xabar
+0 bermoqda
+1 Badiiy - badiiy
+0 filmni
+0 yaratish
+0 g'oyasi
+0 Prezident
+0 Shavkat
+0 Mirziyoev
+0 tomonidan
+1 ilgari - ilgari
+0 surilgan
+0 bo'lib
+0 hozirda
+0 filmning
+0 s'yomka
+0 jarayonlari
+0 bo'lib
+0 o'tmoqda
+1 Ijodiy - ijodiy
+0 guruh
+0 O'zbekistondagi
+0 tasvirga
+0 olish
+0 ishlarini
+0 yakunlab
+0 AQShda
+0 suratga
+0 olish
+0 ishlarini
+0 davom
+0 ettirishmoqda
+0 —
+1 Zamonaviy - zamonaviy
+0 texnikalar
+1 bilan - bilan
+0 xorijda
+0 film
+0 suratga
+0 olish
+0 imkoniyatini
+0 yaratib
+0 bergani
+1 uchun - uchun
+0 Prezidentimizga
+1 o'z - o'z
+0 minnatdorchiligimni
+0 bildiraman
+1 Bu - bu
+0 Davlatimiz
+0 rahbarining
+0 kino
+0 sohasiga
+0 kinoijodkorlarga
+0 qaratayotgan
+0 alohida
+0 e'tiboridan
+0 dalolat
+0 beradi
+0 O'zbek
+0 kinoijodkorlarining
+0 Gollivudda
+1 o'z - o'z
+0 qahramonlari
+1 haqida - haqida
+0 filmlar
+0 yaratishini
+0 tasavvur
+0 qilish
+1 qiyin - qiyin
+0 edi
+1 endi - endi
+0 esa
+1 bu - bu
+1 haqiqat - haqiqat
+1 Shuningdek - shuningdek
+1 ushbu - ushbu
+0 loyihani
+0 amalga
+0 oshirishda
+0 yordam
+1 va - va
+0 ko'mak
+0 ko'rsatayotgan
+0 O'zbekiston
+0 Kinematografiya
+0 agentligiga
+0 alohida
+0 minnatdorchilik
+0 bildiraman
+0 dedi
+0 Hujjatli
+1 va - va
+0 xronikal
+0 filmlar
+0 kinostudiyasi
+0 DUK
+0 rahbari
+0 film
+0 ssenariy
+0 mualliflaridan
+0 biri
+0 Furqat
+0 Usmonov
+0 Film
+0 rejissyori
+0 Muzaffarxon
+0 Erkinov
+0 Gollivudda
+0 filmning
+1 qaysi - qaysi
+0 epizodlari
+0 suratga
+0 olinayotgani
+1 haqida - haqida
+1 batafsil - batafsil
+0 to'xtalib
+0 o'tdi
+0 —
+0 Abdulla
+0 Oripov
+0 hayotining
+0 so'nggi
+0 oylari
+0 AQShda
+0 o'tgan
+1 U - u
+0 Texas
+0 shtatining
+0 Xyuston
+0 shahrida
+0 yashagan
+1 Shu - shu
+0 sabab
+0 shoirning
+0 qizi
+0 Mavluda
+0 Oripova
+0 xonadonida
+1 shuningdek - shuningdek
+0 shoir
+0 sayr
+0 qilishni
+1 juda - juda
+1 yaxshi - yaxshi
+0 ko'rgan
+1 Tinch - tinch
+0 okeani
+0 sohillarida
+0 epizodlar
+0 suratga
+0 olyapmiz
+1 Biz - biz
+1 bu - bu
+0 epizodlarni
+0 Gollivudda
+0 suratga
+0 oldik
+0 Filmda
+0 shoirning
+0 nabirasi
+1 ham - ham
+1 o'z - o'z
+0 obrazini
+1 o'zi - o'z
+0 gavdalantirmoqda
+0 —
+1 deya - deya
+0 sharhlaydi
+0 Muzaffarxon
+0 Erkinov
+0 Suratga
+0 olish
+0 ishlari
+0 AQShning
+0 Xyuston
+0 Los-Anjeles
+1 va - va
+0 Nyu-York
+0 shaharlarida
+0 olib
+0 borilmoqda
+0 Filmda
+0 Abdulla
+0 Oripovning
+0 keksalik
+0 davrini
+0 O'zbekiston
+0 Respublikasida
+0 xizmat
+0 ko'rsatgan
+0 artist
+0 Surxondaryo
+0 teatri
+0 aktyori
+0 Qudratilla
+0 Burxonov
+0 shoirning
+0 rafiqasi
+0 Xanifa
+0 Mustafoeva
+0 rolini
+0 esa
+0 O'zbekiston
+0 xalq
+0 artisti
+0 Gulchehra
+0 Jamilova
+0 ijro
+0 qilmoqda
+1 Bundan - bunda
+0 tashqari
+0 kinokartinada
+0 Do'stlik
+0 ordeni
+0 sohibi
+0 shoir
+0 Shodmonqul
+1 Salom - salom
+0 mahoratli
+1 yosh - yosh
+0 aktrisa
+0 Rayhon
+0 Asadova
+1 va - va
+1 boshqa - boshqa
+0 mahoratli
+0 aktyorlarni
+1 ham - ham
+0 ko'rish
+0 mumkin
+0 Film
+1 bosh - bosh
+0 prodyuseri
+0 Firdavs
+0 Abduxoliqov
+0 ssenariy
+0 mualliflari
+0 Minhojiddin
+0 Mirzo
+1 Muqaddas - muqaddas
+0 Usmonova
+1 va - va
+0 Furqat
+0 Usmonov
+0 postanovkachi
+0 rejissyor
+0 Muzaffarxon
+0 Erkinov
+0 postanovkachi
+0 operator
+0 Ravshan
+0 Mirzakamolov
+0 Film
+0 premerasi
+0 yil
+0 yakuniga
+0 rejalashtirilgan
+0 Qo'qon
+0 shahrida
+0 joylashgan
+0 Buyuk
+0 allomalar
+0 muzeyida
+0 O'zbekiston
+1 madaniy - madaniy
+0 merosini
+0 o'rganish
+0 saqlash
+1 va - va
+0 ommalashtirish
+1 bo'yicha - bo'yicha
+0 Butunjahon
+0 jamiyatining
+0 Qo'qon
+0 davlat
+0 muzey-qo'riqxonasi
+0 to'plami
+0 kitob-albomi
+0 taqdimoti
+0 bo'lib
+0 o'tdi
+0 Nashrda
+0 Farg'ona
+0 vodiysidagi
+0 eng
+1 qadimiy - qadimiy
+0 madaniyat
+0 muassasalaridan
+0 birida
+0 saqlanayotgan
+0 san'at
+0 asarlari
+0 namunalari
+0 taqdim
+0 etilgan
+0 Kitob-albom
+0 sahifalarida
+0 arxeologiya
+0 fondi
+0 yodgorliklari
+0 numizmatika
+0 namunalari
+0 qo'lyozma
+0 asarlar
+1 va - va
+0 hujjatli
+0 filmlar
+0 fondi
+1 haqida - haqida
+0 hikoya
+0 qilinadi
+0 Saralab
+0 olingan
+0 namunalarda
+0 yog'och
+0 o'ymakorligi
+1 va - va
+0 ganch
+0 san'ati
+0 zargarlik
+0 kulolchilik
+1 badiiy - badiiy
+0 to'qimachilik
+0 san'ati
+1 o'z - o'z
+0 ifodasini
+0 topgan
+0 Tasviriy
+0 san'at
+0 to'plamiga
+0 alohida
+0 bo'lim
+0 bag'ishlangan
+0 Muzey
+0 rahbari
+0 to'plam
+0 haqidagi
+0 kitob
+0 nashr
+0 etishda
+0 ko'rsatgan
+0 yordami
+1 uchun - uchun
+0 Butunjahon
+0 jamiyatiga
+1 o'z - o'z
+0 minnatdorchiligini
+0 bildirdi
+1 Biz - biz
+1 uzoq - uzoq
+0 vaqtdan
+1 beri - beri
+0 Qo'qon
+0 davlat
+0 muzey-qo'riqxonasiga
+0 bag'ishlangan
+0 kitob
+0 nashr
+0 etish
+0 imkoniyatini
+0 izlayotgan
+0 edik
+0 Butunjahon
+0 jamiyati
+0 ko'magi
+0 natijasida
+0 muzeyning
+1 noyob - noyob
+1 madaniy - madaniy
+0 merosiga
+0 bag'ishlangan
+0 jild
+0 O'zbekiston
+1 madaniy - madaniy
+0 merosi
+0 jahon
+0 to'plamlarida
+0 turkumi
+0 doirasida
+0 nashrdan
+0 chiqdi
+1 Bugun - bugun
+1 biz - biz
+1 o'z - o'z
+0 mehnatimiz
+0 natijasini
+0 taqdim
+0 etayotganimizdan
+0 xursandmiz
+0 —
+0 dedi
+0 Manzura
+0 Mansurova
+0 Kitob-albomni
+0 O'zbekiston
+1 madaniy - madaniy
+0 merosi
+0 jahon
+0 to'plamlarida
+0 loyihasi
+1 ilmiy - ilmiy
+0 koordinatori
+0 Elmira
+0 Gyul
+1 va - va
+0 Qo'qon
+0 davlat
+0 muzey-qo'riqxonasi
+0 to'plami
+0 loyiihasi
+0 kuratori
+0 Shahlo
+0 Abdullaeva
+0 taqdim
+0 etdi
+0 Tadbir
+0 doirasida
+0 mehmonlar
+1 uchun - uchun
+0 O'zbekiston
+1 madaniy - madaniy
+0 merosi
+0 jahon
+0 to'plamlarida
+0 turkumiga
+1 oid - oid
+0 50
+0 ta
+0 kitob-albomlardan
+0 iborat
+0 ko'rgazma
+1 ham - ham
+0 tashkil
+0 etildi
+0 O'zbek
+0 estradasi
+0 asoschisi
+1 Botir - botir
+0 Zokirov
+0 xotirasiga
+0 bag'ishlangan
+0 mazkur
+0 ko'rik-tanlovning
+0 tuman-shahar
+0 bosqichlarida
+0 ishtirok
+0 etganjami
+0 2
+0 000
+0 nafar
+0 ishtirokchilardan
+0 tanlovning
+0 hududiy
+0 saralash
+0 bosqichlarida
+0 420
+0 nafar
+1 iqtidorli - iqtidorli
+1 va - va
+0 ijodkor
+0 yoshlar
+0 saralab
+0 olingan
+0 Yakuniy
+0 saralash
+0 bosqichiga
+0 hakamlar
+0 hay'ati
+0 tomonidan
+0 tanlab
+0 olingan
+0 45
+0 nafar
+0 eng
+1 iqtidorli - iqtidorli
+0 yoshlar
+0 Turkiston
+0 san'at
+0 saroyida
+1 o'zlarining - o'z
+0 san'atlarini
+0 namoyish
+0 etishdi
+1 Ular - ular
+0 orasidan
+0 esa
+0 3
+0 nafar
+0 ishtirokchi
+1 g'olib - g'olib
+0 sifatida
+0 saralanib
+1 bugungi - bugungi
+0 marosimda
+0 taqdirlanishdi
+0 Ko'rik-tanlovning
+0 yakuniy
+0 xulosasiga
+1 ko'ra - ko'ra
+0 1-o'rin
+0 30
+1 mln - mln
+0 so'm
+0 diplom
+1 va - va
+0 maxsus
+0 statuetka
+0 sovrini
+0 Qaytmasbek
+0 Ahmedovga
+0 2-o'rin
+0 21
+1 mln - mln
+0 so'm
+0 diplom
+1 va - va
+0 maxsus
+0 statuetka
+0 Sevara
+0 To'lanovaga
+0 3-o'rin
+0 15
+1 mln - mln
+0 so'm
+0 diplom
+1 va - va
+0 maxsus
+0 statuetka
+0 Jasurbek
+0 G'aybullaevga
+0 nasib
+0 etdi
+1 Ammo - ammo
+0 ko'rik-tanlov
+0 shartlarida
+0 belgilangan
+0 grand-pri
+0 sovrini
+0 egasiz
+0 qoldi
+1 Nima - nima
+1 uchun - uchun
+0 grand-pri
+0 sovrini
+0 bo'lmadi
+0 degan
+0 savollarni
+0 berishyapti
+1 Bunga - bunga
+0 sabab
+0 —
+0 ishtirokchilarga
+0 qo'yilgan
+0 talab
+1 yuqori - yuqori
+0 Qatnashchilar
+1 ijodiy - ijodiy
+0 marralarni
+1 juda - juda
+1 baland - baland
+0 olishlari
+1 kerak - kerak
+1 Biz - biz
+0 hakamlar
+0 hay'ati
+0 a'zolari
+1 bilan - bilan
+1 shu - shu
+0 to'xtamga
+0 keldikki
+0 hali
+0 grand-priga
+0 loyiq
+0 ijrochilar
+0 bo'lmadi
+0 -
+0 dedi
+0 O'zbekiston
+0 xalq
+0 artisti
+0 ko'rik-tanlov
+0 hakamlar
+0 hay'ati
+0 raisi
+0 Farrux
+0 Zokirov
+1 U - u
+1 shuningdek - shuningdek
+0 g'oliblarning
+0 ijrosiga
+1 ham - ham
+0 umumiy
+0 qilib
+0 aytganda
+0 4
+0 baho
+0 qo'yganini
+0 aytdi
+1 hamda - hamda
+0 Faqatgina
+0 ovoz
+1 bilan - bilan
+1 bu - bu
+0 yutuqqa
+0 erishib
+0 bo'lmaydi
+0 Ishtirokchilar
+1 Botir - botir
+0 Zokirovning
+0 hayoti
+1 va - va
+0 ijodi
+0 sahnada
+1 o'zini - o'z
+0 tutish
+0 madaniyati
+1 bo'yicha - bo'yicha
+1 ham - ham
+0 bilimga
+0 ega
+0 bo'lishlari
+0 talab
+0 etiladi
+1 Men - men
+0 o'ylaymanki
+0 O'zbekistonimizda
+0 iste'dodlar
+1 juda - juda
+1 ko'p - ko'p
+1 Keyingi - keyingi
+0 tanlovlarda
+1 albatta - albatta
+0 grand-pri
+0 sovrindorlari
+1 ham - ham
+0 bo'ladi
+0 Barcha
+0 ijodkorlarga
+1 ijodiy - ijodiy
+0 zafarlar
+0 tilayman
+0 -
+1 deya - deya
+1 qo'shimcha - qo'shimcha
+0 qildi
+0 Minskda
+0 bo'lib
+0 o'tayotgan
+0 Listapad
+0 kinofestivalida
+0 kinoaktyor
+0 Ulug'bek
+0 Qodirov
+1 bilan - bilan
+0 Kazbek
+0 o'zbek-belarus
+0 filmida
+0 ishtirok
+0 etish
+1 bo'yicha - bo'yicha
+0 shartnoma
+0 imzolandi
+1 Bu - bu
+0 haqda
+0 Kinomotografiyani
+0 rivojlantirish
+0 agentligi
+0 matbuot
+0 xizmati
+0 xabar
+0 qilmoqda
+0 Filmda
+0 Mamadali
+0 Topivoldiev-Kazbek
+0 obrazini
+0 Qodirov
+0 ijro
+0 yetadi
+0 Fashistlar
+1 uni - uni
+0 Osiyo
+0 arsloni
+1 deb - deb
+0 atagan
+1 Uch - uch
+0 tomonlama
+0 shartnomani
+0 O'zbekfilm
+0 kinokonserni
+0 direktori
+0 Bahodir
+0 Odilov
+0 aktyor
+0 Ulug'bek
+0 Qodirov
+1 hamda - hamda
+0 Belarusfilm
+0 kinostudiyasi
+1 bosh - bosh
+0 direktori
+0 Vladimir
+0 Karachevskiy
+0 imzoladi
+0 Kartinani
+0 suratga
+0 olish
+0 ishlari
+1 shu - shu
+0 yilning
+0 dekabr
+0 oyida
+0 boshlanishi
+0 rejalashtirilgan
+0 Film
+0 rejissyori
+0 Muhamad
+0 Ali
+0 Iskandarov
+0 Kinoaktyor
+0 Ulug'bek
+0 Qodirov
+1 o'zining - o'z
+1 ushbu - ushbu
+0 loyihadagi
+0 ishtiroki
+1 haqida - haqida
+0 shunday
+0 deydi
+0 Filmda
+1 bosh - bosh
+0 rolni
+0 Vatanimiz
+0 qahramoni
+1 jasur - jasur
+0 inson
+0 Mamadali
+0 Topivoldiev
+0 rolini
+0 o'ynayotganimdan
+0 nihoyatda
+0 faxrlanaman
+1 Bu - bu
+1 men - men
+1 uchun - uchun
+1 katta - katta
+0 sharaf
+1 va - va
+0 mas'uliyatdir
+1 Ushbu - ushbu
+0 rol
+1 mening - mening
+0 II
+0 jahon
+0 urushi
+0 haqia
+0 olinayotgan
+0 filmdagi
+1 ilk - ilk
+0 ishtirokim
+1 birinchi - birinchi
+0 tajribam
+1 Biroz - biroz
+0 hayajondaman
+0 Rolga
+0 tayyorgarlikni
+1 allaqachon - allaqachon
+0 boshlaganman
+0 cport
+0 zaliga
+0 tashrif
+0 buyurib
+1 jiddiy - jiddiy
+0 shug'ullanmoqda
+1 Chunki - chunki
+0 millat
+0 qahramoni
+0 qiyofasini
+1 ishonchli - ishonchli
+0 yaratish
+1 u - u
+1 uchun - uchun
+1 juda - juda
+0 muhim
+0 Listopad
+0 kinofestivalda
+0 ishtirok
+0 etayotgan
+0 O'zbekiston
+0 Kinematografiya
+0 agentligi
+1 Bosh - bosh
+0 direktori
+0 Firdavs
+0 Abduxoliqov
+0 boshchiligidagi
+0 O'zbekiston
+0 delegatsiyasi
+1 va - va
+0 Kazbek
+0 filmi
+1 ijodiy - ijodiy
+0 jamoasi
+0 suratga
+0 olish
+0 rejalashtirilgan
+0 joylarda
+0 bo'ldi
+0 Film
+0 qahramonlari
+1 uchun - uchun
+0 kerakli
+0 kostyumlar
+0 tanlash
+1 ham - ham
+0 amalga
+0 oshirildi
+0 Agentlik
+1 Bosh - bosh
+0 direktori
+0 Firdavs
+0 Abduxoliqov
+0 filmni
+0 suratga
+0 olish
+0 tafsilotlari
+1 haqida - haqida
+0 quyidagi
+0 aytib
+0 o'tdi
+
+Lemmalar soni: 191

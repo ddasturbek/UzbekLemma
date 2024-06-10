@@ -1,0 +1,1002 @@
+1 Bugun - bugun
+0 25
+0 noyabr
+0 kuni
+0 Isroilning
+0 Quddus
+0 shahrida
+0 shaxmat
+1 bo'yicha - bo'yicha
+0 FIDE
+0 jamoalari
+0 o'rtasidagi
+0 Jahon
+0 chempionati
+0 bahslari
+0 yakunlanadi
+0 O'zbekiston
+0 jamoasi
+1 yirik - yirik
+0 musobaqa
+0 g'olibligi
+1 uchun - uchun
+0 bahsga
+0 kirishadi
+1 Bu - bu
+0 haqda
+0 Sportni
+0 rivojlantirish
+0 vazirligi
+0 matbuot
+0 xizmati
+0 xabar
+0 qildi
+1 Ma'lum - ma'lum
+0 qilinishicha
+0 O'zbekistonlik
+0 shaxmatchilarga
+0 hal
+0 qiluvchi
+0 bellashuvda
+0 Xitoy
+0 vakillari
+0 raqiblik
+0 qiladi
+0 Xitoyliklar
+1 yarim - yarim
+0 finalda
+0 Ispaniyadan
+0 ustun
+0 kelishgandi
+0 O'zbek
+0 shaxmatchilari
+0 esa
+1 yarim - yarim
+0 finalda
+0 Hindiston
+0 jamoasini
+0 dog'da
+0 qoldirdi
+0 O'zbekiston
+1 va - va
+0 Xitoy
+0 o'rtasidagi
+0 final
+0 partiyasi
+1 bugun - bugun
+0 Toshkent
+0 vaqti
+1 bilan - bilan
+0 soat
+0 1800da
+0 start
+0 oladi
+0 AQSh
+1 va - va
+0 Uels
+1 terma - terma
+0 jamoalari
+0 futbolchilari
+0 Qatarda
+0 bo'lib
+0 o'tayotgan
+0 jahon
+0 chempionatining
+0 guruh
+0 bosqichining
+1 birinchi - birinchi
+0 o'yinida
+0 durang
+0 o'ynadi
+0 Uchrashuv
+0 11
+0 hisobida
+0 yakunlandi
+0 AQSh
+1 terma - terma
+0 jamoasi
+1 uchun - uchun
+1 birinchi - birinchi
+0 golni
+0 Liberiya
+0 prezidenti
+0 Jorj
+0 Veaning
+0 o'g'li
+0 Timoti
+0 Vea
+0 36-daqiqada
+0 kiritdi
+0 Uels
+1 terma - terma
+0 jamoasi
+0 uchrashuvning
+0 82-daqiqasida
+0 Garet
+0 Beyl
+0 penaltini
+0 golga
+0 aylantirib
+0 hisobni
+0 tenglashtirgan
+0 22
+0 yoshli
+0 Timoti
+0 Vea
+0 AQSh
+0 fuqarosi
+1 Uning - uning
+0 otasi
+0 Jorj
+0 -
+0 Monako
+0 Pari
+0 Sen-Jermen
+0 Milan
+0 Chelsi
+1 va - va
+0 Manchester
+0 Siti
+0 klublarida
+0 o'ynagan
+1 sobiq - sobiq
+0 professional
+0 futbolchi
+0 hisoblanadi
+0 Jorj
+0 Vea
+0 Italiya
+1 va - va
+0 Fransiya
+0 chempioni
+1 Oltin - oltin
+0 to'p
+0 sohibi
+0 1995
+0 yil
+0 Afrika
+0 qit'asining
+1 bu - bu
+0 sovrinni
+0 qo'lga
+0 kiritgan
+1 yagona - yagona
+0 vakili
+1 U - u
+0 futbolchilik
+0 faoliyatidan
+1 so'ng - so'ng
+0 siyosiy
+0 faoliyat
+1 bilan - bilan
+0 shug'ullana
+0 boshlagan
+0 2015-2018
+0 yillarda
+0 Liberiya
+0 senatori
+0 2018
+0 yilda
+0 esa
+0 prezident
+0 etib
+0 saylangan
+0 Ma'lumot
+1 uchun - uchun
+0 AQSh
+1 terma - terma
+0 jamoasi
+0 jahon
+0 chempionatida
+0 11-marta
+0 ishtirok
+0 etmoqda
+0 2018
+0 yil
+0 Rossiyada
+0 bo'lib
+0 o'tgan
+0 jahon
+0 chempionati
+1 uchun - uchun
+0 amerikaliklar
+0 saralashdan
+0 o'ta
+0 olishmagan
+0 Amerika
+0 jamoasining
+0 chempionatdagi
+0 eng
+1 yaxshi - yaxshi
+0 yutug'i
+0 1930
+0 yilda
+0 bo'lgan
+1 O'shanda - o'shanda
+0 jamoa
+1 uchinchi - uchinchi
+0 o'rinni
+0 egallagan
+1 Bugun - bugun
+0 20
+0 noyabr
+0 kuni
+0 Qatar
+0 poytaxti
+0 Dohada
+1 har - har
+1 to'rt - to'rt
+0 yillikning
+0 eng
+1 yirik - yirik
+0 futbol
+0 bayrami
+0 2022
+0 yilgi
+0 jahon
+0 chempionati
+0 ochilish
+0 marosimi
+0 bo'lib
+0 o'tdi
+0 JCh-2022ni
+0 Dohadan
+0 turib
+0 yoritib
+0 borayotganlarning
+1 ma'lum - ma'lum
+0 qilishicha
+0 Al-Bayt
+0 stadionida
+0 o'tgan
+0 marosim
+1 yuqori - yuqori
+0 tashkilotchilik
+1 va - va
+0 tayyorlangan
+0 turli
+0 sahna
+0 ko'rinishlari
+1 bilan - bilan
+0 o'tgan
+0 Marosimda
+0 janubiy
+0 koreyalik
+0 qo'shiqchi
+1 va - va
+0 BTS
+0 guruhi
+0 a'zosi
+0 Chonguk
+1 va - va
+0 qatarlik
+0 qo'shiqchi
+0 Fahad
+0 Al-Kubaysi
+0 Dreamers
+0 kompozitsiyasi
+1 bilan - bilan
+0 chiqish
+0 qilishgan
+0 Qatar
+0 amiri
+0 Tamim
+0 bin
+0 Hamad
+0 At-Tani
+0 ochilish
+0 nutqi
+1 bilan - bilan
+0 chiqish
+0 qilib
+0 barchani
+0 mundial
+1 bilan - bilan
+0 tabriklagan
+0 Qatardan
+0 arab
+0 mamlakatidan
+0 barchani
+0 jahon
+0 chempionatidan
+0 qutlayman
+1 Biz - biz
+1 bu - bu
+0 turnirni
+0 jahon
+0 chempionatlari
+0 tarixidagi
+0 eng
+0 muvaffaqiyatlisi
+0 bo'lishi
+1 uchun - uchun
+1 birgalikda - birgalikda
+0 mehnat
+0 qildik
+0 Buyuk
+0 futbol
+0 festivalidamiz
+0 Turli
+0 irq
+0 millat
+0 e'tiqod
+1 va - va
+0 qarashlardan
+0 qat'i
+0 nazar
+0 futbol
+0 barchamizni
+0 birlashtiradi
+1 Bu - bu
+0 yerda
+1 butun - butun
+0 insoniyat
+0 manfaati
+1 uchun - uchun
+1 ham - ham
+1 bor - bor
+0 kuchimizni
+0 sarflab
+0 sarmoya
+0 kiritdik
+1 Nihoyat - nihoyat
+1 bugun - bugun
+0 biz-u
+1 siz - siz
+0 kutgan
+0 damlarga
+0 yetib
+0 keldik
+0 Bugundan
+1 boshlab - boshlab
+0 Xudo
+0 xohlasa
+0 28
+0 kun
+0 davomida
+1 butun - butun
+0 dunyo
+1 biz - biz
+1 bilan - bilan
+1 ajoyib - ajoyib
+0 futbol
+0 bayramini
+0 kuzatib
+0 boradi
+0 Barcha
+0 ishtirokchi
+0 jamoalar
+0 muxlislarni
+0 qutlayman
+0 -
+0 deydi
+0 Qatar
+0 amiri
+1 o'z - o'z
+0 nutqida
+0 Eng
+1 e'tiborli - e'tiborli
+0 jihati
+0 JCh-2022
+0 ochilish
+0 marosimida
+0 qatarlik
+0 qori
+0 yigit
+0 G'anim
+0 Mufah
+0 Qur'oni
+0 Karim
+0 oyatlaridan
+0 tilovat
+0 qildi
+1 Shuningdek - shuningdek
+0 Gollivudning
+1 mashhur - mashhur
+0 aktyori
+0 Morgan
+0 Friman
+0 JCh
+0 ochilishida
+0 chiqish
+0 qilib
+0 futbol
+0 insoniyatni
+0 birlashtirishi
+1 haqida - haqida
+0 gapirgan
+0 Ochilish
+0 marosimidan
+1 keyin - keyin
+0 Qatar
+0 -
+0 Ekvador
+0 uchrashuvi
+0 startidan
+1 avval - avval
+0 Al-Bayt
+0 stadioniga
+0 JCh
+1 bosh - bosh
+0 sovrini
+0 maketi
+0 ko'rsatildi
+1 Shu - shu
+0 tariqa
+1 ushbu - ushbu
+0 o'yin
+1 bilan - bilan
+0 JCh-2022
+1 rasman - rasman
+0 start
+0 oldi
+1 Biroq - biroq
+0 Qatar
+1 o'z - o'z
+0 uyida
+0 musobaqaning
+1 dastlabki - dastlabki
+0 o'yinida
+0 mag'lub
+0 bo'ldi
+0 Ochilish
+0 bahsida
+0 Ekvador
+0 mezbonlarga
+1 umuman - umuman
+0 imkoniyat
+0 qoldirmadi
+0 Fenerbahche
+0 hujumchisi
+0 Enner
+0 Valensiyaning
+0 dubli
+0 Lotin
+0 Amerikasi
+0 vakiliga
+0 g'alaba
+0 keltirdi
+0 Quyida
+0 esa
+0 ochilish
+0 marosimidan
+0 olingan
+0 suratlar
+1 bilan - bilan
+0 tanishing
+0 Tarixda
+1 ilk - ilk
+1 bor - bor
+0 futbol
+1 bo'yicha - bo'yicha
+0 Jahon
+0 chempionatining
+0 ochilish
+0 marosimi
+0 oldidan
+0 Qur'on
+0 oyatlaridan
+0 tilovat
+0 qilindi
+1 Yigirma - yigirma
+0 yoshli
+0 G'anim
+0 Al
+0 Muftoh
+0 FIFA
+0 Jahon
+0 chempionati
+0 ochilish
+0 marosimising
+0 qorisi
+0 bo'ldi
+0 Jarayon
+1 bugun - bugun
+0 yakshanba
+0 kuni
+0 mahalliy
+0 vaqt
+1 bilan - bilan
+0 soat
+0 1700da
+0 Al-Xor
+0 shahridagi
+0 Al
+0 Bayt
+0 stadionida
+0 tashkil
+0 etildi
+0 Ma'lumot
+1 uchun - uchun
+0 G'anim
+0 Al
+0 Muftoh
+0 arab
+0 dunyosidagi
+1 ko'plab - ko'plab
+0 yoshlar
+1 uchun - uchun
+0 namuna
+0 bo'lib
+1 u - u
+0 umurtqa
+0 pog'onasining
+0 pastki
+0 qismi
+0 rivojlanishiga
+0 putur
+0 etkazadigan
+0 kam
+0 uchraydigan
+0 kasallik
+0 bo'lgan
+0 kaudal
+0 regressiya
+0 sindromiga
+0 ega
+0 bo'lishiga
+1 qaramay - qaramay
+1 ko'plab - ko'plab
+0 yutuqlarga
+0 erishgan
+0 Futbol
+1 bo'yicha - bo'yicha
+0 2022
+0 yilgi
+0 jahon
+0 chempionati
+0 20
+0 noyabrdan
+0 18
+0 dekabrga
+1 qadar - qadar
+0 Qatarda
+0 bo'lib
+0 o'tadi
+0 Jahon
+0 chempionatning
+0 barcha
+0 o'yinlari
+0 beshta
+0 Doha
+0 Lusail
+0 El-Xaur
+0 Er-Rayyan
+0 El
+0 Vakra
+0 shaharlardagi
+0 sakkizta
+0 stadionda
+0 bo'lib
+0 o'tadi
+0 Meksikada
+0 o'tkazilayotgan
+0 taekvondo
+1 bo'yicha - bo'yicha
+0 jahon
+0 chempionatining
+1 yana - yana
+1 bir - bir
+0 kuni
+0 O'zbekiston
+1 terma - terma
+0 jamoasi
+1 uchun - uchun
+1 omadli - omadli
+0 o'tdi
+0 73
+0 kg
+0 vazn
+0 toifasida
+0 bahs
+0 olib
+0 borgan
+0 hamyurtimiz
+0 Svetlana
+0 Osipova
+0 jahon
+0 chempionligini
+0 qo'lga
+0 kiritdi
+0 Final
+0 bellashuvida
+0 Osipova
+0 isroillik
+0 Dana
+0 Arzanni
+0 3
+0 raundda
+0 21
+0 mag'lubiyatga
+0 uchratdi
+1 Bu - bu
+1 bilan - bilan
+0 Osipova
+0 jahon
+0 chempionatlarida
+0 g'alaba
+0 qozongan
+1 birinchi - birinchi
+0 taekvondochi
+0 o'zbekistonlik
+0 qiz
+0 sifatida
+0 tarixda
+0 qolmoqda
+0 Joriy
+0 yil
+0 11-13
+0 noyabr
+0 kunlari
+0 Qozon
+0 shahrida
+0 qo'l
+0 jangi
+1 bo'yicha - bo'yicha
+0 Osiyo
+0 chempionati
+0 bo'lib
+0 o'tdi
+0 Mazkur
+0 musobaqada
+0 qo'l
+0 jangi
+1 bo'yicha - bo'yicha
+0 O'zbekiston
+1 terma - terma
+0 jamoasi
+0 umumjamoa
+0 hisobida
+0 1-o'rinni
+0 qo'lga
+0 kiritdi
+1 Bu - bu
+0 haqda
+0 Sportni
+0 rivojlantirish
+0 vazirligi
+0 xabar
+0 berdi
+0 Ta'kidlanishicha
+1 ushbu - ushbu
+0 turnirda
+0 dunyoning
+0 turli
+0 davlatlaridan
+0 15
+0 dan
+1 ortiq - ortiq
+0 jamoalar
+0 ishtirok
+0 etishgan
+0 Qo'l
+0 jangi
+1 bo'yicha - bo'yicha
+0 Osiyo
+0 chempionatining
+1 ikkinchi - ikkinchi
+0 kunida
+0 duel
+0 yo'nalishi
+1 bo'yicha - bo'yicha
+0 6
+0 ta
+0 vazn
+0 toifasida
+0 g'oliblar
+1 va - va
+0 sovrindorlar
+1 bilan - bilan
+0 tanishing
+1 Bugun - bugun
+0 O'zbekiston
+0 Superligasining
+0 so'ngi
+0 tur
+0 bahslari
+0 bo'lib
+0 o'tadi
+1 Avvalgi - avvalgi
+0 mavsumlarga
+0 nazar
+0 tashlaydigan
+0 bo'lsak
+1 ko'p - ko'p
+0 xollarda
+0 chempion
+0 nomi
+0 so'ngi
+0 turdan
+0 ancha
+1 avval - avval
+1 ma'lum - ma'lum
+0 bo'lardi
+1 Bu - bu
+0 yilgi
+0 mavsum
+0 esa
+0 muxlislar
+0 sabrini
+0 so'ngi
+0 turgacha
+0 sinovdan
+0 o'tkazdi
+1 Bugun - bugun
+0 7
+0 ta
+0 stadionda
+0 o'tadigan
+0 o'yinlaridan
+1 keyin - keyin
+0 chempion
+0 sovrindorlar
+1 va - va
+0 Pro
+0 ligaga
+0 yo'l
+0 oladigan
+0 jamoa
+0 nomi
+0 aniq
+0 bo'ladi
+0 Turnir
+0 jadvaliga
+0 e'tibor
+0 qaratadigan
+0 bo'lsak
+0 Paxtakor
+0 51
+0 ochko
+1 bilan - bilan
+1 peshqadam - peshqadam
+0 bo'lib
+0 turibdi
+0 Paxtakorning
+0 g'alabasi
+0 oriqcha
+0 hisob-kitoblarsiz
+0 klubni
+0 chempionlik
+0 shohsupasiga
+0 olib
+0 chiqadi
+0 Durangdan
+0 Navbahor
+1 faqat - faqat
+0 AGMKni
+0 yutish
+1 orqali - orqali
+0 foydalanib
+0 qolishi
+0 mumkin
+1 Chunki - chunki
+0 namanganliklar
+0 hisobida
+0 50
+0 ochko
+0 mavjud
+1 va - va
+1 ikkinchi - ikkinchi
+0 o'rinda
+0 ketmoqda
+1 Agarda - agarda
+0 Paxtakor
+0 mag'lubiyatga
+0 uchrab
+0 Navbahor
+0 durang
+0 qayd
+0 etsa
+0 ochkolar
+0 tenglashadi
+0 Joriy
+0 yilgi
+0 o'zaro
+0 uchrashuvlarda
+0 ustunlik
+0 Paxtakor
+0 tomonida
+0 Bunday
+0 holat
+0 ro'y
+0 bergan
+0 taqdirda
+0 Maksim
+0 Shaskix
+0 shogirdlari
+1 birinchi - birinchi
+0 o'rinda
+0 qolishadi
+0 Nasaf
+0 futbolchilari
+0 Olimpikni
+0 mag'lubiyatga
+0 uchratishlari
+0 evaziga
+0 Paxtakorga
+0 yetib
+0 olishadi
+1 va - va
+1 ikki - ikki
+0 jamoada
+1 ham - ham
+1 bir - bir
+0 xil
+0 52
+0 ochkodan
+0 bo'ladi
+0 O'zaro
+0 o'yinlarda
+0 qarshiliklar
+0 4
+0 poytaxt
+0 klubi
+0 1
+0 ochko
+0 ishlagan
+1 Bunda - bunda
+0 Nasaf
+0 chempionlikni
+0 rasmiylashtiradi
+0 Kecha
+1 Xalqaro - xalqaro
+0 boks
+0 assotsiatsiyasi
+0 IBA
+0 prezidenti
+0 Umar
+0 Kremlyov
+0 ishtirokida
+0 bo'lib
+0 o'tgan
+0 matbuot
+0 anjumanida
+0 2023
+0 yilgi
+0 jahon
+0 chempionati
+0 1-14
+0 may
+0 kunlari
+0 Toshkentda
+0 o'tkazilishi
+0 tasdiqladi
+1 Bu - bu
+0 haqda
+0 O'zbekiston
+0 boks
+0 federatsiyasining
+1 rasmiy - rasmiy
+0 kanalida
+1 ma'lum - ma'lum
+0 qilindi
+0 Ishonamanki
+0 boks
+1 bo'yicha - bo'yicha
+0 erkaklar
+0 o'rtasidagi
+0 jahon
+0 chempionati
+1 yuqori - yuqori
+0 darajada
+0 o'tkaziladi
+1 va - va
+0 tarixdagi
+0 eng
+0 zo'rlaridan
+0 biri
+0 bo'ladi
+1 Men - men
+0 O'zbekistonda
+0 bo'lganman
+1 va - va
+1 u - u
+0 yerda
+0 musobaqalar
+1 qanday - qanday
+0 tashkil
+0 etilishini
+0 ko'rganman
+1 U - u
+0 yerdagi
+0 professionalizim
+1 va - va
+0 boksga
+0 bo'lgan
+0 mehr
+1 ko'p - ko'p
+0 mamlakatlar
+1 uchun - uchun
+0 namuna
+0 bo'ladi
+0 Toshkentda
+1 yangi - yangi
+0 chempionlarni
+0 ko'rishni
+0 sabrsizlik
+1 bilan - bilan
+0 kutmoqdaman
+0 Tarixda
+1 ilk - ilk
+0 bora
+1 bizda - biz
+0 rekord
+0 miqdordagi
+0 mukofot
+0 jamg'armasi
+0 bo'ladi
+0 -
+0 52
+1 million - million
+0 AQSh
+0 dollari
+1 Birinchi - birinchi
+0 o'rin
+1 uchun - uchun
+0 200
+1 ming - ming
+0 AQSh
+0 dollari
+1 ikkinchi - ikkinchi
+0 o'ringa
+0 100
+0 000
+0 AQSh
+0 dollari
+0 bronza
+0 medali
+0 sohiblariga
+0 esa
+0 50
+1 ming - ming
+0 dollardan
+0 beriladi
+0 -
+0 dedi
+0 IBA
+0 prezidenti
+0 Umar
+0 Kremlyov
+1 Bu - bu
+1 tasodifan - tasodifan
+0 bo'lib
+0 qolgani
+1 yo'q - yo'q
+0 O'zbekistonda
+1 uzoq - uzoq
+0 yillardan
+1 beri - beri
+0 saqlanib
+0 kelinayotgan
+1 boy - boy
+0 boks
+0 an'analari
+1 bunga - bunga
+0 sababdir
+0 O'zbekiston
+0 boks
+0 oilasi
+0 nomidan
+1 shuni - shu
+0 aytishim
+0 mumkinki
+0 mamlakatimiz
+0 boks
+1 bo'yicha - bo'yicha
+0 erkaklar
+0 o'rtasidagi
+0 jahon
+0 chempionatini
+1 yuqori - yuqori
+0 saviyada
+0 o'tkazish
+1 uchun - uchun
+0 barcha
+0 ishni
+0 qiladi
+0 -
+0 dedi
+0 Saken
+0 Polatov
+
+Lemmalar soni: 175

@@ -1,0 +1,1001 @@
+0 Joriy
+0 yilning
+0 1
+0 dekabr
+0 kuni
+0 Samarqand
+0 shahrida
+0 O'zbekiston-Rossiya
+1 biznes-forumi - biz
+0 bo'lib
+0 o'tdi
+1 Unda - unda
+0 vazirlik
+1 va - va
+0 idoralar
+0 viloyatlar
+0 tarmoq
+0 birlashmalari
+1 va - va
+0 uyushmalar
+0 rahbarlari
+1 shuningdek - shuningdek
+0 O'zbekiston
+0 Respublikasi
+1 va - va
+0 Rossiya
+0 Federatsiyasidan
+0 500
+0 dan
+1 ortiq - ortiq
+0 yetakchi
+0 kompaniya
+1 va - va
+0 korporatsiyalar
+0 vakillari
+0 ishtirok
+0 etdi
+0 Tadbirda
+0 O'zbekiston
+0 delegatsiyasiga
+1 Bosh - bosh
+0 vazir
+0 o'rinbosari
+0 investitsiyalar
+1 va - va
+1 tashqi - tashqi
+0 savdo
+0 vaziri
+0 Jamshid
+0 Xodjaev
+0 Rossiya
+0 delegatsiyasiga
+0 esa
+0 Rossiya
+0 Federatsiyasi
+1 iqtisodiy - iqtisodiy
+0 rivojlanish
+0 vaziri
+0 Maksim
+0 Reshetnikov
+0 boshchilik
+0 qildi
+0 Delegatsiyalar
+0 rahbarlari
+1 o'z - o'z
+0 chiqishlarida
+0 mamlakatlarimiz
+0 o'rtasidagi
+1 ko'p - ko'p
+0 qirrali
+0 hamkorlik
+1 yuksak - yuksak
+0 darajada
+0 ekani
+1 shuningdek - shuningdek
+0 qo'shma
+0 sarmoyaviy
+0 loyihalar
+0 soni
+1 izchil - izchil
+0 ortib
+0 borayotgani
+1 uzoq - uzoq
+1 muddatli - muddatli
+0 savdo
+0 aloqalari
+0 yo'lga
+0 qo'yilganini
+0 alohida
+0 ta'kidladilar
+0 O'zbekiston
+1 va - va
+0 Rossiya
+0 o'rtasidagi
+0 tovar
+0 ayirboshlash
+0 o'sishining
+1 ijobiy - ijobiy
+0 dinamikasi
+0 qayd
+0 etildi
+0 So'nggi
+1 besh - besh
+0 yilda
+0 mamlakatlar
+0 o'rtasidagi
+0 tovar
+0 ayirboshlash
+0 hajmi
+0 170
+0 foizga
+0 o'sdi
+0 2021
+0 yil
+0 oxiriga
+0 kelib
+0 esa
+1 yana - yana
+0 uchdan
+1 bir - bir
+0 qismga
+0 ko'payib
+0 75
+1 milliard - milliard
+0 dollardan
+0 oshdi
+0 O'zaro
+0 tovar
+0 ayirboshlash
+0 hajmini
+0 10
+1 milliard - milliard
+0 dollarga
+0 yetkazishdan
+1 ikki - ikki
+1 tomon - tomon
+1 ham - ham
+1 manfaatdor - manfaatdor
+0 ekani
+0 bildirildi
+0 Tomonlar
+1 keyingi - keyingi
+0 yillarda
+0 investitsiyaviy
+0 hamkorlik
+1 va - va
+0 sanoat
+0 kooperatsiyasi
+0 faollashganini
+1 yuqori - yuqori
+0 baholadilar
+0 O'zbekistonda
+0 Rossiya
+0 kapitali
+0 ishtirokida
+0 tashkil
+0 etilgan
+0 korxonalar
+0 soni
+0 so'nggi
+0 5
+0 yilda
+0 3
+0 barobarga
+0 ko'payib
+0 3000
+0 tadan
+0 oshdi
+1 Bugungi - bugungi
+1 kunda - kunda
+0 O'zbekistonda
+0 neft-kimyo
+0 energetika
+0 kon-metallurgiya
+0 sog'liqni
+0 saqlash
+1 va - va
+0 farmasevtika
+1 yengil - yengil
+0 sanoat
+0 qurilish
+0 materiallari
+0 ishlab
+0 chiqarish
+1 shuningdek - shuningdek
+0 meva-sabzavotlarni
+0 qayta
+0 ishlash
+1 kabi - kabi
+0 sohalarda
+0 Rossiya
+0 kompaniyalari
+1 bilan - bilan
+0 umumiy
+0 qiymati
+0 20
+1 milliard - milliard
+0 dollardan
+1 ortiq - ortiq
+0 bo'lgan
+1 ikki - ikki
+0 yuzga
+1 yaqin - yaqin
+0 qo'shma
+0 loyiha
+0 amalga
+0 oshirilmoqda
+1 Shu - shu
+1 bilan - bilan
+1 birga - birga
+1 ikki - ikki
+0 mamlakatning
+1 iqtisodiy - iqtisodiy
+0 salohiyati
+1 ustuvor - ustuvor
+0 yo'nalishlarda
+1 jumladan - jumladan
+0 avtomobilsozlik
+0 kimyo
+1 va - va
+0 to'qimachilik
+0 sanoati
+0 qishloq
+0 xo'jaligi
+1 va - va
+0 farmasevtika
+0 qurilish
+0 materiallari
+0 ishlab
+0 chiqarish
+1 va - va
+1 boshqa - boshqa
+0 sohalarda
+0 hamkorlikni
+0 yanada
+0 rivojlantirish
+1 uchun - uchun
+1 zarur - zarur
+0 shart-sharoitlar
+0 yaratib
+0 berayotgani
+1 haqida - haqida
+0 so'z
+0 bordi
+0 Sanoat
+0 kooperatsiyasining
+1 yangi - yangi
+0 loyihalarini
+1 va - va
+0 savdo
+0 kelishuvlarini
+0 ishlab
+0 chiqish
+0 maqsadida
+0 hududlararo
+0 kooperatsiyani
+0 rivojlantirish
+1 bo'yicha - bo'yicha
+0 qo'shma
+0 ishlarni
+0 davom
+0 ettirish
+0 zarurligi
+0 qayd
+0 etildi
+1 Yaqin - yaqin
+0 kelajakda
+0 2023
+0 yilga
+0 mo'ljallangan
+0 hududlarga
+0 o'zaro
+0 tashriflar
+0 jadvali
+0 tasdiqlanadi
+1 va - va
+0 navbatdagi
+1 uchinchi - uchinchi
+0 Mintaqalararo
+0 forumni
+0 o'tkazishning
+0 aniq
+0 sanasi
+0 kelishib
+0 olindi
+1 Biznes-forum - biz
+0 ekspertlar
+0 muloqoti
+1 uchun - uchun
+1 samarali - samarali
+0 maydonga
+0 aylandi
+1 Bu - bu
+0 yerda
+0 O'zbekiston
+1 va - va
+0 Rossiyaning
+0 qator
+0 tarmoqlarining
+0 salohiyati
+1 keng - keng
+0 ochib
+0 berilib
+0 istiqbolli
+0 sarmoyaviy
+0 loyihalar
+0 taqdim
+0 etildi
+0 Tadbir
+0 dasturi
+0 doirasida
+1 shuningdek - shuningdek
+0 sanoat
+0 klasterlarini
+1 birgalikda - birgalikda
+0 rivojlantirish
+0 sanoat
+0 kooperatsiyasi
+0 zanjirlarini
+0 shakllantirish
+0 yoqilg'i-energetika
+0 tarmog'i
+0 sanoat
+1 va - va
+0 transport
+0 eksport
+0 hajmini
+0 oshirish
+0 agrosanoat
+0 majmuasida
+1 kichik - kichik
+1 va - va
+1 o'rta - o'rta
+1 biznes - biz
+0 sub'ektlari
+0 o'rtasida
+0 ishbilarmonlik
+0 aloqalarini
+0 o'rnatish
+0 IT-texnologiyalarni
+0 joriy
+0 etish
+0 savdo-iqtisodiy
+0 aloqalarni
+0 raqamlashtirish
+0 bozorlarni
+0 rivojlantirish
+1 kabi - kabi
+1 yirik - yirik
+0 qo'shma
+0 investitsiya
+0 loyihalarini
+0 amalga
+0 oshirishdek
+1 ustuvor - ustuvor
+0 yo'nalishlarga
+0 ishtirokchilar
+0 e'tiborini
+0 qaratgan
+1 bir - bir
+1 necha - necha
+0 panel
+0 sessiyalari
+1 ham - ham
+0 bo'lib
+0 o'tdi
+1 Shuningdek - shuningdek
+0 forum
+1 ikki - ikki
+0 mamlakat
+1 ishbilarmon - ishbilarmon
+0 doiralari
+0 vakillari
+0 o'rtasida
+0 uchrashuvlar
+0 tashkil
+0 etilib
+1 ularda - ular
+0 qo'shma
+0 investitsiya
+0 loyihalarini
+0 amalga
+0 oshirish
+1 va - va
+0 o'zaro
+1 manfaatli - manfaatli
+0 savdo
+0 shartnomalarini
+0 tuzish
+0 imkoniyatlari
+0 muhokama
+0 qilindi
+0 Tadbir
+0 doirasida
+0 O'zbekistonda
+0 ishlab
+0 chiqarilgan
+0 nomi
+1 ostida - ostida
+0 ko'rgazma
+1 ham - ham
+0 tashkil
+0 etilib
+1 unda - unda
+0 mamlakatimizning
+1 bir - bir
+0 qator
+0 tarmoqlar
+1 va - va
+0 yo'nalishlardagi
+0 sanoat
+0 salohiyati
+0 namoyish
+0 etildi
+0 Ekspozitsiya
+0 rossiyalik
+1 biznes - biz
+0 vakillarida
+0 qiziqish
+0 uyg'otib
+0 hamkorlikning
+0 zamin
+0 yaratdi
+1 Umuman - umuman
+0 olganda
+1 biznes-forum - biz
+1 ikki - ikki
+0 mamlakat
+1 ishbilarmon - ishbilarmon
+0 doiralari
+0 vakillariga
+1 o'z - o'z
+0 yon
+0 daftarlari
+1 yangi - yangi
+0 hamkorlar
+0 to'g'risidagi
+0 ma'lumotlar
+1 bilan - bilan
+0 boyitish
+0 o'zaro
+1 manfaatli - manfaatli
+1 yangi - yangi
+0 loyiha
+1 va - va
+0 tashabbuslarning
+0 texnik
+1 va - va
+1 moliyaviy - moliyaviy
+0 jihatlarini
+1 atroflicha - atroflicha
+0 muhokama
+0 qilish
+1 uzoq - uzoq
+1 muddatli - muddatli
+0 istiqboldagi
+0 mushtarak
+0 manfaatlarni
+0 belgilash
+0 imkonini
+0 yaratib
+0 O'zbekiston
+1 va - va
+0 Rossiya
+0 o'rtasidagi
+0 sheriklikning
+1 yangi - yangi
+0 qirralarini
+0 ochib
+0 berdi
+0 Toshkent
+0 shahar
+0 sog'liqni
+0 saqlash
+1 bosh - bosh
+0 boshqarmasi
+0 boshlig'i
+0 o'rinbosarlari
+0 lavozimlariga
+0 o'tkazilgan
+1 ochiq - ochiq
+0 tanlov
+0 natijalariga
+1 ko'ra - ko'ra
+0 qator
+0 tayinlovlar
+0 amalga
+0 oshirildi
+1 Bu - bu
+0 haqda
+0 Sog'liqni
+0 saqlash
+0 vazirligi
+0 Matbuot
+0 xizmati
+0 xabar
+0 bermoqda
+1 Xususan - xususan
+0 Sog'liqni
+0 saqlash
+0 vazirining
+1 tegishli - tegishli
+0 buyrug'i
+1 bilan - bilan
+0 Satvaldiev
+0 Nodirjon
+0 Abduvaxidovich
+0 Toshkent
+0 shahar
+0 sog'liqni
+0 saqlash
+1 bosh - bosh
+0 boshqarmasi
+0 boshlig'ining
+0 tibbiy
+0 yordamni
+0 tashkillashtirish
+1 bo'yicha - bo'yicha
+1 birinchi - birinchi
+0 o'rinbosari
+0 etib
+0 tayinlandi
+0 NSatvaldiev
+0 2009
+0 yilda
+0 Toshkent
+0 tibbiyot
+0 akademiyasini
+0 tamomlab
+1 o'z - o'z
+0 ish
+0 faoliyatini
+0 farmasevtik
+0 kompaniya
+0 menejeri
+0 sifatida
+0 boshlagan
+1 Keyinchalik - keyinchalik
+0 Respublika
+0 ixtisoslashtirilgan
+0 ftiziatriya
+1 va - va
+0 pulmonologiya
+0 ilmiy-amaliy
+0 tibbiyot
+0 markazi
+0 bo'limi
+0 klinik
+0 ordinatori
+0 shifokor-statisti
+0 Maslahat
+0 poliklinikasi
+0 mudiri
+1 bosh - bosh
+0 shifokor
+0 lavozimlarida
+0 mehnat
+0 qilgan
+0 Abdullaeva
+0 Muattarxon
+0 Ilyosovna
+0 Toshkent
+0 shahar
+0 sog'liqni
+0 saqlash
+1 bosh - bosh
+0 boshqarmasi
+0 boshlig'ining
+0 onalik
+1 va - va
+0 bolalikni
+0 muhofaza
+0 qilish
+1 hamda - hamda
+0 reproduktiv
+0 salomatlik
+1 bo'yicha - bo'yicha
+0 o'rinbosari
+0 etib
+0 tayinlandi
+0 M
+0 Abdullaeva
+0 1997
+0 yil
+0 1-Toshkent
+0 davlat
+0 tibbiyot
+0 instituti
+1 hozirgi - hozirgi
+0 Toshkent
+0 tibbiyot
+0 akademiyasini
+0 tamomlab
+1 o'z - o'z
+0 ish
+0 faoliyatini
+0 Angren
+0 shahar
+0 shifoxonasida
+0 vrach-terapevt
+0 sifatida
+0 boshlagan
+1 Keyinchalik - keyinchalik
+0 Toshkent
+0 shahrining
+0 Mirobod
+0 tumanidagi
+0 3-son
+0 oilaviy
+0 poliklinika
+1 bosh - bosh
+0 shifokori
+0 Yashnobod
+0 tumani
+0 tibbiyot
+0 birlashmasi
+0 boshlig'i
+0 lavozimlarida
+0 mehnat
+0 qilgan
+0 Mutaxassis
+0 hozirga
+1 qadar - qadar
+1 ushbu - ushbu
+0 boshqarma
+0 boshlig'ining
+0 onalik
+1 va - va
+0 bolalikni
+0 muhofaza
+0 qilish
+1 hamda - hamda
+0 reproduktiv
+0 salomatlik
+1 bo'yicha - bo'yicha
+0 o'rinbosari
+0 vazifasini
+0 bajaruvchi
+0 vazifasida
+0 faoliyat
+0 yuritib
+0 kelayotgan
+0 edi
+0 Isabekov
+0 Botirbek
+0 Abdulla
+0 o'g'li
+0 Toshkent
+0 shahar
+0 sog'liqni
+0 saqlash
+1 bosh - bosh
+0 boshqarmasi
+0 boshlig'ining
+0 raqamlashtirish
+1 va - va
+0 davlat-xususiy
+0 sheriklik
+1 bo'yicha - bo'yicha
+0 o'rinbosari
+0 etib
+0 tayinlandi
+0 B
+0 Isabekov
+0 2001
+0 yil
+0 2-Toshkent
+0 davlat
+0 tibbiyot
+0 institutini
+0 tamomlagan
+0 Toshkent
+0 viloyat
+1 tez - tez
+0 tibbiy
+0 yordam
+0 stansiyasida
+0 ish
+0 boshlagan
+0 mutaxassis
+1 keyinchalik - keyinchalik
+0 Uchtepa
+0 tumanidagi
+0 30-son
+0 oilaviy
+0 poliklinikada
+0 Uchtepa
+0 tuman
+0 tibbiyot
+0 birlashmasida
+0 Toshkent
+0 shahar
+0 sog'liqni
+0 saqlash
+1 bosh - bosh
+0 boshqarmasi
+0 tasarrufidagi
+0 xo'jalik
+0 hisobidagi
+0 tibbiy
+0 ko'rik
+0 bo'limida
+0 qator
+0 mas'ul
+0 vazifalarda
+0 ishlagan
+1 U - u
+0 Toshkent
+0 shahar
+0 sog'liqni
+0 saqlash
+1 bosh - bosh
+0 boshqarmasida
+1 bosh - bosh
+0 mutaxassis
+0 boshqarma
+0 boshlig'i
+0 o'rinbosari
+1 va - va
+0 boshqarma
+0 boshlig'i
+1 kabi - kabi
+0 vazifalarda
+1 ham - ham
+0 mehnat
+0 qilgan
+0 Mutaxassis
+0 hozirga
+1 qadar - qadar
+1 ushbu - ushbu
+0 boshqarma
+0 boshlig'ining
+0 raqamlashtirish
+1 va - va
+0 davlat-xususiy
+0 sheriklik
+1 bo'yicha - bo'yicha
+0 o'rinbosari
+0 vazifasini
+0 bajaruvchi
+0 sifatida
+0 faoliyat
+0 yuritib
+0 kelayotgan
+0 edi
+1 Ushbu - ushbu
+0 holat
+0 yuzasidan
+0 Sirdaryo
+0 viloyati
+0 IIB
+0 mas'ul
+0 xodimlari
+0 tomonidan
+0 zudlik
+1 bilan - bilan
+0 choralar
+0 ko'rilib
+0 avtomashina
+0 haydovchisi
+0 aniqlanib
+0 holatga
+0 oydinlik
+0 kiritildi
+0 Avtomashina
+0 haydovchisi
+0 Guliston
+0 shahrida
+0 yashovchi
+0 1988
+0 yilda
+0 tug'ilgan
+0 fuqaro
+0 AA
+0 joriy
+0 yilning
+0 28
+0 noyabr
+0 kuni
+1 o'ziga - o'z
+0 qarashli
+0 fermadan
+0 yashash
+0 xonadoniga
+0 itini
+0 olib
+0 ketish
+0 maqsadida
+0 avtomashinasini
+0 yukxonasiga
+0 joylab
+0 olib
+0 ketayotgan
+0 vaqtda
+0 iti
+0 avtomashina
+0 yoqilg'i
+0 quyish
+0 baki
+0 qopqog'idan
+0 boshini
+0 chiqarib
+0 olgan
+0 holatida
+1 ijtimoiy - ijtimoiy
+0 tarmoq
+0 faollari
+0 tomonidan
+0 suratga
+0 olinib
+1 noto'g'ri - noto'g'ri
+0 talqin
+0 qilinib
+0 tarqatilgan
+0 Holat
+0 yuzasidan
+0 mas'ul
+0 xodimlar
+0 tomonidan
+0 haydovchiga
+0 profilaktik
+0 tushuntirishlar
+0 berilib
+0 xavfsizlik
+0 qoidalariga
+0 amal
+0 qilishlik
+0 yuzasidan
+0 ogohlantirildi
+0 deyiladi
+0 bayonotda
+1 Ijtimoiy - ijtimoiy
+0 tarmoqlarda
+0 tarqalgan
+0 Shaxrisabzda
+0 o'tkazilgan
+0 tadbirda
+0 o'quvchilarning
+0 yupun
+0 kiyingan
+0 holda
+0 tushgan
+0 fotosi
+1 keng - keng
+0 muhokamalarga
+0 sabab
+0 bo'ldi
+0 Xalq
+0 ta'limi
+0 vazirligi
+1 ushbu - ushbu
+0 muhokamalarga
+0 munosabat
+0 bildirar
+0 ekan
+0 maktab
+0 o'qituvchi
+1 va - va
+0 o'quvchilarini
+0 maktab
+0 vaqtidan
+0 tashqari
+1 ularning - ularning
+0 salomatligi
+1 hamda - hamda
+0 xavfsizligiga
+0 xavf
+0 soladigan
+0 turli
+0 tadbirlarga
+0 jalb
+0 qilmaslik
+1 bo'yicha - bo'yicha
+1 doimiy - doimiy
+0 ravishda
+0 ogohlantirib
+0 kelinishini
+0 bildirdi
+0 Afsuski
+1 shunga - shunga
+1 qaramay - qaramay
+1 ushbu - ushbu
+0 suratdagi
+1 kabi - kabi
+1 ayanchli - ayanchli
+0 holatlar
+0 yuzaga
+0 kelmoqda
+0 Bolalarning
+0 maktabdan
+0 tashqari
+0 vaqtlarda
+0 tadbirga
+0 jalb
+0 etilishi
+1 va - va
+0 eng
+0 achinarlisi
+1 sovuq - sovuq
+0 ob-havo
+0 sharoitiga
+1 qaramay - qaramay
+1 ularning - ularning
+0 yupun
+0 kiyimlarda
+0 ekanligi
+1 ushbu - ushbu
+0 hududdagi
+1 har - har
+1 bir - bir
+0 mutasaddining
+0 aybi
+1 deb - deb
+0 hisoblaymiz
+0 deyiladi
+0 munosabatda
+0 Xalq
+0 ta'limi
+0 vazirligi
+0 hudud
+0 mutasaddilari
+0 sanalgan
+0 hokimlar
+0 sektor
+0 rahbarlari
+0 huquq-tartibot
+0 organlari
+0 mas'ullaridan
+0 ta'lim
+0 muassasada
+0 maktab
+0 vaqtidan
+0 tashqari
+0 tadbirlarni
+0 tashkil
+0 etayotganda
+0 maktab
+0 o'quvchi
+1 va - va
+0 o'qituvchilarini
+0 jalb
+0 qilib
+1 bu - bu
+1 kabi - kabi
+0 holatlarga
+0 yo'l
+0 qo'ymasliklarini
+0 qat'iy
+0 so'rab
+0 qolmoqda
+0 Ta'kidlanishicha
+0 joylardagi
+0 xalq
+0 ta'limi
+0 boshqarma
+0 bo'limlari
+1 va - va
+0 maktab
+0 rahbarlaridan
+1 ham - ham
+1 tegishli - tegishli
+0 xulosalar
+0 chiqargan
+0 holda
+0 bunday
+0 harakatlarga
+0 yo'l
+0 qo'ymasliklari
+0 yuzasidan
+0 qat'iy
+0 ogohlantirilgan
+1 Ma'lum - ma'lum
+0 qilinishicha
+0 mazkur
+0 holat
+0 Shahrisabz
+0 shahar
+0 Yoshlar
+0 ishlari
+0 agentligi
+1 va - va
+0 sektor
+0 rahbarlari
+0 Yoshlar
+0 daftarida
+0 turganlarga
+0 navbatdagi
+0 subsidiya
+0 asosida
+0 mehnat
+0 qurollarini
+1 va - va
+0 to'lovlar
+1 uchun - uchun
+0 sertifikatlar
+0 topshirish
+0 marosimidan
+0 olingan
+0 surat
+
+Lemmalar soni: 191

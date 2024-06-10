@@ -1,0 +1,1010 @@
+0 Tibbiyot
+0 meditsina
+0 tabobat
+0 —
+0 kishilar
+0 sog'lig'ini
+0 saqlash
+1 va - va
+0 mustahkamlash
+0 umrni
+0 uzaytirish
+0 kasalliklarning
+0 oldini
+0 olish
+0 davolash
+0 haqidagi
+0 bilimlar
+1 va - va
+1 shu - shu
+0 sohadagi
+0 amaliy
+0 tadbirlar
+0 majmui
+0 Tibbiyot
+0 tibbiybiologik
+0 klinik
+0 tibbiyijtimoiy
+1 va - va
+0 gigiyenik
+0 fanlarga
+0 bo'linadi
+0 Tibbiybiologik
+0 fanlarga
+0 odam
+0 gavdasining
+0 tuzilishini
+0 o'rganadigan
+0 anatomiya
+0 gistologiya
+1 va - va
+0 sitologiya
+0 organizmning
+0 odatdagi
+0 holatini
+1 unda - unda
+0 kasallikning
+0 paydo
+0 bo'lishi
+0 avj
+0 olishi
+0 kechishi
+1 va - va
+1 yuz - yuz
+0 beradigan
+0 struktur
+1 hamda - hamda
+1 funksional - funksional
+1 o'zgarishlarni - o'z
+0 o'rganadigan
+0 normal
+0 fiziologiya
+1 va - va
+0 biokimyo
+1 patologik - patologik
+0 anatomiya
+1 va - va
+0 patologii
+0 fiziologiya
+0 organizmga
+0 dorilar
+0 ta'sirini
+0 urganadigan
+0 umumiy
+1 va - va
+0 klinik
+0 farmakologiya
+1 shuningdek - shuningdek
+0 mikrobiologiya
+0 virusologiya
+1 va - va
+0 parazitologiya
+0 tibbiyot
+0 genetikasi
+1 va - va
+1 boshqa - boshqa
+0 kiradi
+0 Odam
+0 kasalliklari
+1 ularni - ularni
+0 davolash
+1 va - va
+0 oldini
+0 olishni
+0 o'rganadigan
+0 klinik
+0 fanlar
+0 asosiy
+0 davolash
+0 usuliga
+1 ko'ra - ko'ra
+0 terapiya
+1 va - va
+0 xirurgiyaga
+0 bo'linadi
+0 Tibbiyotning
+1 ushbu - ushbu
+0 qismlari
+1 ham - ham
+1 o'z - o'z
+0 navbatida
+1 ma'lum - ma'lum
+0 organ
+0 sistemalar
+0 kasalliklarini
+1 atroflicha - atroflicha
+0 o'rganishi
+0 yo'nalishi
+1 bo'yicha - bo'yicha
+0 turli
+0 sohalarga
+0 bo'linadi
+0 Mac
+0 terapiyada
+0 kardiologiya
+0 revmatologiya
+0 nefrologiya
+0 gastroenterologiya
+0 gematologiya
+0 geriatriya
+0 ftiziatriya
+0 pediatriya
+0 nevrologiya
+0 psixiatriya
+0 dermatologiya
+1 va - va
+0 venerologiya
+0 kurortologiya
+0 fizioterapiya
+0 rentgenologiya
+0 terapevtik
+0 stomatologiya
+0 xirurgiyazya
+0 umumiy
+0 xirurgiyadan
+0 tashqari
+0 akusherlik
+1 va - va
+0 ginekologiya
+0 xirurgiyasi
+0 travmatologiya
+1 va - va
+0 ortopediya
+0 anesteziologiya
+0 reanimatologiya
+0 neyroxirurgiya
+0 onkologiya
+0 urologiya
+0 otorinolaringologiya
+0 oftalmologiya
+0 xlrurgiyalari
+0 ajratiladi
+0 Klinik
+0 fanlarning
+1 har - har
+0 birida
+0 bemorni
+0 tekshirish
+1 va - va
+0 kasallik
+0 belgilari
+0 semiotikaschni
+0 aniqlash
+0 usullari
+0 bo'limi
+1 bor - bor
+1 Tashqi - tashqi
+0 muhitning
+0 organizmga
+0 ta'siri
+1 va - va
+0 aholi
+0 sog'lig'ini
+0 muhofaza
+0 qilish
+0 tadbirlarini
+0 o'rganadigan
+0 tibbiyijtimoiy
+1 va - va
+0 gigiyen
+1 i - i
+0 k
+0 fanlarga
+1 ijtimoiy - ijtimoiy
+0 gigiyena
+1 hamda - hamda
+0 sog'liqni
+0 sakdashni
+0 tashkil
+0 etish
+0 umumiy
+0 gigiyena
+0 bolalar
+1 va - va
+0 o'smirlar
+0 gigiyenasi
+0 kommunal
+0 gigiyena
+0 ovqatlanish
+0 gigiyenasi
+0 radiatsion
+0 gigiyena
+0 mehnat
+0 gigiyenasi
+0 epidemiologiya
+1 va - va
+0 tibbiyot
+0 geografiyasi
+1 shuningdek - shuningdek
+0 tibbiyot
+0 etikasi
+1 va - va
+0 deontologiyasi
+0 kiradi
+0 Tibbiyotning
+0 bunday
+0 bo'linishi
+1 shartli - shartli
+1 chunki - chunki
+1 ijtimoiy - ijtimoiy
+0 jarayonlar
+0 barcha
+0 tibbiyot
+0 fanlariga
+1 shuningdek - shuningdek
+0 ilmiyamaliy
+0 sohalar
+0 harbiy
+0 tibbiyot
+0 kosmik
+0 tibbiyot
+0 sport
+0 tibbiyoti
+0 sud
+0 tibbiyoti
+1 va - va
+0 boshqalarga
+1 bevosita - bevosita
+0 taalluklidir
+0 Tibbiybiologik
+0 fanlar
+1 uchun - uchun
+0 xarakterli
+0 bo'lgan
+0 eksperimental
+0 usul
+0 esa
+0 klinik
+1 va - va
+0 gigiyenik
+0 Tibbiyot
+0 sohasiga
+0 xam
+1 keng - keng
+0 kirib
+0 bormoqda
+0 Tibbiyot
+1 tabiiy - tabiiy
+0 fanlar
+0 biologiya
+0 fizika
+0 kimyo
+1 va - va
+1 ijtimoiy - ijtimoiy
+0 fanlar
+1 hamda - hamda
+0 texnika
+1 bilan - bilan
+1 chambarchas - chambarchas
+0 bog'langan
+0 Mustaqillik
+0 yillari
+1 xususan - xususan
+0 oxirgi
+1 besh - besh
+0 yilda
+0 sog'liqni
+0 saqlash
+0 sohasida
+0 mamlakatimiz
+0 erishgan
+0 yutuqlarga
+1 xalqaro - xalqaro
+0 hamjamiyat
+0 tomonidan
+1 ijobiy - ijobiy
+0 baho
+0 berildi
+1 Masalan - masalan
+0 aholining
+0 umr
+0 ko'rishi
+0 1995-yildagi
+0 691
+0 yoshdan
+0 2020-yilda
+0 737
+0 yoshga
+0 oshdi
+0 Onalar
+0 o'limi
+0 ko'rsatkichi
+0 31
+0 barobar
+0 kamayib
+0 100
+1 ming - ming
+0 nafar
+1 tirik - tirik
+0 tug'ilgan
+0 chaqaloqqa
+1 nisbatan - nisbatan
+0 21
+0 ta
+0 holatni
+0 tashkil
+0 etdi
+0 Chaqaloqlar
+0 o'limi
+1 ham - ham
+0 31
+0 barobar
+0 kamayib
+0 1000
+0 nafar
+1 tirik - tirik
+0 tug'ilgan
+0 chaqaloqqa
+1 nisbatan - nisbatan
+0 115
+0 ta
+0 holatni
+0 tashkil
+0 etdi
+0 Bolalarda
+0 eng
+1 ko'p - ko'p
+0 uchraydigan
+0 kasalliklarga
+1 qarshi - qarshi
+0 emlash
+1 va - va
+0 profilaktika
+0 tadbirlari
+1 bilan - bilan
+0 qamrab
+0 olish
+0 darajasi
+0 96-98
+0 foizlik
+0 ko'rsatkichda
+0 qat'iy
+0 saqlanib
+0 turibdi
+0 Yuqumli
+0 kasalliklarga
+1 qarshi - qarshi
+0 kurashish
+1 bo'yicha - bo'yicha
+0 kompleks
+0 profilaktika
+0 epidemiyaga
+1 qarshi - qarshi
+1 va - va
+0 sanitariya-gigiyena
+0 tadbirlari
+0 o'ta
+1 xavfli - xavfli
+0 yuqumli
+0 kasalliklar
+0 o'lat
+0 vabo
+1 shuningdek - shuningdek
+0 poliomiyelit
+0 difteriya
+0 chaqaloqlar
+0 qoqsholi
+0 mahalliy
+0 bezgak
+0 qizamiq
+1 va - va
+0 qizilcha
+0 yuzaga
+0 kelishidan
+0 aholini
+0 to'liq
+0 himoya
+0 qilish
+0 imkonini
+0 berdi
+0 Sa'y-harakatlar
+0 samarasi
+1 tufayli - tufayli
+0 mamlakatimizda
+0 poliomiyelitning
+1 yovvoyi - yovvoyi
+0 shtammi
+0 2002-yil
+0 qizamiq
+1 va - va
+0 qizilcha
+0 2017-yil
+0 bezgak
+0 2018-yil
+1 yo'q - yo'q
+0 qilingani
+1 to'g'risida - to'g'risida
+0 Jahon
+0 sog'liqni
+0 saqlash
+0 tashkilotining
+0 sertifikatlari
+0 olindi
+0 Tibbiyot
+0 tizimiga
+0 malakali
+0 kadrlarni
+0 tayyorlash
+1 uchun - uchun
+0 yurtimizda
+1 bir - bir
+1 necha - necha
+0 oliy
+0 o'quv
+0 yurti
+0 faoliyat
+0 ko'rsatmoqda
+1 Jumladan - jumladan
+0 Toshkent
+0 tibbiyot
+0 akademiyasi
+0 Samarqand
+0 davlat
+0 tibbiyot
+0 instituti
+0 Toshkent
+0 tibbiyot
+0 akademiyasining
+0 Urganch
+0 Termiz
+0 Farg'ona
+0 filiallari
+0 Toshkent
+0 tibbiyot
+0 pediatriya
+0 instituti
+0 Toshkent
+0 davlat
+0 stomatologiya
+0 instituti
+0 Toshkent
+0 farmatsevtika
+0 instituti
+0 Qoraqalpog'iston
+0 tibbiyot
+0 instituti
+0 Andijon
+0 davlat
+0 tibbiyot
+0 instituti
+0 Buxoro
+0 davlat
+0 tibbiyot
+0 instituti
+0 malakali
+0 kadrlarni
+0 tayyorlab
+0 bermoqda
+0 Mamlakatimizda
+0 onalik
+1 va - va
+0 bolalik
+0 muhofazasiga
+1 ham - ham
+1 katta - katta
+0 e'tibor
+0 berilmoqda
+1 Masalan - masalan
+0 o'tgan
+0 yildan
+1 boshlab - boshlab
+0 15
+0 yoshgacha
+0 bo'lgan
+0 bolalar
+1 va - va
+0 homilador
+0 ayollarga
+1 yetti - yetti
+0 turdagi
+0 vitamin
+0 bolalar
+1 uchun - uchun
+0 parazitar
+0 kasalliklarga
+1 qarshi - qarshi
+0 dori
+0 vositalari
+1 bepul - bepul
+0 tarqatilyapti
+1 Bu - bu
+0 jarayonga
+0 2021-yilda
+0 11
+1 million - million
+0 nafar
+0 aholi
+0 qamrab
+0 olingan
+0 bo'lsa
+0 2022-yilda
+1 bu - bu
+0 ko'rsatkich
+0 17
+1 million - million
+0 nafarga
+0 yetadi
+1 Bu - bu
+0 ishlarga
+0 100
+1 milliard - milliard
+0 so'm
+0 mablag'
+0 yo'naltirilishi
+0 belgilangan
+0 Ayollar
+1 va - va
+0 bolalarni
+0 yod
+0 temir
+0 foliy
+0 kislotasi
+0 vitaminlar
+1 shuningdek - shuningdek
+0 parazitlarga
+1 qarshi - qarshi
+0 dorilar
+1 bilan - bilan
+1 bepul - bepul
+0 ta'minlash
+1 orqali - orqali
+0 aholi
+0 o'rtasida
+0 kamqonlik
+0 25
+0 foiz
+0 kamayadi
+0 Davlatimiz
+0 sog'liqni
+0 saqlash
+0 sohasidagi
+0 islohotlarni
+1 o'z - o'z
+0 vaqtida
+1 boshlab - boshlab
+1 to'g'ri - to'g'ri
+0 yo'l
+0 tanlagani
+1 uchun - uchun
+0 kutilmagan
+0 pandemiya
+1 qarshisida - qarshisida
+0 sarosimaga
+0 tushib
+0 qolmadik
+0 Xalqimizning
+0 sog'lig'i
+1 va - va
+0 hayotini
+0 asrash
+0 maqsadida
+0 zudlik
+1 bilan - bilan
+0 barcha
+0 tadbirlar
+0 ishlab
+0 chiqildi
+1 Jumladan - jumladan
+0 koronavirusga
+1 qarshi - qarshi
+0 kurashish
+1 uchun - uchun
+0 maxsus
+0 tibbiy
+0 markazlar
+0 tashkil
+0 etildi
+0 Dori-darmon
+1 va - va
+0 himoya
+0 vositalarining
+0 zaxirasi
+0 shakllantirildi
+0 Hududlarda
+0 ishga
+0 tushirilgan
+0 60
+0 ta
+0 kislorod
+0 stansiyasi
+1 tegishli - tegishli
+0 shifoxonalarni
+0 kislorod
+1 bilan - bilan
+1 uzluksiz - uzluksiz
+0 ta'minlashga
+0 xizmat
+0 qilmoqda
+0 Mamlakatimizda
+0 vaksina
+0 ishlab
+0 chiqarish
+1 bo'yicha - bo'yicha
+0 amaliy
+0 ishlar
+0 boshlandi
+1 O'z - o'z
+0 paytida
+0 ko'rilgan
+1 tezkor - tezkor
+1 va - va
+1 tizimli - tizimli
+0 choralar
+0 natijasida
+1 ushbu - ushbu
+0 xatarli
+0 kasallikning
+1 keng - keng
+0 tarqalishiga
+0 yo'l
+0 qo'yilmadi
+1 va - va
+1 natijada - natijada
+0 yurtimizda
+1 osoyishta - osoyishta
+1 hayot - hayot
+1 barqaror - barqaror
+1 iqtisodiy - iqtisodiy
+0 rivojlanish
+0 davom
+0 etmoqda
+1 Zamonaviy - zamonaviy
+0 tibbiyotning
+0 ba'zi
+0 muammolari
+1 Ilmiy - ilmiy
+0 texnika
+0 rivoji
+0 ijtimoiyiqtisodiy
+1 o'zgarish - o'z
+1 va - va
+0 muvaffaqiyatlar
+1 tufayli - tufayli
+0 aholi
+0 sog'lig'ini
+0 saklashda
+0 kasalliklar
+0 tarkibida
+0 muhim
+1 ijobiy - ijobiy
+1 o'zgarishlar - o'z
+0 ro'y
+0 berdi
+0 o'lim
+0 kamaydi
+1 uzoq - uzoq
+0 umr
+0 ko'ruvchilar
+0 soni
+0 ortdi
+1 Iqtisodiy - iqtisodiy
+0 jihatdan
+0 rivojlangan
+0 mamlakatlarda
+1 ilgari - ilgari
+0 dunyoda
+1 keng - keng
+0 tarqalgan
+0 o'ta
+1 xavfli - xavfli
+0 epidemik
+0 kasalliklar
+0 vabo
+0 o'lat
+0 chechak
+1 va - va
+0 boshqalar
+0 ga
+0 barham
+0 berildi
+0 Kishilar
+0 sogligiga
+1 va - va
+0 xalq
+0 xo'jaligiga
+1 katta - katta
+0 zarar
+0 yetkazayotgan
+0 gripp
+0 virusli
+0 gepatit
+0 orttirilgan
+0 immun
+0 tanqisligi
+1 va - va
+1 boshqa - boshqa
+0 virusli
+0 kasalliklarga
+1 qarshi - qarshi
+0 kurash
+1 shu - shu
+0 kunning
+0 muhim
+0 tibbiy
+0 muammolaridan
+0 bo'lib
+0 qolmoqsa
+0 Yuraktomir
+0 kasalliklaridan
+0 yurakning
+0 ishemik
+0 kasalligi
+0 qarang
+0 Infarkt
+0 ateroskleroz
+0 gipertoniya
+0 kasalligi
+1 va - va
+0 boshqalarning
+0 oldini
+0 olish
+0 alohida
+0 ahamiyat
+0 kasb
+0 etmoqda
+0 Asabbuzarlik
+0 tamaki
+0 chekish
+0 jismoniy
+0 mehnat
+1 bilan - bilan
+0 kam
+0 shug'ullanish
+0 me'yoridan
+1 ko'p - ko'p
+0 ovqat
+0 yeyish
+0 spirtli
+0 ichimliklarga
+0 ruju
+0 kilish
+0 giyohvandlik
+1 kabi - kabi
+0 illatlar
+0 bunday
+0 kasalliklarning
+0 ko'payishiga
+0 sabab
+0 bo'lmoqda
+1 Lekin - lekin
+1 bu - bu
+0 kasalliklarni
+1 o'z - o'z
+0 vaqtida
+0 aniqdash
+1 va - va
+0 davolashda
+1 zamonaviy - zamonaviy
+0 Tibbiyot
+0 anchagina
+0 muvaffaqiyatlarga
+0 erishdi
+1 Xavfli - xavfli
+0 o'smalarning
+0 paydo
+0 bo'lish
+0 sabablarini
+0 aniqlash
+1 va - va
+0 davolash
+0 Tibbiyotning
+0 eng
+1 dolzarb - dolzarb
+0 masalasidir
+0 Kimyoviy
+0 kanserogen
+0 moddalar
+1 va - va
+0 nurlanishning
+0 ta'sirini
+0 kamaytirish
+0 o'smalar
+0 paydo
+0 qiladigan
+0 viruslarni
+0 topish
+1 va - va
+0 organizmning
+0 himoya
+0 mexanizmlarini
+0 o'rganish
+0 muhim
+0 masalalardandir
+1 Bu - bu
+0 borada
+0 O'zbekiston
+0 Onkologiya
+0 markazi
+1 ham - ham
+1 faol - faol
+0 ish
+0 olib
+0 bormoqda
+1 Zamonaviy - zamonaviy
+0 Tibbiyotning
+1 dolzarb - dolzarb
+0 masalalaridan
+1 yana - yana
+0 biri
+0 asab
+1 va - va
+1 ruhiy - ruhiy
+1 o'zgarishlarni - o'z
+0 o'rganishdir
+1 chunki - chunki
+1 bir - bir
+0 qator
+0 mamlakatlarda
+1 bunga - bunga
+0 sog'liqni
+0 saqlashning
+1 birinchi - birinchi
+0 masalasi
+1 deb - deb
+0 qarashmoqda
+1 Tashqi - tashqi
+0 muhitni
+0 muhofaza
+0 qilish
+1 va - va
+0 sog'lomlashtirish
+1 juda - juda
+0 muhim
+1 ijtimoiy - ijtimoiy
+1 va - va
+0 siyosiy
+0 ahamiyatga
+0 ega
+0 Suv
+0 havo
+0 tuproqning
+0 ifloslanishi
+1 va - va
+0 biosferada
+0 ekologik
+0 muvozanatning
+0 buzilishi
+0 kishilar
+0 sog'lig'iga
+0 salbiy
+0 ta'sir
+0 ko'rsatmoqda
+0 Ichimlik
+0 suv
+1 va - va
+0 tuproqning
+0 sanoat
+0 chiqindilari
+1 bilan - bilan
+0 ifloslanishining
+0 oldini
+0 olish
+0 o'ta
+1 dolzarb - dolzarb
+0 masaladir
+1 Tashqi - tashqi
+0 muhitni
+0 sog'lomlashtirish
+0 tabiatni
+0 muhofaza
+0 qilish
+1 uchun - uchun
+0 kurash
+1 xalqaro - xalqaro
+0 ahamiyatga
+0 molik
+0 bo'lib
+0 qoldi
+1 Bu - bu
+0 sohada
+1 keyingi - keyingi
+0 yillarda
+0 respublikada
+0 shifokorlar
+1 ayniqsa - ayniqsa
+0 gigiyenist
+0 olimlar
+1 va - va
+0 maxsus
+0 it
+0 institutlari
+0 jamoalari
+0 ko'pgina
+0 arzigulik
+0 ishlar
+0 qilishdi
+1 Hozirgi - hozirgi
+0 zamon
+0 Tibbiyoti
+0 oldida
+0 turgan
+0 eng
+0 muhim
+0 masalalardan
+1 yana - yana
+0 biri
+0 vrach
+1 bilan - bilan
+0 bemor
+0 o'rtasidagi
+0 munosabatlarning
+0 qarang
+0 Tibbiyot
+0 deontologiyasi
+0 samaradorligiga
+0 erishishdir
+0 Organ
+1 va - va
+0 to'qimalarni
+0 ko'chirib
+0 o'tqazishdagi
+0 donorlik
+0 to'qimalar
+0 moye
+0 kelmasligini
+0 bartaraf
+0 qilish
+1 va - va
+1 ushbu - ushbu
+0 muammoga
+0 bog'liq
+1 bir - bir
+1 qancha - qancha
+0 masalalar
+0 mas
+0 o'zak
+0 hujayralardan
+0 davolash
+0 maqsadida
+0 foydalanish
+0 Buqoqning
+0 epidemiologiyasi
+0 klinikasi
+0 davosi
+1 va - va
+0 oldini
+0 olish
+0 g'amda
+0 biokimyosi
+0 sohasida
+1 katta - katta
+0 tadqiqotlar
+0 olib
+0 borildi
+1 Keyingi - keyingi
+0 vaqtda
+0 nazariy
+1 va - va
+0 eksperimental
+0 Tibbiyotning
+0 asosiy
+0 fanlaridan
+0 biri
+0 —
+1 patologik - patologik
+0 fiziologiya
+0 sohasida
+0 chunonchi
+1 uning - uning
+0 ovqat
+0 hazm
+0 qilish
+0 organlari
+0 moddalar
+0 almashinuvi
+0 patologyaisi
+1 va - va
+0 allergologiya
+0 bo'limlari
+1 bo'yicha - bo'yicha
+0 ilmiyamaliy
+0 ahamiyatga
+0 ega
+0 bo'lgan
+1 bir - bir
+0 qator
+0 tadqiqotlar
+0 olib
+0 borildi
+
+Lemmalar soni: 220

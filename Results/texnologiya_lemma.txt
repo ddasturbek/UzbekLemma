@@ -1,0 +1,1001 @@
+0 Suv
+0 tuproq
+0 havo
+1 va - va
+1 boshqa - boshqa
+0 muhitlardagi
+1 zararli - zararli
+0 mikroorganizmlar
+0 yog'ochning
+0 sirti
+1 yoki - yoki
+0 oraliq
+0 to'qimalariga
+0 tushsa
+0 yog'och
+0 chiriy
+0 boshlaydi
+1 Shuning - shu
+0 oldini
+0 olish
+1 uchun - uchun
+0 yog'ochni
+1 quruq - quruq
+0 holda
+0 saqlash
+1 unga - unga
+0 ayrim
+0 kimyoyaviy
+0 moddalar
+0 shimdirish
+1 orqali - orqali
+0 chidamliligini
+0 oshirish
+1 yoki - yoki
+0 yog'och
+0 sirtini
+0 aliflash
+0 loklash
+1 hamda - hamda
+0 turli
+0 bo'yoqlar
+1 bilan - bilan
+0 bo'yash
+1 kabi - kabi
+0 usullar
+0 qo'llaniladi
+0 Yog'och
+0 ishqalanishga
+1 yaxshi - yaxshi
+1 chidamli - chidamli
+0 emas
+1 Shuning - shu
+1 uchun - uchun
+0 turli
+0 asbob-uskunalarning
+0 ishqalanishiga
+0 uchrab
+0 ishlaydigan
+0 qismlari
+0 yog'ochdan
+1 ko'ra - ko'ra
+0 chidamliroq
+0 bo'lgan
+1 boshqa - boshqa
+0 materiallardan
+0 tayyorlanadi
+0 Yog'ochning
+0 qattiqligi
+1 unga - unga
+1 boshqa - boshqa
+1 qattiq - qattiq
+0 jismning
+0 botishiga
+0 qarshilik
+0 ko'rsatish
+0 darajasi
+1 bilan - bilan
+0 belgilanadi
+0 Yog'ochning
+0 qattiqligini
+0 aniqlashning
+0 eng
+1 oddiy - oddiy
+0 usuli
+1 unga - unga
+0 mix
+0 qoqib
+0 ko'rishdan
+0 iborat
+1 Oddiy - oddiy
+0 mixni
+0 qayrag'och
+0 eman
+0 shamshod
+0 nok
+0 akatsiya
+1 kabi - kabi
+1 qattiq - qattiq
+0 yog'ochlarga
+0 qoqib
+0 bo'lmaydi
+0 tol
+0 terak
+0 qarag'ay
+1 kabi - kabi
+1 yumshoq - yumshoq
+0 yog'ochlarga
+0 qoqiladi
+0 Hamma
+0 yog'och
+0 turlari
+1 yaxshi - yaxshi
+0 yonadigan
+0 material
+0 hisoblanadi
+1 Shuning - shu
+1 uchun - uchun
+0 yog'ochdan
+0 tayyorlangan
+0 maxsulotlarni
+0 yong'indan
+0 saqlash
+0 choralari
+0 ko'riladi
+0 Ustaxonada
+0 yong'in
+0 chiqishiga
+1 qarshi - qarshi
+0 xavfsizlik
+0 choralarini
+0 muntazam
+0 bajarib
+0 borish
+1 shart - shart
+0 Kuzatish
+0 usullari
+0 yog'ochning
+0 sifatini
+0 belgilashda
+1 undan - unda
+0 tayyorlanadigan
+0 buyum
+0 kattaligiga
+0 mos
+0 bo'lgan
+1 sog'lom - sog'lom
+0 qismi
+1 bor - bor
+1 yoki - yoki
+0 yo'qligini
+0 aniqlashdan
+0 iborat
+0 Yog'ochning
+0 ko'ndalang
+1 va - va
+0 bo'ylama
+0 qismlarini
+0 kuzatish
+1 orqali - orqali
+1 uning - uning
+1 ichki - ichki
+0 qismlari
+0 chirimaganligi
+1 boshqa - boshqa
+0 turdagi
+0 zararlanishga
+0 uchramaganligi
+1 hamda - hamda
+0 rangi
+1 va - va
+0 guldorligi
+1 qanday - qanday
+0 ekanligi
+0 aniqlanadi
+0 Sinab
+0 ko'rish
+0 usuli
+1 bilan - bilan
+0 yog'ochning
+0 qattiq-yumshoqligi
+0 zichligi
+1 hamda - hamda
+0 turli
+1 tashqi - tashqi
+0 ta'sirlarga
+0 chidamliligi
+0 aniqlanadi
+0 Yog'ochning
+0 qattiqligini
+1 unga - unga
+1 o'zidan - o'z
+1 qattiq - qattiq
+0 buyumlarning
+0 uchini
+0 tig'ini
+0 qirrasini
+1 ma'lum - ma'lum
+0 miqdordagi
+0 kuchlar
+1 bilan - bilan
+0 botirib
+0 ko'rish
+1 orqali - orqali
+0 aniqlanadi
+0 7
+0 Yog'ochning
+1 qancha - qancha
+0 og'irlikni
+0 egilmasdan
+0 ko'tarib
+0 tura
+0 olishi
+0 tajriba
+0 yo'li
+1 bilan - bilan
+1 hamda - hamda
+1 tegishli - tegishli
+0 hisob-kitoblar
+1 orqali - orqali
+0 aniqlanadi
+0 Bunday
+0 tajriba
+1 va - va
+0 hisob
+0 kitoblar
+0 binolarni
+0 imoratlarni
+0 qurish
+1 uchun - uchun
+1 qanday - qanday
+0 yo'g'onlikdagi
+1 va - va
+0 uzunlikdagi
+0 yog'ochni
+0 ishlatish
+0 kerakligi
+0 aniqlashda
+0 yordam
+0 beradi
+0 Yog'ochning
+0 sifati
+1 uning - uning
+1 zax - zax
+1 va - va
+0 namligiga
+0 suvda
+1 va - va
+1 zararli - zararli
+0 mikroorganizmlarga
+1 hamda - hamda
+0 yog'ochni
+0 kemiruvchi
+0 qurtlarga
+0 chidamlilik
+0 darajasi
+1 bilan - bilan
+1 ham - ham
+0 belgilanadi
+0 Yog'ochning
+0 shunday
+1 zararli - zararli
+0 ta'sirlarga
+0 chidamliligini
+0 oshirish
+1 uchun - uchun
+1 unga - unga
+0 turli
+0 kimyoviy
+1 hamda - hamda
+0 ta'biiy
+0 moddalar
+0 shimdiriladi
+0 loklanadi
+0 bo'yaladi
+0 Duradgorlik
+0 o'quv
+0 ustaxonalaridagi
+0 mashg'ulotlarda
+1 nam - nam
+0 yog'ochlardan
+0 buyumlar
+0 yasash
+0 tavsiya
+0 etilmaydi
+1 Shuning - shu
+1 uchun - uchun
+1 ularni - ularni
+1 dastlab - dastlab
+0 quritish
+1 lozim - lozim
+1 Ammo - ammo
+0 ishlab
+0 chiqarishda
+0 foydalaniladigan
+0 yog'ochlar
+0 8
+1 ma'lum - ma'lum
+0 darajada
+1 nam - nam
+0 bo'ladi
+0 Suv
+0 yog'och
+0 xujayralarining
+0 devorchalari
+1 orqali - orqali
+0 singib
+1 ularning - ularning
+0 ichi
+1 va - va
+0 oralariga
+0 joylashadi
+0 Xujayra
+0 devorchalariga
+0 shimilgani
+0 suv
+0 gigoskopiya
+0 suv
+0 xujayralarning
+0 ichi
+1 va - va
+0 orasiga
+0 singan
+0 suv
+1 erkin - erkin
+0 tomchi
+1 deb - deb
+0 ataladi
+0 Yog'ochning
+0 namligi
+0 laboratoriya
+0 sharoitida
+1 asosan - asosan
+1 ikki - ikki
+0 usulda
+1 uning - uning
+1 nam - nam
+1 va - va
+0 quritilgan
+0 xoldagi
+0 oralig'ini
+0 o'lchash
+1 yoki - yoki
+0 namlikni
+0 o'lchaydigan
+0 asbob
+1 elektr - elektr
+1 nam - nam
+0 o'lchagich
+0 yordamida
+0 aniqlanadi
+0 Yog'och
+0 namligini
+0 tortish
+0 yo'li
+1 bilan - bilan
+0 aniqlash
+1 uchun - uchun
+0 taxta
+1 yoki - yoki
+0 gullarning
+0 uchidan
+0 05
+0 sm
+0 qismi
+0 kesib
+0 tashlanadi
+0 qolgan
+0 qismidan
+0 10
+0 15
+0 mm
+0 qalinlikda
+0 butoqsiz
+1 va - va
+1 biron - biron
+0 nuqsonsiz
+0 namuna
+0 arralab
+0 olinadi
+1 Uni - uni
+0 tozalab
+0 texnik
+0 tarozida
+0 20
+0 mg
+0 aniqlik
+1 bilan - bilan
+0 tortiladi
+1 So'ng - so'ng
+0 quritish
+0 shkafida
+0 1001050
+0 C
+0 haroratda
+0 quritiladi
+0 Namuna
+1 birinchi - birinchi
+0 marta
+1 olti - olti
+0 soatdan
+1 so'ng - so'ng
+1 tortib - tortib
+0 quritiladi
+1 undan - unda
+1 keyingi - keyingi
+0 tortishlar
+1 har - har
+0 2
+0 soatda
+0 takrorlanadi
+0 Quritish
+0 namunaning
+0 og'irligi
+1 o'zgarmay - o'z
+0 qolguncha
+0 davom
+0 etadi
+0 Yog'ochning
+0 namligi
+0 undagi
+0 suv
+0 miqdorining
+0 mutloqo
+1 quruq - quruq
+0 yog'och
+0 oralig'iga
+1 yoki - yoki
+0 zichligiga
+1 nisbatan - nisbatan
+0 aniqlanib
+0 foizlarda
+0 ifodalanadigan
+0 kattalikdir
+0 Yog'och
+0 namligini
+0 aniqlashning
+1 ikkinchi - ikkinchi
+0 usulida
+0 yog'och
+0 namligi
+1 nam - nam
+0 o'lchagich
+0 yordamida
+1 qisqa - qisqa
+0 vaqt
+1 ichida - ichida
+0 aniqlanadi
+0 Asbobning
+0 ishlash
+0 prinsipi
+0 yog'ochning
+1 elektr - elektr
+0 o'tkazuvchanligiga
+0 asoslanadi
+0 Yog'ochning
+0 namligi
+1 qancha - qancha
+1 yuqori - yuqori
+0 bo'lsa
+1 u - u
+1 elektr - elektr
+0 tokini
+1 shuncha - shuncha
+1 yaxshi - yaxshi
+0 o'tkazadi
+0 Mutloq
+1 quruq - quruq
+0 yog'och
+1 elektr - elektr
+0 tokini
+0 o'tkazmaydi
+0 Yog'och
+0 quritilganda
+1 avval - avval
+0 undagi
+1 erkin - erkin
+0 suv
+1 keyin - keyin
+0 gigroskopik
+0 suv
+0 bug'lanadi
+0 Yog'ochlar
+0 ta'biiy
+1 va - va
+0 suniy
+0 usullarda
+1 masalan - masalan
+1 ochiq - ochiq
+0 xavoda
+0 ildizda
+1 yopiq - yopiq
+0 xonalarda
+0 maxsus
+0 jixozlangan
+0 kameralarda
+0 qizdirilgan
+0 xavo
+1 bilan - bilan
+0 quritiladi
+1 Ochiq - ochiq
+0 xavoda
+0 quritish
+0 usuli
+0 quritilishi
+1 lozim - lozim
+0 bo'lgan
+0 yog'och
+0 materialni
+1 ochiq - ochiq
+0 xavoda
+1 to'g'ri - to'g'ri
+0 saqlashdan
+0 iborat
+0 bo'lib
+1 bunda - bunda
+0 yog'och
+0 xavo
+0 ta'sirida
+0 sekin-asta
+0 quriydi
+0 Yog'ochni
+0 ta'biiy
+1 va - va
+1 sun'iy - sun'iy
+0 usulda
+0 quritish
+0 quyidagi
+0 ketma
+0 ketlikka
+0 asoslangan
+0 Quritilayotgan
+0 yog'och
+0 atrofidan
+0 oralaridan
+0 esgan
+1 issiq - issiq
+1 quruq - quruq
+1 yoki - yoki
+0 shamollatish
+0 vaqtida
+0 esgan
+0 qizdirilgan
+0 xavo
+1 yoki - yoki
+0 yog'och
+0 tarkibidagi
+0 namlikni
+0 olib
+0 ketadi
+0 Xavo
+0 oqimi
+1 qancha - qancha
+1 kuchli - kuchli
+0 bo'lsa
+0 yog'och
+1 shuncha - shuncha
+1 tez - tez
+0 quriydi
+0 9
+0 Yog'ochlarni
+0 quritishda
+0 quritish
+0 rejimi
+1 katta - katta
+0 ahamiyatga
+0 ega
+0 haroratni
+0 namlik
+1 va - va
+0 havo
+0 oqimini
+0 boshqarish
+1 bilan - bilan
+0 yog'ochning
+0 yorilmasdan
+0 tob
+0 tashlamasdan
+0 qurishini
+0 ko'rish
+0 mumkin
+0 Yog'och
+0 materiallarini
+0 ta'biy
+0 holda
+0 quritish
+1 va - va
+0 saqlash
+0 davlat
+0 standartlariga
+0 muofiq
+0 bajariladi
+1 Tabiiy - tabiiy
+0 quritishda
+0 yog'ochlar
+1 to'g'ri - to'g'ri
+0 xolda
+0 saqlanadi
+1 Bunda - bunda
+0 Yog'och
+0 saqlanadigan
+0 joy
+0 maydonining
+0 atrofi
+1 va - va
+0 usti
+0 nishab
+0 bo'lib
+0 yog'in
+0 -
+0 sochin
+0 suvlari
+0 to'planmasligi
+1 kerak - kerak
+0 Yog'och
+0 materiallari
+1 tagida - tagida
+1 va - va
+0 atrofida
+0 poyraxa
+0 arra
+0 qipig'i
+0 chirigan
+0 tarasha
+1 yoki - yoki
+0 daraxt
+0 po'stlog'i
+1 va - va
+0 axlat
+0 bo'lmasligi
+1 kerak - kerak
+0 Yog'och
+0 saqlanadigan
+0 ombor
+1 yoki - yoki
+0 imoratlar
+0 maydonidan
+1 kamida - kamida
+0 50
+0 m
+0 uzoqlikda
+0 bo'lib
+0 panjara
+1 yoki - yoki
+0 sim
+1 to'siq - to'siq
+1 bilan - bilan
+0 o'ralgan
+0 bo'lishi
+1 lozim - lozim
+0 Yog'och
+0 materiallar
+0 maxsus
+0 poydevorga
+0 o'rnatilgan
+0 taglikka
+0 taxlanishi
+1 zarur - zarur
+1 Ularning - ularning
+1 shu - shu
+0 tarzda
+0 taxlangan
+0 turi
+0 yog'och
+0 g'arami
+1 deb - deb
+0 ataladi
+0 Yog'och
+0 g'aramlari
+0 ostiga
+0 qo'yiladigan
+0 yog'och
+0 taglik
+0 antiseptik
+0 moddalar
+1 bilan - bilan
+0 bo'lishi
+1 kerak - kerak
+0 Tagliklar
+0 yog'och
+0 g'aramlarning
+0 turi
+0 o'lchamlariga
+1 qarab - qarab
+0 tayyorlanib
+0 balandligi
+0 50
+0 sm
+0 dan
+0 kam
+0 bo'lmasligi
+1 kerak - kerak
+0 Bargli
+0 daraxtlar
+0 yog'ochlaridan
+0 tayyorlangan
+0 taxta
+0 materiallar
+0 yog'och
+0 g'aramlarga
+0 152
+0 m
+0 balandligi
+0 811
+0 m
+0 taxlanadi
+0 Taxtalar
+0 orasiga
+1 past - past
+1 sifatli - sifatli
+0 taxtalardan
+0 qistirma-qo'yib
+0 ketiladi
+0 Taxtalar
+0 orasiga
+0 qo'yiladigan
+0 pona
+0 yog'och
+0 g'arami
+0 osti
+0 to'sinining
+0 ustiga
+1 bir - bir
+0 yo'nalishda
+1 tik - tik
+0 joylashtirilib
+0 boriladi
+0 Bargli
+0 daraxt
+0 yog'ochlaridan
+0 tayyorlangan
+0 taxtalar
+0 yog'och
+0 g'aramiga
+0 510
+0 sm
+0 taxlanadi
+0 Yog'och
+0 g'aramining
+0 balandligi
+0 tagligining
+0 kengligiga
+1 qarab - qarab
+0 6
+0 m
+0 dan
+0 oshmasligi
+1 kerak - kerak
+0 Taxtalarning
+0 yog'in
+0 sochin
+0 quyosh
+0 ta'siridan
+0 saqlash
+0 maqsadida
+0 yog'och
+0 g'aramlarning
+0 usti
+1 past - past
+0 sortli
+0 taxtalar
+1 bilan - bilan
+0 nishab
+0 qilib
+0 yopiladi
+1 Shuningdek - shuningdek
+0 taxtalarni
+0 taxlashda
+1 yuqori - yuqori
+0 qavatdagi
+0 taxtalar
+0 pastki
+0 qavatdagilarga
+0 soya
+0 beradigan
+0 qilib
+0 taxlanadi
+1 Tabiiy - tabiiy
+0 quritish
+0 materiallarining
+0 qalin-yupqaligiga
+0 yog'och
+0 turiga
+0 namligiga
+0 haroratiga
+0 10
+0 Yog'ochlarni
+0 ta'biiy
+0 holda
+0 quritish
+0 eng
+1 oddiy - oddiy
+1 oson - oson
+1 va - va
+1 arzon - arzon
+0 usulidir
+0 O'quv
+0 ustaxonasida
+0 ishlatiladigan
+0 yog'och
+0 materiallari
+1 ham - ham
+1 ko'pincha - ko'pincha
+1 tabiiy - tabiiy
+0 usulda
+0 quritiladi
+0 Buning
+1 uchun - uchun
+0 quritiladigan
+0 yog'och
+0 materiallar
+0 maktab
+0 sharoitiga
+1 qarab - qarab
+0 bostirmalarda
+0 ombor
+0 chordoqlarda
+0 maxsus
+0 tagliklar
+0 ustiga
+0 qo'yib
+0 saqlanadi
+0 Qish
+0 faslida
+0 yog'och
+0 materiallar
+0 tezroq
+0 qurish
+1 uchun - uchun
+1 ulardan - ularda
+0 keragi
+0 qirqib
+0 olinib
+0 o'quv
+0 ustaxonalarida
+0 saqlanadi
+1 ba'zan - ba'zan
+0 isitish
+0 tarmog'idagi
+0 batareyalar
+0 ustiga
+1 yoki - yoki
+0 pechkalar
+0 yoniga
+0 terib
+0 qo'yiladi
+0 Yog'ochlarni
+0 suniy
+0 quritish
+0 kameralarda
+0 olib
+0 boriladi
+1 Bu - bu
+0 usulda
+0 quritiladigan
+0 material
+0 kameraga
+0 terib
+0 taxlanadi
+1 va - va
+1 issiq - issiq
+0 xavo
+0 yuboriladi
+0 Kamerada
+0 quritish
+0 ta'biiy
+0 quritishga
+1 qaraganda - qaraganda
+0 qator
+0 afzalliklarga
+0 ega
+0 Kamerada
+0 yog'och
+1 juda - juda
+1 qisqa - qisqa
+0 vaqt
+1 ichida - ichida
+0 quriydi
+1 va - va
+1 katta - katta
+0 maydonlar
+0 bo'lishini
+0 talab
+0 etmaydi
+0 Kamerada
+0 yog'ochni
+0 xoxlagan
+0 namlikgacha
+0 quritish
+0 mumkin
+0 Kamerada
+0 haroratning
+1 yuqori - yuqori
+0 bo'lishi
+1 tufayli - tufayli
+0 chirituvchi
+0 zamburug'lar
+0 rivojlanmaydi
+0 Kamerada
+0 quritilishni
+0 aniq
+0 boshqarish
+0 mumkinligi
+1 sababli - sababli
+0 yorilish
+1 va - va
+0 tob
+0 tashlashning
+0 oldini
+0 olish
+0 mumkin
+0 Haroratning
+1 yuqori - yuqori
+0 bo'lishi
+0 natijasida
+0 nina
+0 bargli
+0 yog'ochning
+0 smolasi
+0 qotib
+0 qolib
+1 u - u
+1 keyinchalik - keyinchalik
+0 buyum
+0 sirtiga
+0 chiqmaydi
+1 Har - har
+1 bir - bir
+0 kishi
+0 qo'lidan
+0 kelganicha
+0 uy-ro'zg'or
+0 buyumlarini
+1 o'zi - o'z
+0 mustaqil
+0 yasashni
+0 hohlaydi
+0 Uy-ro'zg'or
+0 buyumlarini
+0 tayyorlashda
+1 kerak - kerak
+0 bo'ladigan
+0 homashyo
+0 materiallari
+1 haqida - haqida
+1 ham - ham
+0 ma'lumotlarga
+0 ega
+0 Shunday
+0 ekan
+0 qo'limizdan
+0 keladigan
+1 yoki - yoki
+0 yasash
+0 imkoni
+0 mavjub
+0 bo'lgan
+0 uy-ro'zg'or
+0 buyumlarini
+1 o'zimiz - o'z
+1 o'z - o'z
+0 qo'limiz
+1 bilan - bilan
+0 tayyorlasak
+0 yanada
+0 qadrliroq
+0 bo'ladi
+1 Kichik - kichik
+0 hajmdagi
+0 uy-ro'zg'or
+0 buyumlarini
+0 tayyorlashda
+1 bizga - biz
+0 chizmachilik
+0 fanidan
+0 olgan
+0 bilimlarimiz
+1 kerak - kerak
+0 bo'ladi
+0 O'lcham
+0 olish
+0 olingan
+0 o'lcham
+0 asosida
+0 buyumni
+0 rejalash
+0 arralash
+0 kesish
+0 qirqish
+1 va - va
+1 boshqa - boshqa
+0 ishlarni
+0 bajarishda
+0 esa
+0 sabr
+1 va - va
+0 qunt
+0 e'tibor
+0 talab
+0 etadi
+
+Lemmalar soni: 239

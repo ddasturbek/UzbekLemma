@@ -1,0 +1,1308 @@
+0 O'zbekiston-Fransiya
+0 davlat
+0 xizmatini
+0 rivojlantirish
+0 maqsadida
+0 deklarasiya
+0 imzoladi
+1 Bu - bu
+0 haqda
+0 Davlat
+0 xizmatini
+0 rivojlantirish
+0 agentligi
+0 xabar
+0 berdi
+0 Hujjat
+0 Prezident
+0 Shavkat
+0 Mirziyoevning
+0 joriy
+0 yil
+0 21-22
+0 noyabr
+0 kunlari
+0 Fransiya
+0 Respublikasiga
+1 rasmiy - rasmiy
+0 tashrifi
+0 doirasida
+0 O'zbekiston
+0 Respublikasi
+0 Prezidenti
+0 huzuridagi
+0 Davlat
+0 xizmatini
+0 rivojlantirish
+0 agentligi
+1 va - va
+0 Fransiya
+0 Respublikasi
+0 Davlat
+0 sektorini
+0 transformasiya
+0 qilish
+1 va - va
+0 davlat
+0 xizmati
+0 vazirligi
+0 o'rtasida
+0 imzolandi
+0 Mazkur
+0 Deklarasiya
+1 ikki - ikki
+0 tashkilot
+0 o'rtasida
+0 hamkorlik
+0 asoslarini
+0 belgilab
+0 beradi
+1 Shuningdek - shuningdek
+0 hujjatda
+0 qo'shma
+0 tadbirlarni
+0 tashkil
+0 qilish
+0 sohaga
+0 oida
+0 qator
+0 loyihalarni
+0 amalga
+0 oshirish
+0 davlat
+0 xizmatchilari
+1 uchun - uchun
+1 qisqa - qisqa
+1 muddatli - muddatli
+0 malaka
+0 oshirish
+0 kurslari
+0 o'quv
+0 dasturlarini
+0 tashkil
+0 qilish
+0 belgilandi
+0 Deklarasiyani
+0 amaliyotga
+0 tatbiq
+0 qilish
+0 doirasida
+0 davlat
+0 xizmatchilarining
+0 Fransiyada
+0 malaka
+0 oshirishini
+0 tashkil
+0 qilish
+0 ekspertlar
+0 almashinuvini
+0 yo'lga
+0 qo'yish
+0 davlat
+0 xizmatida
+0 raqamlashtirish
+1 va - va
+0 innovasiyalar
+1 bo'yicha - bo'yicha
+0 tajriba
+0 almashish
+0 belgilandi
+0 Samarqand
+0 shahrida
+0 2022
+0 yil
+0 5-6
+0 dekabr
+0 kunlari
+0 Inson
+0 huquqlari
+0 sohasida
+0 ta'lim
+0 mavzusida
+0 o'tkaziladigan
+0 Global
+0 forumning
+0 asosiy
+0 maqsadlaridan
+0 biri
+0 BMT
+0 Inson
+0 huquqlari
+1 bo'yicha - bo'yicha
+0 kengashining
+0 2022
+0 yil
+0 6
+0 oktyabrdagi
+0 512-sonli
+0 rezolyusiyasi
+0 doirasida
+0 Jahon
+0 ta'lim
+0 dasturining
+1 beshinchi - beshinchi
+0 bosqichi
+1 bo'yicha - bo'yicha
+0 takliflarni
+0 muhokama
+0 qilishdir
+1 Bu - bu
+0 haqda
+0 Inson
+0 huquqlari
+1 bo'yicha - bo'yicha
+0 O'zbekiston
+0 Respublikasi
+0 Milliy
+0 markazining
+0 matbuot
+0 xizmati
+0 xabar
+0 qildi
+1 Ma'lumki - ma'lumki
+0 2004
+0 yil
+0 10
+0 dekabrda
+0 BMT
+1 Bosh - bosh
+0 Assambleyasi
+0 inson
+0 huquqlari
+0 sohasidagi
+0 ta'limni
+0 amalga
+0 oshirishga
+0 ko'maklashish
+0 maqsadida
+0 Inson
+0 huquqlari
+0 sohasidagi
+0 Jahon
+0 ta'lim
+0 dasturini
+0 e'lon
+0 qilgan
+0 BMTning
+0 Inson
+0 huquqlari
+1 bo'yicha - bo'yicha
+0 Oliy
+0 komissari
+0 Boshqarmasi
+0 Jahon
+0 ta'lim
+0 dasturining
+0 bajarilishini
+0 global
+0 darajada
+0 muvofiqlashtirib
+0 borishi
+0 belgilangan
+0 Inson
+0 huquqlari
+0 sohasidagi
+0 Jahon
+0 ta'lim
+0 dasturi
+1 doimiy - doimiy
+0 amalga
+0 oshiriladigan
+1 uzluksiz - uzluksiz
+0 bosqichlardan
+0 iborat
+0 tashabbusdir
+1 Ushbu - ushbu
+0 jarayon
+1 bilan - bilan
+0 hayotimizning
+0 barcha
+0 sohalarini
+1 keng - keng
+0 qamrab
+0 olishga
+0 ko'maklashish
+1 uchun - uchun
+0 davlatlar
+0 inson
+0 huquqlari
+1 bo'yicha - bo'yicha
+0 ta'limni
+0 boshlang'ich
+1 va - va
+1 o'rta - o'rta
+0 maktab
+0 oliy
+0 ta'lim
+0 tizimida
+0 o'qituvchi
+1 va - va
+0 targ'ibotchilar
+0 davlat
+0 xizmati
+0 huquqni
+0 muhofaza
+0 qilish
+0 organlari
+0 xodimlari
+1 va - va
+0 harbiylar
+1 shuningdek - shuningdek
+1 ommaviy - ommaviy
+0 axborot
+0 vositalari
+0 vakillari
+0 o'rtasida
+0 singdirib
+0 borishi
+0 taqozo
+0 etiladi
+0 Jahon
+0 ta'lim
+0 dasturi
+0 BMTning
+0 Inson
+0 huquqlari
+0 sohasidagi
+0 ta'lim
+1 va - va
+0 tarbiya
+0 to'g'risidagi
+0 deklarasiyasini
+0 milliy
+0 darajalarda
+0 amalga
+0 oshirishni
+0 faollashtirishga
+0 yordam
+0 beradigan
+1 foydali - foydali
+0 vositadir
+0 O'tgan
+0 davrda
+0 Jahon
+0 ta'lim
+0 dasturi
+0 inson
+0 huquqlari
+0 sohasidagi
+0 ta'lim
+1 bo'yicha - bo'yicha
+0 milliy
+0 sa'y-harakatlar
+0 negizida
+0 quyidagi
+0 ketma-ket
+0 bosqichlarda
+0 izchillik
+1 bilan - bilan
+0 amalga
+0 oshirilmoqda
+0 2005-2009
+0 yillarni
+0 qamragan
+1 birinchi - birinchi
+0 bosqichda
+0 boshlang'ich
+1 va - va
+1 o'rta - o'rta
+0 maktablar
+0 tizimiga
+0 inson
+0 huquqlari
+1 bo'yicha - bo'yicha
+0 ta'limni
+0 integrasiya
+0 qilishga
+0 e'tibor
+0 qaratildi
+0 2010-2014
+0 yillarda
+0 amalga
+0 oshirilgan
+1 ikkinchi - ikkinchi
+0 bosqich
+0 oliy
+0 ta'lim
+0 tizimiga
+0 inson
+0 huquqlari
+0 sohasidagi
+0 ta'limni
+0 uyg'unlashtirish
+1 hamda - hamda
+0 o'qituvchilar
+1 va - va
+0 ta'lim
+0 sohasi
+0 xodimlari
+0 fuqarolik
+0 jamiyati
+0 institutlari
+1 va - va
+0 davlat
+0 organlari
+0 huquqni
+0 muhofaza
+0 qiluvchi
+0 organlar
+0 xodimlari
+1 va - va
+0 harbiy
+0 xizmatchilarni
+1 ushbu - ushbu
+0 soha
+1 bo'yicha - bo'yicha
+0 tayyorlashga
+0 bag'ishlandi
+0 2015-2019
+0 yilarga
+1 mansub - mansub
+1 uchinchi - uchinchi
+0 bosqichda
+1 erkin - erkin
+0 mustaqil
+1 va - va
+0 xolis
+1 ommaviy - ommaviy
+0 axborot
+0 vositalarining
+0 adolatni
+0 targ'ib
+0 qilish
+0 kamsitishlarga
+0 yo'l
+0 qo'ymaslik
+0 hurmat
+1 va - va
+0 erkinlikni
+0 ta'minlashdagi
+0 muhim
+0 rolini
+0 e'tirof
+0 etgan
+0 holda
+0 inson
+0 huquqlari
+0 sohasida
+0 OAV
+0 mutaxassislari
+1 va - va
+0 jurnalistlarni
+0 tayyorlashga
+0 alohida
+0 urg'u
+0 berildi
+0 2020
+0 yildan
+0 2024
+0 yilga
+1 qadar - qadar
+0 davom
+0 etayotgan
+1 to'rtinchi - to'rtinchi
+0 bosqichda
+0 yoshlarni
+0 tenglik
+0 inson
+0 huquqlariga
+0 amal
+0 qilish
+1 va - va
+0 kamsitmaslik
+0 ruhida
+0 tarbiyalash
+0 inklyuziv
+1 tinch - tinch
+1 va - va
+1 osoyishta - osoyishta
+0 jamiyatni
+0 yaratishga
+0 imkon
+0 beruvchi
+0 ta'lim
+0 berishga
+0 asosiy
+0 e'tibor
+0 qaratilmoqda
+0 BMT
+0 Inson
+0 huquqlari
+1 bo'yicha - bo'yicha
+0 kengashining
+0 2022
+0 yil
+0 6
+0 oktyabrdagi
+0 Rezolyusiyasida
+0 Inson
+0 huquqlari
+0 sohasidagi
+0 Jahon
+0 ta'lim
+0 dasturining
+1 to'rtinchi - to'rtinchi
+0 bosqichini
+0 amalga
+0 oshirishga
+0 mas'ul
+1 tegishli - tegishli
+1 manfaatdor - manfaatdor
+0 tomonlarning
+1 bu - bu
+0 boradagi
+1 ijobiy - ijobiy
+0 tashabbuslari
+0 alohida
+0 ta'kidlandi
+1 Shuningdek - shuningdek
+0 barcha
+0 davlatlar
+1 va - va
+1 manfaatdor - manfaatdor
+0 tomonlarga
+0 Jahon
+0 ta'lim
+0 dasturi
+0 bosqichlari
+0 hamma
+0 sohalarga
+1 chuqur - chuqur
+0 tatbiq
+0 etilishini
+0 faollashtirish
+0 tavsiya
+0 etildi
+1 O'z - o'z
+0 navbatida
+0 Rezolyusiyada
+0 Inson
+0 huquqlari
+0 sohasidagi
+0 Jahon
+0 ta'lim
+0 dasturining
+1 beshinchi - beshinchi
+0 bosqichida
+0 amalga
+0 oshiriladigan
+0 ishlar
+0 yuzasidan
+0 takliflarni
+0 shakllantirish
+0 masalasi
+0 kun
+0 tartibiga
+0 qo'yildi
+0 BMTning
+0 Inson
+0 huquqlari
+1 bo'yicha - bo'yicha
+0 Oliy
+0 komissari
+0 Boshqarmasiga
+0 BMTning
+0 barcha
+0 tuzilmalari
+0 davlatlar
+0 fuqarolik
+0 jamiyati
+0 institutlari
+1 va - va
+1 manfaatdor - manfaatdor
+0 tomonlarning
+0 ayni
+0 mavzudagi
+0 fikr-mulohazalarini
+0 so'rab
+0 olish
+0 tavsiya
+0 etildi
+1 Shu - shu
+0 ma'noda
+0 «Inson
+0 huquqlari
+0 sohasida
+0 ta'lim»
+0 mavzusidagi
+0 Global
+0 forumda
+1 jumladan - jumladan
+0 Jahon
+0 ta'lim
+0 dasturi
+1 beshinchi - beshinchi
+0 bosqichi
+1 bo'yicha - bo'yicha
+0 takliflarning
+0 muhokama
+0 qilinishi
+0 muhim
+0 ahamiyatga
+0 ega
+1 Bu - bu
+0 omil
+1 bir - bir
+0 tomondan
+1 ushbu - ushbu
+1 xalqaro - xalqaro
+0 anjumanning
+0 qanchalik
+0 dolzarbligini
+0 ko'rsatsa
+0 ikinchi
+0 tomondan
+0 Samarqand
+0 Global
+0 forumida
+0 tom
+0 ma'noda
+0 umumbashariy
+0 masalalar
+0 ko'rib
+0 chiqilishini
+1 yana - yana
+1 bir - bir
+1 bor - bor
+0 tasdiqlaydi
+0 Shavkat
+0 Mirziyoev
+1 va - va
+0 Turkmaniston
+0 Milliy
+0 Kengashi
+0 Xalq
+0 Maslahati
+0 Raisi
+0 Gurbanguli
+0 Berdimuhamedov
+0 bir-biriga
+0 maktub
+0 yo'lladilar
+1 Bu - bu
+0 haqda
+0 Prezident
+0 matbuot
+0 xizmati
+0 xabar
+0 berdi
+0 Qayd
+0 etilishicha
+1 ularda - ular
+1 ikki - ikki
+0 tomonlama
+0 hamkorlikning
+1 bugungi - bugungi
+0 darajasi
+1 hamda - hamda
+0 Samarqandda
+0 bo'lib
+0 o'tgan
+0 Turkiy
+0 davlatlar
+0 tashkiloti
+0 sammiti
+0 yakunlari
+1 yuksak - yuksak
+0 baholangan
+0 O'zbekiston
+0 Respublikasi
+0 Prezidenti
+0 Shavkat
+0 Mirziyoev
+0 Janobi
+0 Oliylariga
+0 Muhtaram
+0 Shavkat
+0 Miromonovich
+0 Eng
+1 avvalo - avvalo
+0 Samarqanddagi
+0 Turkiy
+0 davlatlar
+0 tashkiloti
+0 sammiti
+0 davomida
+0 Turkmaniston
+0 delegasiyasiga
+0 ko'rsatilgan
+1 samimiy - samimiy
+0 mehmondo'stlik
+1 va - va
+0 alohida
+0 e'tiboringiz
+1 uchun - uchun
+1 chuqur - chuqur
+0 minnatdorlik
+0 bildiraman
+0 Sammit
+0 doirasida
+1 Siz - siz
+1 bilan - bilan
+0 g'oyat
+0 mazmundor
+1 samimiy - samimiy
+1 va - va
+0 ishonch
+0 ruhida
+0 o'tgan
+0 uchrashuvimiz
+0 turkman
+1 va - va
+0 o'zbek
+0 xalqlari
+0 o'rtasidagi
+1 ko'p - ko'p
+0 arslik
+0 qardoshlik
+1 va - va
+1 yaxshi - yaxshi
+0 qo'shnichilik
+0 rishtalarini
+1 yana - yana
+1 bir - bir
+1 bor - bor
+0 tasdiqladi
+1 Biz - biz
+1 ushbu - ushbu
+0 qadriyatlarni
+0 nafaqat
+0 saqlab
+0 qoldik
+1 balki - balki
+1 bugungi - bugungi
+0 kungacha
+0 etkazib
+0 davlatlararo
+0 munosabatlarning
+0 poydevoriga
+0 aylantirdik
+0 Turkiylar
+1 va - va
+1 umuman - umuman
+0 jahon
+0 sivilizasiyasining
+0 beshiklaridan
+0 biri
+0 bo'lgan
+1 aynan - aynan
+0 Samarqandda
+0 qardosh
+0 xaqlarimizning
+0 mushtarakligi
+0 tasdiqlangani
+0 do'stlik
+1 va - va
+0 barcha
+0 yo'nalishlardagi
+0 hamkorlikni
+0 yanada
+0 mustahkamlashga
+0 sur'at
+0 bag'ishlangani
+0 global
+0 taraqqiyotning
+1 bugungi - bugungi
+1 juda - juda
+0 murakkab
+0 sharoitlarida
+0 turkiy
+0 davlatlarning
+0 birligi
+0 jipsligi
+1 va - va
+0 hamkorligining
+0 siyosiy
+0 asoslari
+1 va - va
+0 mafkuraviy
+0 asoslari
+0 mustahkamlangani
+1 chuqur - chuqur
+0 ramziy
+0 ma'noga
+0 ega
+1 Siz - siz
+0 sammitda
+1 o'zgacha - o'z
+0 mehmondo'stlik
+0 o'zaro
+0 ishonch
+1 va - va
+0 ochiqlik
+0 muhitini
+0 yaratganingizni
+0 alohida
+0 ta'kilamoqchiman
+0 Tadbirning
+1 muvaffaqiyatli - muvaffaqiyatli
+0 o'tgani
+0 aytilgan
+0 maqsadlarga
+0 erishilgani
+1 ko'p - ko'p
+0 jihatdan
+1 shu - shu
+0 tufaylidir
+0 barqarorlik
+1 va - va
+0 xavfsizlikni
+0 ta'minlash
+1 bo'yicha - bo'yicha
+0 hamkorlik
+0 mexanizmlari
+0 amalda
+0 ishlay
+0 boshladi
+0 O'zbekiston
+0 Turkmanistonning
+0 betarafligi
+1 va - va
+1 xalqaro - xalqaro
+0 tashabbuslarini
+0 qo'llab-quvvatlayotganini
+0 ko'rib
+0 turibmiz
+1 va - va
+1 yuksak - yuksak
+0 qadrlaymiz
+1 Men - men
+0 buni
+1 Siz - siz
+1 bilan - bilan
+1 Sizning - sizning
+1 ikki - ikki
+0 tomonlama
+0 aloqalarni
+0 rivojlantirishga
+0 alohida
+0 e'tiboringiz
+1 va - va
+0 ishtirokingiz
+1 ikki - ikki
+0 xalq
+1 va - va
+0 davlat
+0 o'rtasidagi
+0 do'stlik
+1 va - va
+0 hamkorlikka
+0 sadoqatingiz
+1 bilan - bilan
+0 bog'layman
+1 Yana - yana
+1 bir - bir
+1 bor - bor
+0 Turkiy
+0 davlatlar
+0 tashkiloti
+0 sammitining
+1 muvaffaqiyatli - muvaffaqiyatli
+0 o'tkazilgani
+1 bilan - bilan
+0 tabriklashga
+1 hamda - hamda
+0 Turkmaniston
+1 doim - doim
+0 O'zbekiston
+1 yonida - yonida
+0 turishini
+0 munosabatlarimiz
+0 zamiridagi
+0 bunyodkorlik
+0 maqsadlariga
+0 qat'iy
+0 amal
+0 qilishini
+0 ishontirib
+0 aytishga
+0 ijozat
+0 bergaysiz
+1 Sizga - sizga
+1 hurmatli - hurmatli
+0 Shavkat
+0 Miromonovich
+1 mustahkam - mustahkam
+0 sog'lik
+0 oilaviy
+0 baxt
+1 va - va
+0 farovonlik
+0 O'zbekiston
+0 etakchiligida
+1 ko'p - ko'p
+0 qirrali
+0 davlat
+1 va - va
+0 siyosiy
+0 faoliyatingizda
+1 katta - katta
+0 muvaffaqiyatlar
+0 tilayman
+1 Chuqur - chuqur
+0 hurmat
+1 va - va
+1 katta - katta
+0 ehtirom
+1 bilan - bilan
+0 Turkmaniston
+0 Milliy
+0 Kengashi
+0 Xalq
+0 Maslahati
+0 Raisi
+0 Gurbanguli
+0 Berdimuhamedov»
+0 —
+0 deyiladi
+0 xabarda
+0 Turkmaniston
+0 Milliy
+0 Kengashi
+0 Xalq
+0 Maslahati
+0 Raisi
+0 Gurbanguli
+0 Berdimuhamedov
+0 Janobi
+0 Oliylariga
+1 Hurmatli - hurmatli
+0 Gurbanguli
+0 Myalikgulievich
+1 Qadrli - qadrli
+0 birodarim
+1 Avvalambor - avvalambor
+1 yaqinda - yaqinda
+0 yurtimizga
+0 amalga
+0 oshirgan
+0 tashrifingiz
+0 munosabati
+1 bilan - bilan
+0 yo'llagan
+1 samimiy - samimiy
+0 maktubingiz
+0 O'zbekiston
+1 va - va
+0 shaxsan
+1 mening - mening
+0 sha'nimga
+0 bildirgan
+1 iliq - iliq
+0 fikrlaringiz
+1 hamda - hamda
+1 ezgu - ezgu
+0 tilaklaringiz
+1 uchun - uchun
+1 chin - chin
+0 qalbimdan
+1 samimiy - samimiy
+0 minnatdorlik
+0 bildiraman
+0 Samarqandda
+0 bo'lib
+0 o'tgan
+0 Turkiy
+0 davlatlar
+0 tashkiloti
+0 sammitida
+1 Siz - siz
+0 Janobi
+0 Oliylarining
+0 shaxsan
+0 ishtirokingiz
+0 anjumanning
+1 tarixiy - tarixiy
+0 ahamiyati
+1 va - va
+0 natijadorligini
+0 yanada
+0 oshirishga
+0 beqiyos
+0 hissa
+0 qo'shib
+0 turkiy
+0 oilada
+0 qardosh
+0 o'zbek
+1 va - va
+0 turkman
+0 xalqlarining
+1 do'stona - do'stona
+0 aloqalari
+0 naqadar
+1 yuksak - yuksak
+0 ekanligini
+1 yaqqol - yaqqol
+0 namoyish
+0 etdi
+0 Maktubingizda
+0 bayon
+0 qilganingizdek
+0 qadim
+1 va - va
+0 betakror
+0 Samarqand
+0 shahri
+1 ming - ming
+0 yillar
+0 davomida
+0 Sharq
+1 va - va
+0 G'arbni
+0 tutashtirib
+0 turkiy
+1 va - va
+0 jahon
+0 sivilizasiyalarini
+0 bir-biriga
+0 yaqinlashtirib
+0 turli
+0 madaniyatlarni
+0 birlashtirib
+0 kelgan
+1 boy - boy
+0 madaniy-ma'naviy
+0 xazinasi
+1 bilan - bilan
+0 dunyo
+0 tamadduniga
+1 ulkan - ulkan
+0 hissa
+0 qo'shgan
+0 Asrlar
+0 davomida
+1 yonma-yon - yonma-yon
+1 tinch - tinch
+1 va - va
+1 totuv - totuv
+0 yashab
+0 kelgan
+0 qardosh
+0 xalqlarimizning
+0 birligi
+0 hamjihatligi
+1 va - va
+1 abadiy - abadiy
+0 do'stligiga
+0 turkiy
+0 davlatlar
+0 integrasiyasi
+1 va - va
+0 o'zaro
+1 yaqin - yaqin
+0 hamkorligiga
+0 Tashkilotimizning
+1 xalqaro - xalqaro
+0 maydondagi
+0 obro'
+1 va - va
+0 nufuzini
+0 keskin
+0 oshirishga
+0 beqiyos
+0 amaliy
+0 hissa
+0 qo'shayotgan
+1 Siz - siz
+0 Janobi
+0 Oliylarining
+0 'Turkiy
+0 dunyoning
+0 oliy
+0 ordeni'
+1 bilan - bilan
+0 taqdirlanishi
+0 barcha
+0 a'zo
+1 va - va
+0 kuzatuvchi
+0 davlatlar
+0 aholisi
+1 orasida - orasida
+1 juda - juda
+1 katta - katta
+0 quvonch
+1 hamda - hamda
+0 mamnuniyat
+1 bilan - bilan
+0 qabul
+0 qilindi
+1 Bu - bu
+0 oliy
+0 mukofotning
+1 tantanali - tantanali
+0 ravishda
+0 taqdim
+0 etilishi
+0 Sizdek
+1 oqil - oqil
+1 va - va
+1 donishmand - donishmand
+0 chinakam
+0 fidoyi
+0 tajribali
+1 va - va
+1 vatanparvar - vatanparvar
+0 davlat
+1 hamda - hamda
+0 jamoat
+0 arbobiga
+1 qimmatli - qimmatli
+1 ilmiy - ilmiy
+1 va - va
+1 ijodiy - ijodiy
+0 faoliyati
+1 bilan - bilan
+1 kelajak - kelajak
+0 avlodlar
+1 uchun - uchun
+1 boy - boy
+0 ma'naviy-ma'rifiy
+0 meros
+0 yaratayotgan
+0 buyuk
+0 shaxsga
+1 nisbatan - nisbatan
+0 bildirilgan
+1 cheksiz - cheksiz
+0 ehtirom
+0 ramzi
+0 hamdir
+0 Shubha
+0 yo'qki
+1 bu - bu
+0 Turkmanistonni
+0 turkiy
+0 dunyo
+1 va - va
+0 Tashkilotimiz
+1 bilan - bilan
+0 yanada
+0 yaqinlashtiradi
+1 hamda - hamda
+1 uning - uning
+0 faoliyatida
+0 turkman
+0 xalqining
+0 kengroq
+0 ishtirokini
+0 ta'minlashga
+0 munosib
+0 xizmat
+0 qiladi
+0 Sammit
+0 yakunlari
+0 kelgusida
+0 Tashkilotimiz
+0 doirasidagi
+0 serqirra
+0 hamkorlik
+0 ufqlarini
+0 ochishga
+0 mintaqada
+1 va - va
+1 xalqaro - xalqaro
+0 miqyosda
+0 tinchlikni
+0 o'zaro
+0 hamjihatlikni
+0 mustahkamlashga
+0 Turkiy
+0 sivilizasiyaning
+1 yangi - yangi
+0 Uyg'onish
+0 davrini
+0 boshlashga
+0 zamin
+0 yaratgani
+0 e'tiborlidir
+0 Muhtaram
+0 Gurbanguli
+0 Myalikgulievich
+0 Maktubingiz
+0 zamirida
+1 Sizning - sizning
+0 o'zbek
+0 xalqi
+1 va - va
+0 madaniyatiga
+0 bo'lgan
+1 chuqur - chuqur
+0 hurmatingiz
+1 tarixiy - tarixiy
+0 tomirlari
+0 qalbi
+0 mushtarak
+0 xalqlarimiz
+0 o'rtasidagi
+1 azaliy - azaliy
+0 rishtalarni
+0 qadrlash
+1 va - va
+0 hamkorlikni
+0 rivojlantirishdek
+1 ezgu - ezgu
+0 maqsadlar
+1 mujassam - mujassam
+0 ekanidan
+0 behad
+0 xursandman
+0 O'zbek
+0 xalqiga
+0 qon-qardosh
+0 bo'lgan
+0 turkman
+0 eli
+1 bilan - bilan
+1 doimiy - doimiy
+0 do'stlik
+0 aloqalari
+0 so'nggi
+0 yillarda
+1 keng - keng
+0 quloch
+0 yozgani
+1 yaqin - yaqin
+0 qo'shnichilik
+0 munosabatlari
+0 strategik
+0 sheriklikning
+1 yuqori - yuqori
+0 darajasiga
+0 ko'tarilganini
+1 yana - yana
+1 bir - bir
+1 bor - bor
+0 ta'kidlashni
+0 istardim
+1 Sizning - sizning
+0 ta'biringiz
+1 bilan - bilan
+0 aytganda
+0 'tug'ishgan
+1 ikki - ikki
+0 xalq'ning
+0 o'zaro
+0 hamfikrligi
+1 ochiq - ochiq
+0 ruhdagi
+1 va - va
+1 samimiy - samimiy
+0 muloqoti
+0 ellarimizga
+1 birinchi - birinchi
+0 galda
+1 yosh - yosh
+0 avlodlarimizga
+0 ibrat
+1 va - va
+0 namuna
+0 bo'lib
+0 xizmat
+0 qilishi
+1 shubhasiz - shubhasiz
+1 Ushbu - ushbu
+1 ezgu - ezgu
+0 niyatlar
+0 ifodasi
+0 sifatida
+1 men - men
+1 yaqinda - yaqinda
+1 hurmatli - hurmatli
+0 Prezident
+0 Serdar
+0 Berdimuhamedov
+1 bilan - bilan
+1 ko'rkam - ko'rkam
+0 Ashxobod
+0 shahridagi
+0 'Toshkent'
+0 bog'ida
+0 daraxt
+0 ekkanimiz
+1 va - va
+1 bu - bu
+0 erda
+1 o'z - o'z
+0 to'yini
+0 nishonlayotgan
+1 yosh - yosh
+0 oilaning
+0 quvonchiga
+0 sherik
+0 bo'lib
+1 ularga - ularga
+1 oq - oq
+0 fotiha
+0 berganimizda
+1 chuqur - chuqur
+0 ramziy
+0 ma'no
+0 ko'raman
+0 Turkmaniston
+1 bilan - bilan
+0 o'zaro
+1 manfaatli - manfaatli
+0 hamkorligimiz
+0 misli
+0 ko'rilmagan
+0 darajaga
+0 ko'tarilganini
+0 mamnuniyat
+1 bilan - bilan
+0 qayd
+0 etish
+0 o'rinlidir
+1 Shu - shu
+0 kunlarda
+0 Dashoguz
+0 shahrida
+0 o'zbek
+1 va - va
+0 turkman
+0 xalqlari
+0 do'stligi
+0 festivali
+1 muvaffaqiyatli - muvaffaqiyatli
+0 o'tkazilgani
+1 ham - ham
+1 bu - bu
+0 fikrimning
+1 yorqin - yorqin
+0 isbotidir
+0 Fursatdan
+0 foydalanib
+0 muhtaram
+0 Gurbanguli
+0 Myalikgulievich
+1 Sizga - sizga
+1 mustahkam - mustahkam
+0 sog'liq
+0 oilaviy
+0 baxt-saodat
+1 va - va
+0 sharafli
+0 faoliyatingizda
+1 ulkan - ulkan
+0 muvaffaqiyatlar
+0 do'st
+0 turkman
+0 xalqiga
+0 esa
+0 tinchlik-omonlik
+1 va - va
+1 doimiy - doimiy
+0 ravnaq
+0 tilab
+0 qolaman
+1 Samimiy - samimiy
+0 ehtirom
+1 bilan - bilan
+0 Shavkat
+0 Mirziyoev»
+0 —
+0 deyiladi
+0 xabarda
+
+Lemmalar soni: 292

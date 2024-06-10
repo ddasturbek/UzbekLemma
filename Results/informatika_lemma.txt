@@ -1,0 +1,1002 @@
+0 Mantiqiy
+0 formulalar
+0 rostlik
+0 jadvallari
+0 yordamida
+0 izohlanadi
+0 Bunday
+0 jadvallar
+0 mantiqiy
+0 bog'lovchi
+1 orqali - orqali
+0 tuzilgan
+0 murakkab
+0 mulohazaning
+0 rost1
+1 yoki - yoki
+0 yolg'on0ligini
+0 tashkil
+0 etuvchi
+0 mulohazalarning
+0 rostligiga
+1 qarab - qarab
+0 aniqlanadi
+0 Mantiqiy
+0 amallarning
+0 rostlik
+0 jadvallaridan
+0 foydalanib
+0 murakkabroq
+0 mulohazalar
+1 uchun - uchun
+0 rostlik
+0 jadvalini
+0 tuzish
+0 mumkin
+0 Rostlik
+0 jadvalini
+0 tuzishda
+0 amallarning
+0 bajarilish
+0 tartibiga
+0 rioya
+0 qilish
+1 shart - shart
+0 Mulоhаzаlаr
+0 to'plаmidа
+0 аvvаl
+0 inkоr
+0 аmаli
+0 kеyin
+0 kоnyunksiya
+0 dizyunksiya
+0 implikаtsiya
+0 vа
+0 nihоyat
+0 ekvivаlеnsiya
+0 аmаllаri
+0 bаjаrilаdi
+0 Аgаr
+0 inkоr
+0 аmаli
+0 qаvslаrdаn
+0 tаshqаridа
+0 bo'lsa
+1 u - u
+0 hоldа
+1 dastlab - dastlab
+0 qаvs
+0 ichidаgi
+0 аmаllаr
+0 bаjаrilаdi
+1 Teng - teng
+1 kuchli - kuchli
+1 yoki - yoki
+1 bir - bir
+0 xil
+0 amallar
+0 ketma-ketligi
+0 bajarilayotganda
+0 amallar
+0 chapdan
+0 o'ngga
+1 tomon - tomon
+0 tartib
+1 bilan - bilan
+0 bajariladi
+0 Ichma-ich
+0 joylashgan
+0 qavslarda
+0 eng
+0 ichkaridagi
+0 qavs
+0 ichidagi
+0 amallar
+1 birinchi - birinchi
+0 bajariladi
+0 Mantiq
+0 algebrasi
+0 matematikaning
+1 bir - bir
+0 bо'limi
+0 hisoblanib
+1 avtomatik - avtomatik
+0 qurilmalarni
+0 loyihalashtirishda
+0 axborot
+1 va - va
+0 kommunikatsiya
+0 texnologiyalarining
+0 apparatli
+1 va - va
+0 dasturiy
+0 vositalarini
+0 ishlab
+0 chiqishda
+0 muhim
+0 o'rin
+0 tutadi
+1 Ma'lumki - ma'lumki
+1 har - har
+1 qanday - qanday
+0 axborot
+0 diskret
+0 kо'rinishda
+1 ya'ni - ya'ni
+0 alohida
+0 qiymatlarning
+0 fiksirlangan
+0 belgilangan
+0 to'plami
+0 kо'rinishida
+0 taqdim
+0 etilishi
+0 mumkin
+0 Diskret
+0 qayta
+0 ishlovchi
+0 qurilma
+0 ikkilik
+0 signallarni
+0 qayta
+0 ishlaganidan
+1 keyin - keyin
+0 biror
+0 mantiqiy
+0 amalning
+0 qiymatini
+0 chiqarsa
+1 u - u
+0 mantiqiy
+0 element
+1 deb - deb
+0 ataladi
+0 Bunday
+0 qiymatlar
+0 signallarni
+0 qayta
+0 ishlovchi
+0 qurilmalarga
+0 esa
+0 diskret
+0 qurilmalar
+0 deyiladi
+0 Mantiqiy
+0 elementlar
+0 kompyuterning
+0 tarkibiy
+0 qismi
+0 bo'lib
+0 ikkilik
+1 o'zgaruvchilar - o'z
+1 ustida - ustida
+0 muayyan
+0 mantiqiy
+0 amallarni
+0 bajarish
+1 uchun - uchun
+0 mo'ljallangan
+0 elementlar
+0 hisoblanadi
+1 Zamonaviy - zamonaviy
+0 raqamli
+0 texnologiyalarning
+0 barcha
+0 hisoblash
+0 qurilmalari
+0 kompyuter
+0 mobil
+0 qurilmalar
+0 mantiqiy
+0 elementlarga
+0 asoslangan
+0 Kompyutеrning
+1 har - har
+1 qanday - qanday
+0 mantiqiy
+0 amali
+0 asosiy
+0 mantiqiy
+0 elеmеntlar
+0 yordamida
+0 bajariladi
+1 Har - har
+1 bir - bir
+0 mantiqiy
+0 element
+1 bir - bir
+1 yoki - yoki
+1 bir - bir
+1 necha - necha
+0 mantiqiy
+0 amalning
+0 bajarilishini
+0 ta'minlaydi
+0 Quyida
+0 eng
+0 sodda
+1 va - va
+1 keng - keng
+0 tarqalgan
+0 mantiqiy
+0 elementlar
+1 bilan - bilan
+0 tanishamiz
+0 Elеmеntlarning
+1 o'zi - o'z
+1 oddiy - oddiy
+0 elеktr
+0 sxеmalardan
+0 tuziladi
+1 Bunda - bunda
+0 sxеmaning
+0 kirish
+0 qismiga
+0 kеlgan
+0 signallarga
+0 argumеnt
+0 dеyilsa
+0 chiqishdagi
+0 signallar
+0 esa
+0 argumеntning
+0 funksiyasi
+0 bo'ladi
+0 Inson
+0 amaliy
+0 ish
+0 jarayonida
+1 ko'plab - ko'plab
+0 masalalarni
+0 hal
+0 etishiga
+1 to'g'ri - to'g'ri
+0 keladi
+1 Bu - bu
+0 masalalarning
+0 ba'zilari
+0 osongina
+0 ba'zilari
+0 esa
+0 murakkab
+0 hisob-kitoblar
+1 orqali - orqali
+0 hal
+0 etiladi
+0 Ba'zi
+0 masalalarni
+0 yechishda
+0 esa
+1 qandaydir - qanday
+0 amallar
+0 guruhini
+0 minglab
+0 marta
+0 bajarishga
+1 to'g'ri - to'g'ri
+0 kelishi
+0 mumkin
+1 Shuning - shu
+1 uchun - uchun
+1 beminnat - beminnat
+1 va - va
+0 o'ta
+1 tez - tez
+0 ishlaydigan
+0 yordamchimiz
+0 bo'lmish
+0 kompyuter
+1 bizga - biz
+1 yaqindan - yaqindan
+0 yordam
+0 bera
+0 oladimi
+1 agar - agar
+0 yordam
+0 bera
+0 olsa
+1 ularni - ularni
+0 kompyuterda
+0 hal
+0 etish
+1 qanday - qanday
+0 tashkil
+0 etiladi
+0 degan
+0 savollar
+0 tug'ilishi
+1 tabiiy - tabiiy
+0 hol
+1 Aslida - aslida
+0 esa
+0 kompyuter
+0 masalalarni
+1 tez - tez
+0 hal
+0 qilish
+1 va - va
+0 ma'lumotlarni
+0 qayta
+0 ishlash
+1 uchun - uchun
+0 yaratilgan
+0 Shunday
+0 hisoblash
+0 jarayonlari
+1 ham - ham
+0 bo'ladiki
+1 unda - unda
+0 qo'yilgan
+0 ayrim
+0 mantiqiy
+0 shartlarning
+0 bajarilishiga
+1 ko'ra - ko'ra
+0 jarayonlar
+1 bir - bir
+1 necha - necha
+0 tarmoqqa
+0 bo'linadi
+1 hamda - hamda
+1 ulardan - ularda
+1 hech - hech
+0 bo'lmaganda
+0 bittasi
+0 bajariladi
+0 Bunday
+0 jarayonlar
+0 bajarilishi
+1 uchun - uchun
+0 tarmoqlanuvchi
+0 algoritmlar
+0 tuziladi
+1 Agar - agar
+0 hisoblash
+0 jarayoni
+1 qandaydir - qanday
+0 berilgan
+0 shartning
+0 bajarilishiga
+1 qarab - qarab
+0 turli
+0 tarmoqlar
+1 bo'yicha - bo'yicha
+0 davom
+0 ettirilsa
+1 va - va
+0 hisoblash
+0 jarayonida
+1 har - har
+1 bir - bir
+0 tarmoq
+1 faqat - faqat
+1 bir - bir
+0 marta
+0 bajarilsa
+0 bunday
+0 hisoblash
+0 jarayonlariga
+0 tarmoqlanuvchi
+0 algoritmlar
+0 deyiladi
+0 Tarmoqlanuvchi
+0 struktura
+1 odatda - odatda
+1 qandaydir - qanday
+0 mantiqiy
+0 shartni
+0 tekshirish
+0 blokini
+1 o'z - o'z
+0 ichiga
+0 oladi
+0 Tekshirish
+0 natijasiga
+1 ko'ra - ko'ra
+0 tarmoq
+1 deb - deb
+0 ataluvchi
+1 u - u
+1 yoki - yoki
+1 bu - bu
+0 amallar
+0 ketma-ketligi
+0 bajariladi
+0 Tarmoqlanuvchi
+0 tuzilish
+1 shart - shart
+0 tekshirish
+0 natijasiga
+1 ha - ha
+1 yoki - yoki
+1 yo'q - yo'q
+1 qarab - qarab
+1 ikki - ikki
+0 yo'ldan
+0 birini
+0 tanlash
+0 imkoniyatini
+0 beradi
+1 ya'ni - ya'ni
+0 ko'rsatilgan
+0 tarmoqdan
+1 faqat - faqat
+0 bittasining
+0 bajarilishini
+0 ta'minlaydi
+0 Protsessor
+0 dasturlash
+0 tilida
+0 yozilgan
+0 dasturni
+0 to'g'ridan-to'g'ri
+0 tushunmaydi
+0 Buning
+1 uchun - uchun
+0 dasturni
+0 protsessor
+0 tiliga
+0 tarjima
+0 qiladigan
+0 raqamli
+0 ko'rinishga
+0 o'tkazib
+0 beruvchi
+0 tarjimon
+0 tili
+0 translyatordan
+0 foydalaniladi
+0 Tarjimon
+0 tilining
+0 ikkita
+0 turi
+0 mavjud
+0 kompilyator
+1 va - va
+0 interpretator
+0 Kompilyator
+0 dasturlash
+0 tilida
+0 yozilgan
+0 dastur
+0 kodlarini
+0 to'laligicha
+0 o'qib
+0 mashina
+0 kodiga
+0 tarjima
+0 qiladi
+1 va - va
+0 tarjima
+0 natijalarini
+0 bajariladigan
+0 yaxlit
+1 bitta - bitta
+0 faylga
+0 yig'adi
+0 Interpretator
+0 dasturlash
+0 tilida
+0 yozilgan
+0 kodni
+0 bosqichma-bosqich
+0 mashina
+0 kodiga
+0 aylantirib
+0 tahlil
+0 qiladi
+1 va - va
+0 berilgan
+0 buyruqlarni
+0 ketma-ketlikda
+0 bajaradi
+1 Agar - agar
+0 xatolik
+0 sodir
+0 bo'lsa
+0 o'sha
+0 zahoti
+0 xabar
+0 beradi
+0 Dasturlash
+0 tillari
+1 juda - juda
+1 ko'p - ko'p
+0 bo'lib
+1 ularning - ularning
+1 har - har
+0 biridan
+1 o'ziga - o'z
+1 xos - xos
+0 masalalarni
+0 yechishda
+0 foydalanish
+0 mumkin
+0 Quyida
+1 ularning - ularning
+0 eng
+0 mashhurlari
+0 haqidagi
+0 ma'lumotlar
+1 bilan - bilan
+0 tanishamiz
+0 Aksariyat
+0 dasturlash
+0 tillari
+1 xususan - xususan
+0 C
+0 Pascal
+0 Java
+0 Python
+1 va - va
+0 boshqalar
+0 integrallashgan
+0 dasturlash
+0 muhiti
+0 IDEga
+0 ega
+0 IDE
+0 Integrated
+0 Development
+0 Environment
+0 integrallashgan
+0 dasturlash
+0 muhiti
+0 dasturiy
+0 ta'minot
+0 yaratish
+1 uchun - uchun
+0 dasturiy
+0 vositalar
+0 majmui
+1 Tizimli - tizimli
+1 va - va
+0 amaliy
+0 dasturlarni
+0 yaratish
+1 uchun - uchun
+0 dasturlash
+0 tillaridan
+0 foydalaniladi
+0 Dastur
+0 yaratish
+0 jarayoni
+1 katta - katta
+0 hajmga
+0 ega
+0 bo'lib
+0 dasturlash
+0 tillarida
+0 dastur
+0 yozish
+1 shu - shu
+0 jarayonning
+1 bir - bir
+0 qismi
+0 sanaladi
+1 Avvalgi - avvalgi
+0 mavzularimizda
+0 kompyuterda
+0 masalani
+0 yechish
+0 bosqichlarini
+0 ko'rib
+0 chiqqan
+0 edik
+0 Kompyuter
+0 dasturlarini
+0 yaratish
+0 jarayoni
+1 ham - ham
+0 kompyuterda
+0 masalani
+0 yechish
+0 jarayoniga
+0 o'xshash
+0 bo'lib
+1 bir - bir
+1 necha - necha
+0 bosqichni
+1 o'z - o'z
+0 ichiga
+0 oladi
+1 Birinchi - birinchi
+0 bosqichda
+0 dastur
+1 uchun - uchun
+0 talab
+0 aniqlanadi
+1 Ushbu - ushbu
+0 jarayonda
+0 dasturning
+1 qanday - qanday
+0 maqsadda
+0 qo'llanilishi
+0 kirish
+1 va - va
+0 chiqish
+0 ma'lumotlari
+0 aniqlanadi
+0 Dastur
+1 va - va
+0 resurslarni
+0 ishlab
+0 chiqish
+1 uni - uni
+0 joriy
+0 etishning
+0 narxi
+0 baholanadi
+1 Ikkinchi - ikkinchi
+0 bosqichda
+0 dastur
+0 loyihasi
+0 ishlab
+0 chiqiladi
+0 Dasturchilar
+1 uchun - uchun
+0 texnik
+0 topshiriq
+1 va - va
+0 vazifalar
+0 shakllantiriladi
+0 Ishchi
+0 hujjatlar
+1 hamda - hamda
+0 ish
+0 rejasining
+0 grafigi
+0 tuziladi
+1 Uchinchi - uchinchi
+0 bosqichda
+0 dastur
+0 kodi
+0 yoziladi
+1 Bu - bu
+0 kodlash
+0 dasturlash
+0 jarayoni
+0 bo'lib
+0 tuzilgan
+0 algoritm
+0 dasturlash
+0 tilida
+0 yoziladi
+1 To'rtinchi - to'rtinchi
+0 bosqichda
+0 kodlash
+0 jarayoni
+0 tugab
+0 dasturdagi
+0 xatoliklarni
+0 aniqlash
+1 va - va
+0 testlash
+0 boshlanadi
+1 Bu - bu
+0 jarayonda
+0 dasturning
+1 to'g'ri - to'g'ri
+0 tuzilganligi
+0 ishlash
+0 samaradorligi
+1 va - va
+1 boshqa - boshqa
+0 parametrlariga
+0 aniqlik
+0 kiritiladi
+1 Beshinchi - beshinchi
+0 bosqichda
+0 dastur
+0 amaliyotga
+0 joriy
+0 etiladi
+1 Agar - agar
+0 dastur
+0 aniq
+0 buyurtmachi
+0 talabiga
+0 muvofiq
+0 yaratilgan
+0 bo'lsa
+1 u - u
+0 holda
+1 bu - bu
+0 bosqich
+0 eng
+0 muhim
+0 bosqich
+0 sanaladi
+1 Bunda - bunda
+1 avvalgi - avvalgi
+0 dasturda
+0 foydalanilgan
+0 qurilma
+1 va - va
+0 ma'lumotlar
+1 yangi - yangi
+0 dasturga
+0 moslanadi
+1 Ushbu - ushbu
+0 dastur
+1 bilan - bilan
+0 ishlovchi
+0 mutaxassislar
+0 o'qitiladi
+1 Oltinchi - oltinchi
+0 so'nggi
+0 bosqichda
+0 qo'llab-quvvatlash
+0 amalga
+0 oshiriladi
+1 Bu - bu
+0 bosqichda
+0 foydalanuvchilarga
+0 tavsiyalar
+0 beriladi
+1 Shuningdek - shuningdek
+0 foydalanuvchi
+0 xohishini
+0 inobatga
+0 olgan
+0 holda
+0 ish
+0 jarayonida
+0 yuzaga
+0 kelgan
+0 kamchilik
+1 va - va
+0 takliflar
+0 asosida
+0 dasturga
+1 o'zgartirishlar - o'z
+0 kiritiladi
+1 Endi - endi
+0 Python
+0 dasturlash
+0 tili
+0 yordamida
+0 dasturlashni
+0 o'rganishni
+0 boshlaymiz
+0 Python
+0 dunyo
+0 miqyosida
+0 eng
+0 ommalashgan
+1 mukammal - mukammal
+0 dasturiy
+0 mahsulotlarni
+0 yaratishga
+0 mo'ljallangan
+0 dasturlash
+0 tillaridan
+0 biri
+0 bo'lib
+1 uning - uning
+0 yordamida
+0 web-sayt
+0 ilova
+1 va - va
+0 o'yinlar
+0 yaratiladi
+0 Quyidagi
+0 imkoniyatlar
+1 bu - bu
+0 tilni
+0 o'rganish
+1 uchun - uchun
+0 yordamchi
+0 omillar
+0 hisoblanadi
+0 O'rganish
+1 va - va
+0 qo'llashning
+0 soddaligi
+0 Python
+0 sodda
+1 va - va
+1 qulay - qulay
+0 dasturlash
+0 tili
+0 bo'lib
+1 boshqa - boshqa
+0 dasturlash
+0 tillariga
+1 nisbatan - nisbatan
+1 uning - uning
+0 yordamida
+0 dastur
+0 tuzish
+0 qiyinchilik
+0 tug'dirmaydi
+1 Mukammal - mukammal
+0 kutubxonaning
+0 mavjudligi
+0 Pythonda
+0 dastur
+0 tuzish
+0 jarayonida
+0 kutubxonadagi
+1 tayyor - tayyor
+0 funksiyalardan
+0 foydalanish
+0 mumkin
+1 Bu - bu
+0 esa
+0 murakkab
+0 dasturlarni
+1 ham - ham
+1 qisqa - qisqa
+0 vaqtda
+0 tuzish
+0 imkonini
+0 beradi
+1 Mashhur - mashhur
+0 firmalarning
+1 ushbu - ushbu
+0 dasturdan
+0 foydalanishi
+0 Python
+1 mukammal - mukammal
+0 dastur
+0 bo'lganligi
+1 sababli - sababli
+1 bugungi - bugungi
+1 kunda - kunda
+0 Google
+0 NASA
+1 va - va
+0 Pixar
+1 kabi - kabi
+0 firmalar
+1 o'z - o'z
+0 dasturlarini
+0 tuzishda
+1 undan - unda
+0 foydalanishadi
+0 Python
+0 interpretatori
+1 bepul - bepul
+0 o'rnatiladi
+1 Ushbu - ushbu
+0 dasturni
+0 yuklab
+0 olib
+0 kerakli
+0 ilovalari
+1 bilan - bilan
+1 bepul - bepul
+0 ishlatish
+0 mumkin
+0 IDLEning
+0 dasturlash
+0 muhiti
+0 dastur
+0 kodini
+0 kiritish
+0 tahrirlash
+1 va - va
+0 ishga
+0 tushirish
+0 mumkin
+0 bo'lgan
+0 oyna
+0 Dastur
+0 natijasi
+0 interfaol
+0 muhitda
+0 chiqariladi
+1 Bu - bu
+0 muhit
+1 katta - katta
+0 dasturlarni
+0 tuzish
+0 jarayonida
+1 ularni - ularni
+0 saqlash
+1 va - va
+0 kerakli
+0 vaqtda
+0 tahrirlash
+1 uchun - uchun
+0 ishlatiladi
+1 Aks - aks
+0 holda
+0 dastur
+0 kodini
+0 takror-takror
+0 yozishga
+1 to'g'ri - to'g'ri
+0 keladi
+1 Uning - uning
+1 yagona - yagona
+0 kamchiligi
+0 dastur
+1 dastlab - dastlab
+0 saqlanadi
+1 undan - unda
+0 keyingina
+0 ishga
+0 tushiriladi
+0 Python
+0 dasturlash
+0 muhitida
+1 birinchi - birinchi
+0 dasturimizni
+0 yaratishga
+0 harakat
+0 qilamiz
+1 Odatda - odatda
+0 dasturlar
+0 kiritilgan
+0 ma'lumotlarni
+0 qabul
+0 qilish
+0 qayta
+0 ishlash
+1 shuningdek - shuningdek
+0 natijani
+0 ekranga
+0 chiqarish
+1 uchun - uchun
+0 mo'ljallangan
+0 bo'ladi
+1 Ma'lumki - ma'lumki
+0 axborotlar
+0 matnli
+0 raqamli
+0 ovozli
+0 grafik
+1 va - va
+1 boshqa - boshqa
+0 shakllarda
+0 uzatilishi
+0 mumkin
+0 Bunday
+0 axborotlarni
+0 dasturlash
+0 tillarida
+0 qayta
+0 ishlash
+1 uchun - uchun
+1 ularni - ularni
+0 turlarga
+0 ajratish
+1 lozim - lozim
+0 Dasturlarda
+0 foydalaniladigan
+1 va - va
+0 ma'lumotlar
+0 turlari
+0 dasturning
+0 maqsadiga
+0 bog'liq
+0 bo'ladi
+1 oddiy - oddiy
+0 kalkulyator
+0 sonlardan
+0 foydalanadi
+0 elektron
+0 pochta
+0 manzillarini
+0 tekshirishga
+0 mo'ljallangan
+0 dastur
+0 esa
+0 matnlar
+1 bilan - bilan
+0 ish
+0 ko'radi
+0 Matnli
+0 axborotlar
+0 esa
+0 belgilar
+1 yoki - yoki
+0 satrli
+0 ma'lumotlardan
+0 iborat
+0 bo'lishi
+0 mumkin
+
+Lemmalar soni: 217

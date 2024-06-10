@@ -1,0 +1,1001 @@
+0 Internetda
+0 qimor
+1 va - va
+0 tavakkalchilikka
+0 asoslangan
+0 o'yinlar
+1 uchun - uchun
+0 javobgarlik
+0 belgilanmoqda
+1 Bu - bu
+0 haqda
+0 Rasul
+0 Kusherbaev
+0 xabar
+0 bermoqda
+0 Qimor
+1 va - va
+0 tavakkalchilikka
+0 asoslangan
+1 boshqa - boshqa
+0 o'yinlarni
+0 qonunga
+0 xilof
+0 ravishda
+0 tashkil
+0 etish
+0 o'tkazish
+1 yoki - yoki
+1 ularda - ular
+0 ishtirok
+0 etish
+1 uchun - uchun
+0 telekommunikatsiya
+0 tarmoqlari
+0 yoxud
+0 Internet
+0 jahon
+0 axborot
+0 tarmog'i
+1 orqali - orqali
+0 xizmatlar
+0 ko'rsatish
+1 tegishli - tegishli
+0 dasturiy
+0 ta'minotdan
+0 nusxa
+0 ko'paytirish
+1 uni - uni
+0 ko'paytirish
+0 tarqatish
+0 BHMning
+1 ellik - ellik
+0 baravaridan
+1 yetmish - yetmish
+1 besh - besh
+0 baravarigacha
+0 miqdorda
+0 jarima
+1 yoki - yoki
+1 uch - uch
+1 yuz - yuz
+0 soatdan
+1 uch - uch
+1 yuz - yuz
+1 oltmish - oltmish
+0 soatgacha
+0 majburiy
+0 jamoat
+0 ishlari
+0 yoxud
+1 uch - uch
+0 yilgacha
+0 axloq
+0 tuzatish
+0 ishlari
+1 bilan - bilan
+0 jazolanadi
+0 qimor
+1 va - va
+0 tavakkalchilikka
+0 asoslangan
+1 boshqa - boshqa
+0 o'yinlarni
+0 targ'ib
+0 qiluvchi
+0 mahsulotni
+0 qonunga
+0 hilof
+0 ravishda
+0 reklama
+0 qilish
+0 namoyish
+0 etish
+0 tarqatish
+0 maqsadida
+0 tayyorlash
+1 yoki - yoki
+0 O'zbekiston
+0 Respublikasi
+0 hududiga
+0 olib
+0 kirish
+1 xuddi - xuddi
+1 shuningdek - shuningdek
+0 qimor
+1 va - va
+0 tavakkalchilikka
+0 asoslangan
+1 boshqa - boshqa
+0 o'yinlarni
+0 targ'ib
+0 qiluvchi
+0 mahsulotni
+0 qonunga
+0 hilof
+0 ravishda
+0 reklama
+0 qilish
+0 namoyish
+0 etish
+0 tarqatish
+1 shu - shu
+1 jumladan - jumladan
+1 ommaviy - ommaviy
+0 axborot
+0 vositalarida
+0 telekommunikatsiya
+0 tarmoqlarida
+1 yoki - yoki
+0 Internet
+0 jahon
+0 axborot
+0 tarmog'ida
+0 reklama
+0 qilish
+0 namoyish
+0 etish
+0 tarqatish
+0 shunday
+0 harakatlar
+1 uchun - uchun
+0 ma'muriy
+0 jazo
+0 qo'llanilganidan
+1 keyin - keyin
+0 sodir
+0 etilgan
+0 bo'lsa
+0 BHMning
+1 to'rt - to'rt
+1 yuz - yuz
+0 baravaridan
+1 olti - olti
+1 yuz - yuz
+0 baravarigacha
+0 miqdorda
+0 jarima
+1 yoki - yoki
+1 uch - uch
+1 yuz - yuz
+1 oltmish - oltmish
+0 soatgacha
+0 majburiy
+0 jamoat
+0 ishlari
+0 yoxud
+1 uch - uch
+0 yilgacha
+0 axloq
+0 tuzatish
+0 ishlari
+1 bilan - bilan
+0 jazolanadi
+1 Shuningdek - shuningdek
+0 Ma'muriy
+0 javobgarlik
+0 to'g'risidagi
+0 kodeksga
+0 kiritilayotgan
+0 qo'shimchalarga
+1 ko'ra - ko'ra
+0 qimor
+1 va - va
+0 tavakkalchilikka
+0 asoslangan
+1 boshqa - boshqa
+0 o'yinlarni
+0 targ'ib
+0 qiluvchi
+0 mahsulotni
+0 qonunga
+0 hilof
+0 ravishda
+0 reklama
+0 qilish
+0 namoyish
+0 etish
+0 tarqatish
+0 maqsadida
+0 tayyorlash
+1 yoki - yoki
+0 O'zbekiston
+0 Respublikasi
+0 hududiga
+0 olib
+0 kirish
+1 xuddi - xuddi
+1 shuningdek - shuningdek
+0 qimor
+1 va - va
+0 tavakkalchilikka
+0 asoslangan
+1 boshqa - boshqa
+0 o'yinlarni
+0 targ'ib
+0 qiluvchi
+0 mahsulotni
+0 qonunga
+0 hilof
+0 ravishda
+0 reklama
+0 qilish
+0 namoyish
+0 etish
+0 tarqatish
+1 shu - shu
+1 jumladan - jumladan
+1 ommaviy - ommaviy
+0 axborot
+0 vositalarida
+0 telekommunikatsiya
+0 tarmoqlarida
+1 yoki - yoki
+0 Internet
+0 jahon
+0 axborot
+0 tarmog'ida
+0 reklama
+0 qilish
+0 namoyish
+0 etish
+0 tarqatish
+0 qimor
+1 va - va
+0 tavakkalchilikka
+0 asoslangan
+1 boshqa - boshqa
+0 o'yinlarni
+0 targ'ib
+0 qiluvchi
+0 mahsulotni
+1 shu - shu
+1 jumladan - jumladan
+1 uni - uni
+0 tayyorlash
+0 tarqatish
+0 reklama
+0 qilish
+1 va - va
+0 namoyish
+0 etish
+0 vositalarini
+0 musodara
+0 qilib
+0 fuqarolarga
+0 BHMning
+1 yuz - yuz
+0 baravari
+0 mansabdor
+0 shaxslarga
+0 esa
+1 ikki - ikki
+1 yuz - yuz
+0 baravari
+0 miqdorda
+0 jarima
+0 solishga
+0 sabab
+0 bo'ladi
+0 Ma'lumot
+1 uchun - uchun
+1 ushbu - ushbu
+0 o'yinlar
+1 ayniqsa - ayniqsa
+0 onlayn
+0 qimor
+1 bilan - bilan
+0 bog'liq
+0 jinoyatlar
+0 2019
+0 yilda
+0 55
+0 ta
+0 2020
+0 yilda
+0 86
+0 ta
+0 2021
+0 yilda
+0 103
+0 ta
+0 2022
+0 yilning
+0 6
+0 oyida
+0 90
+0 tani
+0 tashkil
+0 etgan
+0 Mutaxassislarning
+0 bildirishicha
+0 bunday
+0 o'yinlar
+0 insonda
+0 qaramlikni
+0 vujudga
+0 keltirib
+1 katta - katta
+0 miqdordagi
+0 pul
+0 mablag'lari
+0 sarflashiga
+1 va - va
+0 ayrim
+0 fuqarolarning
+1 o'z - o'z
+0 joniga
+0 qasd
+0 qilish
+0 firibgarlik
+0 byudjet
+0 mablag'larni
+0 talon-toroj
+0 qilish
+1 kabi - kabi
+1 harkatlar - har
+0 sodir
+0 etilishiga
+0 sabab
+0 bo'lmoqda
+0 Onlayn
+0 qimorda
+0 yutqazganligi
+1 sababli - sababli
+0 2021
+0 yilda
+0 6
+0 nafar
+1 va - va
+0 2022
+0 yilning
+0 6
+0 oyida
+0 6
+0 nafar
+0 fuqaro
+1 o'z - o'z
+0 joniga
+0 qasd
+0 qilib
+0 vafot
+0 etgan
+1 Ularning - ularning
+0 barchasi
+0 25
+0 yoshgacha
+0 bo'lgan
+0 yoshlardir
+0 Raqamli
+0 iqtisodiyotga
+0 o'tar
+0 ekanmiz
+1 demak - demak
+1 har - har
+1 bir - bir
+0 jarayon
+1 bo'yicha - bo'yicha
+0 raqamlarda
+0 ifodalangan
+0 ko'rsatkichlarni
+1 ochiq - ochiq
+0 e'lon
+0 qilishimiz
+1 zarur - zarur
+0 So'nggi
+0 paytlarda
+0 soliq
+0 organlari
+0 soliq
+0 ma'murchiligini
+0 raqamlashtirish
+1 bo'yicha - bo'yicha
+1 katta - katta
+0 yo'lni
+0 bosib
+0 o'tdi
+1 va - va
+1 bu - bu
+0 borada
+0 hali
+1 ko'p - ko'p
+0 ishlarni
+0 qilishimiz
+1 lozim - lozim
+1 Shu - shu
+1 bilan - bilan
+1 birga - birga
+1 bugungi - bugungi
+1 kunda - kunda
+0 soliq
+0 organlari
+0 jarayonlarni
+0 avtomatlashtirish
+0 hisobiga
+0 olingan
+0 ma'lumotlarni
+1 ochiq - ochiq
+0 e'lon
+0 qilishga
+1 tayyor - tayyor
+1 Shu - shu
+0 munosabat
+1 bilan - bilan
+0 Davlat
+0 soliq
+0 qo'mitasi
+0 soliq
+0 organlari
+0 faoliyatiga
+1 doir - doir
+0 ko'rsatkichlar
+1 bo'yicha - bo'yicha
+0 axborotlarni
+0 muntazam
+0 e'lon
+0 qilib
+0 borish
+0 amaliyotini
+0 yo'lga
+0 qo'ymoqda
+0 Eng
+0 asosiysi
+1 ushbu - ushbu
+0 ma'lumotlar
+1 har - har
+0 oyda
+0 davriy
+0 ravishda
+0 e'lon
+0 qilib
+0 boriladi
+1 hamda - hamda
+1 ular - ular
+0 jamoatchilikka
+0 soliq
+0 ma'murchiligining
+0 strukturasi
+1 va - va
+0 dinamikasini
+0 ko'rish
+1 ularning - ularning
+1 ijobiy - ijobiy
+1 va - va
+0 salbiy
+0 tendensiyalarini
+0 kuzatib
+0 borish
+0 imkonini
+0 beradi
+0 Shunday
+0 ekan
+0 soliq
+0 ma'murchiligiga
+1 oid - oid
+0 ko'rsatkichlar
+0 nafaqat
+0 soliq
+0 organlari
+1 balki - balki
+1 butun - butun
+0 jamoatchilik
+1 uchun - uchun
+1 qiziqarli - qiziqarli
+1 va - va
+1 foydali - foydali
+0 ma'lumotlar
+0 hisoblanadi
+0 Joriy
+0 yilning
+0 1
+0 dekabridan
+0 e'tiboran
+1 har - har
+0 kuni
+0 e'lon
+0 qilinadigan
+0 axborotlarni
+0 kuzatib
+0 borishingizni
+1 va - va
+0 birinchilardan
+0 bo'lib
+0 soliq
+0 ma'murchiligiga
+1 doir - doir
+0 yangiliklardan
+1 xabardor - xabardor
+0 bo'lishingizni
+0 tavsiya
+0 qilamiz
+0 -
+1 deb - deb
+0 yozib
+0 qoldirdi
+0 Kudbiev
+0 2022
+0 yilning
+0 1
+0 iyul
+0 holatiga
+1 ko'ra - ko'ra
+0 O'zbekistonning
+0 davlat
+0 qarzi
+0 26
+1 mlrd - mlrd
+0 dollarni
+0 tashkil
+0 etmoqda
+1 Shundan - shunda
+0 2336
+1 mlrd - mlrd
+0 dollar
+0 mamlakatning
+1 tashqi - tashqi
+0 qarzi
+0 277
+1 mlrd - mlrd
+0 dollar
+1 ichki - ichki
+0 qarzi
+0 hisoblanadi
+1 Bu - bu
+0 haqda
+0 Moliya
+0 vazirligi
+0 hisobotida
+0 qayd
+0 etildi
+1 Ma'lum - ma'lum
+0 qilinishicha
+0 davlat
+0 qarzining
+0 YaIMga
+0 nisbati
+0 2021
+0 yil
+1 boshida - boshida
+0 390
+0 foizdan
+0 2021
+0 yil
+0 yakunida
+0 380
+0 foiz
+0 2022
+0 yilning
+0 1
+0 iyul
+0 holatiga
+0 351
+0 foizgacha
+0 pasaydi
+1 Xalqaro - xalqaro
+0 valyuta
+0 jamg'armasining
+0 mamlakatlar
+0 iqtisodiyotiga
+0 bag'ishlangan
+0 hisobotiga
+1 ko'ra - ko'ra
+0 O'zbekiston
+0 Respublikasining
+0 davlat
+0 qarzi
+1 bugungi - bugungi
+1 kunda - kunda
+0 mo'tadil
+0 darajada
+0 hisoblanadi
+0 Qayd
+0 etilishicha
+0 2022
+0 yil
+1 I - i
+1 yarim - yarim
+0 yilligi
+0 yakuni
+1 bo'yicha - bo'yicha
+0 jami
+0 davlat
+1 tashqi - tashqi
+0 qarzining
+0 258
+0 foizi
+1 yoki - yoki
+0 60
+1 mlrd - mlrd
+0 AQSh
+0 dollari
+0 davlat
+0 byudjetini
+1 qo'llab - qo'llab
+0 quvvatlashga
+0 118
+0 foizi
+1 yoki - yoki
+0 27
+1 mlrd - mlrd
+0 AQSh
+0 dollari
+0 elektr-energetika
+0 sohasiga
+0 128
+0 foizi
+1 yoki - yoki
+0 30
+1 mlrd - mlrd
+0 AQSh
+0 dollari
+0 energetika
+0 sohasiga
+0 106
+0 foizi
+1 yoki - yoki
+0 25
+1 mlrd - mlrd
+0 AQSh
+0 dollari
+0 transport
+1 va - va
+0 transport
+0 infratuzilmasiga
+0 104
+0 foizi
+1 yoki - yoki
+0 24
+1 mlrd - mlrd
+0 AQSh
+0 dollari
+0 qishloq
+1 va - va
+0 suv
+0 xo'jaligiga
+0 95
+0 foizi
+1 yoki - yoki
+0 22
+1 mlrd - mlrd
+0 AQSh
+0 dollari
+0 uy-joy
+0 kommunal
+0 xo'jaligi
+0 sohalariga
+0 yo'naltirilgan
+0 mablag'lar
+0 hissasiga
+1 to'g'ri - to'g'ri
+0 keladi
+0 O'zbekneftgazAJ
+0 Boshqaruv
+0 raisi
+0 Mehriddin
+0 Abdullaev
+0 boshchiligidagi
+0 Ishchi
+0 guruh
+0 a'zolari
+0 tomonidan
+0 Muborak
+0 gazni
+0 qayta
+0 ishlash
+0 zavodida
+0 aholining
+0 suyultirilgan
+0 gazga
+0 bo'lgan
+0 talabini
+0 qondirish
+1 va - va
+0 kuz-qish
+0 mavsumini
+0 betalofat
+0 o'tkazish
+0 maqsadida
+0 amalga
+0 oshirilayotgan
+0 ishlar
+0 holati
+0 o'rganildi
+0 Tashrif
+0 davomida
+0 2022
+0 yilda
+0 zavodning
+0 mavjud
+0 ishlab
+0 chiqarish
+0 quvvatlaridan
+1 samarali - samarali
+0 foydalanish
+0 qurilmalarni
+1 uzluksiz - uzluksiz
+0 ishlatilishini
+0 ta'minlash
+1 bo'yicha - bo'yicha
+0 amalga
+0 oshirilayotgan
+0 ishlar
+0 muhokama
+0 qilindi
+0 Loyihalashtirilayotgan
+0 elementar
+0 oltingugurt
+0 ajratib
+0 olish
+0 qurilmasini
+0 qurilish
+0 maydoni
+0 qurilmalarda
+0 ta'mirlash
+0 jarayonlari
+1 va - va
+0 gazni
+0 propan-butan
+0 ajratib
+0 olish
+0 qurilmalarini
+0 ishlash
+0 holati
+0 esa
+1 joyida - joyida
+0 nazorat
+0 qilindi
+1 Birinchi - birinchi
+0 navbatda
+0 aholining
+0 maishiy
+0 ehtiyoji
+1 va - va
+1 ijtimoiy - ijtimoiy
+0 soha
+0 ob'ektlari
+1 uchun - uchun
+0 Hududgazta'minot
+0 AJning
+0 hududiy
+0 filiallariga
+0 suyultirilgan
+0 gaz
+0 mahsuloti
+0 kelishilgan
+0 jadvallar
+0 asosida
+0 yetkazib
+0 berish
+1 bo'yicha - bo'yicha
+0 mas'ullarga
+0 topshiriqlar
+0 berildi
+0 Ta'kidlash
+0 kerakki
+0 amalda
+0 5058
+1 ming - ming
+0 tonna
+0 suyultirilgan
+0 gaz
+0 yetkazib
+0 berish
+0 rejalashtirilgan
+0 bo'lib
+0 amalda
+0 5063
+1 ming - ming
+0 tonna
+0 rejaga
+1 nisbatan - nisbatan
+0 1001
+0 o'sish
+0 surati
+0 1046
+0 yetkazib
+0 berildi
+0 Boshqaruv
+0 raisi
+0 2022-2023
+0 yil
+0 kuz-qish
+0 mavsumida
+0 suyultirilgan
+0 gaz
+0 ishlab
+0 chiqarish
+1 va - va
+0 iste'molchilarga
+0 yetkazib
+0 berish
+0 yo'nalishida
+1 bir - bir
+0 qator
+0 chora-tadbirlar
+0 belgilab
+0 olinganini
+0 bildirib
+0 247
+0 rejimda
+0 tashkil
+0 qilingan
+0 navbatchilik
+0 ishlarini
+0 nazorat
+0 qilish
+1 bo'yicha - bo'yicha
+0 vazifalarni
+0 belgilab
+0 berdi
+0 Muborak
+0 gazni
+0 qayta
+0 ishlash
+0 zavodida
+0 mavjud
+1 tabiiy - tabiiy
+0 gaz
+0 tarkibidan
+0 propan-butan
+0 aralashmalari
+0 ajratib
+0 olish
+1 bilan - bilan
+0 suyultirilgan
+0 gaz
+0 ishlab
+0 chiqarish
+0 qurilmalari
+0 faoliyatini
+1 uzluksiz - uzluksiz
+0 nazoratda
+0 ushlash
+1 va - va
+0 ishlab
+0 chiqarish
+0 hajmiga
+0 salbiy
+0 ta'sir
+0 ko'rsatishi
+0 mumkin
+0 bo'lgan
+0 omillarni
+1 o'z - o'z
+0 vaqtida
+0 bartaraf
+0 etish
+0 lozimligini
+0 ta'kidladi
+0 Muborak
+0 gaz
+0 qazib
+0 chiqarish
+0 zavodida
+0 energiya
+0 tejamkor
+0 texnologiyalar
+0 asosida
+1 yangi - yangi
+0 mini
+0 gradirnilarni
+0 qurish
+0 loyihisi
+0 sanoat
+1 oqova - oqova
+0 suv
+0 tizimlarini
+0 2-bosqichga
+0 ajratib
+0 rekonstruksiya
+0 qilish
+0 ishlari
+0 yuzasidan
+0 topshiriqlar
+0 berildi
+0 4-sonli
+1 tabiiy - tabiiy
+0 gazni
+0 oltingugurt
+0 birikmalardan
+0 tozalash
+0 sexining
+0 161718-texnologik
+0 bloklarida
+0 №1-bosqich
+0 asutp
+0 tizimini
+0 modernizatsiya
+0 qilish
+0 14-sonli
+1 tabiiy - tabiiy
+0 gazni
+0 oltingugurt
+0 birikmalardan
+0 tozalash
+0 sexining
+0 192021-texnologik
+0 bloklarida
+0 №2-bosqich
+0 asutp
+0 tizimini
+0 modernizatsiya
+0 qilish
+0 4-sonli
+0 sexning
+0 chiqarish
+0 jarayoni
+1 uchun - uchun
+0 muxim
+0 bo'lgan
+0 plunjirli
+0 nasos
+0 o'rniga
+1 yangi - yangi
+0 zavmonaviy
+0 nasoslarga
+0 almashtirish
+0 masalalari
+0 tahliliy
+0 muhokama
+0 qilindi
+0 Suyultirilgan
+0 gaz
+0 ishlab
+0 chiqarish
+0 ko'rsatkichlarining
+0 bajarilishini
+0 ta'minlash
+0 maqsadida
+0 Muborak
+0 gazni
+0 qayta
+0 ishlash
+0 zavodidagi
+0 2022
+0 yilning
+0 o'tgan
+0 davrida
+0 siquv
+0 kompressor
+0 stansiyasining
+0 2
+0 dona
+0 NK-16-18STD
+0 rusumli
+0 gazoturbinali
+0 dvigatellari
+0 KMPO
+0 AJda
+0 Rossiya
+0 kapital
+0 ta'mirlash
+0 ishlari
+0 amalga
+0 oshirildi
+0 Qurilmalardagi
+0 mavjud
+0 turbodetander
+0 agregatlarini
+1 barqaror - barqaror
+0 ishlatish
+1 uchun - uchun
+0 Maxsusenergogaz
+0 AJ
+1 va - va
+0 Ukrainaning
+0 Turbogaz
+0 kompaniyasi
+0 mutaxassislarini
+0 jalb
+0 qilgan
+0 holda
+0 texnik
+0 xizmat
+0 ko'rsatish
+1 va - va
+0 ta'mirlash
+0 ishlari
+0 amalga
+0 oshirildi
+
+Lemmalar soni: 189

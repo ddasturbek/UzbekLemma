@@ -1,0 +1,1001 @@
+0 Hovlimizdan
+0 oqib
+0 o'tadigan
+0 ariq
+0 labidagi
+1 bu - bu
+0 daraxt
+0 qishlog'imizda
+1 yagona - yagona
+0 hisoblanardi
+0 Daraxtning
+0 bo'yi
+0 uyimiz
+0 tomi
+1 bilan - bilan
+1 teng - teng
+0 edi
+1 U - u
+0 eniga
+1 uncha - uncha
+0 tarvaqaylab
+0 ketmagan
+1 xuddi - xuddi
+0 butalganday
+0 qaddi
+1 tik - tik
+0 tanasi
+1 va - va
+0 shoxlari
+0 esa
+0 rahmatli
+0 bobomning
+0 hassasiday
+1 sip-silliq - sip-silliq
+0 edi
+0 Daraxtning
+0 kishini
+0 hayratga
+0 soladigan
+1 bir - bir
+0 jihati
+1 bor - bor
+0 edi
+1 U - u
+0 yilda
+1 ikki - ikki
+0 marta
+0 bahor
+1 bilan - bilan
+0 kuz
+0 boshlarida
+0 gullar
+1 biroq - biroq
+0 meva
+0 tugmas
+0 edi
+0 Bahorda
+0 daraxtning
+1 bikarang - bikarang
+1 g'uj-g'uj - g'uj-g'uj
+0 g'unchalari
+0 hovlimizga
+1 o'zgacha - o'z
+0 fayz
+0 baxsh
+0 etar
+1 uning - uning
+0 shoxidan
+0 qushlar
+0 arimas
+0 edi
+0 Kuzning
+0 boshlarida
+0 gullashi
+1 chindan - chindan
+1 ham - ham
+1 hayratomuz - hayratomuz
+0 edi
+0 odamlar
+0 bunday
+0 paytda
+1 uning - uning
+0 atrofida
+0 o'ralashib
+1 Nahotki - nahotki
+0 daraxt
+1 ham - ham
+0 kuzda
+0 gullasa
+1 deya - deya
+0 ko'zlariga
+0 ishonmay
+0 qo'llari
+1 bilan - bilan
+1 nafis - nafis
+0 g'unchalarni
+0 ushlab-ushlab
+0 ko'rishar
+0 edi
+1 Yana - yana
+1 shunisi - shu
+0 qiziqki
+1 hech - hech
+1 kim - kim
+1 hatto - hatto
+0 otam
+1 ham - ham
+1 uning - uning
+1 qanaqa - qanaqa
+0 daraxt
+0 ekanini
+0 bilmas
+0 edi
+1 Biz - biz
+0 bolalar
+1 uning - uning
+1 ensiz - ensiz
+1 kichik - kichik
+0 barglariga
+1 tekis - tekis
+0 shoxlariga
+1 qarab - qarab
+0 gilosga
+0 o'xshatardik
+1 va - va
+1 o'zimizcha - o'zimizcha
+1 uni - uni
+0 gilos
+1 deb - deb
+0 atardik
+1 Aslida - aslida
+0 gilos
+0 emasligini
+0 bilardik
+0 Daraxt
+0 otamga
+0 bobomeros
+0 yodgorlik
+0 hisoblanar
+1 shu - shu
+1 sababli - sababli
+1 uni - uni
+0 nihoyatda
+0 avaylardi
+1 Va - va
+1 bizdan - biz
+1 ham - ham
+1 shuni - shu
+1 qattiq - qattiq
+0 talab
+0 qilardi
+0 Muallif
+0 daraxtning
+0 yagonaligi
+1 bir - bir
+0 yilda
+1 ikki - ikki
+0 marta
+0 gullashi-yu
+1 ammo - ammo
+0 meva
+0 bermasligi
+0 g'unchalarining
+0 nafisligi
+1 bilan - bilan
+1 nima - nima
+1 demoqchi - demoqchi
+1 Nega - nega
+0 daraxt
+0 tanasini
+0 bobosining
+0 hassasiga
+0 o'xshatmoqda
+0 Daraxt
+0 bobosi
+1 va - va
+0 bobosiga
+1 tegishli - tegishli
+0 hassa
+0 o'rtasida
+1 qanday - qanday
+0 bog'liqliklar
+0 bo'lishi
+0 mumkin
+1 Shu - shu
+1 kabi - kabi
+0 savollarga
+0 javoblar
+0 asarning
+0 tagma'nolarini
+0 tushunishga
+0 yozilmagan
+0 qismlarini
+0 yuzaga
+0 chiqarishga
+0 yordam
+0 beradi
+0 Yozning
+0 o'rtalari
+0 edi
+0 Onam
+0 singlim
+1 va - va
+0 akamni
+0 ergashtirib
+0 qo'shni
+0 qishloqda
+0 yashovchi
+0 bobomnikiga
+0 mehmonga
+0 ketishdi
+0 Uyda
+0 otam
+1 bilan - bilan
+1 men - men
+1 yolg'iz - yolg'iz
+0 qoldik
+0 Supada
+0 yonboshlab
+0 yotgan
+0 otam
+0 botayotgan
+0 quyoshning
+1 alvon - alvon
+0 shafaqlarida
+0 tovlanib
+0 turgan
+0 daraxtimizga
+0 xayolga
+0 cho'mgancha
+0 tikilib
+0 turardi
+1 Shunda - shu
+1 men - men
+0 Ota
+1 nega - nega
+0 daraxtimiz
+1 hech - hech
+0 meva
+0 tugmaydi
+1 deb - deb
+0 so'radim
+0 Savolimdan
+0 otam
+0 ajablandilar
+1 shekilli - shekilli
+0 ancha
+0 vaqt
+1 xuddi - xuddi
+1 nimadir - nima
+0 qidirganday
+0 yuzimga
+0 tikilib
+0 qoldilar
+1 so'ng - so'ng
+0 dedilar
+0 Mevami
+0 Tugadi
+0 o'g'lim
+1 Mana - mana
+1 men - men
+1 sen - sen
+0 onang
+0 singling
+1 va - va
+0 akang
+1 shu - shu
+0 daraxtning
+0 mevalarimiz
+0 Tabiiyki
+1 men - men
+0 otamning
+0 gaplarini
+0 unchalik
+0 tushunmadim
+0 buni
+1 o'zi - o'z
+1 ham - ham
+0 sezdi
+1 shekilli - shekilli
+0 qo'li
+1 bilan - bilan
+0 boshimni
+0 silab
+1 Bu - bu
+0 gaplarning
+0 ma'nosini
+1 katta - katta
+0 bo'lganingda
+0 tushunib
+0 olarsan
+0 dedi
+1 va - va
+1 boshqa - boshqa
+1 bu - bu
+0 haqda
+0 og'iz
+0 ochmadi
+0 Otam
+0 nafaqat
+1 bu - bu
+1 yolg'iz - yolg'iz
+0 daraxtni
+1 umuman - umuman
+0 yashillikni
+0 sevar
+0 edi
+1 Bizning - biz
+0 avloddan
+0 avlodga
+0 o'tib
+0 kelayotgan
+1 yagona - yagona
+0 yodgorligimiz
+0 otamning
+0 aytishicha
+0 hovlimizdagi
+1 mana - mana
+1 shu - shu
+0 yilda
+1 ikki - ikki
+0 marta
+0 gullaydigan
+0 daraxt
+0 ekan
+0 Bobomning
+0 bobosimi
+0 balkim
+1 uning - uning
+1 ham - ham
+0 bobosimi
+1 xullas - xullas
+0 kunlardan
+1 bir - bir
+0 kuni
+0 shom
+0 mahali
+0 qo'lidagi
+0 hassasini
+0 ariq
+0 labiga
+0 suqib
+1 o'zi - o'z
+0 tahorat
+0 olgani
+0 o'tiribdi
+0 Tahoratni
+0 olib
+0 hassaga
+0 qo'l
+0 uzatmoqchi
+0 ekan
+1 shu - shu
+0 payt
+0 mo'jiza
+1 yuz - yuz
+0 berganini
+0 ko'rib
+0 hayratdan
+0 yoqa
+0 ushlab
+0 qolibdi
+0 ariq
+0 labiga
+0 suqilgan
+0 hassa
+0 nish
+0 otib
+0 ko'karayotgan
+0 emish
+1 Shu - shu
+0 zahotiyoq
+0 bobom
+1 Ey - ey
+0 jonivor
+1 sening - sening
+0 taningda
+0 namlik
+1 bor - bor
+0 ekan-u
+1 men - men
+1 shuncha - shuncha
+0 vaqt
+0 gunohga
+0 botib
+1 seni - seni
+0 sudrab
+0 yuribman
+1 Mayli - mayli
+0 unib-o'sgin
+1 deya - deya
+0 hassasini
+1 shu - shu
+0 yerda
+0 qoldiribdi
+0 Shu-shu
+1 to - to
+0 dunyodan
+0 ko'z
+0 yumgunicha
+0 hassaga
+0 ehtiyoj
+0 sezmabdi
+0 O'lim
+0 to'shagida
+0 yotganda
+0 esa
+0 o'g'illariga
+1 Mening - mening
+0 hassamdan
+0 ko'kargan
+1 ana - ana
+1 u - u
+0 daraxt
+1 ko'p - ko'p
+1 xosiyatli - xosiyatli
+1 Uni - uni
+1 sizlarga - siz
+0 qoldiraman
+0 ko'z
+0 qorachiqlaringday
+0 asranglar
+0 Quloqlaringda
+0 bo'lsin
+0 kimki
+1 bu - bu
+0 daraxtni
+1 xor - xor
+0 qilsa
+1 o'zi - o'z
+1 ham - ham
+0 dunyodan
+1 xor-zor - xor-zor
+0 bo'lib
+0 o'tadi
+1 deb - deb
+0 vasiyat
+0 qilib
+1 oq - oq
+0 fotiha
+0 bergan
+0 ekan
+0 Daraxtimizning
+0 o'tmishi
+0 haqidagi
+1 bu - bu
+0 gaplar
+1 biz - biz
+0 bolalarga
+1 xuddi - xuddi
+0 ertakka
+1 o'xshab - o'xshab
+0 tuyular
+1 unga - unga
+0 ishonish-ishonmasligimizni
+0 bilmasdik
+1 Bir - bir
+0 kuni
+0 otamga
+1 Nega - nega
+0 daraxtimiz
+1 boshqa - boshqa
+0 daraxtlarga
+1 o'xshab - o'xshab
+0 tomiridan
+0 ko'paymaydi
+1 Agar - agar
+0 ko'payganda
+0 ko'chatlarini
+0 kovlab
+0 olib
+0 hovlimizning
+1 boshqa - boshqa
+0 yerlariga
+1 ham - ham
+0 o'tqazar
+0 edik
+0 dedim
+0 Ko'paymaganiga
+0 sabab
+0 dedi
+0 otam
+1 bu - bu
+0 daraxtning
+0 tomiri
+1 boshqa - boshqa
+0 daraxtlar
+1 singari - singari
+0 yonboshga
+0 emas
+0 yer
+0 qa'riga
+1 tik - tik
+0 o'sadi
+0 Buning
+1 yana - yana
+1 bir - bir
+1 ajoyib - ajoyib
+0 xususiyati
+1 boshqa - boshqa
+0 daraxt
+0 ildizlari
+1 bilan - bilan
+0 chatishmaydi
+1 hamda - hamda
+1 o'ziga - o'z
+0 kerakli
+0 ozuqani
+1 o'zi - o'z
+0 topib
+0 yer
+0 ustidagi
+0 tanasini
+1 toza - toza
+1 va - va
+1 mustahkam - mustahkam
+0 saqlaydi
+1 Odatda - odatda
+0 asardagi
+0 voqealar
+1 ma'lum - ma'lum
+1 bir - bir
+0 ziddiyatlar
+0 asosida
+0 rivojlanadi
+1 Bu - bu
+0 parchada
+1 Muhojir - muhojir
+1 va - va
+0 ota
+0 o'rtasidagi
+0 ziddiyat
+1 ularning - ularning
+0 daraxt
+0 ga
+0 bo'lgan
+0 turli
+0 xil
+0 munosabatini
+1 bu - bu
+0 munosabat
+1 orqali - orqali
+0 esa
+0 muallifning
+0 badiiy-g'oyaviy
+0 maqsadini
+0 oydinlashtirishga
+0 xizmat
+0 qilmoqda
+0 Ota
+1 uchun - uchun
+0 daraxt
+1 qadrli - qadrli
+0 ajdodlaridan
+0 qolgan
+0 yodgorlik
+1 Bu - bu
+0 yodgorlikni
+0 ke
+0 yingi
+0 avlodlarga
+0 beshikast
+0 yetkazish
+0 vazifasi
+1 uning - uning
+0 zimmasiga
+0 yuklangan
+1 Muhojir - muhojir
+1 uchun - uchun
+0 esa
+0 bunday
+0 qadriyatlarning
+0 ahamiyati
+1 yo'q - yo'q
+1 U - u
+1 shunchaki - shunchaki
+0 havasga
+0 daraxt
+0 o'stirish
+1 uchun - uchun
+1 unga - unga
+0 tig'
+0 urmoqchi
+1 Shuning - shu
+1 uchun - uchun
+1 ham - ham
+0 ota
+0 xushlamay
+0 jahl
+1 bilan - bilan
+0 gapirmoqda
+1 Muhojir - muhojir
+0 esa
+0 bilag'onlik
+1 bilan - bilan
+0 gapiradi
+0 ko'zlarini
+1 ayyorona - ayyorona
+0 qisadi
+1 Bu - bu
+0 so'zlar
+1 bizga - biz
+0 bolaning
+0 Muhojirga
+0 munosabatini
+1 ham - ham
+0 tushunishga
+0 yordam
+0 beradi
+0 Yerdan
+0 qor
+1 va - va
+1 zax - zax
+0 ketib
+0 o'rniga
+0 quyoshning
+0 hovuri
+1 endi - endi
+0 inayotgan
+0 payt
+0 borliqda
+0 uzilish
+1 o'lik - o'lik
+0 davr
+0 hukm
+0 suradi
+0 Chor-atrof
+1 qipyalang'och - qipyalang'och
+1 sholday - sholday
+1 ruhsiz - ruhsiz
+0 Bunday
+0 paytda
+0 odamda
+0 beparvolik
+0 lanjlik
+0 paydo
+0 bo'ladi
+1 Ana - ana
+0 shunday
+1 behalovat - behalovat
+0 kunlarda
+0 otam
+0 Bolalarim
+1 yana - yana
+1 yigirma - yigirma
+0 kuncha
+0 zerikasiz
+1 so'ng - so'ng
+0 daraxtimiz
+0 barg
+0 yozib
+0 qoladi
+1 deb - deb
+0 dalda
+0 berardi
+0 Otamning
+0 hisobi
+1 bo'yicha - bo'yicha
+1 shu - shu
+0 kunlarda
+0 daraxt
+0 kurtak
+0 chiqarishi
+1 kerak - kerak
+0 edi
+1 Lekin - lekin
+1 uning - uning
+0 tanasida
+1 biron - biron
+0 jonlanish
+0 bo'lganini
+0 ko'rmadik
+1 u - u
+0 qishda
+1 qanday - qanday
+1 yalang'och - yalang'och
+0 holda
+0 bo'lsa
+0 shundayligicha
+0 qaqqayib
+0 turardi
+0 Bahor
+0 yarimlay
+1 deb - deb
+0 qolganda
+1 ham - ham
+0 daraxtimizda
+0 jonlanish
+0 sezilmadi
+0 Daraxt
+0 tanasini
+1 ozroq - ozroq
+0 til-chi
+0 dedi
+0 otam
+0 Daraxt
+0 tanasidan
+1 chamasi - chamasi
+1 bir - bir
+0 payraha
+0 o'rnicha
+0 kesdim
+0 Otam
+1 o'tkir - o'tkir
+0 nigohini
+0 daraxtning
+0 kesilgan
+0 joyiga
+0 qadadi…
+0 Belkurakni
+0 olib
+0 kel
+1 endi - endi
+0 daraxtning
+0 ostini
+0 kovla
+0 dedi
+1 u - u
+0 shivirlab
+1 Men - men
+0 daraxt
+0 ostidan
+1 bir - bir
+0 belkurak
+0 tuproq
+0 kovlab
+0 olgan
+0 edim
+0 dimog'imga
+1 qandaydir - qanday
+1 badbo'y - badbo'y
+0 hid
+0 urildi
+0 engashib
+0 tuproqqa
+1 yaxshiroq - yaxshiroq
+0 razm
+0 tashladim
+1 unga - unga
+1 qandaydir - qanday
+1 sarg'ish - sarg'ish
+0 narsa
+0 singib
+0 ketgan
+0 edi
+0 Otam
+1 ming - ming
+0 azob
+1 bilan - bilan
+0 tipirchilay-tipirchilay
+0 o'rnidan
+0 qo'zg'aldi
+1 va - va
+1 qaltiroq - qaltiroq
+0 qo'llari
+1 bilan - bilan
+1 men - men
+0 kovlagan
+0 tuproqdan
+1 bir - bir
+0 siqim
+0 olib
+0 ko'ziga
+1 yaqin - yaqin
+0 keltirdi-da
+0 Ostiga
+0 dori
+0 sepishgan
+0 ekan
+0 vahshiylar
+0 dedi
+1 ilonday - ilonday
+0 vishillab
+1 va - va
+0 daraxt
+0 poyiga
+0 sudralib
+0 keldi-da
+0 tuproqni
+0 sidirib
+0 tomirlarini
+0 ushlab
+0 ko'rdi
+0 Tomirlarni
+0 daraxtlarning
+0 tiriklik
+0 belgisi
+0 namlik
+1 butkul - butkul
+0 tark
+0 etmagan
+0 edi
+0 Otamning
+0 yuzida
+0 umid
+0 shu'lalandi
+1 Oz - oz
+0 bo'lsa-da
+0 hali
+0 vaqt
+1 bor - bor
+0 ekan
+1 Endi - endi
+0 oyoqqa
+0 turishim
+1 kerak - kerak
+1 deb - deb
+0 pichirladi
+1 u - u
+0 daraxt
+0 tomirlariga
+1 qarab - qarab
+0 Tovuq
+0 patini
+0 o'ynashda
+0 davom
+0 etdi
+0 Patni
+0 ertalab
+0 topgan
+0 nimaligiga
+0 aqli
+0 yetmay
+0 boshi
+1 garang - garang
+0 edi
+0 In
+0 yonidagi
+1 chirik - chirik
+0 xashaklar
+1 ustida - ustida
+0 cho'zilib
+0 yotgan
+0 ona
+0 it
+1 bezovta - bezovta
+0 g'ingshiganidan
+0 so'nggina
+0 qadam
+0 tovushlari
+0 kelayotgan
+0 tomonga
+0 o'girildi
+1 Besh - besh
+0 odimcha
+0 narida
+0 uy
+0 egasi
+1 Sodiq - sodiq
+0 aka
+1 bilan - bilan
+0 norg'ul
+1 bir - bir
+0 odam
+0 Karim
+0 podachi
+0 egnida
+0 yag'iri
+0 chiqqan
+0 paxtalik
+0 oyoqlarini
+0 kerib
+0 turardi
+1 Undan - unda
+0 go'ng
+0 pichan
+0 silos
+1 va - va
+1 yana - yana
+0 allambalolarning
+0 hidi
+0 anqirdi
+0 Oqbo'yin
+1 bu - bu
+0 xil
+0 tashrifl
+0 arga
+0 ko'nikkan
+1 har - har
+0 keldi-ketdidan
+1 so'ng - so'ng
+0 og'a-inilaridan
+0 birortasi
+0 g'oyib
+0 bo'ladi
+1 keyin - keyin
+0 onasi
+0 tuni
+1 bilan - bilan
+0 g'ingshib
+0 chiqadi
+1 Boshida - boshida
+1 ular - ular
+0 o'nta
+0 edi
+0 Uchtasini
+0 urg'ochi
+0 ekan
+1 birinchi - birinchi
+0 haftadayoq
+0 gumdon
+0 qilishdi
+1 Bu - bu
+0 gal
+0 navbat
+1 qaysi - qaysi
+0 biriga
+0 ekan
+0 Karim
+0 podachi
+0 oyoqlari
+1 ostida - ostida
+0 o'ralashayotgan
+0 inisi
+0 Oqto'shni
+0 qo'liga
+0 olib
+0 obdan
+0 paypaslab
+0 ko'rdi
+0 panjalarini
+0 diqqat
+1 bilan - bilan
+0 ko'zdan
+0 kechirdi
+0 Yoqtirmadi
+0 Oqto'sh
+1 nari - nari
+0 ketishni
+0 xayoliga
+1 ham - ham
+0 keltirmay
+1 tag'in - tag'in
+0 suykala
+0 boshlagandi
+0 Karim
+0 podachi
+0 etigi
+0 uchi
+1 bilan - bilan
+0 turtib
+0 yubordi
+0 Joni
+0 og'rigan
+0 Oqto'sh
+0 angillaganicha
+0 onasi
+1 tomon - tomon
+0 pildillab
+0 qochdi
+0 Inisi
+0 Oqbo'yinga
+0 yoqmaydi
+0 o'lgudek
+0 yaltoq
+0 ko'ringan
+0 qoraga
+0 suykaladi
+0 Akasi
+1 Malla - malla
+0 esa
+1 tamomila - tamomila
+0 aksi
+1 tajang - tajang
+0 salga
+0 zardasi
+0 qaynab
+1 darhol - darhol
+0 yoqa
+0 bo'g'ishadi
+1 Hozir - hozir
+1 ham - ham
+1 u - u
+0 in
+0 to'riga
+0 biqinib
+0 olib
+0 Karim
+0 podachiga
+0 adovatli
+0 tikilib
+0 turardi
+1 Sodiq - sodiq
+0 aka
+0 Mallani
+0 inidan
+1 tortib - tortib
+0 chiqardi-da
+1 unga - unga
+0 uzatdi
+0 Karim
+0 podachi
+1 uni - uni
+1 uzoq - uzoq
+0 tutib
+0 turmay
+1 darrov - darrov
+0 yerga
+0 qo'ydi
+
+Lemmalar soni: 291

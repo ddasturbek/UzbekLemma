@@ -1,0 +1,1015 @@
+0 Mustaqillik
+0 O'zbekiston
+0 Respublikasi
+1 va - va
+1 uning - uning
+1 har - har
+1 bir - bir
+0 fuqarosi
+0 o'r
+0 tasidagi
+0 munosabatlarga
+1 ham - ham
+1 o'z - o'z
+0 ta'sirini
+0 o'tkazmay
+0 qolmaydi
+0 Mustaqil
+0 inson
+0 dеganda
+1 biz - biz
+1 o'z - o'z
+0 yurtida
+1 erkin - erkin
+1 va - va
+1 baxtiyor - baxtiyor
+1 hayot - hayot
+0 kеchirish
+1 uchun - uchun
+0 barcha
+1 zarur - zarur
+0 huquqlarga
+0 ega
+0 bo'lgan
+1 ulardan - ularda
+0 bеmalol
+0 foydalana
+0 oladigan
+0 shaxsni
+0 tushunamiz
+0 Barcha
+0 inson
+0 larga
+0 mamlakatning
+0 barcha
+0 fuqarolariga
+0 tеng
+0 huquq
+1 va - va
+0 erkinliklarni
+0 esa
+0 davlat
+0 ta'min
+0 laydi
+0 Lеkin
+1 o'z - o'z
+0 fuqarolariga
+0 huquq
+1 va - va
+0 erkinliklarni
+0 ta'minlash
+1 ularni - ularni
+0 tom
+0 ma'nodagi
+0 mustaqil
+0 qilish
+1 uchun - uchun
+0 davlatning
+1 o'zi - o'z
+0 mustaqil
+0 bo'lishi
+1 shart - shart
+0 Chun
+0 ki
+1 haqiqiy - haqiqiy
+0 mustaqil
+0 davlatgina
+1 o'z - o'z
+0 fuqarolari
+0 manfaatlaridan
+0 kеlib
+0 chiqib
+1 ularning - ularning
+1 tinch - tinch
+1 osoyishta - osoyishta
+1 va - va
+1 baxtiyor - baxtiyor
+1 hayot - hayot
+0 kеchirishlarini
+0 ta'minlaydigan
+0 ijtimoiy-huquqiy
+0 shart-sharoitlarni
+0 tuza
+0 oladi
+1 Haqiqiy - haqiqiy
+0 mustaqil
+0 davlatgina
+0 shaxs
+0 huquq
+1 va - va
+0 erkinliklari
+1 ustuvor - ustuvor
+0 qilib
+0 qo'yilgan
+0 qonunchilikni
+0 yarata
+0 oladi
+1 Haqiqiy - haqiqiy
+0 mustaqil
+0 davlatgina
+1 o'z - o'z
+0 fuqarolarining
+1 ushbu - ushbu
+0 qonunchilik
+0 asosida
+0 ertangi
+0 kunga
+0 ishonch
+1 bilan - bilan
+0 yashashlarini
+0 ta'minlay
+0 oladi
+0 Prezidentimiz
+0 Shavkat
+0 Mirziyoyev
+0 tashabbusi
+1 bilan - bilan
+0 2017
+0 -
+0 2021-
+0 yillarda
+0 O'zbekistonni
+0 rivojlantirishning
+0 5
+0 ta
+1 ustuvor - ustuvor
+0 yo'nalishi
+1 bo'yicha - bo'yicha
+0 Harakatar
+0 strategiyasining
+0 qabul
+0 qilinishi
+0 yurtimizda
+1 siz - siz
+1 va - va
+1 biz - biz
+1 har - har
+1 bir - bir
+0 fuqaro
+1 butun - butun
+0 O'zbekiston
+0 xalqi
+1 uchun - uchun
+1 farovon - farovon
+0 turmush
+1 hamda - hamda
+0 huquq
+1 va - va
+0 erkinliklarning
+0 ta'minlanishi
+0 borasidagi
+0 tub
+0 islohotlarni
+0 amalga
+0 oshirishga
+0 turtki
+0 berdi
+0 Harakatlar
+0 strategiyasining
+0 Qonun
+0 ustuvorligini
+0 ta'minlash
+1 va - va
+0 sud-huquq
+0 tizimini
+0 yanada
+0 isloh
+0 qilish
+1 deb - deb
+0 nomlangan
+0 2-
+0 yo'nalishida
+0 fuqarolarning
+0 huquq
+1 va - va
+0 erkinliklarini
+1 ishonchli - ishonchli
+0 himoya
+0 qilish
+0 kafolatlarini
+0 mustahkamlash
+0 alohida
+0 belgilab
+0 qo'yilgani
+1 ham - ham
+0 davlatimizning
+0 inson
+0 manfaatlari
+1 uning - uning
+0 huquq
+1 va - va
+0 erkinliklariga
+0 berayotgan
+1 yuksak - yuksak
+0 e'tiborining
+0 isbotidir
+0 Mustaqil
+0 davlatimiz
+1 boshqa - boshqa
+0 davlatlarga
+1 qaram - qaram
+0 bo'lmasdan
+1 o'z - o'z
+0 siyosatini
+0 yurgizish
+1 o'z - o'z
+0 taqdirini
+1 o'zi - o'z
+0 hal
+0 qilish
+0 huquqiga
+0 ega
+0 bo'lsa
+1 biz - biz
+1 har - har
+1 bir - bir
+0 fuqaro
+1 ushbu - ushbu
+0 mustaqillik
+1 tufayli - tufayli
+0 bеrilgan
+0 huquqlarimizdan
+0 foydalanib
+1 erkin - erkin
+1 va - va
+1 farovon - farovon
+0 yashash
+0 imkoniyatiga
+0 ega
+0 bo'lamiz
+0 Mustaqillik
+0 sharofati
+1 bilan - bilan
+1 sizning - sizning
+0 ta'lim
+0 olishingiz
+1 dam - dam
+0 olishingiz
+1 ijodiy - ijodiy
+0 faoliyat
+1 bilan - bilan
+0 mashg'ul
+0 bo'lishingiz
+0 sport
+1 bilan - bilan
+0 shug'ullanishingiz
+0 malakali
+0 tibbiy
+0 xizmatdan
+0 foydalanishingiz
+1 uchun - uchun
+0 imkoniyatlar
+0 mavjud
+0 Odam
+1 har - har
+1 qanday - qanday
+1 tirik - tirik
+0 organizm
+1 kabi - kabi
+1 jonli - jonli
+0 tabiatning
+1 bitta - bitta
+0 a'zosi
+0 elementidir
+1 Lekin - lekin
+0 odam
+0 tabiatdagi
+1 boshqa - boshqa
+0 mavjudotlardan
+1 o'zining - o'z
+1 ko'plab - ko'plab
+0 jihatlari
+1 bilan - bilan
+0 farqlanadi
+0 Inson
+0 tabiatdagi
+0 eng
+0 rivojlangan
+0 ongli
+0 mavjudotdir
+1 U - u
+1 xuddi - xuddi
+1 boshqa - boshqa
+0 jonzotlar
+1 kabi - kabi
+1 tirik - tirik
+0 tanaga
+0 ega
+1 Uning - uning
+1 xuddi - xuddi
+0 hayvonlarda
+0 bo'lganidek
+1 tabiiy - tabiiy
+0 ehtiyojlari
+1 mana - mana
+1 shu - shu
+0 ehtiyojlarini
+0 qondirishga
+0 intilishi
+0 chog'ida
+0 namoyon
+0 bo'ladigan
+0 instinkt
+1 deb - deb
+0 atalmish
+0 sifati
+1 bor - bor
+1 Lekin - lekin
+0 insonning
+0 hayvonlar
+1 bilan - bilan
+0 umumiy
+0 jihatlari
+1 shu - shu
+1 bilan - bilan
+0 tugaydi
+1 Ya'ni - ya'ni
+0 odam
+0 ongli
+1 aqlli - aqlli
+0 mavjudot
+0 sifatidagi
+0 jihatlarini
+0 namoyon
+0 qila
+0 boshlaydiki
+1 bu - bu
+0 jihatlar
+0 faqatgina
+0 tabiatning
+0 odamzot
+1 deb - deb
+0 atalmish
+0 qismining
+0 vakili
+0 bo'lgan
+0 insongagina
+0 xosdir
+1 Har - har
+1 bir - bir
+0 alohida
+0 odam
+1 bu - bu
+0 individ
+1 U - u
+0 ayol
+1 yoki - yoki
+0 erkak
+1 yosh - yosh
+1 yoki - yoki
+1 qari - qari
+1 baland - baland
+1 yoki - yoki
+1 past - past
+0 bo'yli
+0 oriq
+1 yoki - yoki
+1 semiz - semiz
+1 deb - deb
+0 tavsifl
+0 anadigan
+0 umumiy
+0 xususiyatlarga
+0 ovqat
+0 suv
+0 boshpana
+0 kiyim
+1 kabi - kabi
+0 umumiy
+0 ehtiyojlarga
+0 ota-onaga
+1 o'z - o'z
+0 uyiga
+0 bog'liqlik
+0 sog'inch
+0 muhabbat
+1 kabi - kabi
+0 tuyg'ularda
+0 namoyon
+0 bo'ladigan
+0 hishayajonga
+0 ega
+0 Odamning
+1 bu - bu
+0 jihatlari
+0 barcha
+0 odamlarga
+1 birdek - birdek
+0 xosdir
+1 Ya'ni - ya'ni
+0 odam
+0 tug'ilishi
+1 va - va
+0 ulg'ayishi
+0 davomida
+1 bu - bu
+0 jihatlar
+1 o'z-o'zidan - o'z-o'zidan
+0 ozmi-ko'pmi
+0 shakllana
+0 boradi
+1 Mana - mana
+1 shu - shu
+0 individ
+0 odam
+0 inson
+1 qanday - qanday
+0 qilib
+0 shaxsga
+0 aylanishi
+1 ya'ni - ya'ni
+0 insonning
+0 shaxs
+0 sifatida
+0 shakllanish
+0 jarayoni
+0 insoniyatni
+0 qadim
+0 zamonlardan
+1 buyon - buyon
+0 qiziqtirib
+0 kelgan
+0 Shaxs
+1 ham - ham
+1 albatta - albatta
+0 odam
+0 inson
+0 individ
+1 Lekin - lekin
+1 unda - unda
+1 tabiiy - tabiiy
+0 xususiyatlar
+0 ehtiyojlar
+0 his-hayajon
+0 tuyg'ulardan
+0 tashqari
+1 bir - bir
+1 qadar - qadar
+0 ahamiyatliroq
+0 bo'lgan
+0 jihatlar
+0 mavjud
+1 Masalan - masalan
+0 shaxs
+1 uchun - uchun
+0 qator
+0 qadriyatlar
+0 muhim
+1 Bu - bu
+0 qadriyatlarga
+0 misol
+0 qilib
+1 o'z - o'z
+0 uyi
+0 oilasi
+0 mamlakati
+0 vatani
+0 mahallasi
+0 qo'ni-qo'shnilari
+0 o'quv
+0 dargohi
+0 sinfdoshlari
+1 yoki - yoki
+0 kursdoshlari
+0 ishxonasi
+0 hamkasblari
+0 kabilarni
+0 keltirish
+0 mumkin
+1 Bu - bu
+0 qadriyatlarga
+0 erishish
+1 ularni - ularni
+0 saqlash
+1 va - va
+0 e'zozlash
+1 uning - uning
+0 hayotining
+0 maqsadi
+0 mazmuni
+0 bo'lib
+0 xizmat
+0 qiladi
+0 Shaxsga
+0 yashash
+0 prinsiplari
+0 atrofdagilar
+1 bilan - bilan
+0 munosabat
+0 qonunqoidalari
+1 o'zi - o'z
+0 yashayotgan
+0 faoliyat
+0 yuritayotgan
+0 muhitda
+0 obro'-e'tiborga
+0 nufuzga
+0 ega
+0 bo'lish
+0 istagi
+0 kabilar
+0 xosdir
+0 Shaxs
+1 o'z - o'z
+0 his-hayajon
+1 va - va
+0 ehtiyojlarini
+0 jilovlay
+0 oladi
+1 Unda - unda
+0 ong
+1 va - va
+0 iroda
+1 kuchli - kuchli
+0 Shaxs
+1 o'z - o'z
+1 ichki - ichki
+0 dunyosini
+0 biladi
+0 tushunadi
+1 va - va
+1 ma'lum - ma'lum
+0 tizimga
+0 sola
+0 oladi
+0 Shaxs
+0 o'z-o'zini
+1 va - va
+1 o'z - o'z
+0 hayotini
+0 quradi
+1 Bunda - bunda
+1 u - u
+1 o'zini - o'z
+1 va - va
+1 o'z - o'z
+0 atrofi
+0 dagi
+0 shart-sharoitlarni
+1 o'zgartiradi - o'z
+0 shakllantiradi
+0 Shaxs
+1 faqat - faqat
+0 o'z-o'zi
+1 bilan - bilan
+0 ovora
+0 emas
+1 U - u
+0 atrofdagilar
+1 hayot - hayot
+0 mahalla
+0 mamlakat
+0 vatan
+1 haqida - haqida
+0 doimo
+0 o'ylaydi
+0 qayg'uradi
+0 g'amxo'rlik
+0 qiladi
+0 Inson
+0 qay
+0 darajada
+0 shaxs
+0 sifatida
+0 shakllanganligining
+0 o'lchovi
+0 me'yori
+0 sifatida
+1 uning - uning
+1 o'z - o'z
+0 shaxsiyati
+1 bilan - bilan
+0 qay
+0 darajada
+0 atrofdagi
+1 boshqa - boshqa
+0 odamlarga
+0 vataniga
+1 va - va
+0 hayotga
+0 ta'sir
+0 o'tkaza
+0 olayotganligini
+0 keltirish
+0 mumkin
+1 Biz - biz
+0 Amir
+0 Temur
+0 Jaloliddin
+0 Manguberdi
+0 Alisher
+0 Navoiy
+0 Zahiriddin
+0 Muhammad
+0 Bobur
+1 kabi - kabi
+0 ajdodlarimizni
+0 tilga
+0 olganimizda
+1 ularni - ularni
+0 buyuk
+0 shaxslar
+1 deb - deb
+0 ulug'lashimiz
+1 ham - ham
+0 shaxs
+0 tushunchasining
+0 naqadar
+0 salobatli
+0 ekanligini
+0 bildiradi
+0 Insonning
+0 shaxs
+0 sifatida
+0 shakllanishida
+0 oila
+0 maktab
+0 qo'ni-qo'shnilar
+0 mahalla
+1 va - va
+0 do'stlarning
+0 ta'siri
+1 katta - katta
+0 Oila
+0 bola
+1 uchun - uchun
+0 eng
+1 dastlabki - dastlabki
+0 asoslarni
+0 yaratsa
+0 bolalar
+0 bog'chasi
+0 maktab
+1 yoki - yoki
+1 boshqa - boshqa
+0 ta'lim
+0 muassasalari
+1 zarur - zarur
+0 bilim
+0 ko'nikma
+1 va - va
+0 malakalarni
+0 beradi
+0 Qo'ni-qo'shnilar
+1 va - va
+0 mahalla
+0 an'analar
+0 urf-odatlar
+1 bilan - bilan
+0 tanishtiradi
+0 atrofdagilar
+1 bilan - bilan
+0 munosabatga
+0 kirishishga
+0 o'rgatadi
+0 Insonning
+1 qanday - qanday
+0 shaxsga
+0 aylanishi
+1 ko'p - ko'p
+0 jihatdan
+0 davlatning
+1 yosh - yosh
+0 avlod
+0 ta'lim-tarbiyasiga
+0 qaratilgan
+0 siyosatiga
+0 bog'liq
+0 Fuqarolik
+0 jamiyatining
+0 xususiyatlari
+0 quyidagilarda
+0 namoyon
+0 bo'-
+0 la
+0 di
+1 Iqtisodiy - iqtisodiy
+0 sohada
+1 nodavlat - nodavlat
+1 notijorat - notijorat
+0 tashkilotlarning
+0 shirkatlarning
+0 aksiyadorlik
+0 kompaniyalarining
+0 korporatsiyalarning
+0 firmalarning
+0 mavjudligi
+1 va - va
+1 ularning - ularning
+1 muvaffaqiyatli - muvaffaqiyatli
+0 faoliyat
+1 ko'r - ko'r
+0 sa
+0 tish
+0 lari
+1 uchun - uchun
+0 barcha
+0 sharoitlarning
+0 yaratilganligi
+0 Ijtimoiy-siyosiy
+0 sohada
+0 fuqarolar
+0 oilalar
+0 siyosiy
+0 partiyalar
+0 jamoat
+0 tashkilotlari
+1 ijtimoiy - ijtimoiy
+0 harakatlar
+1 o'zini-o'zi - o'z
+0 boshqarish
+0 organlari
+1 nodavlat - nodavlat
+1 ommaviy - ommaviy
+0 axborot
+0 vositalari
+1 ijtimoiy - ijtimoiy
+0 qarama-qarshiliklarni
+0 qonun
+0 doirasida
+0 yеchish
+0 imkoniyatlari
+0 aholi
+0 fi
+0 krini
+0 o'rganish
+0 shakllantirish
+1 va - va
+0 ifoda
+0 etish
+1 uchun - uchun
+0 shart-sha
+0 ro
+0 itlarning
+0 mavjudligi
+0 Ma'naviy
+0 sohada
+0 so'z
+1 va - va
+0 fi
+0 kr
+0 erkinligi
+0 vijdon
+0 erkinligi
+1 ijodiy - ijodiy
+0 uyushmalarning
+0 mustaqilligi
+1 ilmiy - ilmiy
+0 uyushmalarning
+0 mustaqilligi
+0 ma'naviy
+0 tahdidlardan
+0 himoyalanganlikning
+0 ta'minlanganligi
+1 Hozirgi - hozirgi
+0 zamonda
+0 fuqarolik
+0 jamiyati
+0 sharoitidagi
+1 hayot - hayot
+0 huquqqa
+0 asoslan
+0 gan
+1 hayot - hayot
+0 bo'lmog'i
+0 shartdir
+1 Chunki - chunki
+0 fuqarolik
+0 jamiyatida
+0 huquq
+1 yuksak - yuksak
+0 dara
+0 jada
+0 taraqqiy
+0 etgan
+0 bo'lishi
+1 lozim - lozim
+1 Shuning - shu
+1 uchun - uchun
+1 ham - ham
+0 fuqarolik
+0 jamiyati
+0 sharoitida
+0 shaxsning
+1 boshqa - boshqa
+0 shaxs
+1 bilan - bilan
+1 yoki - yoki
+0 davlat
+1 bilan - bilan
+0 o'zaro
+0 munosa
+0 batlari
+0 huquqiy
+0 normalarga
+0 asoslangan
+0 bo'lishi
+1 ya'ni - ya'ni
+1 ushbu - ushbu
+0 munosabatlar
+0 huqu
+0 qiy
+0 maydonda
+0 amalga
+0 oshirilishi
+0 talab
+0 etiladi
+0 Fuqarolik
+0 jamiyati
+0 davlatning
+0 tazyiqisiz
+0 qonun
+0 doirasida
+0 vujudga
+0 kel
+0 gan
+0 muayyan
+0 kishilik
+0 jamiyatining
+0 ixtiyoriy
+1 o'zini-o'zi - o'z
+0 boshqarishi
+1 deb - deb
+0 tu
+1 shu - shu
+0 niladi
+1 Aynan - aynan
+0 fuqarolik
+0 jamiyatini
+0 rivojlantirish
+0 respublikamizda
+0 amalga
+0 oshiri
+0 layotgan
+0 islohotlarning
+1 bosh - bosh
+0 maqsadidir
+0 Mamlakatimizda
+0 faoliyat
+0 ko'rsatayotgan
+0 inson
+0 huquqlari
+1 bo'yicha - bo'yicha
+0 tash
+0 kilotlar
+1 ham - ham
+0 fuqarolik
+0 jamiyati
+0 institutlariga
+0 misol
+0 bo'la
+0 oladi
+1 Ular - ular
+1 quyi - quyi
+0 dagilardir
+0 Ombudsman
+0 Inson
+0 huquqlari
+1 bo'yicha - bo'yicha
+0 milliy
+0 markaz
+1 Ijtimoiy - ijtimoiy
+0 fi
+0 kr
+0 jamoatchilik
+0 markaziva
+0 boshqalar
+0 Prezidentimiz
+0 Shavkat
+0 Mirziyoyevning
+0 Mamlakatni
+0 demokratik
+0 yangilash
+0 jarayonida
+0 fuqarolik
+0 jamiyati
+0 institutlarining
+0 rolini
+1 tubdan - tubdan
+0 oshirish
+0 chora-tadbirlari
+0 to'g'risidagi
+0 farmoni
+0 asosida
+0 O'zbekiston
+0 Respublikasi
+0 huzuridagi
+0 Fuqarolik
+0 jamiyatini
+0 rivojlantirish
+1 bo'yicha - bo'yicha
+0 maslahat
+0 kengashining
+0 tuzilishi
+1 uchinchi - uchinchi
+0 sektor
+1 deb - deb
+0 nom
+0 olgan
+0 fuqarolik
+0 jamiyati
+0 institutlarini
+0 qo'llab-quvvatlash
+1 va - va
+0 mamlakatimizda
+0 fuqarolik
+0 jamiyati
+0 rivojini
+1 yangi - yangi
+0 bosqichga
+0 olib
+0 chiqishda
+0 muhim
+0 qadam
+0 bo'ldi
+0 Dunyoda
+0 mavjud
+0 davlatlar
+0 bir-biridan
+1 juda - juda
+1 ko'p - ko'p
+0 jihatlari
+1 bilan - bilan
+0 farq
+0 qiladi
+1 Bu - bu
+0 farqlar
+1 bilan - bilan
+1 bir - bir
+0 paytda
+1 ularning - ularning
+0 o'xshash
+0 tomonlari
+1 ham - ham
+1 ko'p - ko'p
+0 O'zbekiston
+0 suverenitetining
+0 huquqiy
+0 asosi
+0 Asosiy
+0 qonuni
+0 O'zbekiston
+0 Respublikasining
+0 Konstitutsiyasi
+0 bo'lib
+1 ushbu - ushbu
+0 hujjat
+0 O'zbekiston
+0 Res
+0 pub
+0 likasi
+0 Oliy
+0 Kengashining
+1 o'n - o'n
+1 ikkinchi - ikkinchi
+0 chaqiriq
+0 XI
+0 sessiyasida
+0 1992-
+0 yil
+0 8-
+0 dekabrda
+0 qabul
+0 qilingan
+0 O'zbekiston
+0 Respublikasining
+0 Konstitutsiyasi
+0 inson
+0 huquqlari
+1 va - va
+1 erkin - erkin
+0 liklariga
+1 oid - oid
+1 xalqaro - xalqaro
+0 hujjatlar
+1 jumladan - jumladan
+0 Inson
+0 huquqlari
+0 umumjahon
+0 deklaratsiyasi
+0 rivojlangan
+0 demokratik
+0 davlatlarda
+0 mavjud
+0 bo'lgan
+0 demokratik
+0 tamoyillar
+1 va - va
+0 qadriyatlar
+0 vatanimiz
+0 tarixidagi
+1 bir - bir
+1 necha - necha
+1 ming - ming
+0 yillik
+0 milliy
+1 va - va
+0 sharqona
+0 davlatni
+0 idora
+0 etish
+0 an'analarini
+1 o'zida - o'z
+0 mujassamlashtirdi
+
+Lemmalar soni: 274

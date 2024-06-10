@@ -1,0 +1,1013 @@
+0 Odam
+0 anatomiyasi
+0 anatomiya
+0 yunoncha
+0 anatomeo
+0 -
+0 kesaman
+0 so'zidan
+0 olingan
+0 odam
+0 organizmining
+0 shaklini
+0 tuzilishini
+1 uning - uning
+0 rivojlanish
+0 jarayonini
+0 o'rganadigan
+0 fandir
+1 Bu - bu
+0 fan
+1 har - har
+1 bir - bir
+0 a'zoni
+0 jinsiy
+0 tafovutlar
+0 jihatidan
+1 shuningdek - shuningdek
+0 atrof
+0 muhitning
+0 a'zolar
+0 tuzilishi
+0 xamda
+0 vazifasiga
+0 bulgan
+0 tasirini
+0 o'rganadi
+1 Qadimiy - qadimiy
+0 anatomiya
+0 fani
+0 azolarni
+0 aloxida-aloxida
+0 o'rganib
+0 kelgan
+1 ularning - ularning
+0 o'zaro
+0 munosabatlarini
+0 organizmning
+1 bir - bir
+0 butunligini
+0 hisobga
+0 olmasdan
+1 faqat - faqat
+0 dalillarni
+0 tuplash
+1 bilan - bilan
+0 chegaralangan
+0 Xozirgi
+0 davrda
+0 esa
+1 bu - bu
+0 fan
+0 azolarning
+0 uzaro
+0 munosabatlarini
+1 ularning - ularning
+1 bir - bir
+0 sistemaga
+0 birlashish
+0 qonuniyatlarini
+0 dialektika
+0 qonunlariga
+0 asoslangan
+0 xolda
+0 o'rganadi
+0 organizmning
+1 yagona - yagona
+0 sistema
+0 ekanligini
+1 uning - uning
+1 tashqi - tashqi
+0 muxit
+1 bilan - bilan
+1 chambarchas - chambarchas
+0 bog'likligini
+0 a'zolarning
+0 shakli
+1 bilan - bilan
+0 funksiyasining
+0 bir-biriga
+1 bevosita - bevosita
+1 aloqador - aloqador
+0 ekanligini
+0 nazarda
+0 tutadi
+0 Odam
+0 organizmi
+0 tuzilishiga
+0 kura
+0 murakkabligi
+0 mehnatga
+0 layoqatliligi
+1 bilan - bilan
+0 hayvonlar
+0 organizmi
+0 tuzilishidan
+1 tubdan - tubdan
+0 farq
+0 qiladi
+1 Ana - ana
+1 shu - shu
+0 tuzilish
+0 rivojlanish
+0 qonuniyatlarini
+1 uning - uning
+1 evolyusion - evolyusion
+0 taraqqiyot
+0 qonunlari
+0 -
+0 filogeneziga
+0 phylon
+0 -
+0 avlod
+0 genesis-
+0 taraqqiyot
+0 taqqoslangan
+0 holda
+0 xamda
+0 odam
+0 holatiga
+0 o'tish
+0 jarayoni
+0 -
+0 antropogenezi
+0 antropos
+0 -
+0 odam
+0 ni
+0 urganadi
+1 Bu - bu
+1 bilan - bilan
+0 qiyosiy
+1 yoki - yoki
+0 solishtirma
+0 anatomiya
+0 shug'ullanadi
+0 Organizmning
+0 paydo
+0 bo'lishini
+0 tug'ilguncha
+0 ona
+0 qornida
+0 o'sib
+0 rivojlanib
+0 borishini
+0 embriologiya
+0 embriogenez
+0 -
+0 embryon
+0 -
+0 murtak
+0 kurtak
+0 o'rgansa
+0 tug'ilgandan
+1 boshlab - boshlab
+1 to - to
+0 hayotining
+0 oxirigacha
+0 bo'lgan
+0 davrni
+0 yoshga
+1 doir - doir
+0 anatomiya
+0 o'rganadi
+0 Organizm
+0 tuzilishining
+0 jinsiy
+0 xususiyatlari
+0 jinsiy
+0 tafovutlari
+1 va - va
+1 ularning - ularning
+0 uziga
+1 xos - xos
+0 tomonlari
+0 xam
+0 anatomiya
+0 o'rganadigan
+0 masalalar
+0 jumlasiga
+0 kiradi
+0 Anatomiya
+1 shu - shu
+1 bilan - bilan
+1 birga - birga
+0 a'zolarning
+0 individual
+0 xususiyatlarini
+1 ularning - ularning
+0 ozaro
+0 munosabatlarini
+0 joylashish
+0 -
+0 topografiyasini
+1 ham - ham
+0 o'rganadi
+0 Odam
+0 organizmining
+0 embrionlik
+0 davridagi
+1 va - va
+1 ayniqsa - ayniqsa
+0 tug'ilgandan
+1 keyingi - keyingi
+0 rivojlanishi
+0 muhitning
+0 ta'siri
+1 bilan - bilan
+0 uziga
+1 xos - xos
+0 xususiyatlarni
+0 kasb
+0 egadi
+0 Organizmning
+0 shakllanishi
+1 va - va
+0 rivojlanishiga
+1 shuningdek - shuningdek
+0 odamlar
+0 yashab
+0 turgan
+0 muhitning
+1 iqlimiy-geografik - iqlimiy-geografik
+0 sharoiti
+1 ijtimoiy - ijtimoiy
+0 tuzum
+1 kabi - kabi
+0 omillari
+1 ham - ham
+0 ta'sir
+0 etadi
+1 Bu - bu
+0 ta'sirlarni
+0 antropologiya
+0 fani
+0 urganadi
+0 A'zolarning
+1 ichki - ichki
+0 tuzilishini
+1 ularni - ularni
+0 tashkil
+0 qilgan
+0 tuqimalar
+0 hujayralarni
+0 o'rganish
+1 bilan - bilan
+0 gistologiya
+0 fani
+0 shug'ullanadi
+0 A'zolarning
+0 kasallik
+0 holatidagi
+0 tuzilishini
+0 o'rganish
+1 bilan - bilan
+0 esa
+1 patologik - patologik
+0 anatomiya
+0 shug'ullanadi
+0 Odam
+0 anatomiyasini
+0 o'zlashtirishni
+0 osonlashtirish
+1 uchun - uchun
+1 bu - bu
+0 fan
+1 shartli - shartli
+0 ravishda
+1 bir - bir
+1 necha - necha
+0 sistemaga
+0 ajratib
+0 o'rganiladi
+0 sistematik
+0 anatomiya
+0 Sistematik
+0 anatomiya
+0 suyaklar
+0 qismi
+0 -
+0 osteologiya
+0 suyaklarning
+0 uzaro
+0 birlashishi
+0 bo'g'imlarni
+0 o'rganadigan
+0 qismi
+0 -
+0 sindesmologiya
+0 muskullar
+0 -
+0 miologiya
+1 ichki - ichki
+0 a'zolar
+0 sistemasi
+0 -
+0 splanxnologiya
+0 qon
+0 tomirlar
+0 sistemasi
+0 -
+0 angiologiya
+1 ichki - ichki
+1 sekret - sekret
+0 bezlar
+0 qismi
+0 -
+0 endokrinologiya
+0 sezgi
+0 a'zolari
+0 -
+0 esteziologiya
+1 va - va
+1 nihoyat - nihoyat
+0 nerv
+0 sistemasi
+0 -
+0 nevrologiya
+0 bo'limlaridan
+0 iborat
+1 Ular - ular
+0 a'zolarning
+0 tuzilishini
+0 shaklini
+1 ularning - ularning
+0 o'zaro
+0 munosabatlarini
+0 o'rganishda
+0 qo'llaniladi
+1 Topografik - topografik
+0 anatomiya
+0 esa
+0 a'zolarning
+0 tuzilishi
+0 shaklidan
+0 tashqari
+1 ularning - ularning
+0 o'zaro
+0 munosabatlarini
+0 chegarasini
+1 va - va
+0 proeksiyalarini
+0 o'rganadi
+0 Shunday
+0 qilib
+0 anatomiya
+0 fani
+0 odam
+0 organizmining
+0 tuzilishi
+1 va - va
+0 funksiyalarini
+1 ularning - ularning
+1 evolyusion - evolyusion
+0 rivojlanish
+0 asoslariga
+0 bog'lab
+0 atrof-muhit
+0 ta'sirida
+0 shakllanish
+0 qonuniyatlari
+1 bilan - bilan
+1 birgalikda - birgalikda
+0 o'rganadi
+1 Ularning - ularning
+0 yoshga
+0 yashash
+0 sharoitiga
+1 va - va
+0 vazifalariga
+1 qarab - qarab
+0 rivojlanishini
+0 esa
+0 dialektik
+0 qonuniyatlarga
+0 asoslangan
+0 holda
+0 o'rganadi
+0 Bulardan
+0 tashqari
+0 anatomiya
+1 mayib-majruh - mayib-majruh
+0 bo'lib
+0 tug'ilgan
+0 bolalar
+0 organizmining
+0 tuzilishini
+0 teratologiya
+0 yunoncha
+0 -
+1 teraios - teraios
+0 bola
+0 tug'ilgandan
+1 boshlab - boshlab
+0 qarilik
+0 davrigacha
+0 bulgan
+0 vaqtdagi
+0 organizmdagi
+1 morfologik - morfologik
+1 o'zgarishlarni - o'z
+1 ham - ham
+0 yoshga
+1 qarab - qarab
+0 o'rganadi
+0 Organizmning
+0 kasallik
+0 davridagi
+0 anatomiyasini
+0 esa
+1 patologik - patologik
+0 anatomiya
+0 patos
+0 -
+0 xastalik
+0 azob
+0 chekish
+1 shu - shu
+1 bilan - bilan
+1 birga - birga
+0 muskullarning
+0 qisqarishini
+0 dinamikasini
+1 dinamik - dinamik
+0 anatomiya
+1 yoki - yoki
+0 sport
+0 anatomiyasi
+0 o'rganadi
+0 Antropometrik
+0 usulda
+0 gavdaning
+0 uzunligi
+0 kengligi
+1 va - va
+0 og'irligi
+0 o'lchanadi
+0 olingan
+0 ma'lumotlar
+0 organizmning
+0 ayrim
+0 bulaklariga
+0 taqoslanib
+0 o'sishi
+1 yoki - yoki
+1 o'zgarishi - o'z
+0 kuzatib
+0 boriladi
+0 Anatomiya
+0 fani
+1 boshqa - boshqa
+0 fanlar
+0 qatori
+1 juda - juda
+1 uzoq - uzoq
+0 rivojlanish
+0 yo'lini
+0 bosib
+0 o'tdi
+1 Ammo - ammo
+0 qadim
+0 zamonlarda
+0 hukm
+0 surgan
+1 diniy - diniy
+0 aqidalarga
+1 ko'ra - ko'ra
+0 murdalarni
+0 kesib
+0 o'rganish
+0 gunox
+0 hisoblangan
+1 Shuning - shu
+1 uchun - uchun
+0 murdalarni
+0 kesib
+0 o'rganishga
+0 intilganlar
+0 xatto
+0 o'lim
+0 jazosiga
+1 ham - ham
+0 xukm
+0 etilgan
+0 Binobarin
+0 odam
+0 organizmini
+0 yorib
+0 o'rganish
+1 ilmiy - ilmiy
+0 tibbiyot
+0 davridan
+0 ancha
+0 keyinroq
+0 boshlangan
+0 Odam
+0 organizmi
+0 a'zolarining
+0 tuzilishi
+1 ularning - ularning
+0 vazifalariga
+0 bog'liq
+0 holda
+0 shakllanib
+0 boradi
+1 Bu - bu
+0 bog'likliklarni
+0 o'rganish
+1 funksional - funksional
+0 anatomiya
+0 fanining
+0 vazifasidir
+0 Tishlar
+0 jag‗larda
+1 o'z - o'z
+0 qismlari
+1 bilan - bilan
+1 Yonma-Yon - yonma-yon
+0 joylashib
+1 Yuqori - yuqori
+1 va - va
+0 pastki
+0 tish
+0 qatorlarini
+0 Yuzaga
+0 keltiradi
+1 Har - har
+1 bir - bir
+0 tish
+0 qatori
+0 16
+0 tishdan
+0 iborat
+0 bo'lib
+0 tish
+0 ravoqlarini
+0 hosil
+0 qiladi
+1 Har - har
+1 bir - bir
+0 tishda
+0 5
+0 ta
+1 Yuza - yuza
+0 tafovut
+0 qilinadi
+0 1
+0 og‗iz
+0 dahliziga
+0 qaragan
+0 Yuzasi
+0 faciea
+0 vestibularis
+0 oldingi
+0 tishlar
+0 lablarga
+0 orqadagilari
+0 lunjlarning
+0 shilliq
+0 pardasiga
+0 tegib
+0 turadi
+0 2
+0 tilga
+0 qaragan
+0 Yuzasi
+0 facies
+0 lingualis
+0 3
+1 va - va
+0 4
+0 qo'shni
+0 tishlarga
+0 yopishib
+0 turuvchi
+0 Yuzasi
+0 facies
+0 contactus
+0 Tish
+0 ravog‗ining
+0 markazga
+0 qaragan
+0 Yuzasi
+0 facies
+0 mesialis
+0 Yunoncha
+0 meso
+1 orasida - orasida
+1 qarama-qarshi - qarama-qarshi
+0 Yuzasi
+0 esa
+0 distal
+1 Yuza - yuza
+0 facies
+0 distalis
+0 deyiladi
+0 5
+0 chaynov
+0 Yuzasi
+0 facies
+0 occlusalis
+1 qarama-qarshi - qarama-qarshi
+0 qatordagi
+0 tishlarning
+0 bir-biriga
+0 tegib
+0 turuvchi
+0 Yuzasidir
+0 Bunday
+0 terminlar
+0 tishlarda
+0 joylashgan
+0 jarohatlarni
+0 belgilash
+1 uchun - uchun
+1 keng - keng
+0 qo'llanilgani
+1 sababli - sababli
+1 ularni - ularni
+0 stomatologlar
+1 yaxshi - yaxshi
+0 bilishlari
+1 zarur - zarur
+0 Tishlarning
+0 o'ng
+1 yoki - yoki
+0 chap
+0 tomonga
+0 mansubligini
+0 bilish
+1 uchun - uchun
+0 quyidagi
+1 uch - uch
+0 belgi
+0 yordam
+0 beradi
+0 1
+0 ildiz
+0 belgisi
+1 bir - bir
+1 oz - oz
+0 lateral
+0 tomonga
+0 bukilgan
+0 bo'ladi
+0 2
+0 toj
+0 qismining
+0 burchak
+0 belgisi
+0 kesuvchi
+0 qirrasifacies
+0 contactus
+1 bir - bir
+0 xil
+0 emas
+1 medial - medial
+0 qirrasi
+1 bir - bir
+1 oz - oz
+1 o'tkirroq - o'tkirroq
+0 bo'lsa
+0 lateral
+0 qirrasi
+0 tekisroq
+0 bo'ladi
+0 3
+0 toj
+0 qismining
+0 egrilik
+0 belgisi
+0 lab
+0 Yuzasi
+1 bir - bir
+1 oz - oz
+0 bo'rtgan
+0 bo'ladi
+1 Har - har
+1 bir - bir
+0 tishning
+1 Yuqori - yuqori
+1 yoki - yoki
+0 pastki
+0 jag‗ga
+0 mansubligi
+0 toj
+0 qismining
+0 shakli
+0 tish
+0 ildizlarining
+0 soni
+1 va - va
+0 shakli
+1 bilan - bilan
+0 aniqlanadi
+1 Shuning - shu
+1 uchun - uchun
+1 har - har
+1 bir - bir
+0 tishning
+0 toj
+0 qismi
+1 va - va
+0 ildizlarining
+0 tuzilishini
+0 bilish
+1 lozim - lozim
+0 Kurak
+0 tishlar
+0 dentes
+0 incisivi
+1 har - har
+1 bir - bir
+0 jag‗da
+0 to'rttadan
+0 bo'lib
+0 ovqatni
+0 kesib
+0 olishga
+0 mo'ljallangan
+1 Bu - bu
+0 tishlar
+0 ildizi
+1 bitta - bitta
+0 bo'lib
+0 pastki
+0 kurak
+0 tishlarda
+0 Yon
+0 tomonda
+0 yassilangan
+0 Toj
+0 qismlari
+1 keng - keng
+1 va - va
+1 yassi - yassi
+0 bo'lib
+0 iskanani
+0 eslatadi
+0 Pastki
+0 kurak
+0 tishlarning
+0 tojlari
+1 ikki - ikki
+1 baravar - baravar
+0 ensizdir
+0 Qoziq
+0 tishlar
+0 dentes
+0 canini
+1 har - har
+0 jag‗da
+0 ikkitadan
+0 bo'lib
+1 uzun - uzun
+1 yakka - yakka
+0 ildizga
+0 ega
+0 ildizning
+0 Yon
+0 tomonlarida
+0 egatchalar
+1 bor - bor
+1 Yuqori - yuqori
+0 qoziq
+0 tishlarning
+0 ildizlari
+0 pastki
+0 tishlarga
+1 nisbatan - nisbatan
+1 birmuncha - birmuncha
+1 uzun - uzun
+0 toj
+0 qismlari
+1 ham - ham
+0 kattaroqdir
+0 Toj
+0 qismlari
+1 uchburchaksimon - uchburchaksimon
+0 bo'lib
+0 burchak
+0 hosil
+0 qiluvchi
+0 ikkita
+0 qirquvchi
+0 qirralari
+1 bor - bor
+1 ularning - ularning
+1 medial - medial
+0 qirrasi
+0 kaltaroq
+0 distali
+0 esa
+1 bir - bir
+1 oz - oz
+0 uzunroqdir
+0 Qoziq
+0 tishlar
+0 ovqatni
+0 uzib
+0 olish
+1 uchun - uchun
+0 xizmat
+0 qiladi
+1 Bu - bu
+0 tishlar
+1 yirtqich - yirtqich
+0 hayvonlarda
+1 yaxshi - yaxshi
+0 rivojlangan
+1 Kichik - kichik
+0 oziq
+0 tishlar
+0 dentes
+0 premolares
+1 har - har
+0 jag‗da
+0 to'rttadan
+0 bo'lib
+0 qoziq
+0 tishlardan
+1 keyin - keyin
+0 joylashgan
+1 Bu - bu
+0 tishlarning
+0 toj
+0 qismlarida
+0 ikkitadan
+1 bo'rtma - bo'rtma
+0 tuberculum
+0 dentale
+1 bor - bor
+1 shuning - shu
+1 uchun - uchun
+1 ularni - ularni
+0 qo'sh
+0 bo'rtmali
+0 tishlar
+0 dentes
+0 345
+0 bicuspidati
+0 deyiladi
+1 Yuqori - yuqori
+1 va - va
+0 pastki
+1 kichik - kichik
+0 oziq
+0 tishlarning
+0 ildizlari
+1 bir - bir
+0 xil
+0 bo'lmaydi
+0 Birinchilarining
+0 ildizlari
+0 aksariyat
+0 yarmidan
+0 ko'proq
+0 holatda
+0 ayrisimon
+0 ikkiga
+0 ajralgan
+0 pastki
+1 kichik - kichik
+0 oziq
+0 tishlarning
+0 ildizlari
+0 esa
+1 yakka - yakka
+0 bo'ladi
+1 Shuning - shu
+1 uchun - uchun
+1 bu - bu
+0 tishlarni
+0 olishda
+0 doira
+1 bo'yicha - bo'yicha
+0 rotatsiya
+0 harakat
+0 qilinadi
+1 Katta - katta
+0 oziq
+0 tishlar
+0 dentes
+0 molares
+1 har - har
+0 jag‗da
+0 oltitadan
+0 bo'lib
+0 orqa
+1 tomon - tomon
+1 sari - sari
+0 kichiklashib
+0 boradi
+0 birinchisi
+0 eng
+1 katta - katta
+0 uchinchisi
+0 eng
+0 kichikdir
+1 Uchinchi - uchinchi
+1 katta - katta
+0 oziq
+0 tishlar
+1 juda - juda
+0 kech
+0 chiqadi
+1 va - va
+1 shuning - shu
+1 uchun - uchun
+0 aql
+0 tish
+0 dens
+0 serotinus
+1 deb - deb
+0 ataladi
+1 Bu - bu
+0 tish
+1 tamoman - tamoman
+0 chiqmasdan
+0 qolishi
+1 ham - ham
+0 mumkinligi
+0 Yuqorida
+0 eslatilgan
+0 edi
+1 Katta - katta
+0 oziq
+0 tishlarning
+0 toj
+0 qismlari
+1 kubsimon - kubsimon
+0 chaynov
+0 Yuzasi
+0 esa
+0 kvadrat
+0 shakliga
+1 yaqin - yaqin
+0 uchta
+1 va - va
+1 undan - unda
+1 ortiq - ortiq
+0 bo'rtiqlari
+1 bor - bor
+1 Yuqori - yuqori
+0 jag‗dagi
+1 katta - katta
+0 oziq
+0 tishlarning
+0 uchta
+0 ildizi
+0 bo'lib
+1 ularning - ularning
+0 ikkitasi
+0 lunjga
+0 bittasi
+0 esa
+0 til
+0 tomonga
+0 qaragan
+0 Pastki
+1 katta - katta
+0 oziq
+0 tishlarning
+0 ildizlari
+0 ikkita
+0 bo'lib
+0 biri
+1 oldinga - oldinga
+0 ikkinchisi
+0 orqaga
+0 qaragan
+1 va - va
+0 uchlari
+0 orqa
+0 tomonga
+1 bir - bir
+1 oz - oz
+0 egilgan
+0 Ildizlar
+0 tarkibida
+1 bitta - bitta
+0 distal
+1 yoki - yoki
+0 ikkita
+1 ko'pincha - ko'pincha
+1 medial - medial
+0 ildiz
+0 kanallari
+0 bo'ladi
+0 Aql
+0 tishlarning
+0 uchchala
+0 ildizi
+0 qo'shilib
+0 ketib
+1 bir - bir
+1 butun - butun
+1 konussimon - konussimon
+0 shaklni
+0 qabul
+0 qilishi
+0 mumkin
+
+Lemmalar soni: 239

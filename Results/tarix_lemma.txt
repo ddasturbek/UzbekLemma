@@ -1,0 +1,1001 @@
+0 Dehqonlar
+1 va - va
+1 ular - ular
+0 xo'jaligidagi
+1 hayot - hayot
+0 Qabila
+0 boshliqlari
+0 ishboshilar
+1 o'zlariga - o'z
+1 tegishli - tegishli
+0 yer
+0 maydonlarini
+0 sug'orish
+0 tarmoqlarining
+1 yuqori - yuqori
+0 qismidan
+1 ayniqsa - ayniqsa
+0 to'g'on
+0 boshi
+0 atrofidan
+0 ajratib
+0 olganlar
+1 Bu - bu
+0 yo'l
+1 bilan - bilan
+1 ular - ular
+0 suvdan
+0 dehqonchilikda
+1 bemalol - bemalol
+0 foydalanish
+0 suv
+0 taqsimotini
+0 nazoratga
+0 olib
+0 qishloq
+0 aholisi
+0 ustidan
+1 o'z - o'z
+0 ta'sirini
+0 o'tkazish
+0 imkoniyatiga
+0 ega
+0 bo'lganlar
+1 Shu - shu
+0 tariqa
+1 ular - ular
+0 ziroatkor
+0 aholi
+0 ustidan
+0 hukmronlik
+0 qila
+0 boshlaganlar
+0 O'sha
+0 davrda
+1 ular - ular
+0 dehqonlar
+1 deb - deb
+0 atalgan
+0 Dehqonlar
+0 shaharlarda
+0 hashamatli
+0 qasr
+1 va - va
+0 saroylarga
+0 savdo
+1 va - va
+0 hunarmandchilik
+0 do'kon-u
+0 rastalaridan
+0 iborat
+0 kattagina
+0 xo'jalikka
+1 ham - ham
+0 ega
+0 bo'lganlar
+0 Qishloqlarda
+0 esa
+0 ekinzor
+0 paykallardan
+0 tashqari
+1 ularning - ularning
+0 ko'shk
+1 va - va
+0 istehkomli
+0 qo'rg'onlari
+0 tegirmonlari
+0 bo'lgan
+0 Ko'pdan
+1 ko'p - ko'p
+0 xizmatkorlar
+0 dehqonlarning
+0 xo'jaligida
+1 qishin-yozin - qishin-yozin
+0 mehnat
+0 qilganlar
+1 Har - har
+1 bir - bir
+1 katta - katta
+0 yer
+0 egasining
+0 3040
+0 50100
+1 va - va
+1 ba'zan - ba'zan
+1 undan - unda
+1 ortiq - ortiq
+0 maxsus
+0 askarlar
+0 guruhi
+0 chokarlari
+0 bo'lgan
+0 Chokarlar
+1 baquvvat - baquvvat
+1 va - va
+1 abjir - abjir
+1 hamda - hamda
+1 o'z - o'z
+0 xojasiga
+1 sadoqatli - sadoqatli
+0 o'spirinlardan
+0 tanlab
+0 olingan
+0 Bunday
+1 sodiq - sodiq
+1 va - va
+1 jangovar - jangovar
+0 chokarlari
+1 bilan - bilan
+0 dehqonlar
+0 yov
+0 hujumi
+0 paytlarida
+0 dushmanga
+1 qarshi - qarshi
+0 harbiy
+0 yurishlarda
+0 qatnashgan
+1 Boshqa - boshqa
+0 vaqtlarda
+1 ular - ular
+0 dehqon
+0 xo'jaligidagi
+0 tartibga
+1 qarab - qarab
+0 turganlar
+0 Qishloqlarda
+0 dehqonlarning
+0 mavqeyi
+0 ortib
+0 katta-katta
+0 yerlarga
+0 ega
+0 bo'lib
+0 oldilar
+1 Bu - bu
+0 esa
+1 o'z - o'z
+0 navbatida
+0 mamlakatning
+1 ijtimoiy - ijtimoiy
+0 hayotiga
+0 ta'sir
+0 o'tkazdi
+0 Yer
+0 egaligining
+0 tarkib
+0 topishi
+0 oqibatida
+0 mamlakatning
+1 ijtimoiy - ijtimoiy
+0 hayotida
+0 keskin
+1 o'zgarishlar - o'z
+0 sodir
+0 bo'ldi
+0 Qishloq
+0 jamoalari
+0 yerli
+0 mulkdor
+0 dehqon
+1 va - va
+1 unga - unga
+1 qaram - qaram
+0 bo'lgan
+0 yersiz
+1 va - va
+0 erksiz
+0 kadivarlarga
+0 ajralib
+0 borgan
+0 Qishloq
+0 jamoalari
+0 yerlarida
+0 yashab
+0 yer
+1 va - va
+0 suvdan
+0 iborat
+0 umumiy
+0 mulkka
+0 ega
+0 bo'lgan
+1 erkin - erkin
+0 ziroatchilar
+0 tabaqasi
+0 kashovarzlar
+1 deb - deb
+0 atalardi
+1 Keyinchalik - keyinchalik
+1 ularning - ularning
+1 ma'lum - ma'lum
+1 bir - bir
+0 qismi
+0 Xo'jalik
+0 hayoti
+0 Eftallar
+0 davlatiga
+0 birlashgan
+0 aholining
+0 etnik
+0 tarkibi
+0 xilma-xil
+0 bo'lgan
+0 Iqtisodiy-savdo
+0 munosabatlarining
+1 izchil - izchil
+0 yo'lga
+0 qo'yilishi
+0 mamlakatda
+0 dehqonchilik
+1 sun'iy - sun'iy
+0 sug'orish
+0 chorvachilik
+0 bog'dorchilik
+1 va - va
+0 hunarmandchilik
+0 ravnaq
+0 topishiga
+0 asos
+0 bo'lgan
+1 Hozirgi - hozirgi
+0 vaqtda
+1 ham - ham
+0 Toshkent
+0 vohasi
+1 va - va
+0 Janubiy
+0 Qozog'iston
+0 yerlarining
+1 bir - bir
+0 qismini
+0 suv
+1 bilan - bilan
+0 ta'minlab
+0 turgan
+0 Zog'ariq
+0 Zovariq
+1 va - va
+0 Bo'zsuv
+0 Samarqand
+0 viloyati
+0 janubiy
+0 tumanlarining
+0 asosiy
+0 suv
+0 manbayi
+0 Darg'om
+0 kanali
+0 V
+0 asrda
+0 barpo
+0 etilgan
+0 eng
+1 yirik - yirik
+0 sug'orish
+0 tarmoqlaridan
+0 hisoblanadi
+0 Savdo
+1 va - va
+0 pul
+0 muomalasi
+1 Tashqi - tashqi
+0 savdo
+0 bojidan
+1 manfaatdor - manfaatdor
+0 bo'lgan
+0 eftallar
+0 Ipak
+0 yo'lini
+1 o'z - o'z
+0 nazoratlari
+1 ostida - ostida
+0 tutib
+0 turishga
+0 harakat
+0 qilgan
+0 Xitoy
+0 Hindiston
+0 Eron
+1 va - va
+0 Vizantiya
+1 bilan - bilan
+0 bo'lgan
+1 xalqaro - xalqaro
+0 savdoda
+1 faol - faol
+0 qatnashgan
+0 Ipak
+0 yo'li
+0 savdosida
+0 sosoniy
+0 savdogarlari
+1 bilan - bilan
+0 raqobatda
+1 asosan - asosan
+0 sug'diylar
+0 vositachi
+0 bo'lgan
+1 Bu - bu
+0 esa
+1 o'z - o'z
+0 o'rnida
+0 yo'l
+0 qatnov
+0 ta'minot
+0 xizmat
+0 ko'rsatish
+0 tarmoqlarining
+0 kengayib
+0 borishiga
+0 yo'l
+0 ochgan
+1 Tashqi - tashqi
+0 savdoda
+0 ipak
+0 lok
+0 bo'yoqlar
+1 rangli - rangli
+0 shishalar
+1 qimmatbaho - qimmatbaho
+0 toshlar
+0 arg'umoq
+0 otlar
+0 matolar
+0 shirinliklar
+0 qurol-yarog'
+1 kabi - kabi
+1 noyob - noyob
+0 mahsulotlar
+0 bozori
+1 chaqqon - chaqqon
+0 bo'lgan
+1 Xalqaro - xalqaro
+0 savdo
+0 aloqalarining
+0 rivojlanishi
+1 bilan - bilan
+0 mamlakatda
+0 tanga
+0 pul
+0 muomalasi
+0 tartibga
+0 solinadi
+1 Ichki - ichki
+1 va - va
+1 tashqi - tashqi
+0 savdo
+0 munosabatlarida
+0 eftallar
+1 dastavval - dastavval
+0 sosoniy
+0 hukmdorlarining
+0 kumush
+0 tangalaridan
+1 keng - keng
+0 foydalanadilar
+0 Bulardan
+0 tashqari
+0 Buxoro
+0 Poykand
+0 Vardona
+0 Naxshab
+0 Samarqand
+1 va - va
+0 Xorazmda
+0 mahalliy
+0 hokimlar
+0 tomonidan
+0 chiqarilgan
+0 chaqa
+0 tangalar
+0 mamlakatning
+1 ichki - ichki
+0 savdosida
+1 keng - keng
+0 muomalada
+0 bo'lgan
+0 Xoqonlikning
+0 tashkil
+0 topishi
+0 VI
+0 asr
+0 o'rtalarida
+0 Oltoy
+1 va - va
+0 Janubiy
+0 Sibirda
+0 yashagan
+0 turkiy
+0 qabilalarni
+0 birlashtirgan
+1 yangi - yangi
+0 davlat
+0 vujudga
+0 keldi
+1 Bu - bu
+0 davlat
+0 tarixga
+0 Turk
+0 xoqonligi
+0 nomi
+1 bilan - bilan
+0 kirgan
+1 Uning - uning
+0 asoschisi
+0 Bumin
+0 edi
+0 552-yilda
+0 Bumin
+0 xoqon
+1 deb - deb
+0 e'lon
+0 qilindi
+0 Oltoy
+0 xoqonlikning
+0 markazi
+0 qilib
+0 belgilanadi
+0 Turklarning
+0 g'arbga
+1 tomon - tomon
+0 yurishlariga
+0 Istami
+0 boshchilik
+0 qiladi
+1 Unga - unga
+0 Yabg'u
+0 xoqon
+0 degan
+0 unvon
+0 beriladi
+1 Tez - tez
+0 orada
+0 Yettisuv
+1 va - va
+0 Sharqiy
+0 Turkistonga
+0 tutashgan
+0 yurtlarda
+0 yashovchi
+0 turkiy
+0 qabilalar
+0 bo'ysundiriladi
+0 555-yildayoq
+0 turklar
+0 Sirdaryo
+1 va - va
+0 Orol
+0 dengizi
+0 bo'ylarigacha
+0 cho'zilgan
+1 keng - keng
+0 o'lkalarni
+0 egallaydilar
+0 Xoqonlik
+0 chegarasi
+0 Eftallar
+0 davlati
+0 hududlariga
+0 tutashib
+0 ketgan
+1 Natijada - natijada
+0 Eftallar
+0 davlatining
+0 shimoliy
+0 hududlari
+0 xavf
+1 ostida - ostida
+0 qoldi
+0 Bunday
+1 qulay - qulay
+0 vaziyatdan
+0 foydalangan
+0 sosoniylar
+0 Toxariston
+1 va - va
+0 Chag'oniyonni
+0 eftallardan
+1 tortib - tortib
+0 oladilar
+0 Turk
+0 xoqonligining
+0 eftallar
+1 bilan - bilan
+0 to'qnashishi
+0 muqarrar
+0 edi
+0 Bunday
+0 murakkab
+0 siyosiy
+0 vaziyat
+0 xoqonlikni
+0 Eron
+1 so'ngra - so'ngra
+0 Vizantiya
+1 bilan - bilan
+0 yaqinlashtiradi
+1 Uzoq - uzoq
+0 vaqt
+0 eftallar
+0 tazyiqida
+0 yashagan
+0 sosoniylar
+1 bu - bu
+0 davlatning
+1 tamomila - tamomila
+0 barbod
+0 bo'lishidan
+1 manfaatdor - manfaatdor
+0 edi
+0 Xusrav
+1 I - i
+0 Anushervon
+0 531579
+0 tashabbusi
+1 bilan - bilan
+0 yuzaga
+0 kelgan
+0 o'zaro
+0 harbiy
+0 ittifoq
+0 Eron
+0 shohining
+0 Istamiga
+0 kuyov
+0 bo'lishi
+1 orqali - orqali
+0 yanada
+0 mustahkamlanadi
+0 Eron
+0 askarlarining
+0 Balxga
+0 hujumi
+0 ko'magida
+0 turklar
+0 563-yilda
+0 Eftallar
+0 davlati
+0 yerlariga
+0 bostirib
+0 kiradilar
+0 Parak
+0 Chirchiq
+0 vodiysi
+1 va - va
+1 uning - uning
+0 markazi
+0 Choch
+0 shahri
+0 ishg'ol
+0 qilinadi
+0 Sirdaryodan
+0 o'tib
+0 Zarafshon
+0 vodiysiga
+0 kirib
+0 boradilar
+1 Ular - ular
+0 Samarqand
+0 Kesh
+1 va - va
+0 Naxshabni
+0 egallab
+0 Buxoroga
+0 yaqinlashadilar
+1 Sakkiz - sakkiz
+0 kun
+0 davom
+0 etgan
+1 shiddatli - shiddatli
+0 jangda
+0 eftallar
+0 qo'shini
+0 yengiladi
+0 Toxariston
+0 nomi
+0 qadimda
+0 Yunon-Baqtriya
+0 davlatini
+0 qulatgan
+0 chorvador
+0 qabila
+0 yuechjilar
+0 nomidan
+0 olingan
+0 Toxariston
+0 hukmdorlari
+1 dastlab - dastlab
+0 malikshoh
+1 keyinchalik - keyinchalik
+0 yabg'u
+0 nomi
+1 bilan - bilan
+0 atalgan
+0 Toxariston
+0 aholisining
+0 asosiy
+0 qismi
+0 o'troq
+0 dehqonchilik
+1 bilan - bilan
+0 shug'ullangan
+0 Hunarmandchilikda
+0 qurolsozlik
+0 shishasozlik
+0 to'qimachilik
+0 yuksalgan
+0 Toxariston
+0 Hindiston
+1 Yaqin - yaqin
+1 va - va
+1 Uzoq - uzoq
+0 Sharq
+0 mamlakatlari
+1 bilan - bilan
+0 savdo-madaniy
+0 aloqalar
+0 o'rnatgan
+1 o'z - o'z
+0 chaqa-tangalari
+1 ichki - ichki
+0 savdo
+0 muomalasida
+0 yurgan
+0 Farg'ona
+0 Farg'ona
+0 hukmdorlari
+0 ixshid
+1 deb - deb
+0 atalgan
+0 Farg'ona
+0 yerlari
+1 juda - juda
+1 hosildor - hosildor
+0 bo'lib
+0 aholisi
+0 dehqonchilik
+1 bilan - bilan
+0 kun
+0 kechirgan
+0 paxta
+1 va - va
+0 sholi
+0 ekkan
+0 Koson
+0 Axsikat
+0 Xushkat
+1 va - va
+0 Quva
+0 Qubo
+1 kabi - kabi
+1 yirik - yirik
+0 markaziy
+0 shaharlarida
+0 hunarmandchilikning
+0 turli
+0 sohalari
+0 rivoj
+0 topib
+1 ularning - ularning
+0 mahsulotlari
+1 ichki - ichki
+1 va - va
+1 tashqi - tashqi
+0 bozorlarda
+1 juda - juda
+0 xaridorgir
+0 bo'lgan
+0 Qo'shni
+0 mamlakatlarga
+0 bo'yoq
+1 rangli - rangli
+0 shisha
+0 buyumlar
+1 va - va
+0 dori-darmonlar
+0 chiqarilgan
+0 Farg'ona
+0 vodiysida
+0 o'troq
+0 aholi
+1 bilan - bilan
+1 bir - bir
+0 qatorda
+0 chorvadorlar
+1 ham - ham
+0 yashaganlar
+0 Qurama
+1 va - va
+0 Qoramozor
+0 tog'lari
+0 yon
+0 -
+0 bag'irlarida
+1 qadimdan - qadimdan
+0 yilqichilik
+1 bilan - bilan
+0 shug'ullanilgan
+1 Bu - bu
+0 vodiyda
+0 ko'paytirilgan
+0 tulpor
+0 otlarning
+0 dong'i
+0 jahonga
+0 taralgan
+0 VIII
+0 asr
+0 mobaynida
+1 yirik - yirik
+0 dehqonlar
+0 qo'li
+0 ostidagi
+0 yermulklari
+0 arab
+0 harbiy
+0 mulkdorlarga
+0 o'tishi
+0 ro'y
+0 berdi
+0 Arab
+0 zodagonlarining
+0 dehqonlar
+1 bilan - bilan
+0 yaqinlashishi
+1 shu - shu
+0 davrda
+0 kuchaygan
+0 Dehqonlarning
+0 arablar
+1 bilan - bilan
+0 yaqinlashuvi
+1 ularni - ularni
+0 istilochilar
+1 uchun - uchun
+1 ishonchli - ishonchli
+0 xizmatkorligini
+0 ta'minlash
+1 bilan - bilan
+1 bir - bir
+0 qatorda
+0 yer-mulklari
+1 va - va
+1 boshqa - boshqa
+0 boyliklarini
+0 muhofaza
+0 qilishiga
+0 imkoniyat
+0 yaratdi
+0 Dehqonlar
+0 arablar
+0 istilosidan
+1 so'ng - so'ng
+0 xalifalik
+0 noibining
+0 vakili
+0 hisoblangan
+0 amirga
+0 bo'ysunganlar
+1 Biroq - biroq
+0 amir
+1 bilan - bilan
+1 bir - bir
+0 qatorda
+1 yirik - yirik
+0 yer
+0 egalari
+0 buxorxudotlarning
+1 ham - ham
+0 mavqeyi
+1 baland - baland
+0 bo'lgan
+0 Narshaxiyning
+0 ma'lumotlariga
+1 ko'ra - ko'ra
+0 ayrim
+0 dehqonlar
+0 Buxoro
+0 amiri
+1 va - va
+0 buxorxudotlar
+1 ularning - ularning
+1 o'z - o'z
+0 yerlarini
+1 tortib - tortib
+0 olganligi
+0 shikoyatini
+0 Xuroson
+0 noibiga
+0 yetkazganlar
+0 Movarounnahrdagi
+0 qishloqlarda
+0 yerlar
+1 mayda - mayda
+0 xo'jaliklar
+0 tomonidan
+0 ishlov
+0 berilgan
+0 Dehqonlar
+0 yerlarni
+1 mayda - mayda
+0 bo'laklarga
+0 taqsimlab
+0 ziroatkorlarga
+0 kadivar
+1 va - va
+0 kashovarzlarga
+0 ijara
+0 tarzida
+0 bo'lib
+0 berishgan
+0 Buning
+1 uchun - uchun
+0 ziroatkorlar
+0 soliq
+0 to'lashgan
+0 Dehqonlar
+1 va - va
+0 amirlar
+0 soliqning
+0 xalifa
+0 xazinasiga
+0 tushishida
+0 vositachilik
+0 qilishgan
+0 Aholini
+0 islomlashtirish
+0 yo'llari
+0 Islom
+0 dinini
+0 qabul
+0 qilib
+0 musulmon
+0 bo'lgan
+0 mahalliy
+0 aholi
+0 vakillari
+1 dastlabki - dastlabki
+0 yillarda
+0 xiroj
+1 va - va
+0 jizya
+0 soliqlaridan
+1 ozod - ozod
+0 etilgan
+0 Islomni
+0 qabul
+0 qilmaganlardan
+0 esa
+0 jon
+0 solig'i
+0 jizya
+0 undirilib
+0 olingan
+0 Soliqlarni
+1 o'z - o'z
+0 vaqtida
+0 to'lamagan
+0 kishilarning
+0 bo'yinlariga
+0 qarzdor
+1 deb - deb
+0 yozilgan
+0 taxtacha
+0 osib
+0 qo'yilardi
+0 Mahalliy
+0 davlat
+0 boshliqlarining
+0 ko'pchiligi
+1 o'z - o'z
+0 huquqlari
+1 va - va
+0 imtiyozlarini
+0 saqlab
+0 qolish
+0 maqsadida
+0 Islom
+0 dinini
+0 qabul
+0 qilgan
+0 Islomni
+0 qabul
+0 qilmagan
+0 zodagonlar
+1 o'z - o'z
+0 yerlaridan
+0 mahrum
+0 etilgan
+1 yoki - yoki
+0 tovon
+0 to'lagan
+0 Bunday
+0 tadbir
+1 va - va
+0 choralar
+0 Movarounnahr
+0 aholisi
+0 o'rtasida
+0 Islom
+0 dinining
+1 tez - tez
+0 tarqalishiga
+0 yordam
+0 bergan
+1 Shu - shu
+0 tarzda
+0 arablar
+0 Movarounnahr
+0 siyosiy
+0 tizimi
+1 va - va
+1 diniy - diniy
+0 e'tiqodiga
+1 o'z - o'z
+0 ta'sirini
+0 o'tkaza
+0 olganlar
+0 Xalifalik
+0 tomonidan
+0 Movarounnahrning
+0 bosib
+0 olinishi
+0 oqibatida
+0 mahalliy
+0 xalqning
+0 urf-odati
+0 dini
+1 va - va
+0 e'tiqodi
+0 madaniyati
+0 Jizya
+0 Islomni
+0 qabul
+0 qilmagan
+0 aholidan
+0 olinadigan
+0 jon
+0 solig'i
+0 Zakot
+0 mol-mulkning
+0 140
+0 qismi
+0 hajmida
+0 olingan
+0 soliq
+0 Xiroj
+0 hosilning
+0 13
+0 qismi
+0 hajmida
+0 olinadigan
+0 yer
+0 solig'i
+0 Masjid
+0 machit
+0 arabcha
+0 sajda
+0 qilinadigan
+0 joy
+0 musulmonlar
+0 jamoa
+0 bo'lib
+0 namoz
+0 o'qiydigan
+0 joy
+0 ibodatxona
+0 33
+0 poymol
+0 etildi
+0 Xalifalikning
+0 talonchilik
+0 siyosati
+0 mahalliy
+0 xalqni
+0 barcha
+0 haq-huquqlardan
+0 mahrum
+0 etdi
+
+Lemmalar soni: 208

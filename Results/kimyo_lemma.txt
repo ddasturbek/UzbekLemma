@@ -1,0 +1,1001 @@
+0 Kimyoviy
+0 elementning
+0 davriy
+0 sistemadagi
+0 o'rni
+1 uning - uning
+0 atom
+0 tuzilishi
+1 va - va
+0 xossalariga
+0 bog'liq
+0 Radioaktivlikni
+0 o'rganish
+0 MSkladovskaya-Kyuri
+0 PKyuri
+0 ERezerford
+0 kimyoviy
+0 element
+0 atomi
+0 murakkab
+0 sistema
+0 ekanligini
+0 ko'rsatdi
+0 Atom
+0 musbat
+0 zaryadga
+0 ega
+0 bo'lgan
+0 yadrodan
+1 va - va
+1 uning - uning
+0 atrofida
+0 harakatlanuvchi
+0 elektronlardan
+0 iborat
+0 elektron
+0 ē
+0 91•10-31
+0 kg
+0 massaga
+1 va - va
+0 16•10-19
+0 C
+0 kulon
+0 man
+0 fiy
+1 elektr - elektr
+0 zaryadiga
+0 ega
+0 Atomdagi
+0 elektronlar
+0 to'plami
+0 elektron
+0 qobiq
+1 deb - deb
+0 ataladi
+0 Atom
+0 elektroney
+0 tral
+0 zarra
+1 demak - demak
+0 atom
+0 elektron
+0 qobig'idagi
+0 elektronlar
+0 soni
+0 yadro
+0 zaryadiga
+1 yoki - yoki
+0 davriy
+0 sistemadagi
+0 element
+0 tartib
+0 raqamiga
+0 Z
+0 tengdir
+0 Proton-ney
+0 tron
+0 nazariyasiga
+1 ko'ra - ko'ra
+0 atom
+0 yadrosi
+0 proton
+1 va - va
+0 neytronlardan
+0 iborat
+0 proton
+0 p
+0 1
+0 amb
+0 massaga
+1 va - va
+0 1
+0 zaryadga
+0 ega
+0 bo'lgan
+0 zarra
+0 neytron
+0 n
+0 proton
+0 massasiga
+1 yaqin - yaqin
+0 massaga
+0 ega
+0 elektroneytral
+0 zarra
+0 Yadro
+0 zaryadi
+1 uning - uning
+0 tarkibiga
+0 kiruvchi
+0 protonlar
+0 soni
+1 bilan - bilan
+0 belgilanadi
+1 demak - demak
+0 atom
+0 yadrosidagi
+0 protonlar
+0 soni
+0 elementning
+0 davriy
+0 sistemadagi
+0 tartib
+0 raqamiga
+1 teng - teng
+0 Atomlarning
+0 absolyut
+0 massasi
+1 A - a
+0 atom
+0 tarkibiga
+0 kiruvchi
+0 barcha
+0 zarralar
+0 massalari
+0 yig'indisiga
+1 teng - teng
+1 A - a
+0 protonlar
+0 massasi
+0 neytronlar
+0 massasi
+0 elektronlar
+0 massasi
+0 Elektronlar
+0 massasi
+1 shu - shu
+1 qadar - qadar
+1 kichik - kichik
+0 bo'lganligidan
+0 atomlarning
+0 massasini
+1 ular - ular
+0 tarkibiga
+0 kiruvchi
+0 proton
+1 va - va
+0 neytronlar
+0 massasidangina
+0 iborat
+1 deb - deb
+0 olish
+0 mumkin
+0 Elementning
+0 nisbiy
+0 atom
+0 massasini
+0 quyidagicha
+0 aniqlash
+0 mumkin
+0 Ar
+0 Z
+0 proton
+0 soni
+0 tartib
+0 raqami
+0 N
+0 neytron
+0 soni
+0 Ko'rib
+0 turganimizdek
+0 atomning
+0 tarkibiga
+0 neytronlar
+1 hamda - hamda
+0 musbat
+1 va - va
+0 manfiy
+0 zaryadli
+0 zarralar
+0 —
+0 elektronlar
+1 va - va
+0 protonlar
+0 kiradi
+1 va - va
+1 u - u
+1 qarama-qarshi - qarama-qarshi
+0 xossali
+0 zarralar
+0 to'plamidan
+0 iborat
+0 Proton
+0 ney
+0 tron
+0 elek
+0 tron
+0 elementar
+0 zarralar
+0 hisoblanib
+1 hozirgi - hozirgi
+0 kungacha
+0 turli
+0 xossalarga
+0 ega
+0 massa
+0 zar
+0 yad
+1 va - va
+0 b
+1 ko'plab - ko'plab
+0 zar
+0 rachalar
+1 ma'lum - ma'lum
+1 Biz - biz
+1 ularni - ularni
+1 ko'ra - ko'ra
+0 olmasak-da
+1 ularning - ularning
+0 haqiqatda
+0 mavjudligi
+0 olimlar
+0 tajribalarida
+0 aniqlangan
+0 ko'rsatkichlar
+1 bilan - bilan
+0 tasdiqlanadi
+0 Elementar
+0 zarralar
+1 ham - ham
+0 atom
+1 va - va
+0 molekulalar
+1 singari - singari
+0 materiya
+0 turlaridir
+0 Atom
+0 tuzilishini
+0 o'rganish
+1 shuni - shu
+0 ko'rsatdiki
+0 dav
+0 -
+0 riy
+0 sistemada
+0 elementlar
+0 atomlarning
+0 elektron
+0 pog'onalari
+0 tuzilishiga
+0 mos
+0 ravishda
+1 ma'lum - ma'lum
+0 tartibda
+0 joylashadi
+0 Qo'zg'almagan
+0 holatda
+0 atomning
+0 elektron
+0 tuzilishi
+0 undagi
+0 elektronlar
+0 soni
+1 bilan - bilan
+0 belgilanadi
+1 Bunda - bunda
+0 elektronlar
+0 energiyasi
+0 minimal
+0 bo'lgan
+0 orbitallarni
+0 egallaydi
+0 Elektronlar
+0 soni
+0 yadro
+0 zar
+0 yadiga
+1 teng - teng
+0 bo'ladi
+0 Shunday
+0 qilib
+1 aynan - aynan
+0 yadro
+0 zar
+0 yadi
+0 atomning
+0 elektron
+0 tuzilishini
+1 va - va
+1 shu - shu
+1 bilan - bilan
+1 birgalikda - birgalikda
+0 element
+0 xossalarini
+0 belgilovchi
+0 tavsif
+0 bo'lib
+0 hisoblanadi
+1 Bundan - bunda
+0 davriy
+0 qonunning
+0 quyidagi
+0 ta'rifi
+0 kelib
+0 chiqadi
+0 Davr
+1 va - va
+0 guruhlarda
+0 elementlar
+0 xossalarining
+1 o'zgarishi - o'z
+0 Atom
+0 tuzilishining
+0 elektron
+0 nazariyasi
+0 elementlar
+0 xossalarining
+0 atom
+0 tuzilishi
+1 va - va
+0 davriy
+0 sistemadagi
+0 o'rniga
+0 bog'liq
+0 ravishda
+1 o'zgarishini - o'z
+0 izohlab
+0 berdi
+1 Bu - bu
+0 nazariyaga
+1 ko'ra - ko'ra
+0 kimyoviy
+0 reaksiyalar
+0 asosida
+0 elektron
+0 munosabatlar
+0 —
+0 atomlar
+0 elektron
+0 pog'onalarining
+0 qayta
+0 qurilishi
+0 jarayonlari
+0 yotadi
+1 Bunda - bunda
+1 asosan - asosan
+1 tashqi - tashqi
+0 elektron
+0 qavatidagi
+0 elektronlar
+0 valent
+0 elektronlar
+0 ishtirok
+0 etadi
+1 Masalan - masalan
+0 uglerod
+0 atomi
+1 tashqi - tashqi
+0 elektron
+0 qavatining
+0 tuzilishi
+0 s2p2
+0 ko'rinishida
+0 bo'ladi
+0 Qo'zg'algan
+0 holatda
+0 esa
+0 s1
+0 p3
+0 ko'rinishga
+0 o'tadi
+0 Maksimal
+0 to'lgan
+0 qavatlar
+0 eng
+1 barqaror - barqaror
+0 bo'ladi
+0 Bunday
+0 elektron
+0 qavatlar
+0 tugallangan
+0 elektron
+0 pog'ona
+1 deb - deb
+0 ataladi
+1 bunda - bunda
+1 tashqi - tashqi
+0 elektron
+0 pog'ona
+0 s2p6
+0 8
+0 ta
+0 elektron
+0 elektron
+0 konfiguratsiyasiga
+0 ega
+0 bo'ladi
+1 He - he
+0 dan
+0 tashqari
+0 barcha
+0 inert
+0 gazlar
+1 Shuning - shu
+1 uchun - uchun
+0 inert
+0 gazlar
+1 juda - juda
+0 qiyinchilik
+1 bilan - bilan
+0 reaksiyaga
+0 kirishadi
+0 Metallar
+0 atomlarining
+1 tashqi - tashqi
+0 elektron
+0 pog'onalarida
+1 odatda - odatda
+0 4
+0 tagacha
+0 elektron
+0 bo'lib
+0 yadro
+1 bilan - bilan
+1 kuchsiz - kuchsiz
+0 bog'langan
+1 Ular - ular
+0 kimyoviy
+0 reaksiyaga
+0 kirishganda
+0 valent
+0 elektronlarini
+0 yo'qotadi
+0 Ishqoriy
+0 metallar
+1 boshqa - boshqa
+0 metallarga
+1 nisbatan - nisbatan
+0 eng
+1 kuchli - kuchli
+0 metallik
+0 xossalariga
+0 ega
+1 deb - deb
+0 qabul
+0 qilinadi
+1 Chunki - chunki
+1 ular - ular
+1 boshqa - boshqa
+0 metallarga
+1 nisbatan - nisbatan
+1 tashqi - tashqi
+0 valent
+0 elektronlarini
+1 oson - oson
+0 yo'qotadi
+0 Elementlarning
+0 metallik
+0 xossalarini
+0 solishtirish
+1 uchun - uchun
+1 odatda - odatda
+0 maxsus
+0 kattalik
+0 —
+0 ionlanish
+0 energiyasidan
+0 foydalaniladi
+0 Metallmaslar
+0 atomlari
+1 tashqi - tashqi
+0 elektron
+0 qavatida
+0 yadro
+1 bilan - bilan
+1 mustahkam - mustahkam
+0 bog'langan
+0 to'r
+0 tta
+1 va - va
+1 undan - unda
+0 or
+0 tiq
+0 sakkiztagacha
+0 elektron
+0 mavjud
+0 Metallmas
+0 atomi
+0 reaksiyaga
+0 kirishayotganda
+1 odatda - odatda
+0 elektron
+0 biriktirib
+0 oladi
+0 Metallmaslik
+0 xossalarini
+0 elektron
+0 biriktirib
+0 olish
+0 imkoniyatini
+0 solishtirish
+1 uchun - uchun
+0 maxsus
+0 kattalik
+0 —
+1 E - e
+0 elektronga
+0 moyillik
+0 qo'llanadi
+1 Kuchli - kuchli
+0 elektroman
+0 fiy
+0 element
+0 atomi
+0 ftor
+0 kislorod
+0 azot
+1 bilan - bilan
+0 bog'langan
+0 vodorod
+0 atomi
+1 boshqa - boshqa
+1 kuchli - kuchli
+0 elektromanfiy
+0 element
+0 atomi
+1 bilan - bilan
+1 yana - yana
+1 bir - bir
+0 bog'
+0 hosil
+0 qilish
+0 qobiliyatiga
+0 ega
+1 Masalan - masalan
+0 suv
+0 molekulasida
+0 vodorod
+1 kuchli - kuchli
+0 elektromanfiy
+0 kislorod
+1 bilan - bilan
+0 qutbli
+0 kovalent
+0 bog'
+1 orqali - orqali
+0 bog'langan
+0 Umumiy
+0 elektron
+0 juft
+0 kislorod
+0 tomonga
+0 siljigan
+1 va - va
+0 vodorod
+0 musbat
+0 zaryadlangan
+0 kislorod
+0 esa
+0 manfiy
+0 zaryadlangan
+0 Suvning
+1 bir - bir
+0 molekulasidagi
+0 musbat
+0 zaryadli
+0 vodorod
+1 boshqa - boshqa
+0 suv
+0 molekulasidagi
+0 man
+0 fiy
+0 zaryadlangan
+0 kislorodga
+0 tortiladi
+1 Ikki - ikki
+0 kislorod
+0 atomlari
+0 orasidagi
+1 to'g'ri - to'g'ri
+0 chiziq
+1 bo'ylab - bo'ylab
+0 vodorod
+1 orqali - orqali
+0 bog'
+0 hosil
+0 bo'ladi
+0 Suv
+0 suyuq
+0 ammiak
+0 suyuq
+0 vodorod
+0 ftorid
+1 ko'plab - ko'plab
+0 organik
+0 birikmalar
+0 vodorod
+0 bog'iga
+0 ega
+0 Metallarga
+0 eng
+1 quyi - quyi
+0 ionlanish
+0 energiyasi
+1 xos - xos
+1 va - va
+1 ularda - ular
+0 harakatchan
+0 elektronlar
+0 miqdori
+1 ko'p - ko'p
+0 Metall
+0 kristallari
+0 strukturasida
+0 elektronlar
+0 atomlardan
+1 oson - oson
+0 uzilib
+0 elektron
+0 gazi
+1 va - va
+0 musbat
+0 zaryadli
+0 metall
+0 ionlari
+0 hosil
+0 bo'ladi
+0 elektronlar
+1 butun - butun
+0 kristall
+1 bo'yicha - bo'yicha
+0 umumiy
+0 hisoblanadi
+0 Metallarning
+1 elektr - elektr
+0 tokini
+0 o'tkazish
+0 xususiyati
+0 borligini
+1 siz - siz
+1 yaxshi - yaxshi
+0 bilasiz
+1 Boshqa - boshqa
+0 moddalar
+1 ham - ham
+1 elektr - elektr
+0 tokini
+0 o'tkazadimi
+0 Buni
+1 qanday - qanday
+0 bilish
+0 mumkin
+0 Quyidagi
+0 tajribani
+0 o'tkazish
+1 bilan - bilan
+0 turli
+0 moddalarning
+1 elektr - elektr
+0 tokini
+0 o'tkazish
+0 xususiyati
+1 haqida - haqida
+0 bilib
+0 olamiz
+0 1-
+0 rasmda
+0 tasvirlanganidek
+0 asbob
+0 yig'ib
+0 olamiz
+1 va - va
+0 asbob
+0 elektrodlarini
+1 quruq - quruq
+0 osh
+0 tuziga
+0 qo'yamiz
+0 Lampochka
+0 yonmaydi
+0 Asbobning
+0 elektrodlarini
+0 distillangan
+0 suvga
+0 tushiramiz
+1 bunda - bunda
+1 ham - ham
+0 lampochka
+0 yonmadi
+1 Demak - demak
+1 quruq - quruq
+0 osh
+0 tuzi
+1 va - va
+0 distillangan
+0 suv
+1 elektr - elektr
+0 tokini
+0 o'tkazmaydi
+0 Osh
+0 tuzini
+0 suvda
+0 eritib
+0 eritmaga
+0 asbobning
+0 elektrodlarini
+0 tushiramiz
+1 Bunda - bunda
+0 lampochka
+0 yonadi
+1 Demak - demak
+0 osh
+0 tuzining
+0 suvdagi
+0 eritmasi
+1 elektr - elektr
+0 tokini
+0 o'tkazadi
+0 Istalgan
+0 moddani
+1 shu - shu
+0 yo'l
+1 bilan - bilan
+0 elek
+0 tr
+0 tokini
+0 o'tkazish
+1 yoki - yoki
+0 o'tkazmaslik
+0 xususiyatini
+0 tekshirib
+0 ko'rish
+0 mumkin
+0 Moddalar
+1 elektr - elektr
+0 tokini
+0 o'tkazish
+1 yoki - yoki
+0 o'tkazmasligiga
+1 qarab - qarab
+1 ikki - ikki
+0 guruh
+0 —
+0 elektrolitlar
+1 va - va
+0 noelektrolitlarga
+0 bo'linadi
+0 Eritmalari
+1 yoki - yoki
+0 suyuqlanmalari
+1 elektr - elektr
+0 tokini
+0 o'tkazadigan
+0 moddalar
+0 elektrolitlar
+0 deyiladi
+0 Elektrolitlarning
+0 eritmalarida
+0 sodir
+0 bo'ladigan
+0 kimyoviy
+0 reaksiyalar
+0 elektrolit
+0 moddaning
+0 dissotsiatsiyalanishidan
+0 hosil
+0 bo'lgan
+0 ionlar
+0 ishtirokida
+0 amalga
+0 oshadi
+0 Ionlar
+1 orasida - orasida
+0 boradigan
+0 kimyoviy
+0 reaksiyalarning
+0 tenglamalarini
+0 tuzishda
+1 kuchli - kuchli
+0 elektrolit
+0 moddani
+0 dissotsiatsiyalangan
+0 holda
+1 kuchsiz - kuchsiz
+0 elektrolitlar
+0 suvda
+0 erimaydigan
+0 cho'kma
+0 moddalar
+0 gaz
+0 holatga
+0 o'tib
+0 reaksiya
+0 muhitidan
+0 chiqib
+0 ketadigan
+0 moddalarning
+0 molekulyar
+0 formulalarini
+0 yozamiz
+0 Elektrolitlarning
+1 va - va
+0 eritmalari
+1 orasida - orasida
+0 sodir
+0 bo'ladigan
+0 reaksiyalarni
+0 quyidagi
+0 guruhlarga
+0 bo'lib
+0 o'rganamiz
+0 Olmosda
+0 uglerod
+0 atomlari
+0 orasidagi
+0 bog'
+1 bir - bir
+0 xil
+1 va - va
+1 har - har
+1 bir - bir
+0 atom
+0 to'r
+0 tta
+1 boshqa - boshqa
+0 atomlar
+1 bilan - bilan
+0 tetraedr
+0 uchlariga
+0 yo'nalgan
+0 qutbsiz
+0 kovalent
+0 bog'
+0 hosil
+0 qiladi
+0 Olmos
+0 issiqlikni
+1 yaxshi - yaxshi
+0 o'tkazadi
+1 lekin - lekin
+1 elektr - elektr
+0 tokini
+1 deyarli - deyarli
+0 o'tkazmaydi
+0 Olmosning
+1 yirik - yirik
+1 tiniq - tiniq
+0 kristallari
+0 brilliantlar
+0 holida
+0 qay
+0 ta
+0 ishlanib
+1 qimmatbaho - qimmatbaho
+0 zargarlik
+0 buyumlari
+0 tayyorlashda
+0 ishlatiladi
+0 Texnik
+0 olmos
+1 sun'iy - sun'iy
+0 usulda
+0 olinadi
+1 Undan - unda
+0 texnikada
+0 pardozlovchi
+0 vositalar
+0 oyna
+0 kesish
+0 metallarga
+1 va - va
+1 boshqa - boshqa
+1 qattiq - qattiq
+0 materiallarga
+0 ishlov
+0 berish
+0 uskunalari
+0 tayyorlanadi
+0 Grafit
+0 —
+0 metall
+0 yaltiroqligiga
+0 ega
+0 bo'lgan
+1 yumshoq - yumshoq
+1 qora - qora
+1 rangli - rangli
+0 kristall
+0 modda
+0 Grafitda
+0 uglerod
+0 atomlari
+0 qatlamlar
+0 holida
+0 joylashadi
+1 Bir - bir
+0 qatlam
+0 tekisligida
+0 joylashgan
+0 uglerod
+0 atomlari
+0 orasidagi
+0 bog'dan
+0 qatlamlararo
+0 uglerod
+0 bog'-
+0 lari
+0 kuch
+1 sizroqligi - siz
+1 uchun - uchun
+0 qat
+0 tiq
+0 yuzaga
+0 ishqalanganda
+0 grafit
+0 yemiriladi
+1 Undan - unda
+1 quruq - quruq
+0 surkov
+0 vositasi
+0 sifatida
+0 elektrodlar
+0 qalamlar
+0 ishlab
+0 chiqarishda
+0 foydalaniladi
+0 Yog'och
+0 ko'miri
+0 pista
+0 ko'mir
+0 koks
+0 hayvon
+0 ko'miri
+0 qurum
+0 grafitning
+1 juda - juda
+1 mayda - mayda
+0 kristallari
+0 to'plamidan
+0 iborat
+0 bo'ladi
+0 Havo
+0 tarkibidagi
+0 karbonat
+0 angidridning
+0 uglerodi
+0 fotosintez
+0 jarayonida
+0 o'simliklar
+0 tomonidan
+0 o'zlashtiriladi
+0 O'simliklar
+0 tarkibidagi
+0 uglerod
+0 hayvon
+0 organizmlariga
+0 o'tadi
+0 Toshko'mir
+0 neft
+0 yonuvchi
+1 tabiiy - tabiiy
+0 gazlar
+0 o'simliklar
+1 va - va
+0 hayvonlar
+0 qoldiqlari
+0 -
+0 dan
+0 hosil
+0 bo'lgan
+0 O'simlik
+1 va - va
+0 hayvonlar
+0 nafas
+0 olishi
+0 hayotiy
+0 faoliyati
+0 natijasida
+0 toshko'mir
+0 neft
+1 tabiiy - tabiiy
+0 gazlarning
+0 yonishidan
+0 vulqonlar
+0 otilishidan
+0 mineral
+0 manbalarning
+0 nu
+
+Lemmalar soni: 196

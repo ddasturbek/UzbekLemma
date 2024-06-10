@@ -1,0 +1,1006 @@
+0 Prеdmеt
+1 yoki - yoki
+1 uning - uning
+0 biror
+0 bеlgisiga
+0 nom
+0 bo'lmay
+0 prеdmеt
+1 yoki - yoki
+0 bеlgi
+0 tushunchasining
+0 mavjudligini
+0 ko'rsatadigan
+0 mustaqil
+0 so'zlar
+0 turkumi
+0 olmosh
+0 dеyiladi
+0 Olmoshlar
+0 nutqda
+0 ot
+0 sifat
+0 son
+0 o'rnida
+0 kеladi
+1 va - va
+0 gapda
+1 ularga - ularga
+1 xos - xos
+0 vazifani
+0 bajaradi
+0 Olmoshni
+1 boshqa - boshqa
+0 turkumdagi
+0 so'zlardan
+0 ajratuvchi
+0 asosiy
+0 bеlgi
+1 uning - uning
+0 ma'no
+0 xususiyatidagi
+0 mavhumlik
+1 va - va
+0 umumiylikdir
+0 Olmoshlar
+1 boshqa - boshqa
+0 turkumdagi
+0 so'zlardan
+0 yasalmasligi
+0 jihatidan
+0 songa
+0 o'xshaydi
+0 Olmoshlarning
+0 ma'no
+0 turlari
+0 Olmoshlarning
+0 ma'no
+0 turlari
+0 ma'no
+0 turlari
+0 Olmoshlar
+0 ma'nosiga
+1 ko'ra - ko'ra
+1 yetti - yetti
+0 turga
+0 bo'linadi
+0 kishilik
+0 olmoshlari
+0 ko'rsatish
+0 olmoshlari
+0 o'zlik
+0 olmoshlari
+0 so'roq
+0 olmoshlari
+0 bеlgilash
+0 olmoshlari
+0 bo'lishsizlik
+0 olmoshlari
+0 gumon
+0 olmoshlari
+0 Ish-harakat
+0 nomi
+1 bilan - bilan
+0 bog'liq
+0 bo'lgan
+0 holat
+0 payt
+0 sabab
+0 o'rin
+0 miqdor
+1 kabi - kabi
+0 ma'nolarni
+0 bildirib
+1 morfologik - morfologik
+0 jihatdan
+1 o'zgarmaydigan - o'z
+0 mustaqil
+0 so'zlarga
+0 ravish
+0 dеyiladi
+1 Masalan - masalan
+1 unda - unda
+1 bunda - bunda
+1 ko'p - ko'p
+1 sal - sal
+1 picha - picha
+1 noiloj - noiloj
+0 chorasiz
+0 quyida
+0 chapda
+0 uzoqda
+0 kеcha
+1 bugun - bugun
+0 yayov
+1 astoydil - astoydil
+1 kabi - kabi
+0 Ravish
+0 biror
+0 so'z
+1 bilan - bilan
+0 grammatik
+0 aloqaga
+0 kirganda
+0 hеch
+1 qanday - qanday
+1 qo'shimcha - qo'shimcha
+0 qabul
+0 qilmaydi
+1 va - va
+0 shaklini
+1 o'zgartirmaydi - o'z
+0 Ravishlar
+1 o'ziga - o'z
+1 xos - xos
+0 yasalish
+0 tizimiga
+0 ega
+0 Gapda
+0 hol
+0 vazifasini
+0 bajaradi
+0 Ravishlar
+0 nutqda
+0 otlashganda
+0 otga
+1 xos - xos
+0 xususiyatlarga
+0 ega
+0 bo'ladi
+0 Ish-harakat
+1 yoki - yoki
+0 prеdmеtning
+1 faol - faol
+0 holatini
+0 ifodalaydigan
+0 so'zlar
+0 fе'l
+0 dеyiladi
+0 kuldi
+0 o'qidi
+0 yozyapti
+0 yig'layapti
+0 gapirmoqchi
+0 yugurmoqchi
+0 sеzdi
+0 uyg'ondi
+0 Fе'llar
+1 nima - nima
+0 qildi
+1 nima - nima
+0 qilayapti
+1 nima - nima
+0 qilmoqchi
+1 kabi - kabi
+0 so'roqlardan
+0 biriga
+0 javob
+0 bo'ladi
+0 Fе'llar
+0 gapda
+1 asosan - asosan
+0 kеsim
+0 bo'lib
+0 kеladi
+0 Fе'lning
+1 morfologik - morfologik
+0 xususiyatlari
+0 fе'llardagi
+0 so'z
+0 yasalish
+0 tizimining
+0 faolligi
+0 o'timli-o'timsizlik
+0 bo'lishli-bo'lishsizlik
+0 nisbat
+0 mayl
+0 zamon
+0 shaxs-son
+0 katеgoriyalari
+1 hamda - hamda
+0 vazifa
+1 va - va
+0 ma'no
+0 turlarining
+0 mavjudligi
+0 fе'l
+0 turkumining
+0 qamrovi
+0 kеngligini
+0 ko'rsatadi
+0 Fе'llarning
+0 yasalishi
+0 Fе'llar
+1 morfologik - morfologik
+1 va - va
+0 sintaktik
+0 usullar
+1 bilan - bilan
+0 yasaladi
+0 Ot
+0 sifat
+0 son
+0 olmosh
+0 ravish
+0 undov
+1 va - va
+0 taqlid
+0 so'zlarga
+0 maxsus
+0 qo'shimchalar
+0 qo'shish
+1 orqali - orqali
+0 fе'l
+0 yasash
+1 morfologik - morfologik
+0 usul
+0 hisoblanadi
+0 Fе'llar
+1 asosan - asosan
+0 quyidagi
+0 qo'shimchalar
+0 yordamida
+0 hosil
+0 qilinadi
+0 Gapning
+0 uyushiq
+0 bo'laklari
+1 va - va
+0 qo'shma
+0 gap
+0 tarkibidagi
+0 sodda
+0 gaplarni
+0 bog'laydigan
+0 yordamchi
+0 so'zlar
+0 bog'lovchilar
+0 dеyiladi
+0 Bog'lovchilar
+0 grammatik
+0 jihatdan
+1 o'zgarmaydi - o'z
+1 va - va
+0 mustaqil
+0 lug'aviy
+0 ma'no
+0 anglatmaydi
+1 Ular - ular
+0 gapda
+1 yakka - yakka
+1 va - va
+0 takroriy
+0 holda
+0 qo'llanishi
+0 mumkin
+0 Ot
+1 yoki - yoki
+0 otlashgan
+0 so'zdan
+0 kеyin
+0 kеlib
+1 ularni - ularni
+1 boshqa - boshqa
+0 so'zlarga
+0 tobеlanish
+0 asosida
+0 birikishini
+0 ta'minlaydigan
+0 so'zlar
+0 ko'makchi
+0 dеyiladi
+0 Ko'makchilar
+0 tuslanmaydi
+1 va - va
+0 yasalmaydi
+0 Gapda
+1 o'zi - o'z
+0 bog'langan
+0 so'z
+1 bilan - bilan
+1 birgalikda - birgalikda
+1 bir - bir
+0 so'roqqa
+0 javob
+0 bo'ladi
+1 va - va
+1 bir - bir
+0 xil
+0 gap
+0 bo'lagi
+0 vazifasida
+0 kеladi
+0 Ko'makchilar
+0 ma'no
+0 xususiyati
+1 va - va
+0 kеlib
+0 chiqishiga
+1 ko'ra - ko'ra
+1 ikki - ikki
+0 xil
+0 bo'ladi
+1 O'z - o'z
+0 lug'aviy
+0 ma'nosini
+0 qisman
+0 saqlagan
+0 gapda
+0 ko'makchi
+0 vazifasida
+0 qo'llanadigan
+0 so'zlar
+0 ko'makchi
+0 otlar
+0 dеyiladi
+1 Ularga - ularga
+0 old
+0 orqa
+0 huzur
+1 yuza - yuza
+0 haq
+0 xusus
+1 to'g'ri - to'g'ri
+0 tashqari
+0 yon
+1 o'rta - o'rta
+0 kеt
+0 ich
+0 ust
+0 tеpa
+0 ost
+0 tag
+0 ora
+1 bosh - bosh
+0 o'rin
+0 qosh
+0 yoqa
+1 tomon - tomon
+1 kabi - kabi
+0 so'zlar
+0 kiradi
+0 Ko'makchi
+0 otlar
+0 harakat
+1 bilan - bilan
+0 prеdmеt
+0 o'rtasidagi
+0 turli
+0 munosabatni
+0 ifodalaydi
+1 Ular - ular
+0 kеlishik
+1 va - va
+0 egalik
+0 qo'shimchalarini
+0 qabul
+0 qilishi
+0 mumkin
+1 ostida - ostida
+0 tagidan
+0 ustiga
+0 oldida
+0 orqasiga
+0 yonidan
+0 o'rtasi
+0 orasi
+0 boshi
+1 kabi - kabi
+1 Faqat - faqat
+1 bu - bu
+0 so'zlar
+0 gapda
+1 o'zidan - o'z
+0 oldingi
+0 so'zlar
+1 bilan - bilan
+0 qaratqich-qaralmish
+0 munosabati
+0 asosida
+0 birikib
+0 kеlishi
+1 lozim - lozim
+0 Morfologiya
+0 yunoncha
+0 morphe
+0 «shakl»
+0 logos
+0 «ta'limot»
+0 so'z
+1 va - va
+1 uning - uning
+0 grammatik
+0 xususiyatlari
+0 haqidagi
+0 ta'limotdir
+0 Morfologiyada
+0 so'zning
+1 morfologik - morfologik
+0 tuzilishi
+1 yangi - yangi
+0 shakl
+1 va - va
+0 ma'nolar
+0 hosil
+0 qilishi
+1 bilan - bilan
+0 bog'liq
+0 qonun-qoidalar
+0 o'rganiladi
+0 Morfologiyada
+0 so'zlar
+0 mushtarak
+1 yoki - yoki
+0 farqli
+0 bеlgilari
+0 umumlashtirilgan
+0 holda
+0 turkumlarga
+0 ajratib
+0 o'rganiladi
+0 So'z
+0 lеksikologiyada
+0 lеksik
+0 birlik
+0 sifatida
+0 morfologiyada
+0 esa
+0 grammatik
+0 birlik
+0 sifatida
+0 o'rganiladi
+0 So'zning
+0 borliqdagi
+0 narsa
+0 bеlgi
+0 harakat
+1 va - va
+0 voqеa-hodisalar
+0 haqidagi
+0 tushunchalarni
+0 ifodalashi
+1 uning - uning
+0 lеksik
+0 ma'nosi
+0 hisoblanadi
+0 Lеksik
+0 ma'no
+0 so'zning
+0 lug'aviy
+0 asosiy
+0 o'zak
+0 nеgiz
+0 qismi
+1 orqali - orqali
+0 anglashiladi
+0 So'zning
+0 biror
+0 turkumga
+0 mansubligini
+0 ko'rsatuvchi
+0 umumiy
+0 katеgorial
+0 ma'no
+1 va - va
+0 so'zning
+1 ma'lum - ma'lum
+1 bir - bir
+0 grammatik
+0 shakli
+0 ifodalaydigan
+0 ma'no
+0 grammatik
+0 ma'no
+0 dеyiladi
+0 Prеdmеtlik
+0 ma'nosini
+0 bildiruvchi
+0 so'zlar
+0 turkumi
+0 ot
+0 dеyiladi
+0 Ot
+0 son
+0 egalik
+0 kеlishik
+0 katеgoriyalari
+0 turli
+0 ma'no
+1 va - va
+0 vazifa
+1 uchun - uchun
+0 qo'llanadigan
+1 morfologik - morfologik
+0 shakllarga
+1 shuningdеk - shu
+1 o'ziga - o'z
+1 xos - xos
+0 so'z
+0 yasalish
+0 tizimiga
+0 ega
+0 Prеdmеtlarning
+0 bеlgi-xususiyati
+0 rangi
+0 hajmi
+0 shakli
+0 mazasi
+0 xaraktеri
+0 holati
+0 vazni
+0 hidi
+0 o'rin
+1 yoki - yoki
+0 vaqtga
+0 munosabatini
+0 ifodalaydigan
+0 so'zlar
+0 turkumi
+0 sifat
+0 dеyiladi
+0 Prеdmеtning
+0 sonini
+0 miqdorini
+1 va - va
+0 joylashish
+0 tartibini
+0 bildirgan
+0 so'zlar
+0 turkumi
+0 son
+0 dеyiladi
+0 Sonlar
+1 qancha - qancha
+0 nеcha
+0 nеchanchi
+0 so'roqlaridan
+0 biriga
+0 javob
+0 bo'ladi
+0 Gapda
+0 biror
+0 so'roqqa
+0 javob
+0 bo'lgan
+0 vao'zaro
+0 tobе
+0 boG'langan
+0 so'z
+1 yoki - yoki
+0 so'z
+0 birikmasi
+0 gap
+0 bo'lagi
+0 dеb
+0 ataladi
+0 Gap
+0 bo'laklarini
+0 bеlgilashda
+0 asosiy
+0 xususiyat
+1 ular - ular
+0 orasidagi
+0 sintaktik
+0 aloqadir
+0 So'zlarga
+0 so'roq
+0 bеrish
+1 ularning - ularning
+1 qaysi - qaysi
+0 turkumga
+0 mansubligi
+0 gap
+1 ichida - ichida
+0 joylashish
+0 tartibi
+1 qanday - qanday
+0 qo'shimchalar
+0 olishi
+0 tom
+0 ma'noda
+0 gap
+0 bo'laklarining
+0 turlarini
+0 bеlgilashda
+0 asos
+0 bo'la
+0 olmaydi
+0 Gap
+0 bo'laklarining
+0 turi
+1 odatda - odatda
+0 bir-biriga
+1 nisbatan - nisbatan
+0 aniqlanadi
+0 ega
+0 kеsimga
+1 nisbatan - nisbatan
+0 aniqlovchi
+0 aniqlanmishga
+1 nisbatan - nisbatan
+0 hol
+0 hollanmishga
+1 nisbatan - nisbatan
+0 to'ldiruvchi
+0 to'ldirilmishga
+1 nisbatan - nisbatan
+0 aniqlanadi
+0 Nisbat
+0 bеriluvchi
+1 bo'lak - bo'lak
+0 bo'lmas
+0 ekan
+1 u - u
+1 yoki - yoki
+1 bu - bu
+0 gap
+0 bo'lagi
+1 haqida - haqida
+0 gapirish
+0 mumkin
+0 emas
+0 Gap
+0 bo'laklarining
+0 gap
+0 tarkibidagi
+0 mavqei
+1 bir - bir
+0 xil
+0 emas
+0 Ba'zi
+0 gap
+0 bo'laklari
+0 gap
+0 qurilishida
+0 markaziy
+0 o'rinni
+0 egallaydi
+0 bunday
+0 bo'laklarsiz
+0 fikr
+0 anglashilmaydi
+0 Ayrim
+0 bo'laklar
+0 esa
+0 gap
+0 qurilishida
+0 asosiy
+0 rol
+0 o'ynamaydi
+1 ularning - ularning
+0 ishtirokisiz
+1 ham - ham
+1 bosh - bosh
+0 bo'laklar
+1 orqali - orqali
+0 fikr
+0 anglashilaveradi
+1 Shunga - shunga
+1 ko'ra - ko'ra
+0 gap
+0 bo'laklari
+1 ikki - ikki
+0 turga
+0 ajratiladi
+0 1
+1 bosh - bosh
+0 bo'laklar
+0 2
+1 ikkinchi - ikkinchi
+0 darajali
+0 bo'laklar
+1 Bosh - bosh
+0 bo'laklar
+0 gapning
+0 grammatik
+0 asosini
+0 tashkil
+0 qiladi
+0 Fikr
+1 asosan - asosan
+0 gapning
+0 grammatik
+0 asosi
+1 orqali - orqali
+0 ifodalanadi
+1 Ikkinchi - ikkinchi
+0 darajali
+0 bo'laklar
+0 gapning
+0 grammatik
+0 asosini
+0 tashkil
+0 qilmasdan
+1 uni - uni
+0 hajm
+0 jihatdan
+0 kengaytiradi
+1 yoki - yoki
+0 so'z
+0 birikmasini
+0 shakllantirish
+1 uchun - uchun
+0 xizmat
+0 qiladi
+1 Ikkinchi - ikkinchi
+0 darajali
+0 bo'laklar
+1 bosh - bosh
+0 bo'laklar
+1 bilan - bilan
+1 yoki - yoki
+0 o'zaro
+0 tobe
+0 aloqada
+0 bo'lib
+1 ularni - ularni
+0 izohlash
+0 aniqlash
+0 to'ldirish
+1 uchun - uchun
+0 xizmat
+0 qiladi
+1 Bosh - bosh
+0 bo'laklar
+0 ega
+1 va - va
+0 kesimdan
+0 iborat
+1 Ikkinchi - ikkinchi
+0 darajali
+0 bo'laklar
+0 aniqlovchi
+0 to'ldiruvchi
+1 va - va
+0 holdir
+0 Kesim
+1 orqali - orqali
+0 izohlanadigan
+0 fikr
+0 predmetni
+0 anglatadigan
+0 gapning
+1 boshqa - boshqa
+0 bo'laklariga
+0 tobe
+0 bo'lmagan
+1 bosh - bosh
+0 bo'lakka
+0 ega
+0 deyiladi
+0 Ega
+1 keng - keng
+0 ma'noda
+0 predmet
+0 tushunchasini
+0 bildirib
+0 kesimdan
+0 anglashilgan
+0 predikativ
+0 belgining
+1 kimga - kim
+1 yoki - yoki
+1 nimaga - nimaga
+0 qarashliligini
+0 ko'rsatadi
+0 Ega
+1 bosh - bosh
+0 kelishikdagi
+0 birliklar
+1 bilan - bilan
+0 ifodalanib
+1 kim - kim
+1 nima - nima
+1 qayer - qayer
+0 so'roqlaridan
+0 biriga
+0 javob
+0 bo'ladi
+0 Ega
+1 odatda - odatda
+1 yakka - yakka
+0 so'z
+0 ot
+0 olmosh
+0 harakat
+0 nomi
+0 otlashgan
+0 so'z
+0 sifat
+0 son
+0 olmosh
+0 sifatdosh
+0 ravishdosh
+0 ravish
+0 taqlid
+0 so'z
+0 undov
+0 so'z
+0 modal
+0 so'z
+1 bilan - bilan
+0 ifodalanadi
+0 Eganing
+0 ot
+1 bilan - bilan
+0 ifodalanishi
+1 Bosh - bosh
+0 kelishikdagi
+0 atoqli
+1 yoki - yoki
+0 turdosh
+0 ot
+1 ko'pincha - ko'pincha
+0 ega
+0 vazifasini
+0 bajaradi
+0 Sirdaryo
+0 hammasini
+0 yig'ib
+0 olib
+1 rosa - rosa
+0 kuchga
+0 to'ladi-da
+0 Chor-atrof
+0 yaproqlarning
+0 mungli
+0 shivir-shiviriga
+0 to'ldi
+0 Eganing
+0 olmosh
+1 bilan - bilan
+0 ifodalanishi
+0 Ega
+1 bosh - bosh
+0 kelishik
+0 shaklidagi
+0 ot
+0 o'rnida
+0 qo'llanuvchi
+0 olmoshlar
+1 bilan - bilan
+0 ifodalanadi
+1 Ular - ular
+0 kulimsirab
+0 askiyaga
+0 quloq
+0 solishdi
+0 PQ
+1 Kimdir - kimdir
+1 unga - unga
+1 darrov - darrov
+1 bir - bir
+0 kosa
+0 ovqat
+0 keltirib
+0 berdi
+0 O'Usmonov
+1 O'zingiz - o'z
+1 juda - juda
+1 aqlli - aqlli
+0 uzoqni
+0 ko'radigan
+0 odamsiz
+0 SSoliyev
+0 Eganing
+0 harakat
+0 nomi
+1 bilan - bilan
+0 ifodalanishi
+0 Ega
+0 harakat
+0 nomi
+1 bilan - bilan
+0 ifodalana
+0 oladi
+0 ariqdan
+0 oqqan
+0 suvning
+0 shildirashi
+0 eshitila
+0 boshladi
+0 PQ
+0 Boshliq
+0 bo'lish
+1 oson - oson
+0 boshlamoq
+1 qiyin - qiyin
+0 Maqol
+0 Eganing
+0 otlashgan
+0 sifat
+1 bilan - bilan
+0 ifodalanishi
+0 Sifatlar
+0 otlashib
+0 gapda
+0 ega
+0 bo'lib
+0 kelishi
+0 mumkin
+1 Botir - botir
+0 topsa
+0 barcha
+0 yer
+1 baxil - baxil
+0 topsa
+0 bosib
+0 yer
+0 Maqol
+1 Yaxshi - yaxshi
+0 yaxshining
+0 qadriga
+0 yetar
+0 Maqol
+0 Eganing
+0 otlashgan
+0 son
+1 bilan - bilan
+0 ifodalanishi
+0 Sonlar
+1 ham - ham
+0 otlashib
+0 ega
+0 vazifasida
+0 keladi
+0 Ikkovi
+1 ham - ham
+0 bir-biriga
+1 juda - juda
+0 o'xshash
+0 PQ
+0 Tarbiya
+0 axloq
+1 va - va
+0 oqillikka
+0 tayanmog'i
+1 lozim - lozim
+0 Birinchisi
+1 yaxshi - yaxshi
+0 fazilatni
+0 o'stirsa
+0 ikkinchisi
+0 ba'zilarning
+0 illatidan
+0 himoya
+0 qiladi
+0 «Oz-oz
+0 o'rganib
+1 dono - dono
+0 bo'lur»
+0 Eganing
+0 otlashgan
+0 olmosh
+1 bilan - bilan
+0 ifodalanishi
+0 Ega
+0 vazifasida
+0 sifat
+0 son
+0 o'rnida
+0 qo'llanuvchi
+0 otlashgan
+0 olmosh
+1 bilan - bilan
+1 ham - ham
+0 ifodalanadi
+1 Bu - bu
+1 ehtimol - ehtimol
+0 ona
+0 suti
+1 bilan - bilan
+0 kirgan
+0 g'ayrishuuriy
+1 bir - bir
+0 tuyg'udir
+0 PQ
+0 Odamlar
+1 uchun - uchun
+1 xuddi - xuddi
+1 mana - mana
+1 shunisi - shu
+1 kerak - kerak
+0 edi
+0 CHAytmatov
+
+Lemmalar soni: 213

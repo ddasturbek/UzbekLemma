@@ -1,0 +1,1008 @@
+0 Fizikada
+0 tabiatdagi
+0 jarayon
+1 va - va
+0 hodisalarni
+0 o'rganishda
+1 o'ziga - o'z
+1 xos - xos
+0 tadqiqot
+0 metodlari
+0 mavjud
+0 Fizika
+0 eksperimental
+0 fan
+0 hisoblanadi
+1 Shu - shu
+0 bois
+0 tajriba
+0 o'tkazish
+0 jarayoni
+0 alohida
+0 sharoitni
+0 talab
+0 qiladi
+1 Bunda - bunda
+0 o'rganilayotgan
+0 jarayonga
+1 tashqi - tashqi
+0 ta'sir
+0 ko'rsatilmasligiga
+0 harakat
+0 qilinadi
+1 Bundan - bunda
+0 tashqari
+0 jarayonlarga
+1 tegishli - tegishli
+0 fi
+0 zik
+0 parametrlar
+0 orasidagi
+0 bog'lanishni
+1 matematik - matematik
+0 ifodalar
+1 orqali - orqali
+0 beriladi
+1 Shunga - shunga
+1 ko'ra - ko'ra
+0 fi
+0 ziklar
+0 jarayon
+0 larning
+1 bundan - bunda
+1 keyingi - keyingi
+0 borishini
+1 yoki - yoki
+1 oldin - oldin
+1 qanday - qanday
+0 bo'lganligini
+1 juda - juda
+0 aniq
+0 aytib
+0 berishga
+0 muvaffaq
+0 bo'ldilar
+0 Buyuk
+0 italyan
+0 fi
+0 zigi
+0 Galileo
+0 Galiley
+0 shunday
+1 deb - deb
+0 yozgan
+0 edi
+0 Tabiat
+0 kitobini
+0 tushunish
+1 uchun - uchun
+1 uning - uning
+0 yozilgan
+0 tilini
+0 bilishing
+1 kerak - kerak
+1 Bu - bu
+0 til
+0 matematikadir
+0 Kuzatishlardan
+0 ko'pgina
+0 hodisalar
+1 uchun - uchun
+1 ma'lum - ma'lum
+1 bir - bir
+0 qonuniyatlar
+0 mavjud
+0 ekanligi
+0 taxmin
+0 qilinadi
+0 Bunday
+0 taxminlar
+1 ilmiy - ilmiy
+0 gipoteza
+0 deyiladi
+0 Gipotezani
+0 tekshirish
+1 uchun - uchun
+0 olimlar
+0 tajriba
+0 eksperiment
+0 o'tkazishadi
+0 Buning
+1 uchun - uchun
+1 tabiiy - tabiiy
+0 sharoitga
+0 yaqinlashtirilgan
+0 maxsus
+0 sharoitlar
+0 yaratiladi
+0 Gipotezani
+0 shakllantirish
+1 va - va
+0 eksperiment
+0 o'tkazish
+1 hamda - hamda
+1 uning - uning
+0 natijala
+0 rini
+0 tushuntirish
+1 uchun - uchun
+0 mazkur
+0 jarayon
+1 yoki - yoki
+0 hodisaning
+0 modeli
+0 tuziladi
+0 Biror
+1 bir - bir
+0 jarayonning
+0 modeli
+0 deyilganda
+1 uning - uning
+0 ixchamlashgan
+0 tartibga
+0 solingan
+0 muhim
+0 jihatlari
+0 ajratib
+0 ko'rsatilgan
+0 holati
+0 tushuniladi
+1 Bunga - bunga
+0 misol
+0 sifatida
+0 moddiy
+0 nuqta
+1 va - va
+1 ideal - ideal
+0 gaz
+0 tushunchalarini
+0 misol
+0 qilib
+0 aytish
+0 mumkin
+0 Eksperiment
+0 o'tkazish
+0 jarayonida
+1 tashqi - tashqi
+0 ta'sirlardan
+0 to'la
+0 qutulib
+0 bo'lmaydi
+1 Shunga - shunga
+1 qaramasdan - qaramasdan
+0 olingan
+0 natijaga
+1 ko'ra - ko'ra
+1 ideal - ideal
+0 sharoitda
+1 qanday - qanday
+0 natija
+0 chiqishini
+0 aytib
+0 berish
+0 mumkin
+0 bo'ladi
+1 Bu - bu
+1 ideal - ideal
+0 vaziyat
+1 ilmiy - ilmiy
+0 ideallashtirish
+0 deyiladi
+1 Aynan - aynan
+1 mana - mana
+1 shu - shu
+0 hodisalar
+0 tashqaridan
+0 qaralganda
+0 murakkabga
+0 o'xshasa-da
+1 lekin - lekin
+1 ular - ular
+0 bo'ysunuvchi
+0 qonunlar
+0 sodda
+0 bo'lishini
+0 ko'rsatadi
+1 Bizni - biz
+0 o'rab
+0 turgan
+0 muhitdagi
+0 jismlarning
+0 harakati
+0 mexanika
+0 qonun
+0 lariga
+0 bo'ysunadi
+0 Jism
+0 harakatining
+1 o'zgarish - o'z
+0 sabablarini
+0 XVI
+0 asr
+1 oxiri - oxiri
+1 va - va
+0 XVII
+0 asr
+1 boshida - boshida
+1 ilk - ilk
+1 bor - bor
+0 tajribalar
+0 vositasida
+1 batafsil - batafsil
+0 o'rgangan
+1 olim - olim
+0 Galiley
+0 edi
+0 Galiley
+0 jism
+0 harakatini
+1 o'zgartish - o'z
+0 sababi
+1 haqida - haqida
+0 quyidagicha
+0 yozgan
+0 edi
+1 Agar - agar
+0 jismga
+1 boshqa - boshqa
+1 hech - hech
+1 qanday - qanday
+0 jismlar
+0 ta'sir
+0 etmasa
+0 jism
+0 Yerga
+0 nis
+0 batan
+1 o'zining - o'z
+1 tinch - tinch
+0 holatini
+1 yoki - yoki
+1 to'g'ri - to'g'ri
+0 chiziqli
+1 tekis - tekis
+0 harakatini
+0 saqlaydi
+0 Galiley
+0 tomonidan
+0 o'rnatilgan
+1 bu - bu
+0 qonun
+0 mexanikaning
+0 asosiy
+0 qonunlarini
+0 tarkib
+0 toptirishda
+1 birinchi - birinchi
+0 qadam
+0 bo'ldi
+1 Bu - bu
+0 qonunlarni
+0 ochish
+1 uchun - uchun
+0 Nyutonga
+1 hech - hech
+1 qanday - qanday
+0 murakkab
+0 asbob
+0 uskunalar
+1 zarur - zarur
+0 bo'lmagan
+0 Buning
+1 uchun - uchun
+1 oddiy - oddiy
+0 tajribalar
+1 yetarli - yetarli
+0 bo'lgan
+0 Bundagi
+0 eng
+1 katta - katta
+0 qiyinchilik
+0 jismlarning
+1 turli-tuman - turli-tuman
+0 harakatlari
+0 ichidan
+0 eng
+0 muhimini
+0 eng
+0 umumiysini
+1 ko'ra - ko'ra
+0 olishdan
+0 iborat
+0 edi
+0 Dinamika
+0 grekcha
+0 dynamis
+0 so'zidan
+0 olingan
+0 bo'lib
+0 kuch
+0 degan
+0 ma'noni
+0 bildiradi
+1 Agar - agar
+1 biz - biz
+1 qandaydir - qanday
+0 jismning
+0 harakatga
+0 kelganini
+0 ko'rsak
+1 unga - unga
+0 ta'sir
+0 qilayotgan
+1 boshqa - boshqa
+1 bir - bir
+0 jismni
+1 ham - ham
+0 ko'ramiz
+1 Boshqa - boshqa
+0 jism
+0 harakatga
+0 kelgan
+0 jismni
+0 tortishi
+0 itarishi
+1 yoki - yoki
+1 unga - unga
+0 masofadan
+0 turib
+0 ta'sir
+0 qilishi
+0 mumkin
+1 masalan - masalan
+0 magnitning
+0 temir
+0 sharga
+0 ta'siri
+0 Yerdan
+0 biror
+0 balandlikka
+0 ko'tarib
+0 qo'yilgan
+0 jism
+0 qo'yib
+0 yuborilsa
+0 pastga
+0 tushadi
+1 Bu - bu
+0 tajribalarning
+0 barchasida
+0 jism
+0 tezligining
+1 o'zgarishi - o'z
+1 ya'ni - ya'ni
+0 tezla
+0 nish
+1 har - har
+1 doim - doim
+1 boshqa - boshqa
+1 bir - bir
+0 jismning
+0 ta'siri
+1 tufayli - tufayli
+0 vujudga
+0 keladi
+1 Bu - bu
+0 ibora
+0 Nyuton
+0 mexanikasining
+0 eng
+0 muhim
+0 xulosasi
+0 hisob
+0 lanadi
+0 Jismlarning
+0 bir-biri
+1 bilan - bilan
+0 o'zaro
+0 ta'sirlashish
+0 jarayoniga
+0 o'zaro
+0 ta'sir
+0 deyiladi
+0 Fizikada
+0 barcha
+0 o'zaro
+0 ta'sirlar
+1 albatta - albatta
+0 juft
+0 bo'ladi
+1 Ya'ni - ya'ni
+1 har - har
+1 qanday - qanday
+0 ta'sir
+1 aks - aks
+0 ta'sirni
+0 vujudga
+0 keltiradi
+1 Lekin - lekin
+0 bunday
+0 xulosaga
+1 darhol - darhol
+0 kelinmagan
+0 Buyuk
+0 mutafakkir
+0 Aristotel
+0 jism
+0 harakatining
+1 o'zgarishi - o'z
+0 sababini
+0 ochishga
+0 harakat
+0 qildi
+1 Uning - uning
+0 yozishicha
+1 Agar - agar
+0 jismga
+0 itaruvchi
+0 kuch
+0 ta'sir
+0 etmay
+0 qolsa
+0 harakatlanuvchi
+0 jism
+0 to'xtab
+0 qoladi
+0 Yerga
+1 nisbatan - nisbatan
+0 bo'lgan
+1 tinch - tinch
+0 holatni
+0 jismning
+1 tabiiy - tabiiy
+0 holati
+1 deb - deb
+0 tushuntirgan
+0 O'sha
+0 davrlarda
+0 Yerni
+0 Olamning
+0 markazi
+1 deb - deb
+0 qarashganligi
+1 tufayli - tufayli
+0 muhim
+1 bir - bir
+0 sabab
+0 bo'lmasa
+0 jism
+1 o'zining - o'z
+1 tabiiy - tabiiy
+1 tinch - tinch
+0 holatiga
+0 qaytadi
+1 deb - deb
+0 tushuntirishgan
+1 Haqiqatan - haqiqatan
+1 ham - ham
+1 tekis - tekis
+0 asfalt
+0 yo'lda
+0 ketayotgan
+0 avtomobilning
+0 benzini
+0 tugab
+0 qolsa
+0 dvigateli
+0 o'chadi
+0 Avtomobil
+1 biroz - biroz
+0 yurib
+0 to'xtaydi
+1 Xuddi - xuddi
+0 shunday
+0 xulosani
+0 velosipedga
+0 ko'ldagi
+0 qayiqqa
+1 ham - ham
+0 qo'llash
+0 mumkin
+0 Olib
+0 borilgan
+0 kuzatishlar
+1 va - va
+0 xulosalar
+0 asosida
+0 dinamikaning
+1 birinchi - birinchi
+0 qonuni
+0 topilgan
+0 edi
+1 Uni - uni
+0 quyidagicha
+0 ifodalanadi
+0 Inersial
+0 sistema
+1 deb - deb
+0 ataluvchi
+0 shunday
+0 sanoq
+0 sistemalar
+0 mavjudki
+0 undagi
+0 jism
+1 boshqa - boshqa
+0 jismlardan
+1 yetarli - yetarli
+0 darajada
+1 uzoq - uzoq
+0 joylashgan
+0 bo'lsa
+1 tinch - tinch
+1 yoki - yoki
+1 to'g'ri - to'g'ri
+0 chiziqli
+1 tekis - tekis
+0 harakatda
+0 bo'ladi
+1 Bu - bu
+0 qonun
+1 bir - bir
+0 tomondan
+0 inersial
+0 sanoq
+0 sistemasiga
+0 ta'rif
+0 bersa
+0 ikkin
+0 chi
+0 tomondan
+1 haqiqatan - haqiqatan
+1 ham - ham
+0 shunday
+0 sistemalar
+0 mavjudligini
+0 tekshirish
+0 imkoniyatini
+0 beradi
+0 Mexanikaning
+1 birinchi - birinchi
+0 qonuni
+0 inersial
+0 sanoq
+0 siste
+0 masini
+0 alohida
+0 maxsus
+0 o'ringa
+0 qo'yadi
+0 Aylanayotgan
+1 qattiq - qattiq
+0 jismning
+1 har - har
+1 bir - bir
+0 nuqtasi
+0 tezlanish
+1 bilan - bilan
+0 harakatlanadi
+0 Istalgan
+0 bo'lakchaning
+0 tezlanishi
+0 jismdagi
+1 boshqa - boshqa
+0 qismlarning
+0 ta'siri
+1 tufayli - tufayli
+0 bo'ladi
+0 Boshqacha
+0 aytganda
+1 qattiq - qattiq
+0 jismni
+0 tashkil
+0 etgan
+0 bo'lakchalar
+1 erkin - erkin
+0 jism
+0 bo'la
+0 olmaydi
+1 va - va
+1 unga - unga
+0 Nyutonning
+1 birinchi - birinchi
+0 qonunini
+0 tatbiq
+0 etib
+0 bo'lmaydi
+0 Shunday
+0 qilib
+0 jismlarning
+1 tinch - tinch
+1 yoki - yoki
+1 to'g'ri - to'g'ri
+0 chiziqli
+1 tekis - tekis
+0 harakat
+0 holatidan
+0 chiqish
+0 sababi
+1 boshqa - boshqa
+0 jismlarning
+0 ta'siri
+0 ekanligini
+0 bilib
+0 oldik
+0 Jismlarning
+0 bir-biriga
+0 bo'lgan
+0 ta'siri
+0 kuch
+1 bilan - bilan
+0 xarakterlanadi
+0 Nuytonning
+0 ta'biricha
+0 mexanikada
+0 jismlarning
+0 bir-biriga
+0 ta'siri
+0 natijasida
+0 tezlanish
+0 olishiga
+0 sabab
+0 bo'ladigan
+0 miqdoriy
+0 o'lchamga
+0 kuch
+0 deyiladi
+1 Bu - bu
+0 kuchga
+0 sifat
+0 jihatidan
+0 berilgan
+0 ta'rifdir
+1 Bu - bu
+1 bilan - bilan
+0 mexanikada
+0 ikkita
+0 tasdiqni
+0 kiritdik
+0 1
+0 jismlarda
+0 tezlanish
+0 kuch
+0 ta'siri
+1 tufayli - tufayli
+0 bo'ladi
+0 2
+0 tezlanish
+0 beruvchi
+0 kuch
+1 boshqa - boshqa
+0 jismlarning
+0 ta'siri
+1 tufayli - tufayli
+0 bo'ladi
+0 Kuch
+0 tushunchasi
+0 ikkita
+0 jismga
+0 tegishlidir
+0 Kuch
+0 vektor
+0 kattalik
+0 bo'lib
+0 yo'nalishga
+0 ega
+0 Kuchni
+0 miqdoriy
+0 jihatdan
+0 aniqlash
+1 uchun - uchun
+1 uni - uni
+0 o'lchash
+1 kerak - kerak
+0 Buning
+1 uchun - uchun
+1 uni - uni
+1 boshqa - boshqa
+1 bir - bir
+0 etalon
+0 kuch
+1 bilan - bilan
+0 solishtiriladi
+0 Tabiati
+0 jihatidan
+1 qanday - qanday
+0 bo'lishidan
+0 qat'i
+0 nazar
+0 kuchlarning
+0 jismga
+1 bir - bir
+0 vaqtdagi
+0 ta'siri
+1 uning - uning
+0 tezligini
+1 o'zgartirmasa - o'z
+1 ya'ni - ya'ni
+1 unga - unga
+0 tezlanish
+0 bermasa
+0 moduli
+0 jihatidan
+1 teng - teng
+1 va - va
+1 qarama-qarshi - qarama-qarshi
+0 yo'nalgan
+0 bo'ladi
+0 Tajribalar
+1 shuni - shu
+0 ko'rsatadiki
+0 jismning
+0 olgan
+0 tezlanishi
+1 unga - unga
+0 qo'yilgan
+0 kuchdan
+0 tashqari
+0 jismning
+0 xossalariga
+1 ham - ham
+0 bog'liq
+1 Demak - demak
+1 bu - bu
+0 xossani
+0 aniqlashtirib
+0 olish
+1 zarur - zarur
+0 Mexanikada
+1 bu - bu
+0 xossa
+0 jism
+0 massasi
+1 bilan - bilan
+0 ta'riflanadi
+0 Nisbiylik
+0 prinsipining
+0 ochilishiga
+0 asosiy
+0 sabablardan
+0 biri
+0 Yerning
+0 harakati
+0 aniqrog'i
+1 uning - uning
+1 o'z - o'z
+0 o'qi
+0 atrofi
+0 da
+0 aylanishi
+0 haqidagi
+0 gipoteza
+0 bo'ldi
+0 Shunday
+0 savol
+0 tug'iladi
+1 agar - agar
+0 Yer
+1 o'z - o'z
+0 o'qi
+0 atrofi
+0 da
+0 aylanadigan
+0 bo'lsa
+1 nega - nega
+1 biz - biz
+1 uni - uni
+0 Yer
+0 sirtida
+0 o'tkazilgan
+0 eksperimentlarda
+0 sezmaymiz
+1 Bu - bu
+0 muammo
+0 ustidagi
+0 muhokamalarda
+0 qatnashgan
+1 o'rta - o'rta
+0 asrda
+0 yashab
+0 ijod
+0 qilgan
+0 Nikolay
+0 Orema
+0 XIV
+0 asr
+0 Olovuddin
+0 Ali
+0 al-Qushchi
+0 XV
+0 asrlar
+0 quyidagi
+0 xulosaga
+0 keldilar
+0 Yerning
+0 aylanishi
+1 uning - uning
+1 ustida - ustida
+0 o'tkazilgan
+0 tajribalarga
+0 ta'sir
+0 qilmaydi
+0 Faraz
+0 qilaylik
+1 siz - siz
+0 sinfdoshlaringiz
+1 bilan - bilan
+1 birgalikda - birgalikda
+1 ulkan - ulkan
+0 kemaning
+1 ichida - ichida
+1 tashqi - tashqi
+0 oynalari
+0 qoraytirilgan
+0 xonasida
+0 o'tiribsiz
+1 Shunda - shu
+0 sinfdoshlardan
+0 biri
+1 hozir - hozir
+0 kema
+1 tinch - tinch
+0 turibdimi
+1 yoki - yoki
+0 harakatdami
+0 degan
+0 savolni
+0 berdi
+1 Tashqi - tashqi
+0 palubaga
+0 chiqmasdan
+0 buni
+1 qanday - qanday
+0 aniqlash
+0 mumkin
+0 Bolalardan
+0 biri
+0 Kelinglar
+0 tajriba
+0 o'tkazib
+0 ko'ramiz
+0 Stoldagi
+0 buyumlardan
+0 birini
+0 tepadan
+0 pastga
+0 tashlab
+0 ko'ramiz
+1 Agar - agar
+0 kema
+0 harakatsiz
+0 bo'lsa
+1 u - u
+1 vertikal - vertikal
+0 tushadi
+0 Harakatda
+0 bo'lsa
+0 tushish
+0 davrida
+0 kemaning
+0 poli
+1 oldinga - oldinga
+0 ketib
+0 qolib
+0 ozgina
+0 orqaga
+0 tushadiˮ
+1 deb - deb
+0 taklif
+0 qildi
+0 Turli
+0 narsalar
+0 tashlab
+0 ko'rilganda
+0 hammasi
+0 polga
+1 qarab - qarab
+1 tik - tik
+0 holda
+1 aynan - aynan
+1 bir - bir
+0 joyga
+0 tushdi
+1 Demak - demak
+0 kema
+1 tinch - tinch
+0 turibdi
+0 degan
+0 xulosaga
+0 kelindi
+1 Tashqi - tashqi
+0 palubaga
+0 chiqib
+0 qaralsa
+0 kema
+1 bir - bir
+0 tekisda
+0 chayqalmasdan
+0 suzib
+0 ketayotgan
+0 ekan
+1 Demak - demak
+1 mexanik - mexanik
+0 tajribalarni
+1 tinch - tinch
+0 turgan
+0 sinf
+0 xonasida
+0 o'tkazilsa
+1 ham - ham
+1 to'g'ri - to'g'ri
+0 chiziqli
+1 tekis - tekis
+0 harakatlanayotgan
+0 vagon
+1 yoki - yoki
+0 kema
+1 ichida - ichida
+0 o'tkazilsa
+1 ham - ham
+1 bir - bir
+0 xil
+0 kechar
+0 ekan
+1 Bunga - bunga
+1 birinchi - birinchi
+0 bo'lib
+0 Galiley
+1 o'z - o'z
+0 e'tiborini
+0 qaratgan
+0 edi
+0 Galiley
+1 ham - ham
+1 siz - siz
+0 faraz
+0 qilgandek
+1 ulkan - ulkan
+0 kema
+1 ichida - ichida
+0 kuzatilayotgan
+1 mexanik - mexanik
+0 jarayonlar
+1 agar - agar
+0 kema
+1 to'g'ri - to'g'ri
+0 chiziqli
+1 tekis - tekis
+0 harakatlanayotgan
+0 bo'lsa
+1 xuddi - xuddi
+1 tinch - tinch
+0 turganda
+1 qanday - qanday
+0 kechsa
+0 shunday
+0 borishini
+0 yozib
+0 qoldirgan
+1 Bunda - bunda
+0 sanoq
+0 sistemasi
+0 sifatida
+0 Yer
+0 emas
+1 balki - balki
+0 harakatlanayotgan
+0 vagon
+1 yoki - yoki
+0 kema
+0 olinadi
+1 Tinch - tinch
+0 holatda
+0 turgan
+1 yoki - yoki
+1 nisbatan - nisbatan
+1 to'g'ri - to'g'ri
+0 chiziqli
+1 tekis - tekis
+0 harakatla
+0 nayotgan
+0 sanoq
+0 sistemalari
+0 inersial
+0 sanoq
+0 sistemalari
+0 deyiladi
+
+Lemmalar soni: 267

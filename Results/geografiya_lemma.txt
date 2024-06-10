@@ -1,0 +1,998 @@
+1 Ma'lumki - ma'lumki
+0 geografi
+0 ya
+0 eng
+1 qadimgi - qadimgi
+0 fanlardan
+0 biri
+0 bo'lib
+0 o'rganadigan
+0 hodisalarining
+0 doirasi
+1 juda - juda
+1 keng - keng
+1 Dastlab - dastlab
+0 5-sinfda
+1 Siz - siz
+0 geografi
+0 yaga
+0 Yer
+0 yuzi
+0 tabiati
+0 aholisi
+1 va - va
+0 inson
+0 xo'jalik
+0 faoliyatini
+0 o'rganuvchi
+0 fan
+1 deb - deb
+0 berilgan
+0 ta'rif
+1 bilan - bilan
+0 tanishgansiz
+1 Keyinchalik - keyinchalik
+0 geografi
+0 ya
+0 fanining
+0 o'rganish
+0 obyekti
+0 geografi
+0 k
+0 qobiq
+0 ekanligini
+1 ham - ham
+0 bilib
+0 oldingiz
+0 Geografi
+0 k
+0 qobiq
+0 sayyoramizdagi
+0 eng
+1 yirik - yirik
+0 geotizim
+1 ya'ni - ya'ni
+0 Yerning
+1 qattiq - qattiq
+0 litosfera
+0 suv
+0 gidrosfera
+0 havo
+0 atmosfera
+1 hamda - hamda
+1 hayot - hayot
+0 biosfera
+0 qobiqlarining
+0 o'zaro
+0 tutashuvi
+1 va - va
+0 ta'siri
+0 doirasida
+0 vujudga
+0 kelgan
+1 va - va
+0 rivojlanayotgan
+1 juda - juda
+0 murakkab
+0 yaxlit
+1 tabiiy - tabiiy
+0 tizimdir
+1 Aynan - aynan
+0 geografi
+0 k
+0 qobiq
+0 insoniyatning
+0 yashash
+1 va - va
+0 ishlab
+0 chiqarish
+0 faoliyati
+0 muhiti
+1 tabiiy - tabiiy
+0 resurslarning
+0 asosiy
+0 manbayi
+0 hisoblanadi
+0 Geografi
+0 k
+0 qobiq
+1 o'z - o'z
+0 navbatida
+0 bir-biri
+1 bilan - bilan
+0 bog'langan
+1 ko'plab - ko'plab
+1 katta-kichik - katta-kichik
+1 tabiiy - tabiiy
+0 geografi
+0 k
+0 birliklarga
+1 ya'ni - ya'ni
+0 quruqlik
+1 va - va
+0 suvlik
+0 materiklar
+1 va - va
+0 okeanlar
+1 tabiiy - tabiiy
+0 geografi
+0 k
+0 o'lkalar
+0 tabiat
+0 zonalari
+0 provinsiyalar
+1 tabiiy - tabiiy
+0 geografi
+0 k
+0 okruglar
+1 va - va
+0 hokazolarga
+0 bo'linadi
+1 hamda - hamda
+0 bularning
+0 barchasi
+0 geografi
+0 ya
+0 fani
+0 tomonidan
+1 har - har
+0 tomonlama
+0 tadqiq
+0 etiladi
+1 Shuningdek - shuningdek
+0 geografi
+0 ya
+0 jamiyatning
+1 tarixiy - tarixiy
+0 rivojlanishi
+0 mobaynida
+0 paydo
+0 bo'lgan
+0 hududiy
+0 tuzilmalar
+0 mamlakatlar
+0 viloyatlar
+0 shahar
+1 va - va
+0 qishloqlarni
+1 ham - ham
+0 o'rganadi
+0 Geografi
+0 k
+0 qobiq
+1 va - va
+1 uning - uning
+0 tarkibiy
+0 qismlaridagi
+0 voqea-hodisalarni
+1 boshqa - boshqa
+0 fanlar
+1 ham - ham
+0 o'rganadi
+1 lekin - lekin
+1 aynan - aynan
+0 geografi
+0 ya
+1 bu - bu
+0 obyekt
+1 va - va
+0 jarayonlarni
+0 o'zaro
+0 bog'liqlikda
+1 ma'lum - ma'lum
+0 hudud
+0 chegaralarida
+1 bir - bir
+0 butunligicha
+0 tadqiq
+0 etib
+0 hududlar
+1 va - va
+1 butun - butun
+0 Yer
+0 yuzi
+1 haqida - haqida
+0 yaxlit
+0 kompleks
+1 ilmiy - ilmiy
+0 tasavvurni
+0 shakllantiradi
+0 Geografi
+0 ya
+0 fan
+0 sohasi
+0 sifatida
+0 tarkib
+0 topgandan
+1 buyon - buyon
+1 ayniqsa - ayniqsa
+1 hozirgi - hozirgi
+0 davrda
+1 uning - uning
+1 uchun - uchun
+0 tabiat
+1 va - va
+0 jamiyat
+0 o'rtasidagi
+0 o'zaro
+0 aloqadorlik
+0 masalalari
+1 katta - katta
+0 ahamiyat
+0 kasb
+0 etadi
+1 Demak - demak
+1 zamonaviy - zamonaviy
+0 sharoitda
+0 geografi
+0 ya
+0 geografi
+0 k
+0 qobiq
+0 ichidagi
+1 tabiiy - tabiiy
+1 hamda - hamda
+1 ijtimoiy - ijtimoiy
+0 jarayon
+0 hodisa
+1 va - va
+0 obyektlarni
+0 o'zaro
+0 aloqadorlikda
+1 va - va
+1 bir - bir
+0 butunlikda
+1 ma'lum - ma'lum
+0 makon
+1 va - va
+0 zamonda
+0 o'rganadigan
+0 fan
+0 bo'lib
+0 rivojlanib
+0 kelmoqda
+0 Geografi
+0 k
+0 fanlar
+0 turkumiga
+0 kiruvchi
+0 barcha
+0 fanlar
+0 o'zaro
+0 bog'liq
+0 bo'lib
+0 umumiy
+1 ilmiy - ilmiy
+1 va - va
+0 amaliy
+0 maqsadlarni
+0 ko'zlagan
+0 holda
+0 rivojlanmoqda
+0 Turli
+0 geografi
+0 k
+0 fanlar
+0 uyg'unligida
+0 Yer
+0 yuzi
+1 va - va
+0 alohida
+0 hududlar
+1 haqida - haqida
+0 yaxlit
+0 tasavvur
+0 shakllanadi
+0 mamlakat
+1 va - va
+0 hududlar
+0 rivojlanishining
+0 muammo
+1 va - va
+0 istiqbollari
+0 aniqlanadi
+0 tabiatni
+0 muhofaza
+0 qilish
+1 va - va
+1 undan - unda
+1 oqilona - oqilona
+0 foydalanish
+0 iqtisodiyotni
+0 rivojlantirish
+0 aholi
+0 turmush
+0 darajasini
+0 yuksaltirishga
+0 xizmat
+0 qiluvchi
+0 amaliy
+0 taklif
+1 va - va
+0 tavsiyalar
+0 ishlab
+0 chiqiladi
+0 Geografi
+0 yani
+0 o'rgana
+0 boshlagan
+0 paytda
+1 bu - bu
+0 fanning
+0 nomi
+1 qadimgi - qadimgi
+0 yunon
+0 tilida
+0 Yerning
+0 tasviri
+0 degan
+0 lug'aviy
+0 ma'no
+0 berishini
+0 bilib
+0 olgansiz
+1 Lekin - lekin
+1 hozirgi - hozirgi
+0 davr
+0 geografl
+0 ari
+0 turli
+0 joylar
+0 tabiati
+0 aholisi
+1 va - va
+0 xo'jaligini
+0 tasvirlash
+1 va - va
+0 tavsiflash
+1 bilan - bilan
+0 cheklanib
+0 qolmasdan
+0 turli
+1 tabiiy - tabiiy
+1 va - va
+1 ijtimoiy - ijtimoiy
+0 hodisalarning
+0 vujudga
+0 kelish
+1 va - va
+0 hududiy
+0 tarqalish
+0 qo
+0 nuniyatlarini
+0 o'rganadilar
+0 tabiat
+1 va - va
+0 jamiyat
+0 o'rtasidagi
+0 o'zaro
+0 munosabat
+1 va - va
+0 ziddiyatlarni
+0 atrofl
+0 icha
+0 tahlil
+0 qiladilar
+1 dolzarb - dolzarb
+0 ahamiyatli
+0 ekologik
+0 ijtimoiy-iqtisodiy
+1 va - va
+0 siyosiy
+0 muammolarni
+0 hududlarning
+1 o'ziga - o'z
+1 xos - xos
+0 sharoit
+1 va - va
+0 xususiyatlaridan
+0 kelib
+0 chiqqan
+0 holda
+0 yechish
+0 yo'llarini
+0 ishlab
+0 chiqadilar
+0 Yerning
+0 paydo
+0 bo'lishi
+0 haqidagi
+1 hozirgi - hozirgi
+0 zamon
+0 nazariyalariga
+1 ko'ra - ko'ra
+0 Yer
+0 murakkab
+0 taraqqiyot
+0 bosqichlarini
+1 o'z - o'z
+0 boshidan
+0 kechirgan
+0 So'nggi
+0 yillardagi
+0 ma'lumotlarda
+0 keltirilishicha
+0 Yer
+0 taraqqiyotining
+0 astronomik
+0 geologik
+0 biologik
+1 va - va
+0 antropogen
+0 bosqichlarini
+0 ajratish
+0 mumkin
+0 Astronomik
+0 bosqich
+0 546
+1 mlrd - mlrd
+0 yillar
+0 oralig'ini
+1 o'z - o'z
+0 ichiga
+0 oladi
+1 Bundan - bunda
+0 5
+1 mlrd - mlrd
+0 yil
+1 oldin - oldin
+0 koinotdagi
+0 disksimon
+0 gaz
+1 va - va
+1 chang - chang
+0 massasining
+0 gravitatsion
+1 mexanik - mexanik
+0 quyuqlashuvi
+0 oqibatida
+0 Quyosh
+0 sistemasidagi
+1 boshqa - boshqa
+0 sayyoralar
+1 singari - singari
+0 Yer
+1 ham - ham
+1 sharsimon - sharsimon
+0 shaklga
+0 ega
+0 bo'lgan
+0 Yer
+0 tarkib
+0 topib
+0 borayotgan
+0 vaqtda
+0 radioaktiv
+0 elementlarning
+0 parchalanishi
+0 natijasida
+0 ajralib
+0 chiqadigan
+0 issiqlik
+0 hisobiga
+1 uning - uning
+1 ichki - ichki
+0 qismi
+1 asta-sekin - asta-sekin
+0 qizib
+0 moddalarning
+0 saralanishiga
+0 olib
+0 kelgan
+1 Oqibatda - oqibatda
+0 Yerning
+0 turli
+0 qatlamlari
+0 hosil
+0 bo'la
+0 boshlagan
+0 vulqonlar
+0 harakatlanishi
+0 kuzatilgan
+0 Vulqon
+1 va - va
+0 tektonik
+0 harakatlarning
+0 boshlanish
+0 paytidan
+0 Yerning
+0 geologik
+0 bosqichi
+0 boshlangan
+0 Yer
+0 po'sti
+0 yuzlab
+1 million - million
+0 yillar
+0 davomida
+1 doimiy - doimiy
+0 ravishda
+1 o'zgarib - o'z
+0 turgan
+0 materiklar
+1 goh - goh
+0 shakllanib
+1 goh - goh
+0 parchalangan
+0 Materiklar
+1 doimiy - doimiy
+0 harakatda
+0 bo'lgan
+1 va - va
+0 ba'zida
+0 birlashib
+1 yirik - yirik
+0 materiklarni
+0 hosil
+0 qilgan
+0 Yerda
+0 38
+1 mlrd - mlrd
+0 yil
+1 avval - avval
+1 hayot - hayot
+0 paydo
+0 bo'lishi
+1 bilan - bilan
+0 Yer
+0 taraqqiyotining
+0 biologik
+0 bosqichi
+0 boshlangan
+0 Yerda
+1 dastlabki - dastlabki
+0 odamlarning
+0 paydo
+0 bo'lishi
+0 315
+1 mln - mln
+0 yil
+0 antropogen
+0 bosqichni
+1 boshlab - boshlab
+0 bergan
+0 Yerning
+0 geologik
+0 taraqqiyot
+0 tarixi
+1 uning - uning
+0 rivojlanish
+0 davrlari
+1 va - va
+0 rivojlanish
+0 bosqichlariga
+0 ajratish
+1 bilan - bilan
+1 ko'plab - ko'plab
+0 geologlar
+0 shug'ullanganlar
+1 Natijada - natijada
+0 geoxronologiya
+0 paydo
+0 bo'lgan
+0 Geoxronologiya
+0 geologik
+0 yilnoma
+0 yer
+0 po'stidagi
+0 tog'
+0 jinslarining
+0 hosil
+0 bo'lish
+0 ketma-ketligi
+1 va - va
+0 yoshi
+0 haqidagi
+0 ta'limot
+0 Geoxronologiya
+0 mutlaq
+1 va - va
+0 nisbiy
+0 geoxronologiyaga
+0 bo'linadi
+0 Mutlaq
+0 geoxronologiyada
+0 Yerning
+0 yoshi
+0 yillar
+1 bilan - bilan
+0 ifodalanadi
+0 Nisbiy
+0 geoxronologiyada
+0 esa
+0 tog'
+0 jinslarining
+0 ketma-ket
+0 qatlamlanib
+0 joylanishiga
+0 asoslaniladi
+1 Bunga - bunga
+1 ko'ra - ko'ra
+1 ustida - ustida
+0 yotgan
+0 qatlam
+0 cho'kindi
+0 jinslar
+0 qatlamlarining
+1 dastlabki - dastlabki
+0 holati
+0 buzilmaganda
+0 ostidagidan
+1 yosh - yosh
+0 bo'ladi
+0 Geografi
+0 k
+0 qobiqning
+0 mohiyati
+0 shundaki
+1 faqat - faqat
+1 undagina - unda
+0 suv
+1 uch - uch
+0 xil
+0 holatda
+0 uchraydi
+0 hayvonlar
+1 va - va
+0 o'simliklar
+0 yashaydi
+0 tuproq
+0 qoplami
+0 hosil
+0 bo'ladi
+0 turli
+0 tog'
+0 jinslari
+1 va - va
+0 relyef
+0 shakllari
+0 vujudga
+0 keladi
+0 quyosh
+0 energiyasi
+0 to'planadi
+1 va - va
+0 xususiyatlarini
+1 o'zgartiradi - o'z
+0 Eng
+0 asosiysi
+1 hayot - hayot
+0 mavjud
+0 kishilik
+0 jamiyati
+1 faqat - faqat
+1 shu - shu
+0 qobiqda
+0 paydo
+0 bo'lib
+0 yashamoqda
+1 va - va
+0 rivojlanmoqda
+0 Geografik
+0 qobiq
+1 juda - juda
+0 murakkab
+0 tuzilgan
+0 bo'lib
+1 unda - unda
+0 3
+0 tarkibiy
+0 tuzilish
+0 darajalari
+0 ajratiladi
+0 geokomponentli
+0 geosferali
+0 geotizimli
+0 Geokomponentli
+0 eng
+0 sodda
+0 tuzilish
+0 darajasi
+0 Geokomponentlar
+0 yer
+0 yuzidagi
+1 bir - bir
+0 xil
+0 holatdagi
+1 qattiq - qattiq
+0 suyuq
+0 gazsimon
+0 moddalardir
+0 Bular
+0 tog'
+0 jinslari
+0 tuproq
+0 suv
+0 havo
+0 o'simlik
+1 va - va
+0 hayvonlar
+0 Geosferali
+0 tuzilish
+1 bitta - bitta
+0 geokomponentdan
+0 tashkil
+0 topgan
+0 geosferalardan
+0 iborat
+0 Geosferalar
+0 geografi
+0 k
+0 qobiqning
+1 vertikal - vertikal
+0 tuzilishini
+0 belgilaydi
+1 ular - ular
+0 solishtirma
+0 og'irligi
+1 bo'yicha - bo'yicha
+1 vertikal - vertikal
+0 tabaqalanib
+0 joylashgan
+0 litosfera
+0 gidrosfera
+0 atmosfera
+1 va - va
+0 biosfera
+0 Litosfera
+0 gidrosfera
+1 va - va
+0 atmosfera
+1 deyarli - deyarli
+1 bir - bir
+0 xil
+0 moddalardan
+0 tarkib
+0 topgan
+1 va - va
+1 uzluksiz - uzluksiz
+0 yaxlit
+0 qobiqni
+0 hosil
+0 qiladi
+0 Biosfera
+0 esa
+1 tirik - tirik
+0 moddalar
+0 tarqalgan
+0 qobiq
+0 bo'lib
+0 yaxlit
+0 qobiq
+0 hosil
+0 qilmaydi
+1 U - u
+1 boshqa - boshqa
+0 qobiqlar
+0 tarkibiga
+0 kiradi
+1 va - va
+0 yuqorida
+0 aytilgan
+0 qobiqlarning
+0 tutashgan
+1 joyida - joyida
+1 yupqa - yupqa
+0 qatlamni
+0 hosil
+0 qiladi
+0 Geotizimli
+0 tuzilish
+0 geografi
+0 k
+0 qobiqning
+0 gorizontal
+0 tuzilishini
+0 ifodalaydi
+0 Geotizimlar
+0 barcha
+0 komponentlarni
+0 qamrab
+0 olib
+1 ularning - ularning
+0 o'zaro
+0 ta'sir
+1 va - va
+0 aloqalaridan
+0 hosil
+0 bo'lgan
+0 murakkab
+0 tizimlardir
+1 Bu - bu
+0 haqda
+0 9-mavzuda
+0 to'liqroq
+0 ma'lumot
+0 beriladi
+0 Geografi
+0 k
+0 qobiqning
+0 chegaralari
+1 haqida - haqida
+1 quyi - quyi
+0 sinfl
+0 ardan
+0 bilasiz
+0 Geografi
+0 k
+0 qobiqning
+0 o'lchamlari
+0 pastki
+1 va - va
+1 yuqori - yuqori
+0 chegaralari
+1 haqida - haqida
+0 turli
+0 olimlarning
+0 fi
+0 krlari
+0 turlicha
+1 Uning - uning
+0 chegarasini
+0 barcha
+0 geokomponentlar
+0 o'zaro
+0 ta'sirda
+0 bo'ladigan
+1 va - va
+0 geografik
+0 qonuniyatlar
+0 namoyon
+0 bo'ladigan
+0 yuzadan
+0 sathdan
+0 o'tkaziladi
+1 Bu - bu
+0 chegara
+0 Yer
+0 yuzining
+0 turli
+0 qismlarida
+1 har - har
+0 xil
+0 qalinlikka
+0 ega
+0 Modda
+1 va - va
+0 energiyaning
+1 aylanma - aylanma
+0 harakati
+0 Geografik
+0 qobiqda
+0 modda
+1 va - va
+0 energiyaning
+1 aylanma - aylanma
+0 harakati
+1 uning - uning
+1 bir - bir
+0 butunligini
+0 ta'minlaydi
+1 Aylanma - aylanma
+0 harakatda
+0 litosfera
+0 gidrosfera
+0 atmosfera
+1 va - va
+0 biosferadagi
+0 moddalar
+0 ishtirok
+0 etadi
+0 Litosferada
+1 asosan - asosan
+0 gipergenez
+0 zonasigacha
+1 ya'ni - ya'ni
+0 nuragan
+0 g'ovak
+0 jinslar
+0 tarqalgan
+0 chegaragacha
+0 bo'lgan
+0 moddalar
+1 aylanma - aylanma
+0 harakatda
+0 ishtirok
+0 etadi
+0 Atmosferada
+1 aylanma - aylanma
+0 harakat
+0 atmosferaning
+0 umumiy
+0 sirkulyatsiyasida
+0 namoyon
+0 bo'ladi
+0 sayyoraviy
+0 miqyosdagi
+0 shamollar
+0 havo
+0 oqimining
+0 shakllanishi
+0 sodir
+0 bo'ladi
+0 Atmosferaning
+0 umumiy
+0 mahalliy
+1 aylanma - aylanma
+0 harakatlar
+0 qo'shiladi
+0 Gidrosferada
+0 suvning
+1 katta - katta
+1 va - va
+1 kichik - kichik
+1 aylanma - aylanma
+0 harakati
+0 sodir
+0 bo'ladi
+0 Okeanda
+0 suv
+0 massalarining
+0 gorizontal
+1 va - va
+1 vertikal - vertikal
+1 aylanma - aylanma
+0 harakati
+0 quruqlikda
+0 suvning
+0 daryo
+0 o'zanlari
+1 bo'ylab - bo'ylab
+0 oqishi
+0 ko'llarning
+0 muzliklarning
+1 va - va
+0 yerosti
+0 suvlarining
+0 hosil
+0 bo'lishi
+1 va - va
+0 boshqalar
+0 kuzatiladi
+1 Katta - katta
+0 ahamiyatga
+0 ega
+0 biologik
+1 aylanma - aylanma
+0 harakat
+0 organik
+0 moddalarning
+0 hosil
+0 bo'lishi
+1 va - va
+0 parchalanishida
+0 namoyon
+0 bo'ladi
+1 Bir - bir
+0 butunlik
+1 hamda - hamda
+0 modda
+1 va - va
+0 energiyaning
+1 aylanma - aylanma
+0 harakati
+0 qonuniyatlarini
+0 o'rganish
+0 tabiatdan
+1 uning - uning
+0 boyliklaridan
+1 to'g'ri - to'g'ri
+0 foydalanishda
+1 juda - juda
+0 muhim
+0 Ritmiklik
+1 bir - bir
+0 yo'nalishda
+0 rivojlanuvchi
+1 tabiiy - tabiiy
+0 hodisa
+1 va - va
+0 jarayonlarning
+0 muayyan
+0 vaqt
+0 davomida
+0 takrorlanib
+0 turishiga
+0 aytiladi
+
+Lemmalar soni: 229

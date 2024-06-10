@@ -1,0 +1,997 @@
+0 Qishloq
+0 xo'jaligi
+0 —Aprel
+0 inqilobidan
+1 keyin - keyin
+0 o'tkazilgan
+0 tadbirlardan
+0 biri
+1 bu - bu
+0 yersizlarni
+1 va - va
+0 kam
+0 yerlik
+0 dehqonlarni
+0 pomeshchiklar
+1 va - va
+0 yer
+0 egalaridan
+0 qarzini
+0 bekor
+0 qilish
+1 haqida - haqida
+0 dekret
+0 qabul
+0 qildi
+0 Hukumat
+0 dasturining
+0 yer
+0 islohatida
+1 mehnatkash - mehnatkash
+0 dehqonlarni
+0 ishtirok
+0 etishini
+0 hisobga
+0 olib
+0 hayotga
+0 tadbiq
+0 qildiQishloq
+0 xo'jaligi
+0 kooperativlarini
+0 tashkil
+0 qilishda
+0 yersiz
+1 va - va
+0 kam
+0 yerlik
+0 dehqonlar
+0 kо'chmanchi
+0 kambag'allarni
+0 jalb
+0 qilish
+0 ko'zda
+0 tutilgan
+0 Dehqonchilik
+0 Afg'oniston
+0 dehqonchiligi
+1 sun'iy - sun'iy
+0 sug'orishga
+0 asoslangan
+1 Juda - juda
+1 quruq - quruq
+0 iqlim
+0 atmosfera
+0 yog'inlarining
+0 kam
+0 miqdori
+1 va - va
+1 ularning - ularning
+0 yil
+0 mavsumlarida
+0 notekis
+0 taqsimlanishi
+0 ekinlarni
+0 nafaqat
+0 tekisliklarda
+1 balki - balki
+0 tog'li
+0 rayonlarda
+1 ham - ham
+0 sug'orish
+0 zaruriyatini
+0 taqazo
+0 qiladi
+1 Hattoki - hattoki
+0 shunday
+0 viloyatlar
+0 mamalakatning
+1 boshqa - boshqa
+0 qismlariga
+1 nisbatan - nisbatan
+0 atmosfera
+0 yog'inlari
+1 bilan - bilan
+1 yaxshi - yaxshi
+0 ta'minlangan
+0 Badaxshon
+0 Nuriston
+1 va - va
+0 Hazarajotda
+0 qishloq
+0 xo'jaligi
+0 mahsulotlarining
+0 34
+0 qismidan
+0 ko'proq
+1 yalpi - yalpi
+0 hosilini
+0 sug'orma
+0 yerlar
+0 beradi
+0 Afg'oniston
+0 iqlim
+0 sharoitidagi
+0 sug'oriladigan
+0 yerlar
+0 sezilarli
+0 darajada
+1 yuqori - yuqori
+1 va - va
+1 bir - bir
+0 maromda
+0 hosil
+0 berishi
+1 bilan - bilan
+0 harakterlanadi
+0 Afg'onistonda
+0 haydaladigan
+0 yerlarning
+0 umumiy
+0 maydoni
+0 hamma
+0 yerning
+0 12
+0 ni
+0 tashkil
+0 qiladi
+0 O'tloq
+1 va - va
+0 yaylovlar
+0 46
+0 o'rmon
+1 va - va
+0 butazorlar
+0 3
+1 Qadimdan - qadimdan
+0 Afg'oniston
+0 dehqonlarining
+0 hayoti
+0 suv
+1 bilan - bilan
+0 bog'liq
+0 Afg'oniston
+1 sun'iy - sun'iy
+0 sug'oriladigan
+0 qishloq
+0 xo'jalik
+0 ekinlarining
+1 qadimiy - qadimiy
+0 о'choqlaridan
+0 biri
+0 Sug'orma
+0 dehqonchilikning
+0 asosiy
+0 areallari
+0 quyidagicha
+0 joylashgan
+0 Janubiy
+0 Afg'onistonda
+0 Hilmond
+0 havzasida
+0 Qobul
+0 vodiysi
+1 va - va
+1 uning - uning
+0 irmoqlari
+0 Shimoliy
+0 Afg'onistoning
+1 Harirud - har
+0 daryosi
+1 bo'ylab - bo'ylab
+1 shuningdek - shuningdek
+0 Baqtriya
+0 tekisligidagi
+0 Qunduz
+1 va - va
+0 Balxu
+0 daryosi
+1 bo'ylab - bo'ylab
+0 joylashgan
+0 Jalolobod
+0 irrigatsiya
+0 kompleksi
+0 qurilgandan
+1 keyin - keyin
+0 Qobul
+0 vodiysi
+0 vohalari
+0 boglar
+0 g'alla
+1 va - va
+0 sholi
+0 maydonlariga
+0 aylandi
+0 Davlat
+0 yerlardan
+0 sitrus
+0 zaytundan
+1 katta - katta
+0 hosil
+0 yig'ildi
+0 Yer
+0 osti
+0 suv
+0 yig'uvchi
+0 inshootlar
+0 -
+0 korizlar
+1 ochiq - ochiq
+0 vodiylarda
+1 va - va
+0 Qondahor
+1 va - va
+0 Farox
+0 oralig'idagi
+0 Janubiy
+0 Afg'onistoning
+0 G'azna
+0 platosida
+1 past - past
+0 tog'oldi
+0 qismida
+0 Nangraxar
+0 provinsiyasining
+0 janubiy
+0 qismi
+0 Qobuldan
+0 shimolda
+0 Hindiqusholdi
+0 vodiylarida
+0 ko'proq
+0 uchraydi
+0 Korizlar
+0 mamlakatning
+0 hamma
+0 sug'oriladigan
+0 yerlarining
+0 20ga
+0 xizmat
+0 ko'rsatadi
+0 Sug'orilmaydigan
+0 yerlar
+0 mamlakatning
+0 shimolidagi
+1 keng - keng
+0 tog'oldi
+0 palasasida
+0 Qalayi
+0 -
+0 Nau
+0 Honabod
+0 Fayzobodda
+0 to'plangan
+1 Lalmi - lalmi
+0 yerlarda
+1 yaxshi - yaxshi
+0 yog'ingarchilikdan
+1 so'ng - so'ng
+0 sug'oriladigan
+0 yerlarga
+1 nisbatan - nisbatan
+1 ba'zan - ba'zan
+1 yuqori - yuqori
+0 hosil
+0 olinadi
+1 lekin - lekin
+0 уоg'in
+0 yetishmaganda
+1 hattoki - hattoki
+0 uruglik
+1 ham - ham
+0 yig'a
+0 olishmaydi
+1 Lalmi - lalmi
+0 dehqonchilik
+1 bilan - bilan
+0 ko'chmanchi
+1 va - va
+1 yarim - yarim
+0 ko'chmanchilar
+0 kо'proq
+0 shug'ullanadi
+1 Lalmi - lalmi
+0 yerlarda
+1 ko'pincha - ko'pincha
+0 g'alla
+0 arpa
+0 yog'li
+0 lyon
+0 poliz
+0 ekinlari
+1 asosan - asosan
+0 qovun
+0 yetishtiriladi
+0 Ko'pchilik
+0 xo'jaliklar
+1 bir - bir
+0 yilda
+1 bir - bir
+0 marta
+0 hosil
+0 olishadi
+0 Doimo
+0 dehqonchilik
+0 qilinadigan
+1 quyi - quyi
+0 joylashgan
+0 vohalarda
+1 ya'ni - ya'ni
+0 Hirot
+0 Farox
+0 Qandohor
+0 Jalalobodda
+1 bir - bir
+0 yilda
+1 ikki - ikki
+0 marta
+0 hosil
+0 olinadi
+1 Bir - bir
+0 yilda
+1 ikki - ikki
+0 marta
+0 hosil
+0 olinadigan
+0 yerlar
+0 maydonini
+0 kengaytirishga
+0 tog'li
+0 rayonlarda
+1 noqulay - noqulay
+0 iqlim
+0 sharoiti
+0 yilning
+0 asosiy
+0 qismida
+0 sug'orish
+0 kanalida
+0 suvning
+0 yetishmasligi
+0 to'sqinlik
+0 qiladi
+1 Bahorgi - bahorgi
+0 ekinlardan
+0 muhimlari
+0 g'alla
+0 arpa
+0 ba'zi
+0 dukkaklilar
+0 Kuzda
+0 sholi
+0 makka
+1 va - va
+0 asosiy
+0 texnika
+0 ekinlaridan
+0 paxta
+0 qandlavlagi
+0 shakarqamish
+0 yig'ib
+0 olinadi
+0 Afg'oniston
+0 dehqonchiligining
+0 asosini
+0 don
+0 mahsulotlari
+0 ashkil
+0 qiladi
+0 Muhim
+0 ekinlardan
+0 g'alla
+0 xissasiga
+0 о'simlikshunoslikdagi
+0 hamma
+0 mahsulotlar
+0 qiymatining
+0 yarmidan
+0 ko'prog'i
+1 to'g'ri - to'g'ri
+0 keladi
+0 Bog'lar
+1 va - va
+0 uzumzorlar
+0 Afg'onistoning
+0 hamma
+0 qismida
+0 tarqalgan
+1 Mevali - mevali
+0 ekinlar
+0 vohalarda
+1 va - va
+1 katta - katta
+0 shaharlar
+0 atrofida
+0 to'plangan
+0 Mevalar
+1 asosan - asosan
+0 uzum
+1 ko'p - ko'p
+0 miqdorda
+0 eksportaga
+0 ketadi
+0 Afg'oniston
+0 dunyo
+0 bozorida
+0 magiz
+1 va - va
+0 turshak
+0 anorning
+0 eng
+1 yaxshi - yaxshi
+0 navi
+1 bilan - bilan
+1 mashhur - mashhur
+0 Qishloq
+0 xo'jaligida
+0 mehnatga
+1 yaroqli - yaroqli
+0 aholining
+0 asosiy
+0 qismi
+1 band - band
+0 bo'lishi
+1 bilan - bilan
+1 bir - bir
+0 qatorda
+1 va - va
+0 YAIMning
+0 70
+0 dan
+0 ko'prog'ini
+0 berishiga
+1 qaramay - qaramay
+0 qishloq
+0 xo'jaligi
+1 hozirgacha - hozirgacha
+0 kam
+0 mahsuldor
+0 aholining
+0 oziq-ovaqatga
+0 bo'lgan
+0 ehtiyojini
+0 qondira
+0 olmayapti
+0 Chorvachilik
+0 hissasiga
+0 qishloq
+0 xo'jaligi
+1 yalpi - yalpi
+0 mahsulotining
+1 yarmi - yarmi
+1 va - va
+0 mamlakat
+0 eksportining
+0 50
+0 atrofida
+1 to'g'ri - to'g'ri
+0 keladi
+0 Yaylov
+0 qoramolchiligi
+0 ko'pchilik
+0 ko'chmanchilarning
+0 asosiy
+0 tirikchilik
+0 manbai
+0 hisoblanadi
+0 Mollar
+1 uchun - uchun
+0 mavsumiy
+0 yaylovlarni
+0 qidirib
+0 ko'chmanchilar
+0 yozda
+0 Hindiqushning
+0 alp
+0 о'tloqlariga
+1 va - va
+1 boshqa - boshqa
+1 baland - baland
+0 tog'
+0 tizmalariga
+0 500
+0 dan
+0 1500
+0 metr
+0 masofagacha
+0 ko'tarilishadi
+0 qishda
+0 esa
+0 Hind
+1 va - va
+0 Panjob
+0 Pokiston
+0 qirg'oqlarigacha
+0 bo'lgan
+0 tekisliklarning
+1 quyi - quyi
+0 vodiylariga
+0 tushishadi
+0 Chorvachilik
+0 Ko'chmanchi
+1 va - va
+1 yarim - yarim
+0 ko'chmanchilar
+0 qoramollari
+0 boshini
+0 hisoblash
+1 juda - juda
+1 qiyin - qiyin
+1 Odatda - odatda
+0 mollar
+0 miqdori
+0 mavsumdan
+0 mavsumgacha
+1 va - va
+0 iqlim
+0 sharoitlariga
+1 juda - juda
+0 bog'liq
+0 holda
+1 o'zgaradi - o'z
+1 Sovuq - sovuq
+0 qishlarda
+0 oziqa
+0 yetishmasligidan
+0 ⅓
+0 qism
+0 mollar
+0 nobud
+0 bo'ladi
+1 va - va
+0 mollar
+0 boshi
+0 tiklanguncha
+1 bir - bir
+1 necha - necha
+0 yillar
+1 kerak - kerak
+0 bo'ladi
+1 Shuningdek - shuningdek
+0 mollar
+0 miqdoriga
+0 kasallik
+1 ham - ham
+1 katta - katta
+0 ta'sir
+0 ko'rsatadi
+0 O'troq
+0 qishloq
+0 aholisi
+1 uchun - uchun
+0 asosiy
+0 mashg'ulot
+0 dehqonchilik
+0 bo'lib
+0 chorvachilik
+1 faqat - faqat
+1 uni - uni
+0 to'ldiradi
+0 Afg'oniston
+0 chorvachiligining
+0 muhim
+1 va - va
+1 bir - bir
+0 vaqtning
+0 о'zida
+1 bir - bir
+0 muncha
+0 mahsuldor
+0 tarmog'i
+0 qo'ychilikdir
+0 Mamlakatda
+0 go'sht-jun
+1 va - va
+0 qorako'l
+0 qo'ylar
+0 yetishtiriladi
+0 Qo'ychilikning
+1 ikki - ikki
+0 tipini
+0 ajratish
+0 mumkin
+0 ko'chmanchi
+0 qo'ychilik
+1 va - va
+1 yarim - yarim
+0 o'troq
+0 aholining
+0 yaylov
+0 qo'ychiligi
+1 Yirik - yirik
+0 shoxli
+0 qoramolchilikdan
+0 farq
+0 qilib
+0 oziqa
+0 ekinlarni
+0 yetishtirishga
+0 majburlar
+1 chunki - chunki
+0 qo'y
+1 va - va
+0 echkilar
+1 odatda - odatda
+0 yerdan
+0 о'sib
+0 chiqqan
+0 oziqlar
+1 bilan - bilan
+0 qanoatlanadi
+0 Qo'у
+1 va - va
+0 echkilarning
+0 mahalliy
+0 zotlari
+1 beozor - beozor
+1 va - va
+1 ular - ular
+1 quruq - quruq
+0 mavsumda
+0 yog'
+0 zaxirasini
+0 to'plab
+1 uzoq - uzoq
+0 masofalarga
+0 haydashlarga
+1 bardoshli - bardoshli
+0 bo'ladi
+0 Afg'oniston
+0 dunyo
+0 bozoriga
+0 qorako'l
+0 terisini
+0 asosiy
+0 yetkazib
+0 beruvchi
+0 hisoblanadi
+1 U - u
+0 mamalakatga
+1 chet - chet
+0 el
+0 valyutasi
+0 keltiruvchi
+0 manbaa
+0 hisoblanadi
+0 Afg'oniston
+1 bir - bir
+0 yilda
+0 2-
+0 25
+1 mln - mln
+0 teri
+0 yetkazib
+0 beradiQorako'l
+0 qo'ylar
+0 yetishtirish
+1 uchun - uchun
+0 maxsus
+0 iqlim
+1 va - va
+0 yaylov
+0 sharoitlari
+1 zarur - zarur
+1 shunga - shunga
+0 bog'liq
+0 holda
+0 otarlar
+0 chalachol
+1 qumli - qumli
+0 Baqtriya
+0 tekisligi
+0 rayonida
+1 asosan - asosan
+1 uning - uning
+0 g'arbiy
+0 qismida
+0 to'plangan
+0 Yilqichilik
+1 bilan - bilan
+1 asosan - asosan
+0 Shimoliy
+0 Afg'onistondagi
+0 о'troq
+0 aholi
+0 shug'ullanadi
+0 Qishloq
+0 xo'jaligida
+0 otlardan
+0 kam
+0 foydalaniladi
+0 Zotdor
+0 otlar
+1 juda - juda
+1 qimmat - qimmat
+0 turadi
+1 asosan - asosan
+1 tekin - tekin
+0 zotli
+1 tez - tez
+0 yugurar
+0 otlar
+0 qadrlanadi
+0 Dehqonchilik
+0 xo'jaliklarida
+0 otlarni
+0 o'rnini
+0 eshaklar
+0 egalladi
+0 Agronomiya
+0 yun
+0 agros
+0 dala
+1 va - va
+0 nomos
+0 qonun
+0 dehqonchilik
+0 qonun-qoidalari
+0 haqidagi
+0 fan
+1 A - a
+0 dehqonchilikning
+1 ilmiy - ilmiy
+0 asosi
+1 uning - uning
+0 hamma
+0 sohalariga
+1 doir - doir
+0 ilmlar
+0 majmuidir
+0 Aning
+0 asosiy
+0 bo'limlari
+0 umumiy
+0 dehqonchilik
+0 o'simlikshunoslik
+0 seleksiya
+0 urug'chilik
+0 urug'shunoslik
+0 agroki-164myo
+0 tuproqshunoslik
+0 agrofizika
+0 qishloq
+0 xo'jaligi
+0 mikrobiologiyasi
+0 fitopatologiya
+0 ento-mologiya
+0 qishloq
+0 xo'jaligi
+0 melioratsiyasi
+1 Ilmiy - ilmiy
+1 A - a
+0 o'simliklar
+0 fiziologiyasi
+0 biokimyosi
+0 qishloq
+0 xo'jaligi
+0 meteorologiyasi
+0 genetika
+0 mikro-biologiya
+0 kimyo
+0 fizika
+0 mat
+0 biofizika
+1 va - va
+1 boshqa - boshqa
+1 tabiiy - tabiiy
+0 fanlarga
+0 asoslanib
+0 ish
+0 olib
+0 boradi
+1 A - a
+0 laboratoriya
+0 vegetatsi-on
+0 lizimetrik
+1 va - va
+0 dala
+0 tajribalarini
+0 o'tkazib
+1 har - har
+0 xil
+0 usullardan
+0 foydalanib
+0 eksperimental
+0 ma'lumotlar
+0 oladiA
+0 insonning
+0 amaliy
+0 faoliya-ti
+0 natijasida
+0 vujudga
+0 kelgan
+0 ish-lab
+0 chiqaruvchi
+0 kuchlarning
+0 o'sishi
+0 ijtimoiy-iqtisodiy
+0 munosabatlarning
+1 o'zgarishi - o'z
+1 va - va
+1 tabiiy - tabiiy
+0 fanlarning
+0 ravnaq
+0 topishi
+1 bilan - bilan
+0 bog'liq
+0 holda
+0 rivojlandi
+1 Dastlab - dastlab
+0 odamlar
+0 turli
+0 o'simliklarni
+0 o'rganish
+1 ularni - ularni
+0 madaniylashtirish
+0 parvarishlash
+0 uy
+0 hayvonlarini
+0 boqish
+0 tajribalariga
+0 asoslandi
+0 keyinroq
+0 esa
+0 yer
+0 haydash
+0 ekinlarni
+0 sug'orish
+1 va - va
+0 parvarishlashni
+0 tuproq
+0 iqlim
+0 sha-roitiga
+0 moslab
+0 tabaqalashtirish
+0 usullarini
+0 o'rgandi
+0 ekinlar
+0 hayotida
+0 suv
+0 oziq
+0 moddalarning
+0 ahamiyati
+1 va - va
+1 ularning - ularning
+0 ekin
+0 hosiliga
+0 ta'siri
+0 aniqlandi
+1 Keyinchalik - keyinchalik
+0 kimyo
+0 o'simliklar
+0 fizio-logiyasi
+1 kabi - kabi
+0 fanlar
+0 taraqqiyoti
+0 Aga
+1 ham - ham
+1 ijobiy - ijobiy
+0 ta'sir
+0 ko'rsatdi
+0 Kimyo
+1 va - va
+0 o'simliklar
+0 fiziologiyasining
+0 mustaqil
+0 fan
+0 sifatida
+0 ajralib
+0 chiqishi
+0 ne-mis
+0 kimyogari
+0 Yu
+0 Libix
+0 tomonidan
+0 o'simliklar
+0 mineral
+0 oziqlanishi
+0 na-zariyasining
+0 yaratilishi
+0 Aning
+1 yangi - yangi
+0 tarmog'i
+0 agrokimyoning
+0 rivojlanishiga
+1 uni - uni
+0 ya
+0 nala
+0 kengroq
+0 o'rganilishiga
+1 katta - katta
+0 ta'sir
+0 ko'rsatdi
+0 Fransuz
+0 kimyogari
+0 J
+0 Bussengo
+0 o'simliklar
+0 azotni
+0 tuproqdan
+0 o'zlashtirishini
+0 aniqlab
+0 berdi
+0 Dehqonchilikda
+0 shudgor
+1 toza - toza
+0 shudgor
+0 tizimi
+0 o'rnini
+0 ekinlarni
+0 na-vbatlab
+0 ekish
+0 tizimi
+0 egalladi
+0 Keyin-chalik
+0 dehqonchilikni
+0 kimyolashtirish
+0 o'g'itlardan
+0 foydalanish
+0 yerni
+0 ohaklash
+1 va - va
+0 boshqalar
+0 o'simliklarni
+0 himoya
+0 qilish
+1 muvaffaqiyatli - muvaffaqiyatli
+0 rivojlandi
+0 Ota-bobolarimiz
+0 qishloq
+0 xo'jaligi
+0 ekinlarining
+0 hosildorligini
+0 oshirish
+0 bog'dorchilik
+1 va - va
+0 dehqonchilik
+0 agrotexnikasini
+0 tako-millashtirish
+1 ustida - ustida
+0 tinimsiz
+0 izlanish
+0 olib
+0 borganlar
+0 Meva
+0 daraxtlari
+0 poliz
+0 ekinlarining
+1 yangi - yangi
+0 navlarini
+0 yaratish
+0 zararkunandalarga
+0 karshi
+0 kurash
+0 olib
+0 borish
+0 usullarini
+0 ishlab
+0 chiqqanlar
+1 Bu - bu
+0 fan
+0 Sharkda
+0 ziroatnoma
+0 ilmi
+1 deb - deb
+0 atalganO'zbekistonda
+1 A - a
+0 taraqqiyotida
+0 20
+0 30-yillarda
+1 va - va
+1 undan - unda
+1 keyin - keyin
+0 tashkil
+0 etilgan
+0 qishloq
+0 xo'jaligi
+0 tajriba
+0 stansiyalari
+1 hamda - hamda
+1 ilmiy - ilmiy
+0 tadqiqot
+0 instituti
+0 bning
+0 ahamiyati
+1 katta - katta
+0 bo'ldi
+
+Lemmalar soni: 202

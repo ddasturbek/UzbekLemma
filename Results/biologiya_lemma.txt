@@ -1,0 +1,1001 @@
+1 Zamonaviy - zamonaviy
+0 biologiya
+1 ko'plab - ko'plab
+0 sohalarni
+1 o'z - o'z
+0 ichiga
+0 oladi
+0 2-rasm
+0 Barcha
+1 tirik - tirik
+0 organizmlar
+0 bir-biri
+1 va - va
+0 atrof-muhit
+1 bilan - bilan
+1 chambarchas - chambarchas
+0 bog'liq
+1 Tirik - tirik
+0 organizmlar
+0 atrof-muhitga
+0 ta'sir
+0 qiladi
+1 va - va
+1 ularning - ularning
+0 mavjudligi
+0 muhit
+0 sharoitlariga
+0 bog'liq
+0 Biologiyaning
+0 inson
+0 hayotidagi
+0 ahamiyati
+0 Biologiya
+0 oldida
+0 inson
+0 salomatligini
+0 asrash
+1 sifatli - sifatli
+0 oziq-ovqat
+1 bilan - bilan
+0 ta'minlash
+1 va - va
+0 sayyoramizdagi
+0 organizmlar
+0 xilma-xilligini
+0 saqlash
+1 kabi - kabi
+1 dolzarb - dolzarb
+0 muammolar
+0 mavjud
+0 Biologiya
+0 sohasida
+0 olib
+0 borilayotgan
+0 tadqiqotlar
+0 yuqoridagi
+0 masalalarni
+0 hal
+0 qilishga
+0 qaratilgan
+0 bo'lib
+0 biologiya
+0 tibbiyot
+0 qishloq
+0 xo'jaligi
+0 oziq-ovqat
+0 sanoati
+1 yengil - yengil
+0 sanoat
+1 va - va
+1 boshqa - boshqa
+0 sohalar
+1 bilan - bilan
+1 chambarchas - chambarchas
+0 bog'liq
+0 Insonlar
+0 salomatligi
+1 uchun - uchun
+0 foydalaniladigan
+0 dori
+0 vositalari
+0 o'simliklar
+1 va - va
+0 mikroorganizmlar
+0 faoliyatida
+0 hosil
+0 bo'ladigan
+0 mahsulotlardan
+0 tayyorlanadi
+0 Biologik
+0 qonuniyatlarni
+0 bilish
+0 kasalliklarni
+0 davolash
+1 va - va
+1 ularning - ularning
+0 oldini
+0 olishga
+0 yordam
+0 beradi
+0 Qishloq
+0 xo'jaligining
+1 muvaffaqiyatli - muvaffaqiyatli
+0 rivojlanishi
+0 o'simlik
+0 navlari
+1 va - va
+0 hayvon
+0 zotlarini
+0 yaxshilash
+1 hamda - hamda
+0 yangilarini
+0 yaratish
+1 bilan - bilan
+0 shug'ullanadigan
+0 seleksioner
+0 biologlarga
+0 bog'liq
+1 Tirik - tirik
+0 organizmlar
+0 sanoatda
+1 ham - ham
+1 keng - keng
+0 qo'llaniladi
+0 Ayrim
+0 bakteriyalar
+1 va - va
+0 zamburug'lar
+0 faoliyati
+1 tufayli - tufayli
+0 sut
+0 mahsulotlari
+0 tvorog
+0 qatiq
+0 yogurt
+1 va - va
+0 pishloq
+1 kabi - kabi
+0 mahsulotlar
+0 olinadi
+0 Barcha
+0 tibbiyot
+0 xodimlari
+0 pediatr
+0 jarroh
+0 stomatolog
+0 psixolog
+1 va - va
+0 boshqalar
+0 biologik
+0 ma'lumotga
+0 ega
+0 bo'lishlari
+1 kerak - kerak
+0 Qishloq
+0 xo'jaligi
+0 sohasida
+0 agronom
+0 veterinar
+0 seleksioner
+1 kabi - kabi
+0 kasb
+0 egalarining
+0 faoliyati
+0 biologiya
+1 bilan - bilan
+0 bog'liq
+1 Jadal - jadal
+0 rivojlanayotgan
+0 oziq-ovqat
+0 sanoati
+0 mikrobiologiya
+0 biotexnologiya
+1 hamda - hamda
+0 farmatsevtika
+1 uchun - uchun
+1 ham - ham
+0 biolog
+0 mutaxassislar
+0 talab
+0 qilinadi
+0 Ekologiyaning
+0 turli
+0 sohalarida
+0 bioekolog
+0 geoekolog
+0 ekolog-injener
+0 landshaft
+0 dizayneri
+1 kabi - kabi
+0 kasb
+0 egalariga
+0 talab
+1 kuchli - kuchli
+1 Siz - siz
+1 ham - ham
+0 kelajakda
+0 biologiya
+1 bilan - bilan
+0 bog'liq
+0 kasb
+0 egasi
+0 bo'lishingiz
+0 mumkin
+0 Biologiyaning
+0 tadqiqot
+0 metodlari
+1 Qadimgi - qadimgi
+0 davrlardan
+1 boshlab - boshlab
+0 odamlar
+0 tabiatni
+0 turli
+0 metodlar
+0 yunoncha
+0 methodos
+0 bilish
+0 usuli
+0 yordamida
+0 o'rganib
+0 kelganlar
+0 Kuzatish
+0 taqqoslash
+0 eksperiment
+0 tajriba
+1 va - va
+0 o'lchash
+0 biologiyaning
+0 asosiy
+0 metodlari
+0 hisoblanadi
+0 Kuzatish
+1 bu - bu
+1 tabiiy - tabiiy
+0 obyekt
+1 yoki - yoki
+0 hodisalarni
+0 sezgi
+0 organlari
+0 yordamida
+0 idrok
+0 etish
+0 Obyekt
+1 yoki - yoki
+0 hodisani
+0 kuzatish
+0 jarayonida
+0 kuzatuvchi
+0 jarayonga
+0 ta'sir
+0 etmagan
+0 holda
+0 faqatgina
+0 natijalarni
+0 qayd
+0 etadi
+0 Sayyoramizda
+0 yashaydigan
+1 tirik - tirik
+0 organizmlar
+1 hayratlanarli - hayratlanarli
+0 darajada
+0 xilma-xil
+0 Yerda
+1 tirik - tirik
+0 organizmlarning
+1 nechta - nechta
+0 turi
+0 mavjud
+0 Olimlarning
+1 taxminiy - taxminiy
+0 hisob-kitoblariga
+1 ko'ra - ko'ra
+0 dunyoda
+0 3
+0 millionga
+1 yaqin - yaqin
+0 organizm
+0 turlari
+0 yashaydi
+0 Sayyoramizdagi
+0 hayotning
+0 xilma-xilligini
+0 o'rganish
+1 qulay - qulay
+0 bo'lishi
+1 uchun - uchun
+1 ularni - ularni
+1 ma'lum - ma'lum
+0 tartibga
+0 keltirish
+1 ya'ni - ya'ni
+0 organizmlarni
+0 muayyan
+0 xususiyatlariga
+1 ko'ra - ko'ra
+0 tizimlashtirish
+1 zarur - zarur
+1 Tirik - tirik
+0 organizmlarning
+1 qaysi - qaysi
+0 xususiyatlari
+0 muhim
+1 Masalan - masalan
+0 agronomlar
+0 o'simliklarni
+1 yovvoyi - yovvoyi
+1 va - va
+1 madaniy - madaniy
+0 sabzavot
+1 va - va
+1 mevali - mevali
+0 o'simliklarga
+0 ajratadilar
+0 Dorishunoslar
+0 esa
+0 o'simliklarni
+0 shifobaxshlik
+0 xususiyatlariga
+1 ko'ra - ko'ra
+0 klassifakatsiya
+0 qiladilar
+1 Bu - bu
+0 tasniflarning
+0 barchasi
+0 muhim
+1 ammo - ammo
+1 ular - ular
+1 faqat - faqat
+1 iqtisodiy - iqtisodiy
+0 vazifalarni
+0 hal
+0 etishga
+0 qaratilgan
+0 Barcha
+1 tirik - tirik
+0 organizmlar
+1 uchun - uchun
+0 umumiy
+0 bo'lgan
+0 klassifikatsiyani
+1 qanday - qanday
+0 yaratish
+0 mumkin
+1 Ushbu - ushbu
+0 muammoni
+0 sistematika
+0 fani
+0 hal
+0 etadi
+0 Sistematika
+1 tirik - tirik
+0 organizmlarni
+1 tashqi - tashqi
+1 va - va
+1 ichki - ichki
+0 tuzilishidagi
+0 o'xshashlik
+0 darajasiga
+1 qarab - qarab
+1 ma'lum - ma'lum
+0 tartibga
+0 sistema
+0 tizimga
+0 solish
+1 bilan - bilan
+0 shug'ullanadi
+0 Organizmlarning
+0 qarindoshlik
+0 darajasini
+0 baholash
+1 uchun - uchun
+1 albatta - albatta
+1 bir - bir
+0 emas
+1 balki - balki
+0 barcha
+0 organlar
+0 sistemalarini
+0 taqqoslash
+1 hamda - hamda
+0 taqqoslanayotgan
+0 organizmlar
+0 tuzilishidagi
+0 o'xshash
+1 va - va
+0 farqli
+0 jihatlarini
+0 aniqlash
+0 muhim
+0 Shunday
+0 qilib
+0 taqqoslash
+0 metodidan
+0 foydalanib
+0 organizmlar
+0 sistematik
+0 guruhlarga
+0 birlashtiriladi
+0 Organik
+0 olamning
+1 zamonaviy - zamonaviy
+0 sistematikasi
+1 Hozirgi - hozirgi
+0 vaqtda
+0 organizmlarning
+0 tuzilishi
+1 va - va
+0 kelib
+0 chiqishi
+0 umumiyligi
+0 nuqtayi
+0 nazaridan
+0 organik
+0 olam
+0 sistematikasi
+0 qabul
+0 qilingan
+1 Tirik - tirik
+0 organizmlar
+0 kelib
+0 chiqishi
+0 o'xshashlik
+0 darajasi
+1 va - va
+1 tarixiy - tarixiy
+0 rivojlanishiga
+1 qarab - qarab
+0 guruhlar
+0 sistematik
+0 birliklarga
+0 birlashtiriladi
+0 Organik
+0 olam
+0 sistematikasidagi
+0 eng
+1 kichik - kichik
+0 birlik
+0 tur
+0 hisoblanadi
+1 Har - har
+1 qanday - qanday
+0 organizm
+1 ma'lum - ma'lum
+1 bir - bir
+0 turga
+1 mansub - mansub
+0 Bir-biriga
+1 yaqin - yaqin
+0 hayvon
+0 turlari
+0 avlodlarga
+0 avlodlar
+0 oilalarga
+0 oilalar
+0 turkumlarga
+0 turkumlar
+0 sinflarga
+0 sinflar
+0 tiplarga
+0 tiplar
+0 esa
+0 hayvonot
+0 dunyosiga
+0 birlashtiriladi
+0 O'xshash
+0 o'simlik
+0 turlari
+0 turkumlarga
+0 turkumlar
+0 oilalarga
+0 oilalar
+0 tartiblarga
+0 tartiblar
+0 sinflarga
+0 sinflar
+0 bo'limlarga
+0 bo'limlar
+0 o'simliklar
+0 dunyosiga
+0 birlashtiriladi
+0 Yuqorida
+0 sanab
+0 o'tilgan
+0 birliklar
+1 ya'ni - ya'ni
+0 tur
+0 avlod
+0 oila
+0 turkum
+0 tartib
+0 sinf
+0 tip
+0 bo'lim
+0 sistematik
+0 birliklar
+0 taksonlar
+1 deb - deb
+0 nomlanadi
+0 Taksonomik
+0 birliklarning
+0 qo'llanishi
+1 bilan - bilan
+0 o'simliklar
+0 misolida
+0 tanishamiz
+0 Tur
+0 hamma
+0 organlari
+0 bir-biriga
+0 o'xshash
+1 ma'lum - ma'lum
+0 hududda
+0 arealda
+0 tarqalgan
+1 tirik - tirik
+0 organizmlarni
+1 o'z - o'z
+0 ichiga
+0 oladi
+1 Masalan - masalan
+1 sariq - sariq
+0 do'lana
+0 tur
+0 Tog'larda
+1 sariq - sariq
+0 do'lana
+0 turiga
+0 kiradigan
+0 o'simlik
+0 tuplari
+0 o'sadi
+1 Ular - ular
+0 guli
+0 mevasi
+0 bargi
+1 va - va
+1 boshqa - boshqa
+0 belgilari
+1 bilan - bilan
+1 juda - juda
+0 o'xshash
+1 Shuning - shu
+1 uchun - uchun
+1 ular - ular
+1 bir - bir
+0 turga
+0 kiritilgan
+0 Fanda
+1 har - har
+1 bir - bir
+0 turni
+0 qo'sh
+1 ikki - ikki
+0 nom
+1 bilan - bilan
+0 o'simliklar
+0 tur
+1 va - va
+0 turkum
+0 hayvonlarda
+0 tur
+1 va - va
+0 avlod
+0 nomlari
+1 bilan - bilan
+0 atash
+0 qabul
+0 qilingan
+1 Bu - bu
+0 binar
+0 nomenklatura
+0 deyiladi
+0 Turni
+1 ikki - ikki
+0 nom
+1 bilan - bilan
+0 atashni
+1 birinchi - birinchi
+0 bo'lib
+0 shved
+0 tabiatshunosi
+0 Karl
+0 Linney
+0 17071778
+0 fanga
+0 kiritgan
+1 Masalan - masalan
+0 sarimsoq
+0 piyoz
+1 va - va
+0 anzur
+0 piyozdagi
+0 sarimsoq
+1 va - va
+0 anzur
+0 so'zlari
+0 turga
+1 tegishli - tegishli
+0 piyoz
+0 so'zi
+0 esa
+0 turkumga
+1 tegishli - tegishli
+0 nom
+0 bo'lib
+0 mazkur
+0 turlarning
+0 piyoz
+0 turkumiga
+1 oid - oid
+0 ekanligini
+0 bildiradi
+0 Fanda
+1 har - har
+1 bir - bir
+0 turning
+0 mahalliy
+0 nomlaridan
+0 tashqari
+1 yana - yana
+1 ilmiy - ilmiy
+1 ya'ni - ya'ni
+0 lotincha
+0 nomi
+1 ham - ham
+1 bor - bor
+1 Har - har
+1 bir - bir
+0 turni
+0 lotin
+0 tilida
+0 nomlashning
+1 qanday - qanday
+0 ahamiyati
+1 bor - bor
+0 Turkum
+0 bir-biriga
+1 yaqin - yaqin
+0 turlardan
+0 tashkil
+0 topgan
+0 O'zaro
+0 o'xshash
+0 turkumlar
+0 oilaga
+0 birlashtiriladi
+1 Masalan - masalan
+0 bodom
+0 olma
+0 o'rik
+0 na'matak
+0 do'lana
+0 turkumlari
+0 birlashib
+0 ra'nodoshlar
+0 oilasini
+0 tashkil
+0 etadi
+0 Kelib
+0 chiqishi
+0 jihatidan
+1 yaqin - yaqin
+0 bo'lgan
+0 oilalarga
+1 ular - ular
+0 esa
+1 o'z - o'z
+0 navbatida
+0 sinflarga
+0 birlashtiriladi
+1 Masalan - masalan
+0 loladoshlar
+0 bug'doydoshlar
+0 boshoqdoshlar
+0 chuchmomadoshlar
+1 kabi - kabi
+0 oilalar
+0 to'planib
+1 bir - bir
+0 urug'pallali
+0 o'simliklar
+0 sinfini
+0 hosil
+0 qiladi
+0 Ra'nodoshlar
+0 ituzumdoshlar
+0 gulxayridoshlar
+1 kabi - kabi
+0 oilalar
+0 birlashib
+1 ikki - ikki
+0 urug'pallali
+0 o'simliklar
+0 sinfini
+0 tashkil
+0 etadi
+0 Lipidlar
+0 hujayra
+1 uchun - uchun
+0 muhim
+0 Lipidlarga
+0 yog'
+0 mum
+0 misol
+0 bo'ladi
+0 Yog'lar
+0 parchalanganda
+1 ko'p - ko'p
+0 miqdorda
+1 tirik - tirik
+0 organizmlar
+1 uchun - uchun
+1 zarur - zarur
+0 energiya
+0 ajralib
+0 chiqadi
+0 Yog'lar
+0 organizmni
+0 sovuqdan
+0 himoya
+0 qiladi
+1 masalan - masalan
+1 oq - oq
+0 ayiq
+0 tyulen
+0 morj
+0 terisi
+1 ostida - ostida
+1 qalin - qalin
+0 yog'
+0 qavati
+0 mavjud
+0 Nuklein
+0 kislota
+0 DNK
+1 va - va
+0 RNK
+0 lar
+0 irsiy
+0 axborotni
+0 saqlash
+1 va - va
+0 nasldan
+0 naslga
+0 o'tishida
+0 ishtirok
+0 etadi
+0 Hujayra
+1 kichik - kichik
+1 tabiiy - tabiiy
+0 laboratoriya
+0 bo'lib
+1 unda - unda
+0 turli
+0 xil
+0 kimyoviy
+0 birikmalar
+0 sintezlanadi
+1 va - va
+0 parchalanadi
+0 Turli
+0 organizm
+0 hujayralari
+0 kimyoviy
+0 tarkibining
+0 o'xshashligi
+1 tirik - tirik
+0 tabiatning
+0 kelib
+0 chiqishi
+0 birligini
+0 isbotlaydi
+0 Barcha
+1 tirik - tirik
+0 organizmlar
+0 hujayralardan
+0 tuzilgan
+0 Hujayra
+1 tirik - tirik
+0 organizmlarning
+0 tuzilish
+1 va - va
+1 funksional - funksional
+0 birligi
+1 Tirik - tirik
+0 organizmlar
+0 tanasi
+1 bir - bir
+1 yoki - yoki
+1 ko'p - ko'p
+0 hujayralardan
+0 tuzilgan
+0 bo'ladi
+1 Bir - bir
+0 hujayradan
+0 tuzilgan
+0 organizmlarda
+0 barcha
+0 jarayonlar
+0 oziqlanish
+0 nafas
+0 olish
+0 ajratish
+0 o'sish
+0 ko'payish
+1 bitta - bitta
+0 hujayrada
+0 sodir
+0 bo'ladi
+1 Ko'p - ko'p
+0 hujayrali
+0 organizmlar
+0 yuzlab
+0 minglab
+1 va - va
+0 millionlab
+0 hujayralardan
+0 tashkil
+0 topgan
+0 Hujayraviy
+0 tuzilishiga
+1 ko'ra - ko'ra
+0 organizmlar
+0 prokariot
+1 va - va
+0 eukariotlarga
+0 ajratiladi
+0 Prokariotlarga
+0 bakteriyalar
+0 eukariotlarga
+0 protista
+0 zamburug'
+0 o'simlik
+1 va - va
+0 hayvonlar
+0 kiradi
+0 Eukariot
+0 organizmlar
+0 hujayrasi
+0 hujayra
+0 qobig'i
+0 sitoplazma
+1 va - va
+0 yadrodan
+0 tashkil
+0 topgan
+0 Prokariot
+0 hujayra
+1 juda - juda
+0 sodda
+0 tuzilgan
+0 bo'lib
+1 unda - unda
+0 yadro
+1 va - va
+1 ko'p - ko'p
+0 organoidlar
+0 shakllanmagan
+0 Hujayra
+0 qobig'i
+0 Hujayra
+0 biologik
+0 sistema
+0 bo'lib
+0 hujayraning
+0 tarkibiy
+0 qismlari
+0 qobiq
+0 sitoplazma
+0 yadro
+0 organoidlar
+1 uning - uning
+0 yaxlitligini
+0 ta'minlaydi
+0 Hujayra
+0 qobig'i
+0 hujayrani
+0 o'rab
+1 uni - uni
+1 tashqi - tashqi
+0 muhitdan
+0 ajratib
+0 turadi
+0 Hujayra
+0 qobig'i
+0 hujayraning
+1 ichki - ichki
+0 tarkibiy
+0 qismi
+0 sitoplazma
+0 yadro
+1 va - va
+0 organoidlarni
+0 shikastlanishdan
+0 himoya
+0 qiladi
+0 hujayra
+0 shaklini
+0 belgilaydi
+0 hujayralar
+0 o'rtasidagi
+0 o'zaro
+0 aloqani
+0 ta'minlaydi
+0 hujayraga
+1 zarur - zarur
+0 moddalarni
+0 tanlab
+0 o'tkazadi
+1 va - va
+0 moddalar
+0 almashinuvi
+0 mahsulotlarini
+0 hujayradan
+0 tashqariga
+0 chiqaradi
+0 Hujayra
+0 qobig'ining
+0 asosiy
+0 qismini
+0 plazmatik
+0 membrana
+0 tashkil
+0 etadi
+0 Membrana
+1 ikki - ikki
+0 qavat
+0 lipid
+0 qatlami
+1 va - va
+1 unda - unda
+0 joylashgan
+0 oqsil
+0 molekulalaridan
+0 iborat
+0 Membrana
+0 devorlarida
+0 maxsus
+0 oqsillar
+0 ingichka
+0 kanalchalarni
+0 hosil
+0 qiladi
+1 Bu - bu
+0 kanalchalar
+1 orqali - orqali
+0 hujayra
+0 ichiga
+1 yoki - yoki
+0 hujayra
+0 tashqarisiga
+0 kaliy
+0 natriy
+0 kalsiy
+1 va - va
+1 boshqa - boshqa
+0 ionlar
+0 o'tadi
+1 Shuningdek - shuningdek
+1 nisbatan - nisbatan
+0 yirikroq
+0 bo'lgan
+0 oqsil
+0 uglevod
+0 lipidlar
+0 molekulalar
+0 hujayra
+0 ichiga
+0 fagotsitoz
+1 yoki - yoki
+0 pinotsitoz
+0 yordamida
+0 o'tadi
+0 Hujayra
+0 membranasiga
+0 oziq
+0 zarrachasi
+0 tegishi
+1 bilan - bilan
+0 membrananing
+1 shu - shu
+0 qismida
+0 botiqlik
+0 paydo
+0 bo'lib
+0 oziq
+0 zarrachasi
+0 membranaga
+0 o'ralgan
+0 holda
+0 hujayra
+0 ichiga
+0 o'tadi
+1 Bu - bu
+0 jarayon
+0 fagotsitoz
+1 deb - deb
+0 ataladi
+
+Lemmalar soni: 228
