@@ -23,7 +23,7 @@ pip install UzbekLemma
 git clone https://github.com/ddasturbek/UzbekLemma.git
 ```
 
-# How to use
+# Usage
 ```Python
 import UzbekLemma as UL
 
