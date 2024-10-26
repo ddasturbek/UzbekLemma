@@ -22,4 +22,13 @@ It is dictionary-based lemmatization algorithm [program, package].
 # Some results of the program
 ![image](https://github.com/ddasturbek/UzbekLemma/assets/76460501/2f9455a0-ebff-4677-b947-3cbfbd46bdf4)
 
-**In addition to the program, this repository also contains the corpora from 23 different areas that we used and our results.**
+# Corpus & Results
+We collected an equal number of texts from 23 different fields and stored them as a [corpus](https://github.com/ddasturbek/UzbekLemma/tree/main/Corpus)
+We tested all the files (i.e. corpora) in the program and got these [results](https://github.com/ddasturbek/UzbekLemma/tree/main/Results).
+
+# Scientific field
+All scientific work done around this program is published here:
+![Certificate](https://github.com/user-attachments/assets/16da0619-5d75-4d46-99e5-a4b3b828e7d7)
+
+# Patent
+![image](https://github.com/user-attachments/assets/2293c61b-b200-4a46-8433-59f7bd8928b5)
