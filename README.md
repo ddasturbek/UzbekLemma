@@ -4,10 +4,11 @@
 
 **Author2: [Dasturbek](https://github.com/ddasturbek)**
 
-# Lemmatization
-Lemmatization removes affixes from words according to linguistic rules. There are 4 different ways of lemmatization: rule, dictionary, model & hybrid.
-
-**It's dictionary-based lemmatization algoorithm**
+# Lemma & Lemmatization
+The package finds lemmas of Uzbek words based on the dictionary.
+The process of finding a lemma is called lemmatization.
+There are 4 different ways of lemmatization: rule, dictionary, model, hybrid.
+It is dictionary-based lemmatization algorithm [program, package].
 
 # The algorithm flowchart
 ![Flowchart algorithm](https://github.com/ddasturbek/UzbekLemma/assets/76460501/ff1d38b4-ef99-4d09-b647-eec19d13ea52)
@@ -18,4 +19,4 @@ Lemmatization removes affixes from words according to linguistic rules. There ar
 # Some results of the program
 ![image](https://github.com/ddasturbek/UzbekLemma/assets/76460501/2f9455a0-ebff-4677-b947-3cbfbd46bdf4)
 
-In addition to the program, this repository also contains the corpora from 23 different areas that we used and our results.
+**In addition to the program, this repository also contains the corpora from 23 different areas that we used and our results.**
