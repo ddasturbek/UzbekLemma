@@ -6,8 +6,11 @@
 
 # Lemma & Lemmatization
 The package finds lemmas of Uzbek words based on the dictionary.
+
 The process of finding a lemma is called lemmatization.
+
 There are 4 different ways of lemmatization: rule, dictionary, model, hybrid.
+
 It is dictionary-based lemmatization algorithm [program, package].
 
 # The algorithm flowchart
