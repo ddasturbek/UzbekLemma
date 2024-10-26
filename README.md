@@ -13,6 +13,23 @@ There are 4 different ways of lemmatization: rule, dictionary, model, hybrid.
 
 It is dictionary-based lemmatization algorithm [program, package].
 
+# Install & Clone
+
+```bash
+pip install UzbekLemma
+```
+
+```bash
+git clone https://github.com/ddasturbek/UzbekLemma.git
+```
+
+# How to use
+```Python
+import UzbekLemma as UL
+
+print(UL.lemmatize("kelganlar")) #kelmoq
+```
+
 # The algorithm flowchart
 ![Flowchart algorithm](https://github.com/user-attachments/assets/6504ee82-e98f-46ac-9b09-6dd811809be0)
 
