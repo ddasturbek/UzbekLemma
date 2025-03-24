@@ -1,0 +1,944 @@
+Qariyb -> qarimoq
+uch -> uchmoq
+yil -> yil
+davomida -> davomida
+asosan -> asosan
+koronavirusni -> koronavirus
+jilovlash -> jilovlash
+bilan -> bilmoq
+band bo‘lgan -> band bo'lgan
+insoniyat -> insoniyat
+endi -> enmoq
+boshqa -> boshqa
+epidemiologik -> epidemiologik
+kasalliklar -> kasallik
+bilan -> bilmoq
+ham -> ham
+ro‘baro -> ro'baro
+kelmoqda -> kelmoq
+Bu -> bu
+haqda -> haqda
+SSV -> ssv
+matbuot -> matbuot
+xizmati -> xizmat
+xabar bermoqda -> xabar bermoq
+Qayd etilishicha -> qayd etmoq
+uzoq -> uzoq
+vaqt -> vaqt
+uyqu”da -> uyqu”
+bo‘lgan -> bo'lmoq
+mpox -> mpox
+maymun -> maymun
+chechagi -> checha
+vabo -> vabo
+Ebola -> ebola
+cho‘chqa -> cho'ch
+grippi -> gripp
+kabi -> kabi
+qator -> qator
+xavfli -> xavfli
+infeksiyalar -> infeksiya
+so‘nggi -> so'n
+oylarda -> oylar
+dunyo -> dunyo
+ahli -> ahl
+salomatligiga -> salomatligi
+yana -> yanmoq
+jiddiy -> jiddiy
+xavf -> xavf
+sola -> solmoq
+boshladi -> boshlamoq
+Xususan -> xususan
+hozir -> hozir
+aksariyat -> aksariyat
+davlatlarda -> davlat
+gripp -> gripp
+virusi -> virus
+avj olgan -> avj olmoq
+mavsum -> mavsum
+Ustiga-ustak -> ustiga-ustak
+ayrim -> ayrim
+mintaqalarda -> mintaqa
+bu -> bu
+epidemiya -> epidemiya
+boshqa -> boshqa
+yuqumli -> yuqumli
+kasalliklar -> kasallik
+bilan -> bilmoq
+birga -> birga
+kechyapti -> kechmoq
+Xususan -> xususan
+Rossiya -> rossiya
+Iste’molchilar -> iste'molchi
+huquqlarini -> huquq
+himoya qilish -> himoya qilmoq
+federal -> federal
+xizmati -> xizmat
+shu -> shu
+kunlarda -> kun
+mamlakatda -> mamlakat
+cho‘chqa -> cho'ch
+grippi -> gripp
+keng -> keng
+tarqalayotgani -> tarqalmoq
+haqida -> haqida
+xabar berdi -> xabar bermoq
+Hozirgacha -> hozirgacha
+ushbu -> ushbu
+virus -> virus
+davlatning -> davlat
+55 -> 55
+ta -> ta
+ma’muriy -> ma'muriy
+hududida -> hudud
+ro‘yxatga olingan -> ro'yxatga olingan
+Xastalikning -> xastalik
+aniqlanayotgan -> aniqlanmoq
+mutatsiyalari -> mu
+orasida -> orasi
+A -> a
+H1N1 -> h1n1
+A -> a
+H3N2 -> h3n2
+va -> va
+B -> b
+shtammlari -> sh
+ustuvorlik -> ustuvorlik
+qilyapti -> qilmoq
+Mutaxassislarning -> mutaxassis
+izohlashicha -> izohlashicha
+bu -> bu
+kasallikni -> kasallik
+an’anaviy -> an'anaviy
+gripp -> gripp
+turlaridan -> turlamoq
+alomatlari -> alomat
+orqali -> orqali
+farqlash -> farqlash
+qiyin -> qiyin
+Chunki -> chunki
+yuqori -> yuqori
+tana -> tana
+harorati -> harorat
+tomoq -> tomoq
+bosh -> bosh
+va -> va
+mushaklardagi -> mushak
+og‘riqlar -> og'riq
+yo‘tal -> yo'tal
+holsizlik -> holsizlik
+bezovtalik -> bezovtalik
+kabi -> kabi
+simptomlar -> simptom
+har -> har
+ikkisiga -> ikkisi
+xos -> xos
+Shu -> shu
+bois -> bois
+aniq -> aniq
+tashxis -> tashxis
+qo‘yish -> qo'yishmoq
+uchun -> uchunmoq
+maxsus -> maxsus
+PZR -> pzr
+testlari -> test
+talab etiladi -> talab etmoq
+Eslatib -> talab etilmoq
+o‘tamiz -> eslatmoq
+2009 -> o'ta
+yilda -> 2009
+jahon -> yil
+bo‘yicha -> jahon
+ommaviy -> bo'yicha
+cho‘chqa -> ommaviy
+grippi -> cho'ch
+epidemiyasi -> gripp
+kuzatilgan -> epidemiya
+edi -> kuzatilmoq
+O‘shanda -> edi
+bir -> o'shanda
+yil -> bir
+davomida -> yil
+60,8 -> davomida
+million -> 60,8
+nafarga -> million
+yaqin -> nafar
+odam -> yaqin
+ushbu -> odam
+xastalik -> ushbu
+bilan -> xastalik
+kasallangan -> bilmoq
+Achinarlisi -> kasallanmoq
+bemorlardan -> achinmoq
+12,4 -> bemor
+ming -> 12,4
+nafari -> ming
+infeksiya -> nafar
+oqibatida -> infeksiya
+hayotdan -> oqmoq
+ko‘z yumgan -> hayot
+Afg‘onistonning -> ko'z yumgan
+Samangan -> afg'oniston
+viloyatining -> saman
+Aybak -> viloyat
+shahrida -> aybak
+diniy -> shahri
+maktabda -> diniy
+yuz bergan -> maktab
+portlashda -> yuz bermoq
+35 -> portlash
+kishi -> 35
+halok bo‘ldi -> kishi
+yana -> halok bo'ldi
+23 -> yanmoq
+kishi -> 23
+jarohatlangan -> kishi
+OAV -> jarohatlanmoq
+xabarlariga -> oav
+ko‘ra -> xabarlamoq
+portlash -> ko'rmoq
+qurbonlarining -> portlash
+aksariyati -> qurmoq
+maktab -> aksariyati
+o‘quvchilaridir -> maktab
+Halok bo‘lganlarning -> o'quvchi
+jasadlari -> Halok bo'lganlarning
+binodan -> jasad
+olib chiqilmoqda -> bino
+Bundan -> olib chiqmoq
+tashqari -> bunda
+jabrlanganlarni -> tashqari
+evakuatsiya -> jabrlan
+qilish -> evakuatsiya
+tartibi -> qilishmoq
+davom etmoqda -> tartib
+Ma’lum -> davom etmoq
+bo‘lishicha -> ma'lum
+voqea -> bo'lish
+peshin -> voqea
+namozi -> peshin
+vaqtida -> namoz
+sodir bo‘lgan -> vaqt
+Portlash -> sodir bo'lgan
+sabablari -> portlash
+hozircha -> sabab
+aniqlanmagan -> hozircha
+Tolibon -> aniqlanmoq
+ichki -> tolmoq
+ishlar -> ichki
+vazirligining -> ishlamoq
+rasmiy -> vazirl
+vakili -> rasmiy
+Abdul-Nafi -> vakil
+Thakur -> abdul-nafi
+kamida -> thakur
+10 -> kamida
+kishi -> 10
+halok bo‘lganini -> kishi
+tan oldi -> halok bo'lganini
+Shuningdek -> tan olmoq
+u -> shuningdek
+jinoyatchilarni -> u
+topish -> jinoyatchi
+bo‘yicha -> topmoq
+tergov -> bo'yicha
+harakatlari -> tergov
+olib borilayotganini -> harakat
+aytdi -> ol bormoq
+AQShning -> aytmoq
+Janubiy -> aqsh
+Dakota -> janubiy
+shtati -> dakota
+gubernatori -> shtat
+Kristi -> gubernator
+Noem -> kristi
+mahalliy -> noem
+amaldorlarga -> mahalliy
+TikTok -> amaldor
+ijtimoiy -> tiktok
+tarmog‘idan -> ijtimoiy
+foydalanishni -> tarmog'i
+taqiqladi -> foydalanmoq
+Bu -> taqiqlamoq
+haqda -> bu
+Zamon.uz -> haqda
+xabar bermoqda -> zamon.uz
+Gubernatorning -> xabar bermoq
+fikricha -> gubernator
+tarmoq -> fikricha
+orqali -> tarmoq
+kuzatuv -> orqali
+amalga oshirilishi -> kuzatmoq
+va -> amalga oshmoq
+ma’lumotlar -> amalga oshirmoq
+XXR -> va
+hukumatiga -> ma'lumot
+berilishi -> xxr
+xavfi -> hukumat
+bor -> berilmoq
+Janubiy -> xavf
+Dakota -> bormoq
+bizdan -> janubiy
+nafratlanadigan -> dakota
+davlatlarga -> biz
+razvedka -> nafratlanmoq
+ma’lumotlari -> davlat
+to‘plash -> razvedka
+bilan -> ma'lumot
+shug‘ullanmaydi -> to'plash
+Xitoy -> bilmoq
+kommunistik -> shug'ullanmoq
+partiyasi -> xitoy
+TikTok -> kommunistik
+orqali -> partiya
+Amerika -> tiktok
+xalqini -> orqali
+manipulyatsiya -> amerika
+qilish -> xalq
+maqsadida -> manipulyatsiya
+ma’lumot -> qilishmoq
+to‘plash -> maqsadida
+bilan -> ma'lumot
+shug‘ullanadi -> to'plash
+va -> bilmoq
+ular -> shug'ullanmoq
+platformaga -> va
+ulangan -> ulamoq
+qurilmalarning -> platforma
+ma’lumotini -> ulan
+to‘playdi -> qurilmoq
+degan -> ma'lumot
+u -> to'plamoq
+Ushbu -> demoq
+qaror -> u
+darhol -> ushbu
+kuchga kiradi -> qaror
+Davlat -> darhol
+xizmatchilarining -> kuchga kirmoq
+ijtimoiy -> davlat
+tarmoqni -> xizmatchi
+yuklab olishi -> ijtimoiy
+taqiqlanadi -> tarmoq
+Shuningdek -> yuklab olmoq
+shtat -> taqiqlanmoq
+hukumati -> shuningdek
+taqdim etgan -> shtat
+qurilmalar -> hukumat
+orqali -> taqdim etmoq
+TikTok -> qurilmoq
+saytiga -> orqali
+kirish -> tiktok
+ham -> sayt
+mumkin -> kirishmoq
+emas -> ham
+Noem -> mumkin
+boshqa -> emmoq
+shtatlar -> noem
+ham -> boshqa
+Janubiy -> shtat
+Dakota -> ham
+ortidan -> janubiy
+borishiga -> dakota
+umid -> ortidan
+bildirgan -> bormoq
+Bundan -> umid
+avval -> bildirmoq
+Jozef -> bunda
+Bayden -> avval
+administratsiyasi -> jozef
+TikTok -> bayden
+bilan -> administratsiya
+platformaning -> tiktok
+Qo‘shma -> bilmoq
+Shtatlar -> platforma
+milliy -> qo'shmoq
+xavfsizligiga -> shtat
+daxldor -> milliy
+masalalar -> xavfsizligi
+bo‘yicha -> daxldor
+faoliyati -> masala
+yuzasidan -> bo'yicha
+kelishuvni -> faoliyat
+ishlab chiqqandi -> yuzmoq
+29-noyabr -> kelishmoq
+kuni -> ishla chiqmoq
+Eron -> 29-noyabr
+terma -> kun
+jamoasi -> eron
+guruh -> termoq
+bosqichining -> jamoa
+3-tur -> guruh
+uchrashuvini -> bosqich
+AQShga -> 3-tur
+qarshi -> uchrashmoq
+o‘tkazadi -> aqsh
+Eronlik -> qarshi
+futbolchilarning -> o'tkazmoq
+yaqinlari -> eronlik
+o‘yin -> futbolchi
+oldidan -> yaqinlamoq
+rasmiylar -> o'yin
+tomonidan -> olmoq
+bosimga -> rasmiy
+duch kelishdi -> tomonidan
+Futbolchilarga -> bosim
+agar -> duch kelmoq
+futbolchilar -> duch kelmoq
+raqibga -> futbolchi
+qarshi -> agar
+o‘yinda -> futbolchi
+o‘zini -> raqib
+munosib -> qarshi
+tutmasa -> o'yin
+yaqinlari -> o'zi
+qamalib -> munosib
+qiynoqqa -> tutmoq
+solinishi -> yaqinlamoq
+va’da qilingan -> qamalmoq
+Bu -> qiynoq
+haqda -> solinmoq
+manbaga -> va'
+tayanib -> qilinmoq
+CNN -> bu
+yozmoqda -> haqda
+21 -> manba
+noyabr -> tayanmoq
+kuni -> cnn
+futbol -> yozmoq
+bo‘yicha -> 21
+Eron -> noyabr
+milliy -> kun
+terma -> futbol
+jamoasi -> bo'yicha
+Qatarda -> eron
+bo‘lib o‘tgan -> milliy
+JCh-2022 -> termoq
+guruh -> jamoa
+bosqichi -> qatar
+1-turi -> bo'lib o'tgan
+doirasida -> jch-2022
+Angliya -> guruh
+terma -> bosqich
+jamoasiga -> 1-turi
+qarshi -> doirasi
+o‘yin -> angliya
+oldidan -> termoq
+davlat -> jamoasi
+madhiyasini -> qarshi
+kuylashdan -> o'yin
+bosh -> olmoq
+tortgan -> davlat
+Davlat -> madhiyas
+madhiyasi -> kuylash
+yangrayotgan -> bosh
+paytda -> tortmoq
+Eron -> davlat
+terma -> madhiya
+jamoasi -> yangramoq
+futbolchilari -> payt
+sukut saqlashgan -> eron
+Dohadagi -> termoq
+Xalifa -> jamoa
+stadioni -> futbolchi
+tribunalaridagi -> sukut saqlamoq
+muxlislar -> doha
+futbolchilarning -> xalifa
+bu -> stadion
+qarorini -> tribunalarida
+olqishlar -> muxlis
+bilan -> futbolchi
+kutib olishgan -> bu
+CNN -> qaror
+telekanali -> olqishlamoq
+xabariga -> bilmoq
+ko‘ra -> kutib olmoq
+davlat -> cnn
+madhiyasini -> telekanali
+kuylashdan -> xabar
+bosh -> ko'rmoq
+tortgach -> davlat
+futbolchilar -> madhiyas
+Islom -> kuylash
+inqilobi -> bosh
+qo‘riqchilari -> tortmoq
+korpusi -> futbolchi
+KSIR -> islom
+vakillari -> inqilob
+bilan -> qo'riqchi
+uchrashuvga -> korpus
+chaqirilgan -> ksir
+Ta’kidlanishicha -> vakillamoq
+uchrashuvda -> bilmoq
+futbolchilarga -> uchrashmoq
+yana -> chaqir
+madhiya -> ta'kidlan
+kuylashdan -> uchrashmoq
+bosh -> futbolchi
+tortsa -> yanmoq
+yoki -> madhiya
+hozirda -> kuylash
+Islom -> bosh
+Respublikasida -> tortmoq
+faol bo‘lib -> yoki
+o‘tayotgan -> hozirda
+siyosiy -> islom
+norozilik -> respublikasi
+va -> faol bo'lib
+harakatlarni -> o'tamoq
+qo‘llab-quvvatlasa -> siyosiy
+ularning -> norozilik
+oila -> va
+a’zolari -> harakat
+zo‘ravonlik -> qo'llab-quvvatlamoq
+va -> ulamoq
+qiynoqlarga -> oila
+duchor bo‘lishi -> a'zo
+va’da qilingan -> zo'ravonlik
+Shundan -> va
+so‘ng -> qiynoqlamoq
+eronlik -> duchor bo'lishi
+futbolchilar -> va'
+Uelsga -> qilinmoq
+qarshi -> shundan
+navbatdagi -> so'ng
+o‘yinda -> eronlik
+davlat -> futbolchi
+madhiyasini -> uels
+kuylashgan -> qarshi
+Ramzan -> navbatdagi
+Qodirovning -> o'yin
+qizi -> davlat
+Ayshat -> madhiyas
+Qodirova -> kuylashmoq
+Chechenistonning -> ramzan
+oliy -> qodir
+davlat -> qizimoq
+mukofoti -> ayshat
+Qodirov -> qodir
+ordeni -> checheniston
+bilan -> oliy
+taqdirlandi -> davlat
+U -> mukofot
+respublika -> qodir
+madaniyat -> orden
+vaziri -> bilmoq
+lavozimidagi -> taqdirlanmoq
+faoliyati -> u
+uchun -> respublika
+shunday -> madaniyat
+yuqori -> vazir
+baholandi -> lavozim
+dedi -> faoliyat
+Checheniston -> uchunmoq
+milliy -> shunday
+siyosat -> yuqori
+tashqi -> baholanmoq
+aloqalar -> demoq
+matbuot -> checheniston
+va -> milliy
+axborot -> siyosat
+vaziri -> tashqi
+Axmed -> aloqa
+Dudaev -> matbuot
+Uning -> va
+so‘zlariga -> axborot
+ko‘ra -> vazir
+Ayshat -> axmed
+Qodirova -> dudaev
+viloyat -> uning
+madaniyatini -> so'zlamoq
+yuksaltirishga -> ko'rmoq
+katta -> ayshat
+hissa -> qodir
+qo‘shgan -> viloyat
+Ayshat -> madaniyat
+Ramzanovna -> yuksaltirmoq
+madaniyat -> katta
+sohasini -> hissa
+takomillashtirishga -> qo'shmoq
+ulkan -> ayshat
+hissa -> ramzan
+qo‘shdi -> madaniyat
+har qanday -> sohas
+biznesga -> takomillashtirmoq
+ijodiy -> ulkan
+yondashish -> hissa
+tashkilotchilik -> qo'shmoq
+qobiliyati -> har qanday
+va -> biznes
+boshqaruv -> ijodiy
+qobiliyatini -> yondashmoq
+ulug‘ladi -> tashkilotchilik
+U -> qobiliyat
+buyuk -> va
+bobosining -> boshqarmoq
+o‘gitlariga -> qobiliyat
+qat’iy -> ulug'ladi
+amal qiladi -> u
+va -> buyumoq
+otasining -> bobos
+tayanchidir -> o'gitlamoq
+deyiladi -> qat'iy
+Dudaevning -> amal qilmoq
+telegram-kanalidagi -> va
+xabarida -> otmoq
+Eslatib -> tayanch
+o‘tamiz -> demoq
+Ramzan -> dudaev
+Qodirovning -> telegram-kanalida
+qizi -> xabar
+23 -> eslatmoq
+yoshda -> o'ta
+2022 -> ramzan
+yilda -> qodir
+u -> qizimoq
+Respublika -> 23
+Madaniyat -> yosh
+vaziri -> 2022
+bo‘lgan -> yil
+Yosh -> u
+bo‘lishiga -> respublika
+qaramay -> madaniyat
+u -> vazir
+allaqachon -> bo'lmoq
+Checheniston -> yosh
+Respublikasi -> bo'lish
+oldidagi -> qaramoq
+xizmatlari -> u
+uchun -> allaqachon
+va -> checheniston
+Inson -> respublika
+huquqlarini -> olmoq
+himoya qilgani -> xizmat
+uchun -> uchunmoq
+medallari -> va
+kabi -> inson
+mukofotlarga -> huquq
+ega -> himoya qilmoq
+Shuningdek -> uchunmoq
+u -> medal
+Chexiya -> kabi
+Respublikasida -> mukofotlamoq
+xizmat ko‘rsatgan -> egmoq
+madaniyat -> shuningdek
+xodimi -> u
+unvoni -> chexiya
+bilan -> respublikasi
+ham -> xizmat ko'rsatgan
+taqdirlangan -> madaniyat
+Qamoqda -> xodimi
+saqlanayotgan -> unvon
+Gruziyaning -> bilmoq
+sobiq -> ham
+prezidenti -> taqdirlanmoq
+Mixail -> qamoq
+Saakashvilining -> saqlanmoq
+tibbiy -> gruziya
+tekshiruvlari -> sobiq
+uning -> prezident
+tanasida -> mixail
+margumush -> saa
+borligini -> tibbiy
+ko‘rsatdi -> tekshirmoq
+Bu -> uning
+haqda -> tanas
+dushanba -> margumush
+kuni -> borlig
+Saakashvilining -> ko'rsatmoq
+advokati -> bu
+Shalva -> haqda
+Xachapuridze -> dushanba
+ma’lum qilgan -> kun
+Biz -> saa
+hali -> advokat
+tirnoq -> shalva
+sinovlarini -> xachapuridze
+olganimiz -> ma'lum
+yo‘q -> qilmoq
+ular -> biz
+bugun -> hali
+kelishadi -> tirnoq
+biroq -> sinov
+telefon -> olmoq
+orqali -> yo'q
+ma’lum -> ulamoq
+bo‘lishicha -> bugun
+tadqiqot -> kelishmoq
+natijasida -> biroq
+yana -> telefon
+bir -> orqali
+zaharli -> ma'lum
+modda -> bo'lish
+margumush -> tadqiqot
+aniqlangan -> natijasi
+deya -> yanmoq
+advokatning -> bir
+so‘zlaridan -> zaharli
+iqtibos -> mo
+keltirgan -> margumush
+Mtavari -> aniqlanmoq
+telekanali -> demoq
+Shuningdek -> advokat
+dushanba -> so'zlamoq
+kuni -> iqtibos
+Saakashvili -> keltirmoq
+uzoq -> mtavari
+vaqtdan -> telekanali
+beri -> shuningdek
+birinchi -> dushanba
+marta -> kun
+chegarani -> saa
+noqonuniy -> uzoq
+kesib o‘tish -> vaqt
+ishi -> beri
+bo‘yicha -> birinchi
+sud -> marta
+majlisida -> chegara
+ishtirok -> noqonuniy
+etishi -> kesib o'tish
+kutilmoqda -> ish
+dedi -> bo'yicha
+advokat -> sud
+Biz -> majlis
+sud -> ishtirok
+jarayonining -> etmoq
+qoldirilganiga -> kutilmoq
+sababchi bo‘lib -> demoq
+qolmasligimiz -> advokat
+uchun -> biz
+u -> sud
+bugun -> jarayon
+sudga -> qoldirilmoq
+kelishga -> sababchi bo'lib
+qaror qildi -> qolmoq
+dedi -> uchunmoq
+advokat -> u
+Unga -> bugun
+ko‘ra -> sud
+Saakashvilining -> kelish
+ahvoli -> qaror qilmoq
+og‘ir -> demoq
+va -> advokat
+uni -> unga
+ko‘chirish -> ko'rmoq
+uchun -> saa
+maxsus -> ahvol
+stul -> og'ir
+kerak -> va
+bo‘ladi -> uni
+Avvalroq -> ko'chirishmoq
+Saakashvilining -> uchunmoq
+og‘ir -> maxsus
+metallar -> stul
+jumladan -> kermoq
+simob -> bo'lmoq
+bilan -> avval
+zaharlanishi -> saa
+ehtimoli -> og'ir
+haqida -> met
+xabar berilgan -> jumladan
+edi -> simob
+Ta’kidlanishicha -> bilmoq
+Empatiya -> zaharlanmoq
+nodavlat -> ehtimol
+tashkilotining -> haqida
+hali -> xabar bermoq
+e’lon qilinmagan -> edi
+va -> ta'kidlan
+xorijlik -> empatiya
+mutaxassislarga -> nodavlat
+taqdim etish -> tashkilot
+uchun -> hali
+tayyorlanayotgan -> e'lon
+tibbiy -> qilinmoq
+hisoboti -> va
+shundan -> xorijlik
+dalolat -> mutaxassis
+beradi -> taqdim etmoq
+Gruziya -> uchunmoq
+hukumati -> tayyorlanmoq
+sobiq -> tibbiy
+prezidentning -> hisobot
+zaharlanishi -> shundan
+ehtimoli -> dalolat
+haqida -> bermoq
+erta -> gruziya
+xulosalar chiqarishdan -> hukumat
+tiyilishga -> sobiq
+chaqirmoqda -> prezident
+Saakashvili -> zaharlanmoq
+2021 -> ehtimol
+yil -> haqida
+oktyabr -> erta
+oyida -> xulosa chiqarmoq
+bo‘lib o‘tadigan -> tiyil
+munitsipal -> chaqirmoq
+saylovlardan -> saa
+bir -> 2021
+kun -> yil
+oldin -> oktyabr
+Gruziyaga -> oyi
+yashirincha -> bo'lib o'tadigan
+kelgan -> mu
+Shundan -> saylov
+olinib -> bir
+Rustavi -> kun
+shahridagi -> olmoq
+qamoqxonaga -> gruziya
+joylashtirilgan -> yashirincha
+U -> kelmoq
+o‘zini -> shundan
+siyosiy -> olinmoq
+mahbus -> rustavi
+deb -> shahri
+atab -> qamoqxona
+ochlik -> joylashtirilmoq
+e’lon qilgan -> u
+Sobiq -> o'zi
+prezidentning -> siyosiy
+ahvoli -> mahbus
+yomonlashganidan -> demoq
+keyin -> atamoq
+u -> ochlik
+qamoqxona -> e'lon
+kasalxonasiga -> qilmoq
+keyinroq -> sobiq
+esa -> prezident
+harbiy -> ahvol
+gospitalga -> yomonlashmoq
+o‘tkazilgan -> keyin
+Dekabr -> u
+oyida -> qamoqxona
+Saakashvili -> kasalxonasi
+Rustavi -> keyin
+qamoqxonasida -> esmoq
+jazoni -> harbiy
+o‘tashni -> gospital
+davom ettirdi -> o'tkazilmoq
+Sobiq -> dekabr
+prezident -> oyi
+qamoqxonada -> saa
+og‘ir -> rustavi
+xastalikka -> qamoqxonasi
+chalinganini -> jazo
+bir -> o'tash
+necha -> davom etmoq
+bor -> sobiq
+ta’kidlagan -> prezident
+Saakashvilining -> qamoqxona
+advokatlari -> og'ir
+va -> xastalik
+tarafdorlari -> chalinmoq
+uni -> bir
+davolanish -> necha
+uchun -> bormoq
+xorijga -> ta'kidlamoq
+yuborishni -> saa
+talab qilmoqda -> advokat
+Ijtimoiy -> va
+tarmoqning -> tarafdor
+yangi -> uni
+egasi -> davolanmoq
+Ilon -> uchunmoq
+Maskning -> xorij
+kompaniya -> yuborish
+boshqaruvidagi -> talab qilmoq
+betartib -> ijtimoiy
+yondashuvi -> tarmoq
+tufayli -> yangi
+dunyoning -> egmoq
+aksariyat -> ilon
+yirik -> mask
+brendlari -> kompaniya
+Twitter’dagi -> boshqarmoq
+reklamalarini -> betartib
+to‘xtatib qo‘ydi -> yondashmoq
+Bu -> tufayli
+haqda -> dunyo
+Financial -> aksariyat
+Times -> yirik
+nashri -> brendlari
+yozmoqda -> twitter'da
+deya -> reklama
+xabar bermoqda -> to'xtatib qo'ydi
+zamon.uz -> bu
+Ma’lum qilinishicha -> haqda
+100 -> financial
+ta -> times
+eng -> nashr
+yaxshi -> yozmoq
+reklama -> demoq
+beruvchilardan -> xabar bermoq
+50 -> zamon.uz
+tasi -> ma'lum
+Mask -> qilinmoq
+ijtimoiy -> 100
+tarmoqni -> ta
+sotib olganidan -> eng
+keyin -> yaxshi
+xarajatlarni -> reklama
+to‘xtatib qo‘ygan -> bermoq
+yoki -> 50
+to‘xtatish -> ta
+niyatini -> mask
+bildirgan -> ijtimoiy
+Qayd etilishicha -> tarmoq
+kompaniyalar -> sot olmoq
+Kontentni -> keyin
+nazorat -> xarajatlamoq
+qilishda -> to'xtatib qo'ygan
+Maskning -> yoki
+tanlab -> to'xtatmoq
+yondashuvi -> niyat
+va -> bildirmoq
+reklama -> qayd etmoq
+bo‘limidagi -> kompaniya
+xodimlarni -> kontent
+ishdan -> nazorat
+bo‘shatish -> qilish
+qaroridan -> mask
+shikoyat -> tanlamoq
+qilgan -> yondashmoq
+Nashr -> va
+ma’lumotlariga -> reklama
+ko‘ra,Twitter’dagi -> bo'lim
+ommaviy -> xodim
+ishdan -> ish
+bo‘shatishlardan -> bo'shatmoq
+so‘ng -> qaror
+agentliklar -> shikoyat
+Mask -> qilmoq
+kompaniyasi -> nashr
+bilan -> ma'lumot
+aloqada -> ko'rmoq
+bo‘lmagan -> ommaviy
+Boshqalar -> ish
+esa -> bo'shatmoq
+reklama -> so'ng
+tizimlari -> agentlik
+yaxshi -> mask
+ishlamayotganidan -> kompaniya
+shikoyat -> bilmoq
+qilishgan -> aloqa
+Sanoat -> bo'lmoq
+insayderlarining -> boshqalamoq
+xabar qilishicha -> esmoq
+Mask -> reklama
+ba’zi -> tizim
+brend -> yaxshi
+rahbarlariga -> ishlamoq
+qo‘ng‘iroq -> shikoyat
+qilishga -> qilishmoq
+uringan -> sanoat
+Natijada -> inmoq
+boshqalar -> xabar qilmoq
+Mask -> mask
+bilan -> ba'zi
+munosabatlarini -> brend
+yomonlashtirmaslik -> rahbar
+uchun -> qo'ng'iroq
+xarajatlarini -> qilish
+minimal -> urinmoq
+darajaga -> natijada
+qisqartirishga -> boshqalamoq
+qaror qilishgan -> mask

@@ -1,0 +1,938 @@
+Fizikada -> fizika
+tabiatdagi -> tabiat
+jarayon -> jarayon
+va -> va
+hodisalarni -> hodisa
+o‘rganishda -> o'rganish
+o‘ziga -> o'zi
+xos -> xos
+tadqiqot -> tadqiqot
+metodlari -> metod
+mavjud -> mavjud
+Fizika -> fizika
+eksperimental -> eksperimental
+fan -> fan
+hisoblanadi -> hisoblanmoq
+Shu -> shu
+bois -> bois
+tajriba o‘tkazish -> tajriba o'tkazish
+jarayoni -> jarayon
+alohida -> alohi
+sharoitni -> sharoit
+talab qiladi -> talab qilmoq
+Bunda -> bunda
+o‘rganilayotgan -> o'rganilmoq
+jarayonga -> jarayon
+tashqi -> tashqi
+ta’sir ko‘rsatilmasligiga -> ta'sir
+harakat qilinadi -> ko'rsatilmoq
+Bundan -> harakat qilmoq
+tashqari -> bunda
+jarayonlarga -> tashqari
+tegishli -> jarayon
+fi -> tegishli
+zik -> fi
+parametrlar -> zik
+orasidagi -> parametr
+bog‘lanishni -> orasida
+matematik -> bog'lanmoq
+ifodalar -> matematik
+orqali -> ifodalamoq
+beriladi -> orqali
+Shunga -> berilmoq
+ko‘ra -> shunga
+fi -> ko'rmoq
+ziklar -> fi
+jarayon -> zik
+larning -> jarayon
+bundan -> larning
+keyingi -> bunda
+borishini -> keyin
+yoki -> bormoq
+oldin -> yoki
+qanday bo‘lganligini -> olmoq
+juda -> qanday bo'lganligini
+aniq -> juda
+aytib berishga -> aniq
+muvaffaq -> aytib bermoq
+bo‘ldilar -> aytib bermoq
+Buyuk -> muvaffaq
+italyan -> bo'lmoq
+fi -> buyumoq
+zigi -> italyan
+Galileo -> fi
+Galiley -> z
+shunday -> galileo
+deb -> gal
+yozgan -> shunday
+edi -> demoq
+Tabiat -> yozmoq
+kitobi”ni -> edi
+tushunish -> tabiat
+uchun -> kitob
+uning -> tushunish
+yozilgan -> uchunmoq
+tilini -> uning
+bilishing -> yozilmoq
+kerak -> til
+Bu -> bilmoq
+til -> kermoq
+matematikadir -> bu
+Kuzatishlardan -> tilmoq
+ko‘pgina -> matematika
+hodisalar -> kuzatmoq
+uchun -> ko'pgina
+ma’lum -> hodisa
+bir -> uchunmoq
+qonuniyatlar -> ma'lum
+mavjud -> bir
+ekanligi -> qonuniyat
+taxmin qilinadi -> mavjud
+Bunday -> ekmoq
+taxminlar -> taxmin qilmoq
+ilmiy -> bunday
+gipoteza -> taxminlamoq
+deyiladi -> ilmiy
+Gipotezani -> gipoteza
+tekshirish -> demoq
+uchun -> gipoteza
+olimlar -> tekshirishmoq
+tajriba -> uchunmoq
+eksperiment -> olim
+o‘tkazishadi -> tajriba
+Buning -> eksperiment
+uchun -> o'tkazishmoq
+tabiiy -> bu
+sharoitga -> uchunmoq
+yaqinlashtirilgan -> tabiiy
+maxsus -> sharoit
+sharoitlar -> yaqinlashtirilmoq
+yaratiladi -> maxsus
+Gipotezani -> sharoit
+shakllantirish -> yaratilmoq
+va -> gipoteza
+eksperiment -> shakllantirmoq
+o‘tkazish -> va
+hamda -> eksperiment
+uning -> o'tkazishmoq
+natijala -> ham
+rini -> uning
+tushuntirish -> natijalamoq
+uchun -> ri
+mazkur -> tushuntirish
+jarayon -> uchunmoq
+yoki -> mazkur
+hodisaning -> jarayon
+modeli -> yoki
+tuziladi -> hodisa
+Biror -> model
+bir -> tuzilmoq
+jarayonning -> biror
+modeli -> bir
+deyilganda -> jarayon
+uning -> model
+ixchamlashgan -> demoq
+tartibga solingan -> uning
+muhim -> ixchamlashmoq
+jihatlari -> tartibga solmoq
+ajratib ko‘rsatilgan -> tartibga solinmoq
+holati -> muhim
+tushuniladi -> jihat
+Bunga -> ajratib ko'rsatilgan
+misol -> holat
+sifatida -> tushunilmoq
+moddiy -> bunga
+nuqta -> misol
+va -> sifat
+ideal -> moddiy
+gaz -> nuqta
+tushunchalarini -> va
+misol -> ideal
+qilib -> gaz
+aytish -> tushuncha
+mumkin -> misol
+Eksperiment -> qilmoq
+o‘tkazish -> aytishmoq
+jarayonida -> mumkin
+tashqi -> eksperiment
+ta’sirlardan -> o'tkazishmoq
+to‘la -> jarayon
+qutulib -> tashqi
+bo‘lmaydi -> ta'sirlamoq
+Shunga -> to'lamoq
+qaramasdan -> qutul
+olingan -> bo'lmoq
+natijaga -> shunga
+ko‘ra -> qaramoq
+ideal -> olinmoq
+sharoitda -> natija
+qanday -> ko'rmoq
+natija -> ideal
+chiqishini -> sharoit
+aytib berish -> qanday
+mumkin -> natija
+bo‘ladi -> chiqmoq
+Bu -> aytib bermoq
+ideal -> aytib bermoq
+vaziyat -> mumkin
+ilmiy -> bo'lmoq
+ideallashtirish -> bu
+deyiladi -> ideal
+Aynan -> vaziyat
+mana shu -> ilmiy
+hodisalar -> ideallashtirmoq
+tashqaridan -> demoq
+qaralganda -> aynan
+murakkabga -> mana shu
+o‘xshasa-da -> hodisa
+lekin -> tashqaridan
+ular -> qaralmoq
+bo‘ysunuvchi -> murakkab
+qonunlar -> o'xshasa-
+sodda -> lekin
+bo‘lishini -> ulamoq
+ko‘rsatadi -> bo'ysunmoq
+Bizni -> qonun
+o‘rab turgan -> sodda
+muhitdagi -> bo'lish
+jismlarning -> ko'rsatmoq
+harakati -> biz
+mexanika -> o'rab turgan
+qonun -> muhit
+lariga -> jism
+bo‘ysunadi -> harakat
+Jism -> mexanika
+harakatining -> qonun
+o‘zgarish -> lari
+sabablarini -> bo'ysunmoq
+XVI -> jism
+asr -> harakat
+oxiri -> o'zgarmoq
+va -> sabab
+XVII -> xvi
+asr -> asr
+boshida -> oxiri
+ilk -> va
+bor -> xvii
+tajribalar -> asr
+vositasida -> bosh
+batafsil -> ilmoq
+o‘rgangan -> bormoq
+olim -> tajriba
+Galiley -> vositasi
+edi -> batafsil
+Galiley -> o'rganmoq
+jism -> olim
+harakatini -> gal
+o‘zgartish -> edi
+sababi -> gal
+haqida -> jism
+quyidagicha -> harakat
+yozgan -> o'zgartmoq
+edi -> sabab
+Agar -> haqida
+jismga -> quyidagicha
+boshqa -> yozmoq
+hech qanday -> edi
+jismlar -> agar
+ta’sir etmasa -> jism
+jism -> boshqa
+Yerga -> hech qanday
+nis -> jism
+batan -> ta'sir
+o‘zining -> etmoq
+tinch -> jism
+holatini -> yemoq
+yoki -> nis
+to‘g‘ri -> ba
+chiziqli -> o'zi
+tekis -> tinch
+harakatini -> holat
+saqlaydi -> yoki
+Galiley -> to'g'ri
+tomonidan -> chiziqli
+o‘rnatilgan -> tekis
+bu -> harakat
+qonun -> saqlamoq
+mexanikaning -> gal
+asosiy -> tomonidan
+qonunlarini -> o'rnatil
+tarkib toptirishda -> bu
+birinchi -> qonun
+qadam -> mexanika
+bo‘ldi -> asosiy
+Bu -> qonun
+qonunlarni -> tarkib topmoq
+ochish -> birinchi
+uchun -> qadam
+Nyutonga -> bo'lmoq
+hech qanday -> bu
+murakkab -> qonun
+asbob -> ochishmoq
+uskunalar -> uchunmoq
+zarur -> nyuton
+bo‘lmagan -> hech qanday
+Buning -> murakkab
+uchun -> asbob
+oddiy -> uskunalamoq
+tajribalar -> zarur
+yetarli bo‘lgan -> bo'lmoq
+Bundagi -> bu
+eng -> uchunmoq
+katta -> oddiy
+qiyinchilik -> tajriba
+jismlarning -> yetarli bo'lgan
+turli-tuman -> bunda
+harakatlari -> eng
+ichidan -> katta
+eng -> qiyinchilik
+muhimini -> jism
+eng -> turli-tuman
+umumiysini -> harakat
+ko‘ra olishdan -> ichida
+iborat -> eng
+edi -> muhim
+Dinamika -> eng
+grekcha -> umumiys
+dynamis -> ko'ra olishdan
+so‘zidan -> iborat
+olingan -> edi
+bo‘lib -> dinamika
+kuch -> grekcha
+degan -> dynamis
+ma’noni -> so'z
+bildiradi -> olinmoq
+Agar -> bo'lmoq
+biz -> kuch
+qandaydir -> demoq
+jismning -> ma'no
+harakatga -> bildirmoq
+kelganini -> agar
+ko‘rsak -> biz
+unga -> qandaydir
+ta’sir qilayotgan -> jism
+boshqa -> harakat
+bir -> kelmoq
+jismni -> ko'rmoq
+ham -> unga
+ko‘ramiz -> ta'sir
+Boshqa -> qilmoq
+jism -> boshqa
+harakatga -> bir
+kelgan -> jism
+jismni -> ham
+tortishi -> ko'rmoq
+itarishi -> boshqa
+yoki -> jism
+unga -> harakat
+masofadan -> kelmoq
+turib -> jism
+ta’sir qilishi -> tortish
+mumkin -> itarish
+masalan -> yoki
+magnitning -> unga
+temir -> masofa
+sharga -> turmoq
+ta’siri -> ta'sir
+Yerdan -> qilish
+biror -> mumkin
+balandlikka -> masalan
+ko‘tarib qo‘yilgan -> magnit
+jism -> temir
+qo‘yib yuborilsa -> shar
+pastga tushadi -> ta'sir
+Bu -> yemoq
+tajribalarning -> biror
+barchasida -> balandlik
+jism -> ko'tarib qo'yilgan
+tezligining -> jism
+o‘zgarishi -> qo'yib yuborilsa
+ya’ni -> pastga tushmoq
+tezla -> bu
+nish -> tajriba
+har doim -> barchasi
+boshqa -> jism
+bir -> tezl
+jismning -> o'zgarish
+ta’siri -> ya'
+tufayli -> tezlamoq
+vujudga keladi -> nish
+Bu -> har doim
+ibora -> boshqa
+Nyuton -> bir
+mexanikasining -> jism
+eng -> ta'sir
+muhim -> tufayli
+xulosasi -> vujudga kelmoq
+hisob -> bu
+lanadi -> ibora
+Jismlarning -> nyuton
+bir-biri -> mexanikas
+bilan -> eng
+o‘zaro -> muhim
+ta’sirlashish -> xulosa
+jarayoniga -> hisob
+o‘zaro -> la
+ta’sir -> jism
+deyiladi -> bir-bir
+Fizikada -> bilmoq
+barcha -> o'zmoq
+o‘zaro -> ta'sirlashish
+ta’sirlar -> jarayon
+albatta -> o'zmoq
+juft -> ta'sir
+bo‘ladi -> demoq
+Ya’ni -> fizika
+har qanday -> barcha
+ta’sir -> o'zmoq
+aks -> ta'sirlamoq
+ta’sirni -> albatta
+vujudga keltiradi -> juft
+Lekin -> bo'lmoq
+bunday -> ya'
+xulosaga -> har qanday
+darhol -> ta'sir
+kelinmagan -> aks
+Buyuk -> ta'sir
+mutafakkir -> vujudga kelmoq
+Aristotel -> lekin
+jism -> bunday
+harakatining -> xulosa
+o‘zgarishi -> darhol
+sababini -> kelinmagan
+ochishga -> buyumoq
+harakat qildi -> mutafakkir
+Uning -> aristotel
+yozishicha -> jism
+Agar -> harakat
+jismga -> o'zgarish
+itaruvchi -> sabab
+kuch -> och
+ta’sir etmay -> harakat qilmoq
+qolsa -> uning
+harakatlanuvchi -> yozishicha
+jism -> agar
+to‘xtab qoladi -> jism
+Yerga -> itarmoq
+nisbatan -> kuch
+bo‘lgan -> ta'sir
+tinch -> etmoq
+holatni -> qolmoq
+jismning -> harakatlanmoq
+tabiiy -> jism
+holati -> to'xtab qoladi
+deb -> yemoq
+tushuntirgan -> nisbatan
+O‘sha -> bo'lmoq
+davrlarda -> tinch
+Yerni -> holat
+Olamning -> jism
+markazi -> tabiiy
+deb -> holat
+qarashganligi -> demoq
+tufayli -> tushuntirmoq
+muhim -> o'sha
+bir -> davr
+sabab bo‘lmasa -> yemoq
+jism -> olmoq
+o‘zining -> markaz
+tabiiy -> demoq
+tinch -> qarashmoq
+holatiga -> tufayli
+qaytadi -> muhim
+deb -> bir
+tushuntirishgan -> sabab bo'lmasa
+Haqiqatan -> jism
+ham -> o'zi
+tekis -> tabiiy
+asfalt -> tinch
+yo‘lda -> holat
+ketayotgan -> qaytmoq
+avtomobilning -> demoq
+benzini -> tushuntirishmoq
+tugab qolsa -> haqiqatan
+dvigateli -> ham
+o‘chadi -> tekis
+Avtomobil -> asfalt
+biroz -> yo'l
+yurib -> ketmoq
+to‘xtaydi -> avtomobil
+Xuddi -> benzin
+shunday -> tugab qolmoq
+xulosani -> tugab qolmoq
+velosipedga -> dvigatel
+ko‘ldagi -> o'chmoq
+qayiqqa -> avtomobil
+ham -> biroz
+qo‘llash -> yurmoq
+mumkin -> to'xtamoq
+Olib borilgan -> xuddi
+kuzatishlar -> shunday
+va -> xulosa
+xulosalar -> velosiped
+asosida -> ko'l
+dinamikaning -> qayiq
+birinchi -> ham
+qonuni -> qo'llash
+topilgan -> mumkin
+edi -> ol bormoq
+Uni -> kuzatmoq
+quyidagicha -> va
+ifodalanadi -> xulos
+Inersial -> asos
+sistema -> dinamika
+deb -> birinchi
+ataluvchi -> qonun
+shunday -> topilmoq
+sanoq -> edi
+sistemalar -> uni
+mavjudki -> quyidagicha
+undagi -> ifodalanmoq
+jism -> inersial
+boshqa -> sistema
+jismlardan -> demoq
+yetarli -> atalmoq
+darajada -> shunday
+uzoq -> sanoq
+joylashgan -> sistemalamoq
+bo‘lsa -> mavjudki
+tinch -> unda
+yoki -> jism
+to‘g‘ri -> boshqa
+chiziqli -> jism
+tekis -> yetmoq
+harakatda bo‘ladi -> daraja
+Bu -> uzoq
+qonun -> joylashmoq
+bir -> bo'lmoq
+tomondan -> tinch
+inersial -> yoki
+sanoq -> to'g'ri
+sistemasiga -> chiziqli
+ta’rif -> tekis
+bersa -> harakatda bo'ladi
+ikkin -> bu
+chi -> qonun
+tomondan -> bir
+haqiqatan -> tomon
+ham -> inersial
+shunday -> sanoq
+sistemalar -> sistemasi
+mavjudligini -> ta'rif
+tekshirish -> bermoq
+imkoniyatini beradi -> ikki
+Mexanikaning -> chi
+birinchi -> tomon
+qonuni -> haqiqatan
+inersial -> ham
+sanoq -> shunday
+siste -> sistemalamoq
+masini -> mavjudlig
+alohida -> tekshirishmoq
+maxsus -> imkon bermoq
+o‘ringa -> mexanika
+qo‘yadi -> birinchi
+Aylanayotgan -> qonun
+qattiq -> inersial
+jismning -> sanoq
+har bir -> siste
+nuqtasi -> mas
+tezlanish -> alohi
+bilan -> maxsus
+harakatlanadi -> o'rin
+Istalgan -> qo'ymoq
+bo‘lakchaning -> aylanmoq
+tezlanishi -> qattiq
+jismdagi -> jism
+boshqa -> har bir
+qismlarning -> nuqta
+ta’siri -> tezlanmoq
+tufayli -> bilmoq
+bo‘ladi -> harakatlanmoq
+Boshqacha -> istalmoq
+aytganda -> bo'lmoq
+qattiq -> tezlanmoq
+jismni -> jism
+tashkil -> boshqa
+etgan -> qism
+bo‘lakchalar -> ta'sir
+erkin -> tufayli
+jism -> bo'lmoq
+bo‘la olmaydi -> boshqacha
+va -> aytmoq
+unga -> qattiq
+Nyutonning -> jism
+birinchi -> tashkil
+qonunini -> etmoq
+tatbiq -> bo'lmoq
+etib -> erkin
+bo‘lmaydi -> jism
+Shunday qilib -> bo'la olmaydi
+jismlarning -> va
+tinch -> unga
+yoki -> nyuto
+to‘g‘ri -> birinchi
+chiziqli -> qonun
+tekis -> tatbiq
+harakat -> etmoq
+holatidan -> bo'lmoq
+chiqish -> shunday qilmoq
+sababi -> jism
+boshqa -> tinch
+jismlarning -> yoki
+ta’siri -> to'g'ri
+ekanligini -> chiziqli
+bilib oldik -> tekis
+Jismlarning -> harakat
+bir-biriga bo‘lgan -> holat
+ta’siri -> chiqmoq
+kuch -> sabab
+bilan -> boshqa
+xarakterlanadi -> jism
+Nuytonning -> ta'sir
+ta’biricha -> ekmoq
+mexanikada -> bilib olmoq
+jismlarning -> jism
+bir-biriga -> bir-biriga bo'lgan
+ta’siri -> ta'sir
+natijasida -> kuch
+tezlanish -> bilmoq
+olishiga -> xarakterlanmoq
+sabab bo‘ladigan -> nuyto
+miqdoriy -> ta'bir
+o‘lchamga -> mexanika
+kuch -> jism
+deyiladi -> bir-bir
+Bu -> ta'sir
+kuchga -> natijasi
+sifat -> tezlanmoq
+jihatidan -> olish
+berilgan -> sabab bo'ladigan
+ta’rifdir -> miqdor
+Bu -> o'lcham
+bilan -> kuch
+mexanikada -> demoq
+ikkita -> bu
+tasdiqni kiritdik -> kuch
+1 -> sifat
+jismlarda -> jihat
+tezlanish -> berilganmoq
+kuch -> ta'rif
+ta’siri -> bu
+tufayli -> bilmoq
+bo‘ladi -> mexanika
+2 -> ikkita
+tezlanish -> tasdiqni kirmoq
+beruvchi -> 1
+kuch -> jism
+boshqa -> tezlanmoq
+jismlarning -> kuch
+ta’siri -> ta'sir
+tufayli -> tufayli
+bo‘ladi -> bo'lmoq
+Kuch -> 2
+tushunchasi -> tezlanmoq
+ikkita -> bermoq
+jismga -> kuch
+tegishlidir -> boshqa
+Kuch -> jism
+vektor -> ta'sir
+kattalik -> tufayli
+bo‘lib -> bo'lmoq
+yo‘nalishga -> kuch
+ega -> tushuncha
+Kuchni -> ikkita
+miqdoriy -> jism
+jihatdan -> tegishli
+aniqlash -> kuch
+uchun -> vektor
+uni -> kattalik
+o‘lchash kerak -> bo'lmoq
+Buning -> yo'nalmoq
+uchun -> egmoq
+uni -> kuch
+boshqa -> miqdor
+bir -> jihat
+etalon -> aniqlash
+kuch -> uchunmoq
+bilan -> uni
+solishtiriladi -> o'lchash kerak
+Tabiati -> bu
+jihatidan -> uchunmoq
+qanday bo‘lishidan -> uni
+qat’i -> boshqa
+nazar -> bir
+kuchlarning -> etmoq
+jismga -> kuch
+bir -> bilmoq
+vaqtdagi -> solishtirilmoq
+ta’siri -> tabiat
+uning -> jihat
+tezligini -> qanday bo'lishidan
+o‘zgartirmasa -> qat'i
+ya’ni -> nazar
+unga -> kuchlamoq
+tezlanish -> jism
+bermasa -> bir
+moduli -> vaqt
+jihatidan -> ta'sir
+teng -> uning
+va -> tezlig
+qarama-qarshi -> o'zgartirmoq
+yo‘nalgan -> ya'
+bo‘ladi -> unga
+Tajribalar -> tezlanmoq
+shuni -> bermoq
+ko‘rsatadiki -> moduli
+jismning -> jihat
+olgan -> teng
+tezlanishi -> va
+unga -> qaramoq
+qo‘yilgan -> yo'nalmoq
+kuchdan -> bo'lmoq
+tashqari -> tajriba
+jismning -> shu
+xossalariga -> ko'rsatmoq
+ham -> jism
+bog‘liq -> olmoq
+Demak -> tezlanmoq
+bu -> unga
+xossani -> qo'yilmoq
+aniqlashtirib -> kuch
+olish -> tashqari
+zarur -> jism
+Mexanikada -> xossa
+bu -> ham
+xossa -> bog'liq
+jism -> demoq
+massasi -> bu
+bilan -> xossa
+ta’riflanadi -> aniqlashtirmoq
+Nisbiylik -> olishmoq
+prinsipining -> zarur
+ochilishiga -> mexanika
+asosiy -> bu
+sabablardan -> xossa
+biri -> jism
+Yerning -> massa
+harakati -> bilmoq
+aniqrog‘i -> ta'riflanadi
+uning -> nisbiylik
+o‘z -> prinsip
+o‘qi -> ochilmoq
+atrofi -> asosiy
+da -> sabab
+aylanishi -> bir
+haqidagi -> yemoq
+gipoteza -> harakat
+bo‘ldi -> aniqrog'i
+Shunday -> uning
+savol tug‘iladi -> o'zmoq
+agar -> o'qimoq
+Yer -> atrof
+o‘z -> da
+o‘qi -> aylanish
+atrofi -> haqida
+da -> gipoteza
+aylanadigan -> bo'lmoq
+bo‘lsa -> shunday
+nega -> savol tug'iladi
+biz -> agar
+uni -> yemoq
+Yer -> o'zmoq
+sirtida -> o'qimoq
+o‘tkazilgan -> atrof
+eksperimentlarda -> da
+sezmaymiz -> aylanmoq
+Bu -> bo'lmoq
+muammo -> nega
+ustidagi -> biz
+muhokamalarda -> uni
+qatnashgan -> yemoq
+o‘rta -> sirt
+asrda -> o'tkazilmoq
+yashab -> eksperiment
+ijod qilgan -> sezmoq
+Nikolay -> bu
+Orema -> muammo
+XIV -> usti
+asr -> muhokama
+Olovuddin -> qatnashmoq
+Ali -> o'rta
+al-Qushchi -> asr
+XV -> yashamoq
+asr)lar -> ijod qilmoq
+quyidagi -> nikolay
+xulosaga keldilar -> orema
+Yerning -> xiv
+aylanishi -> asr
+uning -> olovuddin
+ustida -> ali
+o‘tkazilgan -> al-qushchi
+tajribalarga -> xv
+ta’sir qilmaydi -> asr)
+Faraz qilaylik -> quyida
+siz -> xulosaga kelmoq
+sinfdoshlaringiz -> yemoq
+bilan -> aylanish
+birgalikda -> uning
+ulkan -> usti
+kemaning -> o'tkazilmoq
+ichida -> tajriba
+tashqi -> ta'sir
+oynalari -> qilmoq
+qoraytirilgan -> faraz qilmoq
+xonasida -> sizmoq
+o‘tiribsiz -> sinfdosh
+Shunda -> bilmoq
+sinfdoshlardan -> birgalikda
+biri -> ulkan
+hozir -> kema
+kema -> ichida
+tinch turibdimi -> tashqi
+yoki -> oyna
+harakatdami -> qoraytirilmoq
+degan -> xonasi
+savolni berdi -> o'tirmoq
+Tashqi -> shunda
+palubaga -> sinfdosh
+chiqmasdan -> bir
+buni -> hozir
+qanday -> kema
+aniqlash -> tinch turmoq
+mumkin -> tinch turmoq
+Bolalardan -> yoki
+biri -> harakat
+Kelinglar -> demoq
+tajriba o‘tkazib -> savo bermoq
+ko‘ramiz -> savol bermoq
+Stoldagi -> tashqi
+buyumlardan -> paluba
+birini -> chiqmoq
+tepadan -> bu
+pastga -> qanday
+tashlab ko‘ramiz -> aniqlash
+Agar -> mumkin
+kema -> bolalar
+harakatsiz -> bir
+bo‘lsa -> keling
+u -> tajriba o'tkazib
+vertikal tushadi -> ko'rmoq
+Harakatda bo‘lsa -> stol
+tushish -> buyum
+davrida -> bir
+kemaning -> tepmoq
+poli -> past
+oldinga -> tashlab ko'ramiz
+ketib qolib -> agar
+ozgina -> kema
+orqaga tushadiˮ -> harakatsiz
+deb -> bo'lmoq
+taklif -> u
+qildi -> vertikal tushmoq
+Turli -> Harakatda bo'lsa
+narsalar -> tushishmoq
+tashlab ko‘rilganda -> davr
+hammasi -> kema
+polga -> pol
+qarab -> olmoq
+tik -> ketib qolmoq
+holda -> ozgina
+aynan -> orqaga tushmoq
+bir -> demoq
+joyga tushdi -> taklif
+Demak -> qilmoq
+kema -> turli
+tinch turibdi -> narsa
+degan -> tashlab ko'rilganda
+xulosaga kelindi -> hamma
+Tashqi -> pol
+palubaga -> qaramoq
+chiqib -> tikmoq
+qaralsa -> hol
+kema -> aynan
+bir -> bir
+tekisda -> joyga tushmoq
+chayqalmasdan -> demoq
+suzib ketayotgan -> kema
+ekan -> tinch turmoq
+Demak -> tinch turmoq
+mexanik -> demoq
+tajribalarni -> xulosaga kelmoq
+tinch turgan -> tashqi
+sinf -> paluba
+xonasida -> chiqmoq
+o‘tkazilsa -> qaralmoq
+ham -> kema
+to‘g‘ri -> bir
+chiziqli -> tekis
+tekis -> chayqalmas
+harakatlanayotgan -> suzib ketmoq
+vagon -> ekmoq
+yoki -> demoq
+kema -> mexanik
+ichida -> tajriba
+o‘tkazilsa -> tinch turmoq
+ham -> tinch turmoq
+bir -> sinf
+xil -> xonasi
+kechar -> o'tkazilmoq
+ekan -> ham
+Bunga -> to'g'ri
+birinchi bo‘lib -> chiziqli
+Galiley -> tekis
+o‘z -> harakatlanmoq
+e’tiborini qaratgan -> vagon
+edi -> yoki
+Galiley -> kema
+ham -> ichida
+siz -> o'tkazilmoq
+faraz qilgandek -> ham
+ulkan -> bir
+kema -> xil
+ichida -> kechmoq
+kuzatilayotgan -> ekmoq
+mexanik -> bunga
+jarayonlar -> birinchi bo'lib
+agar -> gal
+kema -> o'zmoq
+to‘g‘ri -> e'tibor
+chiziqli -> qaratmoq
+tekis -> edi
+harakatlanayotgan -> gal
+bo‘lsa -> ham
+xuddi -> sizmoq
+tinch turganda -> faraz qilmoq
+qanday -> ulkan
+kechsa -> kema
+shunday -> ichida
+borishini -> kuzatilmoq
+yozib qoldirgan -> mexanik
+Bunda -> jarayon
+sanoq -> agar
+sistemasi -> kema
+sifatida -> to'g'ri
+Yer -> chiziqli
+emas -> tekis
+balki -> harakatlanmoq
+harakatlanayotgan -> bo'lmoq
+vagon -> xuddi
+yoki -> tinch turmoq
+kema -> tinch turmoq
+olinadi -> qanday
+Tinch -> kechmoq
+holatda -> shunday
+turgan -> bormoq
+yoki -> yoz qoldirmoq
+nisbatan -> yozib qolmoq
+to‘g‘ri -> bunda
+chiziqli -> sanoq
+tekis -> sistema
+harakatla -> sifat
+nayotgan -> yemoq
+sanoq -> emmoq
+sistemalari -> balki
+inersial -> harakatlanmoq
+sanoq -> vagon
+sistemalari -> yoki
+deyiladi -> kema
